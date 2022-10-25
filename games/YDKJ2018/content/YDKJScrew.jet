@@ -1,0 +1,92 @@
+{
+    "content":[
+        {
+            "id":"RemoveVowels",
+            
+            "controllerText":"Sie wurden genagelt! Keine Vokale mehr für Sie!",
+            "controllerName":"Entvokalisation",
+            
+            "power":0
+        },
+        {
+            "id":"TinyFont",
+            
+            "controllerText":"Sie wurden genagelt! Ich hoffe, Sie haben eine Brille.",
+            "controllerName":"Kleingedrucktes",
+            
+            "power":0
+        },
+		{
+            "id":"HugeFont",
+            
+            "controllerText":"Sie wurden genagelt! Ich hoffe, Sie haben ein großes Handy.",
+            "controllerName":"Großgedrucktes",
+            
+            "power":0
+        },
+        {
+            "id":"Hashtag",
+            
+            "controllerText":"Sie wurden genagelt! LOL, yolo, rofl.",
+            "controllerName":"Ge-Hashtagged",
+            
+            "power":0
+        },
+        {
+            "id":"TextColor",
+            
+            "controllerText":"Sie wurden genagelt! Versuchen Sie JETZT mal zu antworten!",
+            "controllerName":"Shades of Gray",
+            
+            "power":0
+        },
+        {
+            "id":"Mirror",
+            
+            "controllerText":"Sie wurden genagelt! Versuchen Sie JETZT mal zu antworten!",
+            "controllerName":"Spiegel Spiegel",
+            
+            "power":0
+        },
+        {
+            "id":"PassCode",
+            
+            "controllerText":"Sie wurden genagelt! Versuchen Sie JETZT mal zu antworten!",
+            "controllerName":"Passwort",
+            
+            "power":1
+        },
+        {
+            "id":"Flip",
+            
+            "controllerText":"Sie wurden genagelt! Versuchen Sie JETZT mal zu antworten!",
+            "controllerName":"Umgekehrt",
+            
+            "power":1
+        },
+        {
+            "id":"NameChange",
+            
+            "controllerText":"Sie wurden genagelt! Versuchen Sie JETZT mal zu antworten!",
+            "controllerName":"Namensänderung",
+            
+            "power":1
+        },
+        {
+            "id":"Screensaver",
+            
+            "controllerText":"Sie wurden genagelt! Versuchen Sie JETZT mal zu antworten!",
+            "controllerName":"Bildschirmschoner",
+            
+            "power":1
+        },
+        {
+            "id":"TOS",
+            
+            "controllerText":"Sie wurden genagelt! Versuchen Sie JETZT mal zu antworten!",
+            "controllerName":"Fake Geschäftsbedingungen",
+            
+            "power":1
+        }
+    ]
+}
