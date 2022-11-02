@@ -2395,23 +2395,23 @@
         {
             "id": "50704",
             "category": {
-                "text": "Justin Trudeau Is Hot"
+                "text": "Olaf schmolz"
             },
             "choices": [
                 {
-                    "text": "a 212 degrees Fahrenheit hottie",
+                    "text": "eine 212 Grad Fahrenheit heiße Wärmflasche",
                     "isCorrect": true
                 },
                 {
-                    "text": "a 265 degrees Fahrenheit smoke show",
+                    "text": "ein 265 Grad Fahrenheit heißer Wasserkocher",
                     "isCorrect": false
                 },
                 {
-                    "text": "a smokin\u2019 335 degrees Fahrenheit",
+                    "text": "ein 335 Grad Fahrenheit heißer Kochtopf",
                     "isCorrect": false
                 },
                 {
-                    "text": "a smoldering 400 degrees Fahrenheit",
+                    "text": "eine 400 Grad Fahrenheit heiße Mikrowelle",
                     "isCorrect": false
                 }
             ],
@@ -2420,7 +2420,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If Justin Trudeau is such a hot Canadian that he boils water at 100 degrees Celsius, what would that make him in the United States?"
+                    "text": "Wenn Olaf Scholz ein so heißer Deutscher wäre, dass er Wasser bei 100 Grad Celsius kocht, was wäre er dann in den Vereinigten Staaten"
                 }
             ]
         },
