@@ -2395,7 +2395,7 @@
         {
             "id": "50704",
             "category": {
-                "text": "Olaf schmolz"
+                "text": "Olaf Schmolz"
             },
             "choices": [
                 {
@@ -2420,7 +2420,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Olaf Scholz ein so heißer Deutscher wäre, dass er Wasser bei 100 Grad Celsius kocht, was wäre er dann in den Vereinigten Staaten"
+                    "text": "Wenn Olaf Scholz ein so heißer Deutscher wäre, dass er Wasser bei 100 Grad Celsius kocht, was wäre er dann in den Vereinigten Staaten?"
                 }
             ]
         },
