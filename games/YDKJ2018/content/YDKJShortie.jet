@@ -2491,23 +2491,23 @@
         {
             "id": "50645",
             "category": {
-                "text": "Sparkling Urine"
+                "text": "Urin mit Kohlensäure"
             },
             "choices": [
                 {
-                    "text": "1.7 cans of Pamplemousse",
+                    "text": "2,4 Dosen SuperSours Green Apple",
                     "isCorrect": true
                 },
                 {
-                    "text": "4 cans of Cran-Raspberry",
+                    "text": "5,8 Dosen Punched Guava",
                     "isCorrect": false
                 },
                 {
-                    "text": "5.5 cans of Múre Pepino",
+                    "text": "8,6 Dosen Ultra Fiesta",
                     "isCorrect": false
                 },
                 {
-                    "text": "8.2 cans of Pure",
+                    "text": "11 Dosen Organic Strawberry",
                     "isCorrect": false
                 }
             ],
@@ -2516,30 +2516,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "About how many 12 oz. cans of LaCroix could my bladder hold at once?"
+                    "text": "Wie viele 250 ml Dosen Rockstar Energy könnte meine Blase ungefähr auf einmal aufnehmen?"
                 }
             ]
         },
         {
             "id": "50636",
             "category": {
-                "text": "Tutu for Now"
+                "text": "Theaterreifer Abgang"
             },
             "choices": [
                 {
-                    "text": "leaps with one leg leading, breaking the door and your rental agreement",
+                    "text": "Sie springt mit einem Bein voran und zerstört dabei sowohl die Tür als auch Ihre Freundschaft",
                     "isCorrect": true
                 },
                 {
-                    "text": "rotates on one leg, spinning until she drills through the floor",
+                    "text": "Sie dreht sich auf einem Bein, bis sie sich durch den Boden bohrt",
                     "isCorrect": false
                 },
                 {
-                    "text": "rapidly taps the floor with one foot, summoning mice to carry her",
+                    "text": "Sie tippt schnell mit einem Fuß auf den Boden und beschwört Mäuse, die sie hinfort tragen",
                     "isCorrect": false
                 },
                 {
-                    "text": "lifted by her partner, who isn\u2019t paying rent but acts like he owns the place",
+                    "text": "Sie wird von ihrem Partner hochgehalten, der keine Miete zahlt, aber so tut, als gehöre ihm die Wohnung",
                     "isCorrect": false
                 }
             ],
@@ -2548,11 +2548,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Your roommate, who is a ballerina, says she\u2019s late and has to \u201cjete\u201d the hell out of here."
+                    "text": "Ihre Mitbewohnerin, welche eine Ballerina ist, sagt, sie sei spät dran und müsse schnell weg \u201cjetten\u201d"
                 },
                 {
                     "timing": "S + 5.45",
-                    "text": "How does she leave the apartment?"
+                    "text": "Wie verlässt sie die Wohnung?"
                 }
             ]
         },
