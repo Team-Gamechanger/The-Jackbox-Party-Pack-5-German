@@ -1,0 +1,28 @@
+{
+    "content": [
+        {
+            "id": "53695",
+            "category": {
+                "text": "Das Komische Gefühl, Dass Man Etwas Sehr Wichtiges Übersieht"
+            },
+            "gibberishText": {
+                "text": "Die Tonne? Kehrt Schwiegersohn."
+            },
+            "spellings": [],
+            "correctText": {
+                "text": "Entkomme der Simulation."
+            },
+            "clues": [
+                {
+                    "text": "Du bist außerhalb der Realität gefangen, Jack...."
+                },
+                {
+                    "text": "... und du musst \u201cder Simulation entkommen.\u201d"
+                },
+                {
+                    "text": "Also wirklich, die Antwort ist \u201cEntkomme der Simulation\u201d."
+                }
+            ]
+        }
+    ]
+}

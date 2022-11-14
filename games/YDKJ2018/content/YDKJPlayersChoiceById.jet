@@ -1,0 +1,46 @@
+{
+    "content": [
+        {
+            "question": {
+                "text": "Möchten Sie eine Frage, die Sie bereits gespielt haben... oder eine Frage, die Sie später noch einmal spielen werden?"
+            },
+            "id": "52516",
+            "choice1": {
+                "text": "eine Frage, die Sie bereits gespielt haben",
+                "id": "52232"
+            },
+            "choice2": {
+                "text": "eine Frage, die Sie später noch einmal spielen werden",
+                "id": "52236"
+            }
+        },
+        {
+            "question": {
+                "text": "Möchten Sie eine einfache Frage... oder eine schwierige Frage?"
+            },
+            "id": "52515",
+            "choice1": {
+                "text": "eine einfache Frage",
+                "id": "51787"
+            },
+            "choice2": {
+                "text": "eine schwierige Frage",
+                "id": "51788"
+            }
+        },
+        {
+            "question": {
+                "text": "Möchten Sie eine Frage mit Airhorns oder eine Frage über Airhorns gestellt bekommen?"
+            },
+            "id": "53008",
+            "choice1": {
+                "text": "eine Frage mit Airhorns",
+                "id": "51958"
+            },
+            "choice2": {
+                "text": "eine Frage über Airhorns",
+                "id": "51957"
+            }
+        }
+    ]
+}

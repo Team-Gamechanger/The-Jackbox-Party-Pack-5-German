@@ -1,0 +1,92 @@
+{
+    "content": [
+        {
+            "questions": [
+                {
+                    "text": "Cobb",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Denver",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Gado Gado",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Larb",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Tortilla Española",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Tomagoyaki",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Nicoise",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "a type of salad",
+                "shortText": "TOSSED SALAD"
+            },
+            "datChoice": {
+                "longText": "a type of omelette or egg dish",
+                "shortText": "SCRAMBLED EGGS"
+            },
+            "id": "53149",
+            "category": {
+                "text": "I Hear the Blues A-Callin\u2019"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Sensilind",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Lage der Nation",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Feelings",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Strampelpeter",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Betreutes Fühlen",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Bella Maxi",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Kottbruder",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "ein beliebter Podcast in den Apple Podcast-Charts",
+                "shortText": "PODCAST"
+            },
+            "datChoice": {
+                "longText": "ein Inkontinenzprodukt für Erwachsene",
+                "shortText": "KACKE-LÖSUNG"
+            },
+            "id": "50173",
+            "category": {
+                "text": "Toilette, Die Woche und Ich"
+            }
+        }
+    ]
+}
