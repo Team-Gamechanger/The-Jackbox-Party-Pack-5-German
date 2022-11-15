@@ -3,23 +3,23 @@
         {
             "id": "53751",
             "category": {
-                "text": "A Question that Keeps Getting Interrupted"
+                "text": "Eine Frage, die ständig unterbrochen wird"
             },
             "choices": [
                 {
-                    "text": "Brazil",
+                    "text": "Brasilien",
                     "isCorrect": false
                 },
                 {
-                    "text": "South Africa",
+                    "text": "Südafrika",
                     "isCorrect": false
                 },
                 {
-                    "text": "the United States",
+                    "text": "die Vereinigten Staaten",
                     "isCorrect": false
                 },
                 {
-                    "text": "Greenland",
+                    "text": "Grönland",
                     "isCorrect": true
                 }
             ],
@@ -28,46 +28,46 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If I"
+                    "text": "Wenn ich"
                 },
                 {
                     "timing": "S + 4.97",
-                    "text": "got tired of people"
+                    "text": "es satt hätte, dass"
                 },
                 {
                     "timing": "S + 18.02",
-                    "text": "constantly interrupting me, and"
+                    "text": "Leute mich andauernd unterbrechen und"
                 },
                 {
                     "timing": "S + 36.92",
-                    "text": "wanted to move to the least densely populated country in the world,"
+                    "text": "ich in das Land mit der geringsten Bevölkerungsdichte der Welt ziehen wollen würde,"
                 },
                 {
                     "timing": "S + 43.17",
-                    "text": "where should I go?"
+                    "text": "wo müsste ich hingehen?"
                 }
             ]
         },
         {
             "id": "53750",
             "category": {
-                "text": "A Question that Involves Some Quiet Time"
+                "text": "Eine Frage, die etwas Ruhe bereithält"
             },
             "choices": [
                 {
-                    "text": "overhearing a 2016 Martin Scorsese movie from the other room",
+                    "text": "Till Lindemann",
                     "isCorrect": false
                 },
                 {
-                    "text": "blaring a Guns N\u2019 Roses single from 1988",
+                    "text": "Peter Brugger",
                     "isCorrect": true
                 },
                 {
-                    "text": "listening to a cleric cast a 2nd-level spell in \u201cDungeons & Dragons\u201d",
+                    "text": "Johannes Strate",
                     "isCorrect": false
                 },
                 {
-                    "text": "eavesdropping on a <i>Doctor Who<\/i> villain\u2019s evil scheme",
+                    "text": "Bill Kaulitz",
                     "isCorrect": false
                 }
             ],
@@ -76,7 +76,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these could not be considered \u201cthe sound of silence?\u201d"
+                    "text": "Welches dieser Bandmitglieder ist aufgrund des Bandnamens vermutlich der leiseste?"
                 }
             ]
         },
@@ -1727,23 +1727,23 @@
         {
             "id": "51828",
             "category": {
-                "text": "A Loud Question"
+                "text": "Eine laute Frage"
             },
             "choices": [
                 {
-                    "text": "<i>TAKE IT OFF<\/i>",
+                    "text": "<i>ANDREAS BOURANI<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>MAN DOWN<\/i>",
+                    "text": "<i>TIM BENDZKO<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>WHAT THE HELL<\/i>",
+                    "text": "<i>XAVIER NAIDOO<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>BOOM BOOM POW<\/i>",
+                    "text": "<i>MARK FORSTER<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -1752,7 +1752,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these songs is on the Rihanna album <i>Loud<\/i>?"
+                    "text": "Von wem ist der Pop-Song <i>Laut<\/i>?"
                 }
             ]
         },

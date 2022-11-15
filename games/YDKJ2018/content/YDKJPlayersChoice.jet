@@ -212,7 +212,7 @@
         },
         {
             "question": {
-                "text": "Möchten Sie eine Frage gestellt bekommen, bei der Sie Ihre Hühner NICHT zählen, bevor sie geschlüpft sind, oder eine Frage, bei der Sie Ihre Hühner DOCH zählen, bevor sie geschlüpft sind"
+                "text": "Möchten Sie eine Frage gestellt bekommen, bei der Sie Ihre Hühner NICHT zählen, bevor sie geschlüpft sind, oder eine Frage, bei der Sie Ihre Hühner DOCH zählen, bevor sie geschlüpft sind?"
             },
             "id": "53012",
             "choice1": {
@@ -324,7 +324,7 @@
         },
         {
             "question": {
-                "text": "Möchten Sie eine knifflige Frage... oder eine klare Frage?"
+                "text": "Möchten Sie eine knifflige Frage... oder eine eindeutige Frage?"
             },
             "id": "52521",
             "choice1": {
@@ -332,7 +332,7 @@
                 "id": "51978"
             },
             "choice2": {
-                "text": "eine klare Frage",
+                "text": "eine eindeutige Frage",
                 "id": "51977"
             }
         },
