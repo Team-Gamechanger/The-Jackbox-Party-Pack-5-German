@@ -2960,23 +2960,23 @@
         {
             "id": "50283",
             "category": {
-                "text": "What the Pope Don\u2019t Know Won\u2019t Hurt Him"
+                "text": "Wo kein Papst, da kein Richter"
             },
             "choices": [
                 {
-                    "text": "Hamlet_MustRead.pdf",
+                    "text": "Hamlet_NichtVergessen.pdf",
                     "isCorrect": false
                 },
                 {
-                    "text": "TheTRUTHAboutTheSun_Galileo.doc",
+                    "text": "DieWAHRHEIT_UeberDieSonne_Galileo.doc",
                     "isCorrect": true
                 },
                 {
-                    "text": "!!Rembrandt_JudasPainting!!.jpeg",
+                    "text": "!!Rembrandt_JudasGemaelde!!.jpeg",
                     "isCorrect": false
                 },
                 {
-                    "text": "KingJamesBible_RawUncensored.wav",
+                    "text": "LutherBibel_RohUnzensiert.wav",
                     "isCorrect": false
                 }
             ],
@@ -2985,7 +2985,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If electronic media were around in the 1600s, which of these files would be considered NSFW inside the offices of the Catholic Church?"
+                    "text": "Wenn es um 1600 schon Computer gegeben hätte, welche dieser Dateien würden in den Büros der katholischen Kirche als NSFW gelten?"
                 }
             ]
         },
@@ -3092,23 +3092,23 @@
         {
             "id": "50267",
             "category": {
-                "text": "My Favorite Instrument Is the Laptop"
+                "text": "Mein Lieblingsinstrument ist der Laptop"
             },
             "choices": [
                 {
-                    "text": "Diplo dropping the beat from the mesosphere",
+                    "text": "Diplo droppt den Beat aus der Mesosphäre",
                     "isCorrect": false
                 },
                 {
-                    "text": "Marshmello dropping the beat from the stratosphere",
+                    "text": "Marshmello droppt den Beat aus der Stratosphäre",
                     "isCorrect": false
                 },
                 {
-                    "text": "Calvin Harris dropping the beat from the troposphere",
+                    "text": "Calvin Harris droppt den Beat aus der Troposphäre",
                     "isCorrect": false
                 },
                 {
-                    "text": "Zedd dropping the beat from the thermosphere",
+                    "text": "Zedd droppt den Beat aus der Thermosphäre",
                     "isCorrect": true
                 }
             ],
@@ -3117,7 +3117,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Based on elevation, which EDM DJ is making the highest beat drop?"
+                    "text": "Welcher EDM-DJ macht, gemessen an der Höhe, den höchsten Beat-Drop?"
                 }
             ]
         },
@@ -3188,23 +3188,23 @@
         {
             "id": "50258",
             "category": {
-                "text": "The Verb\u2019s the Word"
+                "text": "Sich Be-Verben"
             },
             "choices": [
                 {
-                    "text": "I don\u2019t care.",
+                    "text": "Ist mir egal.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Seriously, who cares?",
+                    "text": "Im ernst, wen juckt\u2019s?",
                     "isCorrect": false
                 },
                 {
-                    "text": "Do you think this is funny?",
+                    "text": "Denken Sie das ist lustig?",
                     "isCorrect": true
                 },
                 {
-                    "text": "Because it\u2019s not.",
+                    "text": "Ist es nämlich nicht.",
                     "isCorrect": false
                 }
             ],
@@ -3213,7 +3213,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these sentences contains a transitive verb?"
+                    "text": "Welcher dieser Sätze enthält ein transitives Verb?"
                 }
             ]
         },
