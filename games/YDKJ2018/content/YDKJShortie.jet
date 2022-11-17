@@ -3388,23 +3388,23 @@
         {
             "id": "50183",
             "category": {
-                "text": "Seeing Eye to Side Eye"
+                "text": "In die Augen schauen"
             },
             "choices": [
                 {
-                    "text": "the tale of the human LOBSTER",
+                    "text": "Das Schicksal vom HUMMER",
                     "isCorrect": false
                 },
                 {
-                    "text": "the tale of the human CHAMELEON",
+                    "text": "Das Schicksal vom CHAMÄLEON",
                     "isCorrect": false
                 },
                 {
-                    "text": "the tale of the human STARFISH",
+                    "text": "Das Schicksal vom SEESTERN",
                     "isCorrect": false
                 },
                 {
-                    "text": "the tale of the human FLOUNDER",
+                    "text": "Das Schicksal der FLUNDER",
                     "isCorrect": true
                 }
             ],
@@ -3413,11 +3413,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Say you gave \u201cside eye\u201d so fierce, both eyes ended up on one side of your face."
+                    "text": "Angenommen Sie haben \u201czu sehr Auge gemacht\u201d und sind nun frontal auf Ihr Gesicht gefallen."
                 },
                 {
                     "timing": "S + 5.49",
-                    "text": "What cautionary tale might your predicament inspire?"
+                    "text": "Ihre Augen sind nun auf der gleichen Seite in ihrem Gesicht. Welchem Tier könnte ein ähnlichen Schicksal zugestoßen sein?"
                 }
             ]
         },
@@ -3428,19 +3428,19 @@
             },
             "choices": [
                 {
-                    "text": "Volts!",
+                    "text": "Volt!",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ohms!",
+                    "text": "Ohm!",
                     "isCorrect": true
                 },
                 {
-                    "text": "Gs!",
+                    "text": "G!",
                     "isCorrect": false
                 },
                 {
-                    "text": "Amps!",
+                    "text": "Ampere!",
                     "isCorrect": false
                 }
             ],
@@ -3449,11 +3449,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If a group of protesters wanted a way to measure how much #resistance they were generating..."
+                    "text": "Wenn eine Gruppe von Klima-Demonstranten einen Weg finden wollte, um zu messen, wie viel #Widerstand sie erzeugen..."
                 },
                 {
                     "timing": "S + 5.61",
-                    "text": "what should they add to their chant \u201cWhat do we want? ______! When do we want it? Now!\u201d"
+                    "text": "Was könnten sie zu ihrem Ausruf \u201cWas wollen wir? ______! Wann wollen wir es? Jetzt!\u201d hinzufügen?"
                 }
             ]
         },
@@ -3524,23 +3524,23 @@
         {
             "id": "49986",
             "category": {
-                "text": "Ready Flayer One"
+                "text": "Lootboxen im echten Leben"
             },
             "choices": [
                 {
-                    "text": "about one month",
+                    "text": "circa einen Monat",
                     "isCorrect": true
                 },
                 {
-                    "text": "about two months",
+                    "text": "circa zwei Monate",
                     "isCorrect": false
                 },
                 {
-                    "text": "about three months",
+                    "text": "circa drei Monate",
                     "isCorrect": false
                 },
                 {
-                    "text": "about six months",
+                    "text": "circa sechs Monate",
                     "isCorrect": false
                 }
             ],
@@ -3549,11 +3549,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "I keep hearing modern games give players the option to re-skin the characters."
+                    "text": "Ich höre ständig, dass es in modernen Videospielen die Möglichkeit gibt, sich einen neuen Skin auszusuchen."
                 },
                 {
                     "timing": "S + 4.77",
-                    "text": "If I do this naturally by letting my skin cells die, how long will it take me to \u201cre-skin\u201d myself?"
+                    "text": "Wenn ich dies auf natürliche Weise tuen möchte, indem ich meine Hautzellen absterben lasse, wie lange werde ich brauchen, um meinen Skin zu wechseln?"
                 }
             ]
         },
@@ -3656,11 +3656,11 @@
         {
             "id": "52494",
             "category": {
-                "text": "Semi-Nudes"
+                "text": "Halb-Nacktbilder"
             },
             "choices": [
                 {
-                    "text": "\u201cVenus de Milo\u201d",
+                    "text": "\u201cVenus von Milo\u201d",
                     "isCorrect": true
                 },
                 {
@@ -3668,11 +3668,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cGirl with a Pearl Earring\u201d",
+                    "text": "\u201cDas Mädchen mit dem Perlenohrgehänge\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cThe Nefertiti Bust\u201d",
+                    "text": "\u201cDie Büste der Nofretete\u201d",
                     "isCorrect": false
                 }
             ],
@@ -3681,7 +3681,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which work of art is most in need of a shirt from Fruit of the Louvre?"
+                    "text": "Welches Kunstwerk braucht am dringendsten ein T-Shirt von Zara?"
                 }
             ]
         },
@@ -3756,23 +3756,23 @@
         {
             "id": "52354",
             "category": {
-                "text": "Sprinting to Therapy"
+                "text": "Zum Psychologen sprinten"
             },
             "choices": [
                 {
-                    "text": "his past... and also Dr. Wily",
+                    "text": "seiner Vergangenheit... und Dr. Wily",
                     "isCorrect": false
                 },
                 {
-                    "text": "his commitments... and also Dr. Eggman",
+                    "text": "seinen Verpflichtungen... und Dr. Eggman",
                     "isCorrect": true
                 },
                 {
-                    "text": "his aspirations ... and also Dr. Nefarious",
+                    "text": "seinen Ambitionen ... und Dr. Nefarious",
                     "isCorrect": false
                 },
                 {
-                    "text": "his feelings...  and also Dr. Doom",
+                    "text": "seinen Gefühlen...  und Dr. Doom",
                     "isCorrect": false
                 }
             ],
@@ -3781,7 +3781,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What is Sonic the Hedgehog running away from?"
+                    "text": "Wovor rennt Sonic weg?"
                 }
             ]
         },
@@ -3916,23 +3916,23 @@
         {
             "id": "52165",
             "category": {
-                "text": "Synchronized Spiking"
+                "text": "Zeitgleiche Beliebtheit"
             },
             "choices": [
                 {
-                    "text": "1972 and 1972",
+                    "text": "1972 und 1972",
                     "isCorrect": false
                 },
                 {
-                    "text": "1988 and 1988",
+                    "text": "1988 und 1988",
                     "isCorrect": false
                 },
                 {
-                    "text": "1996 and 1996",
+                    "text": "1996 und 1996",
                     "isCorrect": true
                 },
                 {
-                    "text": "2004 and I don\u2019t watch the Olympics because it\u2019s boring",
+                    "text": "2004 und ich schaue die Olympischen Spiele nicht, weil sie langweilig sind",
                     "isCorrect": false
                 }
             ],
@@ -3941,34 +3941,34 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Part 1: What year did beach volleyball become an official Olympic sport?"
+                    "text": "Teil 1: In welchem Jahr wurde Beachvolleyball eine offizielle olympische Sportart?"
                 },
                 {
                     "timing": "S + 4.56",
-                    "text": "Part 2:  What year did I first start regularly watching the Olympics?"
+                    "text": "Teil 2: In welchem Jahr habe ich angefangen, regelmäßig die Olympischen Spiele zu verfolgen?"
                 }
             ]
         },
         {
             "id": "52104",
             "category": {
-                "text": "Heeeeeeere\u2019s the UPS Guy"
+                "text": "Ding Dong, DHL ist da"
             },
             "choices": [
                 {
-                    "text": "the kitchen door",
+                    "text": "die Küchentür",
                     "isCorrect": false
                 },
                 {
-                    "text": "the living room door",
+                    "text": "die Wohnzimmertür",
                     "isCorrect": false
                 },
                 {
-                    "text": "the bathroom door",
+                    "text": "die Badezimmertür",
                     "isCorrect": true
                 },
                 {
-                    "text": "the hotel lobby door",
+                    "text": "die Tür der Hotellobby",
                     "isCorrect": false
                 }
             ],
@@ -3977,15 +3977,15 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "There is an axe-wielding maniac chopping up my door."
+                    "text": "Ein mit einer Axt bewaffneter Verrückter zerhackt meine Tür"
                 },
                 {
                     "timing": "S + 4.13",
-                    "text": "It\u2019s just like in the <i>The Shining<\/i>."
+                    "text": "Genau wie in dem Film <i>Shining<\/i>."
                 },
                 {
                     "timing": "S + 5.88",
-                    "text": "Except that was..."
+                    "text": "Nur dort war es..."
                 }
             ]
         },
@@ -4160,23 +4160,23 @@
         {
             "id": "51463",
             "category": {
-                "text": "Weather You Like It or Not"
+                "text": "Wetterstand ist zwecklos"
             },
             "choices": [
                 {
-                    "text": "\u201cEverybody knows WATER BECOMES ICE.\u201d",
+                    "text": "\u201cJeder weiß, dass WASSER ZU EIS WIRD.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cWATER BECOMES STEAM, if that\u2019s what you\u2019re into?\u201d",
+                    "text": "\u201cWASSER WIRD ZU DAMPF, wenn Sie darauf stehen\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cICE BECOMES WATER but you haven\u2019t become anything.\u201d",
+                    "text": "\u201cEIS WIRD ZU WASSER, aber aus Ihnen ist ja anscheinend noch nichts geworden\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cSo what if STEAM BECOMES WATER? You want a parade?\u201d",
+                    "text": "\u201cDAMPF WIRD ZU WASSER, sonst noch dumme Fragen?\u201d",
                     "isCorrect": true
                 }
             ],
@@ -4185,14 +4185,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What\u2019s a condescending way to describe condensation?"
+                    "text": "Was ist eine herablassende Art, Kondensation zu beschreiben?"
                 }
             ]
         },
         {
             "id": "51129",
             "category": {
-                "text": "1 + 1 = Shoe"
+                "text": "Das 1x1 der Sneaker"
             },
             "choices": [
                 {
@@ -4217,7 +4217,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which shoe brand\u2019s logo closely resembles the square root symbol?"
+                    "text": "Das Logo welcher Schuhmarke ist dem Quadratwurzel-Symbol sehr ähnlich?"
                 }
             ]
         },
