@@ -47,27 +47,27 @@
         {
             "questions": [
                 {
-                    "text": "airplanes",
+                    "text": "Flugzeuge",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "penicillin",
+                    "text": "Penicillin",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "the zipper",
+                    "text": "Der Reißverschluss",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "canned beer",
+                    "text": "Dosenbier",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "sliced bread",
+                    "text": "Geschnittenes Brot",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "the light bulb",
+                    "text": "Die Glühlampe",
                     "correctChoiceString": "dis"
                 },
                 {
@@ -76,16 +76,16 @@
                 }
             ],
             "disChoice": {
-                "longText": "Older than Betty White",
-                "shortText": "OLDER THAN BETTY WHITE"
+                "longText": "Älter als Loriot",
+                "shortText": "ÄLTER ALS LORIOT"
             },
             "datChoice": {
-                "longText": "Younger than Betty White",
-                "shortText": "YOUNGER THAN BETTY WHITE"
+                "longText": "Jünger als Loriot",
+                "shortText": "JÜNGER ALS LORIOT"
             },
             "id": "53655",
             "category": {
-                "text": "But She Still Gets Carded"
+                "text": "Früher war mehr Lametta"
             }
         },
         {
@@ -95,7 +95,7 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Charlotte",
+                    "text": "Sophie",
                     "correctChoiceString": "dis"
                 },
                 {
@@ -107,11 +107,11 @@
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Miranda",
-                    "correctChoiceString": "dis"
+                    "text": "Katrin",
+                    "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Samantha",
+                    "text": "Sunny",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -120,60 +120,60 @@
                 }
             ],
             "disChoice": {
-                "longText": "got a ring",
+                "longText": "hat einen Ring",
                 "shortText": "RING"
             },
             "datChoice": {
-                "longText": "not a ring",
-                "shortText": "NO RING"
+                "longText": "hat keinen Ring",
+                "shortText": "KEIN RING"
             },
             "id": "53644",
             "category": {
-                "text": "Obligatory Uranus Pun"
+                "text": "Gutes All, Schlechtes All"
             }
         },
         {
             "questions": [
                 {
-                    "text": "born in New Orleans",
+                    "text": "ist in Hamburg geboren",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "raised by his Aunt Lucy",
+                    "text": "ist bei Tante Lucy aufgewachsen",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "worked as a window cleaner",
+                    "text": "hat als Fensterputzer gearbeitet",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "went to prison",
+                    "text": "musste ins Gefängnis",
                     "correctChoiceString": "both"
                 },
                 {
-                    "text": "sang <i>I Am Not a Human Being<\/i>",
+                    "text": "sang ein Lied über Sitzheizungen",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "raced a steam train to catch a vain thespian",
+                    "text": "fuhr mit der Bahn, um einen Schauspieler zu erwischen",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "was in a coma",
+                    "text": "lag im Koma",
                     "correctChoiceString": "both"
                 }
             ],
             "disChoice": {
-                "longText": "something that happened to Paddington Bear in <i>Paddington 2",
-                "shortText": "PADDINGTON"
+                "longText": "etwas, das Paddington Bär in <i>Paddington 2<\/i> passiert ist",
+                "shortText": "PADDINGTON BÄR"
             },
             "datChoice": {
-                "longText": "something that happened to rapper Lil Wayne in real life",
-                "shortText": "LIL WAYNE"
+                "longText": "etwas, das dem Rapper GZUZ im echten Leben passiert ist",
+                "shortText": "GZUZ"
             },
             "id": "53598",
             "category": {
-                "text": "Mixtapes & Marmalade"
+                "text": "Mixtapes & Marmelade"
             }
         },
         {
@@ -208,16 +208,16 @@
                 }
             ],
             "disChoice": {
-                "longText": "a song by Swedish pop group ABBA",
+                "longText": "ein Lied der schwedischen Popgruppe ABBA",
                 "shortText": "ABBA"
             },
             "datChoice": {
-                "longText": "something Mario says in a video game",
+                "longText": "etwas, das Mario in einem Videospiel sagt",
                 "shortText": "Super Mario"
             },
             "id": "53596",
             "category": {
-                "text": "Do You Know a Good Swedish Plumber?"
+                "text": "Kennen Sie einen guten, schwedischen Klempner?"
             }
         },
         {

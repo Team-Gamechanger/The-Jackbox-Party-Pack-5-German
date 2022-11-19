@@ -722,46 +722,46 @@
         },
         {
             "id": "53456",
-            "title": "Repetition Repetition Repetition",
+            "title": "Üben Üben Üben",
             "prompts": [
                 {
-                    "title": "answers that show up twice",
+                    "title": "Antworten, die zweimal auftauchen",
                     "choices": [
                         {
-                            "text": "pizza",
+                            "text": "Pizza",
                             "isCorrect": true
                         },
                         {
-                            "text": "pizza",
+                            "text": "Pizza",
                             "isCorrect": true
                         },
                         {
-                            "text": "adjectives",
+                            "text": "Adjektive",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Westworld<\/i>",
+                            "text": "<i>In aller Freundschaft<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "math",
+                            "text": "Mathe",
                             "isCorrect": false
                         },
                         {
-                            "text": "adjectives",
+                            "text": "Adjektive",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "answers that show up just once",
+                    "title": "Antworten, die einmal auftauchen",
                     "choices": [
                         {
-                            "text": "Toledo, OH",
+                            "text": "Saarland",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Broad City<\/i>",
+                            "text": "<i>Lindenstraße<\/i>",
                             "isCorrect": true
                         },
                         {
@@ -769,7 +769,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Leslie Jones",
+                            "text": "Enissa Amani",
                             "isCorrect": true
                         },
                         {
@@ -777,57 +777,57 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Toledo, OH",
+                            "text": "Saarland",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "answers that show up three times",
+                    "title": "Antworten, die dreimal auftauchen",
                     "choices": [
                         {
-                            "text": "transcendental meditation",
+                            "text": "Transzendentale Meditation",
                             "isCorrect": true
                         },
                         {
-                            "text": "bit coin",
+                            "text": "Bitcoin",
                             "isCorrect": false
                         },
                         {
-                            "text": "bit coin",
+                            "text": "Bitcoin",
                             "isCorrect": false
                         },
                         {
-                            "text": "transcendental meditation",
+                            "text": "Transzendentale Meditation",
                             "isCorrect": true
                         },
                         {
-                            "text": "bite con",
+                            "text": "Bitecon",
                             "isCorrect": false
                         },
                         {
-                            "text": "transcendental meditation",
+                            "text": "Transzendentale Meditation",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "answers that never show up",
+                    "title": "Antworten, die nie auftauchen",
                     "choices": [
                         {
-                            "text": "bird of prey",
+                            "text": "Minecraft",
                             "isCorrect": false
                         },
                         {
-                            "text": "shart",
+                            "text": "Tanksäule",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Gone Girl<\/i>",
+                            "text": "<i>Sturm Der Liebe<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "Amy Adams",
+                            "text": "Luke Mockridge",
                             "isCorrect": false
                         },
                         {
@@ -835,42 +835,42 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "antilock brakes",
+                            "text": "Antiblockiersystem",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "answers that show up an even number of times",
+                    "title": "Antworten, die in gerader Anzahl auftauchen",
                     "choices": [
                         {
-                            "text": "hydrogen",
+                            "text": "Wasserstoff",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Empire<\/i>",
+                            "text": "<i>Anne Will<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "cookies",
+                            "text": "Kekse",
                             "isCorrect": false
                         },
                         {
-                            "text": "cookies",
+                            "text": "Kekse",
                             "isCorrect": false
                         },
                         {
-                            "text": "hydrogen",
+                            "text": "Wasserstoff",
                             "isCorrect": true
                         },
                         {
-                            "text": "cookies",
+                            "text": "Kekse",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "letters that show up six times",
+                    "title": "Buchstaben, die sechsmal auftauchen",
                     "choices": [
                         {
                             "text": "F",
