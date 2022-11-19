@@ -3196,7 +3196,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Im ernst, wen juckt\u2019s?",
+                    "text": "Im Ernst, wen juckt\u2019s?",
                     "isCorrect": false
                 },
                 {
@@ -4540,23 +4540,23 @@
         {
             "id": "50224",
             "category": {
-                "text": "What a Blast Hole"
+                "text": "Explosive Fankurve"
             },
             "choices": [
                 {
-                    "text": "\u201cEveryone knows you\u2019re just a stick of BLACK POWDER.\u201d",
+                    "text": "\u201cKomm schon, SCHWARZPULVER, du schaffst das!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cHa! You\u2019re just some weak ol\u2019 TNT!\u201d",
+                    "text": "\u201cGib alles, TNT!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cI heard you were actually AMMONIUM NITRATE!\u201d",
+                    "text": "\u201cDu hast es fast geschafft, AMMONIUMNITRAT!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cMan, you\u2019re nothing but NITROGLYCERIN and stabilizers.\u201d",
+                    "text": "\u201cFür dich mit deinem Nitroglycerin und ein paar Stabilisatoren ist das doch ein Klacks!\u201d",
                     "isCorrect": true
                 }
             ],
@@ -4565,7 +4565,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What would it sound like if dynamite got put on blast?"
+                    "text": "Wie würde es sich anhören, wenn man Dynamit anfeuern würde?"
                 }
             ]
         },
@@ -4872,19 +4872,19 @@
             },
             "choices": [
                 {
-                    "text": "smileys",
+                    "text": "Smileys",
                     "isCorrect": false
                 },
                 {
-                    "text": "adorable animal faces",
+                    "text": "Liebenswerte Tiergesichter",
                     "isCorrect": false
                 },
                 {
-                    "text": "fruit",
+                    "text": "Obst",
                     "isCorrect": false
                 },
                 {
-                    "text": "flags",
+                    "text": "Flaggen",
                     "isCorrect": true
                 }
             ],
@@ -4893,11 +4893,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "While browsing your iPhone emojis, you are seriously turned off by the \u201cSymbol\u201d category and swipe all the way left."
+                    "text": "Beim durchsuchen Ihrer iPhone-Emojis werden Sie von der \u201cSymbole\u201d Kategorie so richtig abgetan und wischen schnell nach links, bis es nicht mehr geht."
                 },
                 {
                     "timing": "S + 7.40",
-                    "text": "What sexier emoji group will you be checking out now?"
+                    "text": "Welche sexy Emoji-Gruppe sehen Sie sich jetzt an?"
                 }
             ]
         },
@@ -4936,23 +4936,23 @@
         {
             "id": "50106",
             "category": {
-                "text": "A Question with a John Oliver Twist"
+                "text": "Eine Oliver Welke Frage"
             },
             "choices": [
                 {
-                    "text": "Lima",
+                    "text": "Barcelona",
                     "isCorrect": false
                 },
                 {
-                    "text": "Moscow",
+                    "text": "Moskau",
                     "isCorrect": true
                 },
                 {
-                    "text": "Honolulu",
+                    "text": "Jerusalem",
                     "isCorrect": false
                 },
                 {
-                    "text": "Juneau",
+                    "text": "Las Vegas",
                     "isCorrect": false
                 }
             ],
@@ -4961,34 +4961,34 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "<i>Last Week Tonight<\/i> airs at 11 p.m. Eastern Standard Time on Sundays."
+                    "text": "<i>Die Heute Show<\/i> wird immer freitags um 22:30 Uhr ausgestrahlt."
                 },
                 {
                     "timing": "S + 4.41",
-                    "text": "So, if the show were broadcast live, what city would actually see last week while watching <i>Last Week Tonight<\/i>?"
+                    "text": "Angenommen die Show wird live ausgestrahlt, welche Stadt würde sich technisch gesehen dann eher <i>Die Gestern Show<\/i> ansehen?"
                 }
             ]
         },
         {
             "id": "50092",
             "category": {
-                "text": "There Is No Shape of Water, GUILLERMO!"
+                "text": "Das Wasser hat keine Form, THOMAS!"
             },
             "choices": [
                 {
-                    "text": "The Density of Water",
+                    "text": "Die Dichte des Wassers",
                     "isCorrect": false
                 },
                 {
-                    "text": "The Temperature of Water",
+                    "text": "Die Temperatur des Wassers",
                     "isCorrect": false
                 },
                 {
-                    "text": "The Volume of Water",
+                    "text": "Das Volumen des Wassers",
                     "isCorrect": false
                 },
                 {
-                    "text": "The Mass of Water",
+                    "text": "Die Masse des Wassers",
                     "isCorrect": true
                 }
             ],
@@ -4997,7 +4997,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If you had a sexy monster sitting in your bathtub all day, what is the one property that could NOT change?"
+                    "text": "Wenn Sie ein sexy Monster hätten, das den ganzen Tag in Ihrer Badewanne sitzt, welche Eigenschaft könnte sich NICHT ändern?"
                 }
             ]
         },
