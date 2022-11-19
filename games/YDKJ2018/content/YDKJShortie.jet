@@ -28,7 +28,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, die Nationen der Erde könnten den <i>Star Wars<\/i> Bösewicht Kylo Ren dazu überzeugen, den echten \u201cWeltraumvertrag\u201d zu unterzeichnen, welche dieser bösen Taten könnte er dann noch begehen, ohne ihn zu brechen?"
+                    "text": "Angenommen, die Nationen der Erde könnten den <i>Star Wars<\/i>-Bösewicht Kylo Ren dazu überzeugen, den echten \u201cWeltraumvertrag\u201d zu unterzeichnen, welche dieser bösen Taten könnte er dann noch begehen, ohne ihn zu brechen?"
                 }
             ]
         },
@@ -60,7 +60,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, Apple fallen keine großen Katzennamen mehr für ihre Betriebssysteme ein und sie wechseln jetzt auf Zeichentrickkatzen."
+                    "text": "Angenommen, <i>Apple<\/i> fallen keine großen Katzennamen mehr für ihre Betriebssysteme ein und sie wechseln jetzt auf Zeichentrickkatzen."
                 },
                 {
                     "timing": "S + 6.14",
@@ -243,7 +243,7 @@
         {
             "id": "53053",
             "category": {
-                "text": "Hör mal wer da ballert"
+                "text": "Hör mal, wer da ballert"
             },
             "choices": [
                 {
@@ -607,7 +607,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "54.000.000€",
+                    "text": "56.000.000€",
                     "isCorrect": true
                 },
                 {
@@ -892,7 +892,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen das unschuldige G klettert auf der Tonleiter, bestehend aus Ton. Welche Note würde sich am ehesten hinter ihr anschleichen?"
+                    "text": "Angenommen, das unschuldige G klettert auf der Tonleiter. Welche Note würde sich am ehesten hinter ihr anschleichen?"
                 }
             ]
         },
@@ -935,7 +935,7 @@
             },
             "choices": [
                 {
-                    "text": "AIDAS Formel",
+                    "text": "AIDAS-Formel",
                     "isCorrect": false
                 },
                 {
