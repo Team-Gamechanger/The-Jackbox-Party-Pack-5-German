@@ -2853,7 +2853,7 @@
         {
             "id": "52924",
             "category": {
-                "text": "Fortnite Night"
+                "text": "Fortnite-Fieber"
             },
             "choices": [
                 {
@@ -2878,7 +2878,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What WAS that long number from the last question?"
+                    "text": "Was WAR das für eine komische Zahl in der letzten Frage?"
                 }
             ]
         },
