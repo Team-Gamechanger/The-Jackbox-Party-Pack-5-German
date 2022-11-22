@@ -5236,23 +5236,23 @@
         {
             "id": "52493",
             "category": {
-                "text": "Click Lit"
+                "text": "Für mich klingt das nach Abzocke"
             },
             "choices": [
                 {
-                    "text": "\u201c11 Things Everyone Called Ishmael Knows To Be True\u201d",
+                    "text": "\u201c11 Dinge, von denen jeder mit dem Namen Ishmael weiß, dass sie wahr sind\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cThe 13 Most Pleasurable Parts of Burning\u201d",
+                    "text": "\u201cWarum Selbstverbrennung mein Leben in 2 Wochen auf den Kopf gestellt hat\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cMother Died Today And The Clap-Back Was INSANE\u201d",
+                    "text": "\u201cMama starb heute und die Reaktionen waren UNGLAUBLICH!\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cExterminators Hate Him: This Guy Woke Up Transformed Into A Monstrous Vermin\u201d",
+                    "text": "\u201cKammerjäger hassen diesen Trick: Dieser Mann verwandelte sich über Nacht in ein riesiges Insekt\u201d",
                     "isCorrect": false
                 }
             ],
@@ -5261,7 +5261,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If Albert Camus had used clickbait to write <i>The Stranger<\/i>, what would have been his first line?"
+                    "text": "Angenommen Albert Campus würde auf Clickbait zurückgreifen, um sein Werk <i>Der Fremde<\/i> zu vermarkten. Wie würde vermutlich die Schlagzeile lauten?"
                 }
             ]
         },
@@ -5300,23 +5300,23 @@
         {
             "id": "52491",
             "category": {
-                "text": "A Nice Shape"
+                "text": "Gut in Form"
             },
             "choices": [
                 {
-                    "text": "the mysterious square",
+                    "text": "das geheimnisvolle Quadrat",
                     "isCorrect": false
                 },
                 {
-                    "text": "the charming rhombus",
+                    "text": "die charmante Raute",
                     "isCorrect": false
                 },
                 {
-                    "text": "the passionate circle",
+                    "text": "der leidenschaftliche Kreis",
                     "isCorrect": false
                 },
                 {
-                    "text": "the hunky triangle",
+                    "text": "das geile Dreieck",
                     "isCorrect": true
                 }
             ],
@@ -5325,30 +5325,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If you decided to start dating shapes, which would offer the most STABLE relationship?"
+                    "text": "Angenommen Sie würden sich dazu entschließen, ab sofort nur noch Formen zu daten. Bei welcher hätten Sie die größten Chancen auf eine STABILE Beziehung?"
                 }
             ]
         },
         {
             "id": "52487",
             "category": {
-                "text": "Expressionist Yourself"
+                "text": "Expression ist in"
             },
             "choices": [
                 {
-                    "text": "I\u2019m dead",
+                    "text": "Ich bin tot",
                     "isCorrect": false
                 },
                 {
-                    "text": "I\u2019m screaming",
+                    "text": "Ich schreie",
                     "isCorrect": true
                 },
                 {
-                    "text": "I\u2019m crying",
+                    "text": "Ich weine",
                     "isCorrect": false
                 },
                 {
-                    "text": "I\u2019m shook",
+                    "text": "Ich bin schockiert",
                     "isCorrect": false
                 }
             ],
@@ -5357,7 +5357,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If painter Edvard Munch shared his most popular work on social media today, what would he caption it?"
+                    "text": "Wenn der Maler Edvard Munch sein beliebtestes Werk heute auf Instagram posten würde, was würde er dazu schreiben?"
                 }
             ]
         },
@@ -5460,23 +5460,23 @@
         {
             "id": "52418",
             "category": {
-                "text": "Dead Men Seem to Keep Telling Tales"
+                "text": "Toten fallen immer neue Geschichten ein"
             },
             "choices": [
                 {
-                    "text": "something with the Fountain of Youth?",
+                    "text": "irgendwas mit der Quelle des Lebens?",
                     "isCorrect": false
                 },
                 {
-                    "text": "something with a trident?",
+                    "text": "irgendwas mit nem Dreizack?",
                     "isCorrect": true
                 },
                 {
-                    "text": "something with Atlantis?",
+                    "text": "irgendwas mit Atlantis?",
                     "isCorrect": false
                 },
                 {
-                    "text": "something with an undead shark?",
+                    "text": "irgendwas mit einem untoten Hai?",
                     "isCorrect": false
                 }
             ],
@@ -5485,7 +5485,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What happened in <i>Pirates of the Caribbean 5<\/i>?"
+                    "text": "Was ist in <i>Fluch der Karibik 5<\/i> passiert?"
                 }
             ]
         },
@@ -5564,23 +5564,23 @@
         {
             "id": "52233",
             "category": {
-                "text": "Exercise Is 90% Motivation"
+                "text": "Sport ist zu 90% Motivation"
             },
             "choices": [
                 {
-                    "text": "six dozen double chocolate muffins",
+                    "text": "Vier Dutzend Schokomuffins",
                     "isCorrect": false
                 },
                 {
-                    "text": "nine dozen double chocolate muffins",
+                    "text": "Neun Dutzend Schokomuffins",
                     "isCorrect": false
                 },
                 {
-                    "text": "one dozen dozen double chocolate muffins",
+                    "text": "Ein Dutzend Dutzend Schokomuffins",
                     "isCorrect": false
                 },
                 {
-                    "text": "one baker\u2019s dozen dozen double chocolate muffins",
+                    "text": "Zwei Dutzend Dutzend Schokomuffins",
                     "isCorrect": true
                 }
             ],
@@ -5589,7 +5589,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If someone paid you one dozen double chocolate muffins for every mile you ran, about how many muffins would you earn running a half marathon?"
+                    "text": "Wenn Ihnen jemand ein Dutzend Schokoladenmuffins für jeden gelaufenen Kilometer anbieten würde, wie viele Muffins würden Sie dann wohl ungefähr bei einem Halbmarathon verdienen?"
                 }
             ]
         },
@@ -5960,11 +5960,11 @@
         {
             "id": "51970",
             "category": {
-                "text": "The Five Stages of Reef"
+                "text": "Ich glaub ich See nicht richtig"
             },
             "choices": [
                 {
-                    "text": "Libya",
+                    "text": "Libyen",
                     "isCorrect": false
                 },
                 {
@@ -5972,7 +5972,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Algeria",
+                    "text": "Algerien",
                     "isCorrect": false
                 },
                 {
@@ -5985,11 +5985,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "The Nile ain\u2019t just a river in Egypt."
+                    "text": "Der Nil ist nicht nur ein Fluss in Ägypten."
                 },
                 {
                     "timing": "S + 4.73",
-                    "text": "It\u2019s also a river in..."
+                    "text": "Er ist ebenso ein Fluss in..."
                 }
             ]
         },
@@ -6060,23 +6060,23 @@
         {
             "id": "51793",
             "category": {
-                "text": "I Wouldn\u2019t Call My Home \u201cSmart\u201d Exactly"
+                "text": "So \u201cSmart\u201d ist mein Home jetzt auch nicht"
             },
             "choices": [
                 {
-                    "text": "\u201cSiri, tell Cortana to turn off the lights.\u201d",
+                    "text": "\u201cSiri, sag Cortana, sie soll das Licht ausschalten.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cAlexa, tell Siri to lower the volume.\u201d",
+                    "text": "\u201cAlexa, sag Siri, sie soll die Musik leiser machen.\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cCortana, tell Alexa to play music.\u201d",
+                    "text": "\u201cCortana, sag Alexa, sie soll das Radio einschalten.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cAlexa, tell Google Assistant to do better next time.\u201d",
+                    "text": "\u201cAlexa, sag Google Assistant, dass er sich mal mehr anstrengen soll.\u201d",
                     "isCorrect": false
                 }
             ],
@@ -6085,7 +6085,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What should I say if I want my Amazon Echo to tell my iPhone to do something?"
+                    "text": "Was muss ich sagen, wenn ich möchte, dass mein Amazon Echo meinem iPhone sagt, dass es etwas tun soll?"
                 }
             ]
         },
