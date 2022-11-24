@@ -542,129 +542,129 @@
         },
         {
             "id": "53657",
-            "title": "Tree Stuff",
+            "title": "Baumzeugs",
             "prompts": [
                 {
-                    "title": "parts of a tree",
+                    "title": "Teile eines Baumes",
                     "choices": [
                         {
-                            "text": "trunk",
+                            "text": "Stamm",
                             "isCorrect": true
                         },
                         {
-                            "text": "rutter",
+                            "text": "Rutter",
                             "isCorrect": false
                         },
                         {
-                            "text": "cambium",
+                            "text": "Kambium",
                             "isCorrect": true
                         },
                         {
-                            "text": "phlegm",
+                            "text": "Schuppen",
                             "isCorrect": false
                         },
                         {
-                            "text": "scales",
+                            "text": "Zunder",
                             "isCorrect": false
                         },
                         {
-                            "text": "roots",
+                            "text": "Wurzeln",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "grows on a tree",
+                    "title": "Wächst auf einem Baum",
                     "choices": [
                         {
-                            "text": "lemons",
+                            "text": "Zitronen",
                             "isCorrect": true
                         },
                         {
-                            "text": "grapes",
+                            "text": "Weintrauben",
                             "isCorrect": false
                         },
                         {
-                            "text": "mangoes",
+                            "text": "Mangos",
                             "isCorrect": true
                         },
                         {
-                            "text": "blueberries",
+                            "text": "Blaubeeren",
                             "isCorrect": false
                         },
                         {
-                            "text": "apples",
+                            "text": "Äpfel",
                             "isCorrect": true
                         },
                         {
-                            "text": "pineapples",
+                            "text": "Ananasse",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "lives in a tree",
+                    "title": "Lebt in einem Baum",
                     "choices": [
                         {
-                            "text": "badger",
+                            "text": "Dachs",
                             "isCorrect": false
                         },
                         {
-                            "text": "Keebler Elves",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "orangutan",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "pika",
+                            "text": "Der Grüffelo",
                             "isCorrect": false
                         },
                         {
-                            "text": "Winnie the Pooh",
+                            "text": "Orang-Utan",
                             "isCorrect": true
                         },
                         {
-                            "text": "Spongebob Squarepants",
+                            "text": "Pikas",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Winnie Puuh",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Spongebob Schwammkopf",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "is a tree",
+                    "title": "Ist ein Baum",
                     "choices": [
                         {
                             "text": "Groot",
                             "isCorrect": true
                         },
                         {
-                            "text": "Ms. Crabtree",
+                            "text": "Henning Baum",
                             "isCorrect": false
                         },
                         {
-                            "text": "Rusted Root",
+                            "text": "Wurzel 5",
                             "isCorrect": false
                         },
                         {
-                            "text": "Grandmother Willow",
+                            "text": "Großmutter Weide",
                             "isCorrect": true
                         },
                         {
-                            "text": "Treebeard",
+                            "text": "Baumbart",
                             "isCorrect": true
                         },
                         {
-                            "text": "Forest Whitaker",
+                            "text": "Armin Maiwald",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "a movie where a tree attacks someone",
+                    "title": "Ein Film, in dem ein Baum jemanden angreift",
                     "choices": [
                         {
-                            "text": "<i>IT<\/i>",
+                            "text": "<i>Es<\/i>",
                             "isCorrect": false
                         },
                         {
@@ -672,15 +672,15 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Harry Potter and the Prisoner of Azkaban<\/i>",
+                            "text": "<i>Harry Potter und der Gefangene von Askaban<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Willow<\/i>",
+                            "text": "<i>Alles steht Kopf<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>The Lorax<\/i>",
+                            "text": "<i>Der Lorax<\/i>",
                             "isCorrect": false
                         },
                         {
@@ -690,7 +690,7 @@
                     ]
                 },
                 {
-                    "title": "tree-related American Presidential nicknames",
+                    "title": "Baumbezogene Spitznamen amerikanischer Präsidentschaftskandidaten",
                     "choices": [
                         {
                             "text": "Andrew \u201cOld Hickory\u201d Jackson",
