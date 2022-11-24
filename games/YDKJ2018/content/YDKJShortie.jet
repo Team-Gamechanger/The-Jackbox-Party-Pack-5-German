@@ -6156,7 +6156,7 @@
         {
             "id": "51707",
             "category": {
-                "text": "Brand Focused"
+                "text": "Die Marke im Fokus"
             },
             "choices": [
                 {
@@ -6164,7 +6164,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "FedEx",
+                    "text": "eBay",
                     "isCorrect": false
                 },
                 {
@@ -6181,30 +6181,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "The letters in which of these brand names are traditionally monochromatic?"
+                    "text": "Bei welchem dieser Markennamen sind die Buchstaben traditionell monochromatisch?"
                 }
             ]
         },
         {
             "id": "51705",
             "category": {
-                "text": "Eye Candy"
+                "text": "Zucker für die Augen"
             },
             "choices": [
                 {
-                    "text": "green",
+                    "text": "grün",
                     "isCorrect": false
                 },
                 {
-                    "text": "brown",
+                    "text": "braun",
                     "isCorrect": true
                 },
                 {
-                    "text": "blue",
+                    "text": "blau",
                     "isCorrect": false
                 },
                 {
-                    "text": "yellow",
+                    "text": "gelb",
                     "isCorrect": false
                 }
             ],
@@ -6213,7 +6213,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which M&M character wears glasses?"
+                    "text": "Welche M&M-Figur trägt eine Brille?"
                 }
             ]
         },
@@ -6224,19 +6224,19 @@
             },
             "choices": [
                 {
-                    "text": "Turtle dove",
+                    "text": "Turteltaube",
                     "isCorrect": false
                 },
                 {
-                    "text": "Bumblebee bat",
+                    "text": "Kängururatte",
                     "isCorrect": false
                 },
                 {
-                    "text": "Kangaroo rat",
+                    "text": "Schweinsnasenfledermaus",
                     "isCorrect": false
                 },
                 {
-                    "text": "Elephant hog",
+                    "text": "Elefantenschwein",
                     "isCorrect": true
                 }
             ],
@@ -6245,7 +6245,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these animals did I just make up?"
+                    "text": "Welche dieser Tiere habe ich gerade erfunden?"
                 }
             ]
         },
@@ -6284,23 +6284,23 @@
         {
             "id": "51676",
             "category": {
-                "text": "A Name to Forgive, But Never Forget"
+                "text": "Ein Name zum Vergeben, aber niemals zum Vergessen"
             },
             "choices": [
                 {
-                    "text": "Francis Babbertoot",
+                    "text": "Teufelfranz",
                     "isCorrect": false
                 },
                 {
-                    "text": "Kathereight Meisternut",
+                    "text": "Götterheinz",
                     "isCorrect": false
                 },
                 {
-                    "text": "Jimothy Chompadunk",
+                    "text": "Botenklaus",
                     "isCorrect": false
                 },
                 {
-                    "text": "Engelbert Humperdinck",
+                    "text": "Engelbert",
                     "isCorrect": true
                 }
             ],
@@ -6309,30 +6309,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these is the real name of the real person who really composed the opera <i>Hansel and Gretel<\/i>?"
+                    "text": "Wie heißt die reale Person, die die reale Oper <i>Hänsel und Gretel<\/i> geschrieben hat?"
                 }
             ]
         },
         {
             "id": "51670",
             "category": {
-                "text": "Syntax to the Max"
+                "text": "Was machst Duden da?"
             },
             "choices": [
                 {
-                    "text": "What\u2019s",
+                    "text": "Was",
                     "isCorrect": true
                 },
                 {
-                    "text": "a",
+                    "text": "ist",
                     "isCorrect": false
                 },
                 {
-                    "text": "contraction",
+                    "text": "ein",
                     "isCorrect": false
                 },
                 {
-                    "text": "?",
+                    "text": "Pronomen",
                     "isCorrect": false
                 }
             ],
@@ -6341,7 +6341,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What\u2019s a contraction?"
+                    "text": "Was ist ein Pronomen?"
                 }
             ]
         },
@@ -6444,23 +6444,23 @@
         {
             "id": "51626",
             "category": {
-                "text": "Good Tidings, My Ass"
+                "text": "Am Arsch Frohe Botschaft"
             },
             "choices": [
                 {
-                    "text": "assault",
+                    "text": "Überfall",
                     "isCorrect": false
                 },
                 {
-                    "text": "breaking & entering",
+                    "text": "Hausfriedensbruch",
                     "isCorrect": false
                 },
                 {
-                    "text": "extortion",
+                    "text": "Erpressung",
                     "isCorrect": true
                 },
                 {
-                    "text": "blackmail",
+                    "text": "Nötigung",
                     "isCorrect": false
                 }
             ],
@@ -6469,11 +6469,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Every Christmas, carolers come to my door demanding \u201cfiggy pudding\u201d and singing \u201cwe won\u2019t go until we get some, we won\u2019t go until we get some.\u201d"
+                    "text": "Zum Jahresanfang kommen immer Sternsinger zu mir an die Haustür und verlangen Spenden. Aber die wollen auch nicht verschwinden, ehe die was bekommen."
                 },
                 {
                     "timing": "S + 8.87",
-                    "text": "What crime are they committing?"
+                    "text": "Welche Straftat begehen sie?"
                 }
             ]
         },
@@ -6580,23 +6580,23 @@
         {
             "id": "51314",
             "category": {
-                "text": "Gettin\u2019 Real for a Second"
+                "text": "Einer muss es ja mal ansprechen"
             },
             "choices": [
                 {
-                    "text": "shift + 1",
+                    "text": "Shift + 4",
                     "isCorrect": false
                 },
                 {
-                    "text": "shift + 3",
+                    "text": "Shift + 0",
                     "isCorrect": false
                 },
                 {
-                    "text": "shift +5",
+                    "text": "Shift + #",
                     "isCorrect": false
                 },
                 {
-                    "text": "shift + 8",
+                    "text": "Shift + +",
                     "isCorrect": true
                 }
             ],
@@ -6605,7 +6605,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which PC keyboard command produces a symbol that looks like my cat\u2019s butthole?"
+                    "text": "Welcher Tastaturbefehl auf meinem PC erzeugt ein Symbol, das wie das Arschloch meiner Katze aussieht?"
                 }
             ]
         },
@@ -6644,23 +6644,23 @@
         {
             "id": "51107",
             "category": {
-                "text": "Polly Want a Clapback"
+                "text": "Hat das was mit Polyester zu tun?"
             },
             "choices": [
                 {
-                    "text": "a pic of me flipping you off with my extra middle finger",
+                    "text": "ein Bild von mir, wie ich Ihnen mit meinem zusätzlichen Finger den Mittelfinger zeige",
                     "isCorrect": true
                 },
                 {
-                    "text": "an audiogram of me telling you to screw off in 5 languages",
+                    "text": "eine Audioaufnahme, in der ich Ihnen in 5 Sprachen sage, dass Sie sich verpissen sollen",
                     "isCorrect": false
                 },
                 {
-                    "text": "a GIF of me kissing my multiple lovers",
+                    "text": "ein GIF von mir, wie ich meine verschiedenen Partner küsse",
                     "isCorrect": false
                 },
                 {
-                    "text": "a list of all the gods I believe in saying you\u2019re doomed",
+                    "text": "eine Liste aller Götter, an die ich glaube und die sagen, dass Sie dem Untergang geweiht sind",
                     "isCorrect": false
                 }
             ],
@@ -6669,18 +6669,18 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Me:  Sure I\u2019m polydactyl, but I don\u2019t let that define me.<br>"
+                    "text": "Ich: Klar bin ich polydaktyl, aber das macht mich nicht aus.<br>"
                 },
                 {
                     "timing": "S + 3.48",
-                    "text": "Also me:"
+                    "text": "Auch ich:"
                 }
             ]
         },
         {
             "id": "50987",
             "category": {
-                "text": "I Can Be Your Zero"
+                "text": "Ich bin gerne Ihre Null"
             },
             "choices": [
                 {
@@ -6705,30 +6705,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If James Bond were attempting to kill you in Brisbane, what number should you dial to receive help from emergency services?"
+                    "text": "Wenn James Bond versuchen würde, Sie in Brisbane zu töten, welche Nummer müssten Sie wählen, um Hilfe vom Notdienst zu erhalten?"
                 }
             ]
         },
         {
             "id": "50863",
             "category": {
-                "text": "Zeus\u2019 Build-A-Man Workshop"
+                "text": "Zeus\u2019 Menschenbau-Werkstatt"
             },
             "choices": [
                 {
-                    "text": "head of a griffin, body of a centaur",
+                    "text": "Kopf eines Greifs, Körper eines Zentauren",
                     "isCorrect": false
                 },
                 {
-                    "text": "head of a merman, body of a faun",
+                    "text": "Kopf eines Wassermanns, Körper eines Fauns",
                     "isCorrect": false
                 },
                 {
-                    "text": "head of a sphinx, body of the Minotaur",
+                    "text": "Kopf einer Sphinx, Körper des Minotaurus",
                     "isCorrect": true
                 },
                 {
-                    "text": "head of the chimera, body of Pegasus",
+                    "text": "Kopf der Chimäre, Körper des Pegasus",
                     "isCorrect": false
                 }
             ],
@@ -6737,7 +6737,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which combination of these mythological hybrids would result in a regular full man?"
+                    "text": "Welche Kombination dieser mythologischen Mischwesen würde einen normalen Menschen ergeben?"
                 }
             ]
         },
@@ -6840,23 +6840,23 @@
         {
             "id": "50440",
             "category": {
-                "text": "The Legend of Zelda\u2019s Epidural"
+                "text": "The Legend of Zelda: Partus 3"
             },
             "choices": [
                 {
-                    "text": "\u201cPress B to PUSH THE BABY\u2019S HEAD OUT\u201d",
+                    "text": "\u201cDrücken Sie B, um den Kopf des Babys herauszupressen\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cRepeatedly tap X to DILATE THE CERVIX\u201d",
+                    "text": "\u201cDrücken Sie wiederholt X, um den Gebärmutterhals zu weiten\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cHold down the right shoulder button to EXPEL THE PLACENTA\u201d",
+                    "text": "\u201cHalten Sie die rechte Schultertaste gedrückt, um die Plazenta herauszudrücken\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cPress A and B together to CUT THE UMBILICAL CORD\u201d",
+                    "text": "\u201cDrücken Sie A und B gleichzeitig, um die Nabelschnur zu durchtrennen\u201d",
                     "isCorrect": false
                 }
             ],
@@ -6865,11 +6865,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Say there were a video game in which the player\u2019s goal was to successfully go through labor."
+                    "text": "Angenommen, es gäbe ein Videospiel, bei dem das Ziel des Spielers darin besteht, die Geburt erfolgreich zu überstehen."
                 },
                 {
                     "timing": "S + 5.10",
-                    "text": "What instructions would pop up on the 3RD STAGE of the game?"
+                    "text": "Welche Anweisungen würden im DRITTEN LEVEL des Spiels angezeigt werden?"
                 }
             ]
         },
@@ -7240,23 +7240,23 @@
         {
             "id": "51753",
             "category": {
-                "text": "Tomorrow We March on Olive Garden"
+                "text": "Fridays For Italien"
             },
             "choices": [
                 {
-                    "text": "\u201cGive me my just desserts!\u201d",
+                    "text": "\u201cVereint für den Nachtisch!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cPry my appetizers from my cold, dead hand.\u201d",
+                    "text": "\u201cNehmt mir nicht auch noch meine Vorspeise!\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cHey, hey! Ho, Ho! This pasta entree has to go!\u201d",
+                    "text": "\u201cHallo, Hallo! Diese Nudeln sind nicht mein Niveau!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cMake salad, not war.\u201d",
+                    "text": "\u201cIch + Salat = Liebe\u201d",
                     "isCorrect": false
                 }
             ],
@@ -7265,7 +7265,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What might a protest sign read that was PRO-antipasto?"
+                    "text": "Wie könnte ein Protestschild aussehen, das PRO-Antipasto ist?"
                 }
             ]
         },
@@ -7572,23 +7572,23 @@
         {
             "id": "51593",
             "category": {
-                "text": "Ready Player Onesie"
+                "text": "Ich wusste nicht, dass der auch Karate kann."
             },
             "choices": [
                 {
-                    "text": "...that baby\u2019s skin is thicker than mine!",
+                    "text": "...ist die Haut des Babys dicker als meine!",
                     "isCorrect": false
                 },
                 {
-                    "text": "...that baby can see twice as far as me!",
+                    "text": "...kann das Baby doppelt so weit sehen wie ich!",
                     "isCorrect": false
                 },
                 {
-                    "text": "...that baby\u2019s muscles are denser than mine!",
+                    "text": "...sind die Muskeln des Babys dichter als meine!",
                     "isCorrect": false
                 },
                 {
-                    "text": "...that baby\u2019s got more bones than me!",
+                    "text": "...hat das Baby mehr Knochen als ich!",
                     "isCorrect": true
                 }
             ],
@@ -7597,11 +7597,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "I lost a fight to a baby."
+                    "text": "Ich habe in einem Kampf gegen ein Baby verloren."
                 },
                 {
                     "timing": "S + 5.50",
-                    "text": "I\u2019m an average adult so..."
+                    "text": "Ich bin ein normaler Erwachsener, also..."
                 }
             ]
         },
@@ -7908,23 +7908,23 @@
         {
             "id": "51395",
             "category": {
-                "text": "Need 4 More Subscribers 2 Fund Sistine Chapel!!"
+                "text": "Noch 4 Abos bis zur sixtinischen Kapelle!!"
             },
             "choices": [
                 {
-                    "text": "PopeJohn007",
+                    "text": "PapstJohannes23",
                     "isCorrect": false
                 },
                 {
-                    "text": "leonardo_da_vinci_is_da_besti",
+                    "text": "leonardo_da_vinci_ist_der_besti",
                     "isCorrect": false
                 },
                 {
-                    "text": "Medici_Family_Official",
+                    "text": "Medici_Familie_Offiziell",
                     "isCorrect": true
                 },
                 {
-                    "text": "the-real-Vespucci",
+                    "text": "Der-echte-Vespucci",
                     "isCorrect": false
                 }
             ],
@@ -7933,7 +7933,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If Michelangelo had a Patreon page, which user would be subscribed?"
+                    "text": "Wenn Michelangelo eine Patreon-Seite hätte, welcher Benutzer würde sie abonnieren?"
                 }
             ]
         },
