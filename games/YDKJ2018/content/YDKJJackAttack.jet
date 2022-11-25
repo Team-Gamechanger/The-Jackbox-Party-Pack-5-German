@@ -610,7 +610,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Der Grüffelo",
+                            "text": "Julian Reichelt",
                             "isCorrect": false
                         },
                         {
@@ -690,30 +690,30 @@
                     ]
                 },
                 {
-                    "title": "Baumbezogene Spitznamen amerikanischer Präsidentschaftskandidaten",
+                    "title": "Baumbezogene Namen deutscher Sportler",
                     "choices": [
                         {
-                            "text": "Andrew \u201cOld Hickory\u201d Jackson",
+                            "text": "Hans-Jürgen Bäumler",
                             "isCorrect": true
                         },
                         {
-                            "text": "John \u201cBig Oak\u201d Adams",
+                            "text": "Christian Lindner",
                             "isCorrect": false
                         },
                         {
-                            "text": "Millard \u201cThe Maple\u201d Fillmore",
+                            "text": "Ludger Beerbaum",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Till Lindemann",
                             "isCorrect": false
                         },
                         {
-                            "text": "William \u201cOld Tree Nuts\u201d McKinley",
-                            "isCorrect": false
+                            "text": "Felix Baumgartner",
+                            "isCorrect": true
                         },
                         {
-                            "text": "Harry \u201cSassafras\u201d Truman",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "James K. \u201cYoung Hickory\u201d Polk",
+                            "text": "Alexander Baumjohann",
                             "isCorrect": true
                         }
                     ]
@@ -1262,178 +1262,178 @@
         },
         {
             "id": "52987",
-            "title": "Animals Parts",
+            "title": "Teile von Tieren",
             "prompts": [
                 {
-                    "title": "wings",
+                    "title": "Flügel",
                     "choices": [
                         {
-                            "text": "dodo",
+                            "text": "Dodo",
                             "isCorrect": true
                         },
                         {
-                            "text": "earwig",
+                            "text": "Ohrwurm",
                             "isCorrect": true
                         },
                         {
-                            "text": "sugar glider",
+                            "text": "Kurzkopfgleitbeutler",
                             "isCorrect": false
                         },
                         {
-                            "text": "quetzalcoatlus",
+                            "text": "Quetzalcoatlus",
                             "isCorrect": true
                         },
                         {
-                            "text": "Charmander",
+                            "text": "Glumanda",
                             "isCorrect": false
                         },
                         {
-                            "text": "Trogdor",
+                            "text": "Ohnezahn",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "beak",
+                    "title": "Schnabel",
                     "choices": [
                         {
-                            "text": "platypus",
+                            "text": "Schnabeltier",
                             "isCorrect": true
                         },
                         {
-                            "text": "tapir",
+                            "text": "Tapir",
                             "isCorrect": false
                         },
                         {
-                            "text": "squid",
+                            "text": "Tintenfisch",
                             "isCorrect": true
                         },
                         {
-                            "text": "mongoose",
+                            "text": "Mangusten",
                             "isCorrect": false
                         },
                         {
-                            "text": "Harvey Birdman",
+                            "text": "Alexander Hold",
                             "isCorrect": false
                         },
                         {
-                            "text": "echidna",
+                            "text": "Echidna",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "pouch",
+                    "title": "Beutel",
                     "choices": [
                         {
-                            "text": "kangaroo",
+                            "text": "Känguru",
                             "isCorrect": true
                         },
                         {
-                            "text": "wombat",
+                            "text": "Wombat",
                             "isCorrect": true
                         },
                         {
-                            "text": "whippet",
+                            "text": "Rottweiler",
                             "isCorrect": false
                         },
                         {
-                            "text": "opossum",
+                            "text": "Opossum",
                             "isCorrect": true
                         },
                         {
-                            "text": "platypus",
+                            "text": "Schnabeltier",
                             "isCorrect": false
                         },
                         {
-                            "text": "mom with a fanny pack",
+                            "text": "Mama mit Bauchtasche",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "hooves",
+                    "title": "Hufe",
                     "choices": [
                         {
-                            "text": "giraffe",
+                            "text": "Giraffe",
                             "isCorrect": true
                         },
                         {
-                            "text": "hippopotamus",
+                            "text": "Nilpferd",
                             "isCorrect": true
                         },
                         {
-                            "text": "jackal",
+                            "text": "Schakal",
                             "isCorrect": false
                         },
                         {
-                            "text": "serval",
+                            "text": "Serval",
                             "isCorrect": false
                         },
                         {
-                            "text": "gnu",
+                            "text": "Gnu",
                             "isCorrect": true
                         },
                         {
-                            "text": "capybara",
+                            "text": "Wasserschwein",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "penis",
+                    "title": "Penis",
                     "choices": [
                         {
-                            "text": "horse",
+                            "text": "Pferd",
                             "isCorrect": true
                         },
                         {
-                            "text": "duck",
+                            "text": "Ente",
                             "isCorrect": true
                         },
                         {
-                            "text": "hen",
+                            "text": "Hahn",
                             "isCorrect": false
                         },
                         {
-                            "text": "shark",
+                            "text": "Hai",
                             "isCorrect": false
                         },
                         {
-                            "text": "dolphin",
+                            "text": "Delfin",
                             "isCorrect": true
                         },
                         {
-                            "text": "rooster",
-                            "isCorrect": false
+                            "text": "Elefant",
+                            "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "eyelashes",
+                    "title": "Wimpern",
                     "choices": [
                         {
-                            "text": "kangaroo",
+                            "text": "Känguru",
                             "isCorrect": true
                         },
                         {
-                            "text": "ostrich",
+                            "text": "Strauß",
                             "isCorrect": true
                         },
                         {
-                            "text": "minke whale",
+                            "text": "Zwergwal",
                             "isCorrect": false
                         },
                         {
-                            "text": "llama",
+                            "text": "Lama",
                             "isCorrect": true
                         },
                         {
-                            "text": "Charmander",
+                            "text": "Glumanda",
                             "isCorrect": false
                         },
                         {
-                            "text": "crow",
+                            "text": "Krähe",
                             "isCorrect": false
                         }
                     ]
