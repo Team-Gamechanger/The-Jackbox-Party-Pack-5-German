@@ -2072,18 +2072,18 @@
                     ]
                 },
                 {
-                    "title": "60. Geburtstag in 2022",
+                    "title": "60. Geburtstag in 2023",
                     "choices": [
                         {
-                            "text": "Tom Cruise",
+                            "text": "Quentin Tarantino",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Nino de Angelo",
                             "isCorrect": true
                         },
                         {
                             "text": "Campino",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Hugo Egon Balder",
                             "isCorrect": false
                         },
                         {
@@ -2091,11 +2091,11 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Annegret Kramp-Karrenbauer",
+                            "text": "Whitney Houston",
                             "isCorrect": true
                         },
                         {
-                            "text": "Nik P.",
+                            "text": "Brad Pitt",
                             "isCorrect": true
                         }
                     ]
