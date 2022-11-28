@@ -2342,62 +2342,62 @@
         },
         {
             "id": "52707",
-            "title": "Names That Stand for Something",
+            "title": "Namen die für etwas stehen",
             "prompts": [
                 {
-                    "title": "ATM",
+                    "title": "ISBN",
                     "choices": [
                         {
-                            "text": "Automated",
+                            "text": "Buch",
                             "isCorrect": true
                         },
                         {
-                            "text": "Money",
+                            "text": "Identifikations",
                             "isCorrect": false
                         },
                         {
-                            "text": "Transaction",
+                            "text": "Serien",
                             "isCorrect": false
                         },
                         {
-                            "text": "Teller",
+                            "text": "Internationale",
                             "isCorrect": true
                         },
                         {
-                            "text": "Manual",
+                            "text": "Name",
                             "isCorrect": false
                         },
                         {
-                            "text": "Machine",
+                            "text": "Standard",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "SCUBA",
+                    "title": "GEMA",
                     "choices": [
                         {
-                            "text": "Air",
+                            "text": "Elektronische",
                             "isCorrect": false
                         },
                         {
-                            "text": "Breathing",
+                            "text": "musikalische",
                             "isCorrect": true
                         },
                         {
-                            "text": "Surface",
+                            "text": "Abzocke",
                             "isCorrect": false
                         },
                         {
-                            "text": "Apparatus",
+                            "text": "Gemeinnützige",
                             "isCorrect": true
                         },
                         {
-                            "text": "Underwater",
-                            "isCorrect": true
+                            "text": "Gesellschaft",
+                            "isCorrect": false
                         },
                         {
-                            "text": "Contained",
+                            "text": "Aufführungs- und mechani­sche Vervielfältigungsrechte",
                             "isCorrect": true
                         }
                     ]
@@ -2432,30 +2432,30 @@
                     ]
                 },
                 {
-                    "title": "SWAT",
+                    "title": "DHL",
                     "choices": [
                         {
-                            "text": "Secret",
+                            "text": "Logistik",
                             "isCorrect": false
                         },
                         {
-                            "text": "Soldiers",
+                            "text": "Deutsche",
                             "isCorrect": false
                         },
                         {
-                            "text": "Weapons",
+                            "text": "Handels",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Lynn",
                             "isCorrect": true
                         },
                         {
-                            "text": "War",
+                            "text": "Harley",
                             "isCorrect": false
                         },
                         {
-                            "text": "Tactics",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Special",
+                            "text": "Dalsey",
                             "isCorrect": true
                         }
                     ]
@@ -2490,30 +2490,30 @@
                     ]
                 },
                 {
-                    "title": "MASH",
+                    "title": "EDEKA",
                     "choices": [
                         {
-                            "text": "Medical",
+                            "text": "Albrecht",
                             "isCorrect": false
                         },
                         {
-                            "text": "Mobile",
+                            "text": "Kolonialwarenhändler",
                             "isCorrect": true
                         },
                         {
-                            "text": "Hospital",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Advanced",
+                            "text": "Deutsche",
                             "isCorrect": false
                         },
                         {
-                            "text": "Soldier",
+                            "text": "Konsumentenbelieferung",
                             "isCorrect": false
                         },
                         {
-                            "text": "Surgical",
+                            "text": "Karlsruhe",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Einkaufsgenossenschaft",
                             "isCorrect": true
                         }
                     ]
