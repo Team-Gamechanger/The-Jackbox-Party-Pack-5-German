@@ -1442,42 +1442,42 @@
         },
         {
             "id": "52944",
-            "title": "Let\u2019s Hang Out!",
+            "title": "Sympatisch, man kann sich unterhalten.",
             "prompts": [
                 {
-                    "title": "Cheers",
+                    "title": "The Big Bang Theory",
                     "choices": [
                         {
-                            "text": "Norm Peterson",
+                            "text": "Leonard Hofstadter",
                             "isCorrect": true
                         },
                         {
-                            "text": "Charlie Kelly",
+                            "text": "Barney Stinson",
                             "isCorrect": false
                         },
                         {
-                            "text": "Dr. Frasier Crane",
+                            "text": "Howard Wolowitz",
                             "isCorrect": true
                         },
                         {
-                            "text": "Ted Mosby",
+                            "text": "Daniel Düsentrieb",
                             "isCorrect": false
                         },
                         {
-                            "text": "Diane Chambers",
+                            "text": "Raj Koothrappali",
                             "isCorrect": true
                         },
                         {
-                            "text": "Rebecca Howe",
-                            "isCorrect": true
+                            "text": "Perry Cox",
+                            "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "The Krusty Krab",
+                    "title": "Die Krosse Krabbe",
                     "choices": [
                         {
-                            "text": "Spongebob Squarepants",
+                            "text": "Spongebob Schwammkopf",
                             "isCorrect": true
                         },
                         {
@@ -1485,7 +1485,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Squidward Tentacles",
+                            "text": "Thaddäus Tentakel",
                             "isCorrect": true
                         },
                         {
@@ -1493,127 +1493,127 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Sandy Cheeks",
+                            "text": "Nosferatu",
                             "isCorrect": true
                         },
                         {
-                            "text": "Marcel the Shell with Shoes On",
+                            "text": "Siegbert Schnösel",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Bluth\u2019s Frozen Banana Stand",
+                    "title": "Rammstein",
                     "choices": [
                         {
-                            "text": "Michael Bluth",
+                            "text": "Till Lindemann",
                             "isCorrect": true
                         },
                         {
-                            "text": "George Bluth",
+                            "text": "Christian Lorenz",
                             "isCorrect": true
                         },
                         {
-                            "text": "George Michael Bluth",
+                            "text": "Paul Landers",
                             "isCorrect": true
                         },
                         {
-                            "text": "Anthony Michael Bluth",
+                            "text": "Sebastian Vettel",
                             "isCorrect": false
                         },
                         {
-                            "text": "George Oscar Bluth",
+                            "text": "Oliver Riedel",
                             "isCorrect": true
                         },
                         {
-                            "text": "Job Bluth",
+                            "text": "Willy Brandt",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "The Algonquin Round Table",
+                    "title": "Die Assassinen-Bruderschaft",
                     "choices": [
                         {
-                            "text": "King Arthur",
+                            "text": "Jimmy Neutron",
                             "isCorrect": false
                         },
                         {
-                            "text": "Dorothy Parker",
+                            "text": "Ezio Auditore da Firenze",
                             "isCorrect": true
                         },
                         {
-                            "text": "Harpo Marx",
+                            "text": "Jacob Frye",
                             "isCorrect": true
                         },
                         {
-                            "text": "Sookie St. James",
+                            "text": "Ludwig von Koopa",
                             "isCorrect": false
                         },
                         {
-                            "text": "Noel Coward",
+                            "text": "Arno Victor Dorian",
                             "isCorrect": true
                         },
                         {
-                            "text": "Tallulah Bankhead",
+                            "text": "Jack the Ripper",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Luke\u2019s",
+                    "title": "Radiator Springs",
                     "choices": [
                         {
-                            "text": "Rory Gilmore",
+                            "text": "Doc Hudson",
                             "isCorrect": true
                         },
                         {
-                            "text": "Lorelai Gilmore",
+                            "text": "Sally Carrera",
                             "isCorrect": true
                         },
                         {
-                            "text": "Sookie Stackhouse",
+                            "text": "Jimmy Neutron",
                             "isCorrect": false
                         },
                         {
-                            "text": "Caitlin Snow",
+                            "text": "Kim Possible",
                             "isCorrect": false
                         },
                         {
-                            "text": "Sookie St. James",
+                            "text": "Lightning McQueen",
                             "isCorrect": true
                         },
                         {
-                            "text": "Dean Winchester",
-                            "isCorrect": false
+                            "text": "Ramone",
+                            "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Los Pollo Hermanos",
+                    "title": "Das Pilz-Königreich",
                     "choices": [
                         {
-                            "text": "Daryl Dixon",
+                            "text": "Ludwig von Koopa",
                             "isCorrect": false
                         },
                         {
-                            "text": "Walter White",
+                            "text": "Toadsworth",
                             "isCorrect": true
                         },
                         {
-                            "text": "Silvio Dante",
+                            "text": "Dr. Eggman",
                             "isCorrect": false
                         },
                         {
-                            "text": "Gustavo Fring",
+                            "text": "Yoshi",
                             "isCorrect": true
                         },
                         {
-                            "text": "Hank Schrader",
+                            "text": "Super Mario",
                             "isCorrect": true
                         },
                         {
-                            "text": "Nancy Botwin",
+                            "text": "König Buu Huu",
                             "isCorrect": false
                         }
                     ]
@@ -1622,178 +1622,178 @@
         },
         {
             "id": "52936",
-            "title": "Traditionally in It",
+            "title": "Traditionell enthalten",
             "prompts": [
                 {
-                    "title": "potato",
+                    "title": "Kartoffeln",
                     "choices": [
                         {
-                            "text": "schnitzel",
+                            "text": "Wiener Schnitzel",
                             "isCorrect": false
                         },
                         {
-                            "text": "latkes",
+                            "text": "Rösti",
                             "isCorrect": true
                         },
                         {
-                            "text": "colcannon",
+                            "text": "Thüringer Klöße",
                             "isCorrect": true
                         },
                         {
-                            "text": "shepherd\u2019s pie",
+                            "text": "Himmel und Erde",
                             "isCorrect": true
                         },
                         {
-                            "text": "pavlova",
+                            "text": "Berliner Pfannkuchen",
                             "isCorrect": false
                         },
                         {
-                            "text": "poutine",
+                            "text": "Pommes Frites",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "tomato",
+                    "title": "Tomaten",
                     "choices": [
                         {
-                            "text": "tabbouleh",
+                            "text": "Ratatouille",
                             "isCorrect": true
                         },
                         {
-                            "text": "bruschetta",
+                            "text": "Gazpacho",
                             "isCorrect": true
                         },
                         {
-                            "text": "pizza bianca",
+                            "text": "Pizza Bianca",
                             "isCorrect": false
                         },
                         {
-                            "text": "shakshouka",
+                            "text": "Pasta Napoli",
                             "isCorrect": true
                         },
                         {
-                            "text": "prosciutto",
+                            "text": "Schweinshaxe",
                             "isCorrect": false
                         },
                         {
-                            "text": "larb",
+                            "text": "Surströmming",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "rice",
+                    "title": "Reis",
                     "choices": [
                         {
-                            "text": "sashimi",
+                            "text": "Ratatouille",
                             "isCorrect": false
                         },
                         {
-                            "text": "sake",
+                            "text": "Sake",
                             "isCorrect": true
                         },
                         {
-                            "text": "succotash",
+                            "text": "Hamburger",
                             "isCorrect": false
                         },
                         {
-                            "text": "frittata",
+                            "text": "Bifteki",
                             "isCorrect": false
                         },
                         {
-                            "text": "arancini",
+                            "text": "Sushi",
                             "isCorrect": true
                         },
                         {
-                            "text": "paella",
+                            "text": "Paella",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Ian McKellen",
+                    "title": "Christoph Maria Herbst",
                     "choices": [
                         {
-                            "text": "<i>Lord of the Rings<\/i> movies",
+                            "text": "<i>Stromberg<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Hunger Games<\/i> movies",
+                            "text": "<i>Tatort Münster<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Harry Potter<\/i> movies",
+                            "text": "<i>Weihnachtsmann & Co. KG<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Game of Thrones<\/i>",
+                            "text": "<i>Richterin Barbara Salesch<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>X-Men<\/i> movies",
+                            "text": "<i>Hui Buh<\/i>-Filme",
                             "isCorrect": true
                         },
                         {
-                            "text": "soup",
+                            "text": "<i>In aller Freundschaft<\/i>",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "raw meat",
+                    "title": "rohes Fleisch",
                     "choices": [
                         {
-                            "text": "injera",
+                            "text": "Hamburger",
                             "isCorrect": false
                         },
                         {
-                            "text": "unagi sushi",
+                            "text": "Bibimbap",
                             "isCorrect": false
                         },
                         {
-                            "text": "poke",
+                            "text": "Schweine",
                             "isCorrect": true
                         },
                         {
-                            "text": "tartare",
+                            "text": "Tatar",
                             "isCorrect": true
                         },
                         {
-                            "text": "carpaccio",
+                            "text": "Carpaccio",
                             "isCorrect": true
                         },
                         {
-                            "text": "satay",
+                            "text": "Döner",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "whiskey",
+                    "title": "Alkohol",
                     "choices": [
                         {
-                            "text": "Old Fashioned",
+                            "text": "Schwarzwälder Kirschtorte",
                             "isCorrect": true
                         },
                         {
-                            "text": "Daiquiri",
+                            "text": "Marmorkuchen",
                             "isCorrect": false
                         },
                         {
-                            "text": "Mai Tai",
+                            "text": "Zwiebelsuppe",
                             "isCorrect": false
                         },
                         {
-                            "text": "Gin and Tonic",
+                            "text": "Kaiserschmarrn",
                             "isCorrect": false
                         },
                         {
-                            "text": "Irish Coffee",
+                            "text": "Tiramisu",
                             "isCorrect": true
                         },
                         {
-                            "text": "Manhattan",
+                            "text": "Long Island Iced Tea",
                             "isCorrect": true
                         }
                     ]
@@ -1802,10 +1802,10 @@
         },
         {
             "id": "52930",
-            "title": "I Can\u2019t Believe You Went There",
+            "title": "Ich wusste gar nicht, dass du auch dort warst",
             "prompts": [
                 {
-                    "title": "the moon",
+                    "title": "der Mond",
                     "choices": [
                         {
                             "text": "Neil Armstrong",
@@ -1816,11 +1816,11 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Pete Conrad",
+                            "text": "Wallace & Gromit",
                             "isCorrect": true
                         },
                         {
-                            "text": "Sally Banks",
+                            "text": "Chris Hadfield",
                             "isCorrect": false
                         },
                         {
@@ -1828,28 +1828,20 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Anatoly Filipchenko",
+                            "text": "Robin Hood",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "hell",
+                    "title": "Hölle",
                     "choices": [
                         {
-                            "text": "Dante",
+                            "text": "Hel",
                             "isCorrect": true
                         },
                         {
-                            "text": "Bilbo Baggins",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Percy Jackson",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Gulliver",
+                            "text": "Patrick Star",
                             "isCorrect": false
                         },
                         {
@@ -1857,45 +1849,53 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Paddington Bear",
+                            "text": "Johannes der Täufer",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Bart Simpson",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Bob der Baumeister",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "back in time",
+                    "title": "in der Zukunft",
                     "choices": [
                         {
-                            "text": "Marty McFly",
+                            "text": "Thaddäus Tentakel",
                             "isCorrect": true
                         },
                         {
-                            "text": "Han Solo",
+                            "text": "Julius Cäsar",
                             "isCorrect": false
                         },
                         {
-                            "text": "Bill & Ted",
+                            "text": "Stewie Griffin",
                             "isCorrect": true
                         },
                         {
-                            "text": "Princess Merida",
+                            "text": "Kratos",
                             "isCorrect": false
                         },
                         {
-                            "text": "Austin Powers",
+                            "text": "Eric Cartman",
                             "isCorrect": true
                         },
                         {
-                            "text": "The Doctor",
+                            "text": "Philip J. Fry",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Harvard University",
+                    "title": "Oxford Universität",
                     "choices": [
                         {
-                            "text": "Barack Obama",
+                            "text": "J.R.R. Tolkien",
                             "isCorrect": true
                         },
                         {
@@ -1903,77 +1903,77 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Rachael Ray",
+                            "text": "Alan Turing",
                             "isCorrect": false
                         },
                         {
-                            "text": "Conan O\u2019Brien",
+                            "text": "Stephen Hawking",
                             "isCorrect": true
                         },
                         {
-                            "text": "Rashida Jones",
+                            "text": "Emma Watson",
                             "isCorrect": true
                         },
                         {
-                            "text": "Henry Ford",
-                            "isCorrect": false
-                        }
-                    ]
-                },
-                {
-                    "title": "outer space via NASA shuttle",
-                    "choices": [
-                        {
-                            "text": "chimpanzees",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "possums",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "jellyfish",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "human children",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "snails",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "iguanas",
+                            "text": "Wilhelm Conrad Röntgen",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "the Hunger Games",
+                    "title": "Gefängnis",
                     "choices": [
                         {
-                            "text": "Rue",
+                            "text": "Martin Semmelrogge",
                             "isCorrect": true
                         },
                         {
-                            "text": "Sensation",
+                            "text": "Christian Lindner",
                             "isCorrect": false
                         },
                         {
-                            "text": "Glimmer",
+                            "text": "Boris Becker",
                             "isCorrect": true
                         },
                         {
-                            "text": "Clove",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Thabius",
+                            "text": "Herbert Grönemeyer",
                             "isCorrect": false
                         },
                         {
-                            "text": "Granuch",
+                            "text": "Uli Hoeneß",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Hella von Sinnen",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "die Hungerspiele",
+                    "choices": [
+                        {
+                            "text": "Peeta Mellark",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Coriolanus Snow",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Finnick Odair",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Haymitch Abernathy",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Plutarch Heavensbee",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Seneca Crane",
                             "isCorrect": false
                         }
                     ]
