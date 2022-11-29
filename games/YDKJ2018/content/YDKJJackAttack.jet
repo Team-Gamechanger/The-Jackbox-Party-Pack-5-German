@@ -1982,7 +1982,7 @@
         },
         {
             "id": "52899",
-            "title": "Party People",
+            "title": "Partygänger",
             "prompts": [
                 {
                     "title": "Mario Party",
@@ -1992,61 +1992,61 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Kappa",
+                            "text": "Kugelwilli",
                             "isCorrect": false
                         },
                         {
-                            "text": "Princess Pear",
+                            "text": "Wiggler",
                             "isCorrect": false
                         },
                         {
-                            "text": "Wario",
+                            "text": "Monty Maulwurf",
                             "isCorrect": true
                         },
                         {
-                            "text": "Donkey Kong",
+                            "text": "Knochentrocken",
                             "isCorrect": true
                         },
                         {
-                            "text": "Yogi",
+                            "text": "Lakitu",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "the Last Supper",
+                    "title": "<i>Ballermann<\/i>-Künstler",
                     "choices": [
                         {
-                            "text": "Peter",
+                            "text": "Ikke Hüftgold",
                             "isCorrect": true
                         },
                         {
-                            "text": "Philip",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Sebastian",
+                            "text": "Peter Maffay",
                             "isCorrect": false
                         },
                         {
-                            "text": "Theodore",
+                            "text": "Adel Tawil",
                             "isCorrect": false
                         },
                         {
-                            "text": "Simon",
+                            "text": "Lorenz Büffel",
                             "isCorrect": true
                         },
                         {
-                            "text": "Bartholomew",
+                            "text": "Peter Wackel",
                             "isCorrect": true
+                        },
+                        {
+                            "text": "Peter Fox",
+                            "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "the Red Wedding",
+                    "title": "Rote Hochzeit",
                     "choices": [
                         {
-                            "text": "Bran Stark",
+                            "text": "Jaime Lennister",
                             "isCorrect": false
                         },
                         {
@@ -2054,15 +2054,15 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Talisa Stark",
+                            "text": "Roose Bolton",
                             "isCorrect": true
                         },
                         {
-                            "text": "Ramsay Bolton",
+                            "text": "Davos Seewert",
                             "isCorrect": false
                         },
                         {
-                            "text": "Tony Stark",
+                            "text": "Eddard Stark",
                             "isCorrect": false
                         },
                         {
@@ -2072,36 +2072,36 @@
                     ]
                 },
                 {
-                    "title": "in <i>Party of Five<\/i>",
+                    "title": "60. Geburtstag in 2023",
                     "choices": [
                         {
-                            "text": "Neve Campbell",
+                            "text": "Quentin Tarantino",
                             "isCorrect": true
                         },
                         {
-                            "text": "Shannen Doherty",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Katie Holmes",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Matthew Fox",
+                            "text": "Nino de Angelo",
                             "isCorrect": true
                         },
                         {
-                            "text": "Scott Wolf",
+                            "text": "Campino",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Günther Jauch",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Til Schweiger",
                             "isCorrect": true
                         },
                         {
-                            "text": "Dick Wolf",
-                            "isCorrect": false
+                            "text": "Brad Pitt",
+                            "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "the Republican Party",
+                    "title": "Republikaner",
                     "choices": [
                         {
                             "text": "Abraham Lincoln",
@@ -2112,7 +2112,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "John F. Kennedy",
+                            "text": "Franklin D. Roosevelt",
                             "isCorrect": false
                         },
                         {
@@ -2120,7 +2120,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Franklin D. Roosevelt",
+                            "text": "Harry S. Truman",
                             "isCorrect": false
                         },
                         {
@@ -2130,14 +2130,14 @@
                     ]
                 },
                 {
-                    "title": "in a Jackbox Party Pack",
+                    "title": "in einem Jackbox Party Pack",
                     "choices": [
                         {
-                            "text": "<i>Fibbage 3<\/i>",
+                            "text": "<i>Blather Round<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Split the Room<\/i>",
+                            "text": "<i>You Don\u2019t Know Jack: Full Stream<\/i>",
                             "isCorrect": true
                         },
                         {
@@ -2149,11 +2149,11 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Bidiots<\/i>",
+                            "text": "<i>Survive the Internet<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Space Farts<\/i>",
+                            "text": "<i>Split the Space<\/i>",
                             "isCorrect": false
                         }
                     ]
