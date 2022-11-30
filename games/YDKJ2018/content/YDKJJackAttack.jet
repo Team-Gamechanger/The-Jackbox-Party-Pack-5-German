@@ -2101,30 +2101,30 @@
                     ]
                 },
                 {
-                    "title": "Republikaner",
+                    "title": "Eine Partie Ballsport",
                     "choices": [
                         {
-                            "text": "Abraham Lincoln",
+                            "text": "Unihockey",
                             "isCorrect": true
                         },
                         {
-                            "text": "Theodore Roosevelt",
+                            "text": "Badminton",
                             "isCorrect": true
                         },
                         {
-                            "text": "Franklin D. Roosevelt",
+                            "text": "Nordische Kombination",
                             "isCorrect": false
                         },
                         {
-                            "text": "Herbert Hoover",
+                            "text": "Bowling",
                             "isCorrect": true
                         },
                         {
-                            "text": "Harry S. Truman",
+                            "text": "Leichtathletik",
                             "isCorrect": false
                         },
                         {
-                            "text": "Richard Nixon",
+                            "text": "Tischtennis",
                             "isCorrect": true
                         }
                     ]
@@ -2702,178 +2702,178 @@
         },
         {
             "id": "52684",
-            "title": "A Walk in the Parks",
+            "title": "Park hier, Park dort",
             "prompts": [
                 {
-                    "title": "US National Parks",
+                    "title": "Deutsche Nationalparks",
                     "choices": [
                         {
-                            "text": "Zion",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Wind Cave",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Arcadia",
+                            "text": "Nationalpark Köln-Bonn",
                             "isCorrect": false
                         },
                         {
-                            "text": "Pinnacles",
+                            "text": "Nationalpark Eifel",
                             "isCorrect": true
                         },
                         {
-                            "text": "Snow Caverns",
+                            "text": "Nationalpark Kreuzberg",
                             "isCorrect": false
                         },
                         {
-                            "text": "Glacier",
+                            "text": "Nationalpark Harz",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Nationalpark Weißwald",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Nationalpark Schwarzwald",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Theme Parks in Disney World",
+                    "title": "Themenbereiche im Europa-Park",
                     "choices": [
                         {
-                            "text": "Disneyland",
+                            "text": "Klugheim",
                             "isCorrect": false
                         },
                         {
-                            "text": "Magical Kingdom",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Epcot",
+                            "text": "Skandinavien",
                             "isCorrect": true
                         },
                         {
-                            "text": "Magic Kingdom",
+                            "text": "Island",
                             "isCorrect": true
                         },
                         {
-                            "text": "The Wizarding World of Harry Potter",
+                            "text": "Luxemburg",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Japan",
                             "isCorrect": false
                         },
                         {
-                            "text": "Animal Kingdom",
+                            "text": "Grimm\u2019s Märchenwald",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Royal Parks in London",
+                    "title": "Parkregeln der StVo in Deutschland",
                     "choices": [
                         {
-                            "text": "Royal Goose Gardens",
+                            "text": "Absolutes Halteverbot darf beparkt werden",
                             "isCorrect": false
                         },
                         {
-                            "text": "Bushy Park",
+                            "text": "Mindestens 5 Meter Abstand zu Kreuzungen",
                             "isCorrect": true
                         },
                         {
-                            "text": "The Bristles Heath",
+                            "text": "In 30er Zonen darf entgegen der Fahrtrichtung geparkt werden",
                             "isCorrect": false
                         },
                         {
-                            "text": "Kensington Gardens",
+                            "text": "Parken auf Spielstraßen ist verboten",
                             "isCorrect": true
                         },
                         {
-                            "text": "The Kempt Hedge and Chestnut Hill",
+                            "text": "Parken in zweiter Reihe ist in Einbahnstraßen erlaubt",
                             "isCorrect": false
                         },
                         {
-                            "text": "The Green Park",
+                            "text": "Der fließende Verkehr hat immer Vorrang",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Parks from the TV Series <i>Westworld<\/i>",
+                    "title": "Auch ein Park-Haus",
                     "choices": [
                         {
-                            "text": "Westland",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Magical Kingdom",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "The Raj",
+                            "text": "Dr. Gregory House",
                             "isCorrect": true
                         },
                         {
-                            "text": "Caesarworld",
+                            "text": "Bruce Wayne",
                             "isCorrect": false
                         },
                         {
-                            "text": "Shogunworld",
+                            "text": "James Parkinson",
                             "isCorrect": true
                         },
                         {
-                            "text": "Westworld",
+                            "text": "Christopher Turk",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Peter Parker",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Hausmeister",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Major League Baseball Parks",
+                    "title": "Parks bei der Formel 1",
                     "choices": [
                         {
-                            "text": "Spirit Air Parkway",
+                            "text": "Red Bull Park",
                             "isCorrect": false
                         },
                         {
-                            "text": "AT&T Park",
+                            "text": "Circuit Park Zandvoort",
                             "isCorrect": true
                         },
                         {
-                            "text": "Sunny Delight Park",
+                            "text": "Hungaropark",
                             "isCorrect": false
                         },
                         {
-                            "text": "Petco Park",
+                            "text": "Albert Park Circuit",
                             "isCorrect": true
                         },
                         {
-                            "text": "Minute Maid Park",
+                            "text": "Istanbul Park Circuit",
                             "isCorrect": true
                         },
                         {
-                            "text": "Verizon Wireless Park",
+                            "text": "Park de Spa-Francorchamps",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "<i>Parks and Recreation<\/i> characters",
+                    "title": "Charaktere aus <i>Parks and Recreation<\/i>",
                     "choices": [
                         {
                             "text": "Leslie Knope",
                             "isCorrect": true
                         },
                         {
-                            "text": "Eleanor Shellstrop",
+                            "text": "Walter White",
                             "isCorrect": false
                         },
                         {
-                            "text": "Rebecca Bunch",
+                            "text": "Tony Soprano",
                             "isCorrect": false
+                        },
+                        {
+                            "text": "Ron Swanson",
+                            "isCorrect": true
                         },
                         {
                             "text": "Tom Haverford",
                             "isCorrect": true
                         },
                         {
-                            "text": "Donna Meagle",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Ray Holt",
+                            "text": "Daryl Dixon",
                             "isCorrect": false
                         }
                     ]
