@@ -8276,23 +8276,23 @@
         {
             "id": "50570",
             "category": {
-                "text": "Awkward Moments in Medical History"
+                "text": "Peinliche Momente der Medizingeschichte"
             },
             "choices": [
                 {
-                    "text": "Jonas Salk being humbled by the small-pox vaccine",
+                    "text": "Jonas Salk wird durch den Pockenimpfstoff krank",
                     "isCorrect": false
                 },
                 {
-                    "text": "Edward Jenner being made a fool of by insulin",
+                    "text": "Edward Jenner wird von Insulin veräppelt",
                     "isCorrect": false
                 },
                 {
-                    "text": "Frederick Banting being embarrassed by the polio vaccine",
+                    "text": "Frederick Banting wird durch den Polio-Impfstoff in die Mangel genommen",
                     "isCorrect": false
                 },
                 {
-                    "text": "Alexander Fleming being shamed by penicillin",
+                    "text": "Alexander Fleming wird durch Penicillin bloßgestellt",
                     "isCorrect": true
                 }
             ],
@@ -8301,7 +8301,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Who is getting a taste of their own medicine?"
+                    "text": "Wer bekommt hier seine eigene Medizin zu schmecken?"
                 }
             ]
         },
@@ -8340,23 +8340,23 @@
         {
             "id": "50162",
             "category": {
-                "text": "When Life Gives You LuLu Lemons"
+                "text": "Wenn das Leben dir nur Philosophie gibt"
             },
             "choices": [
                 {
-                    "text": "\u201cLeggings are just leggings.\u201d",
+                    "text": "\u201cLeggings sind einfach nur Leggings.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cLeggings are pants, but not in the office.\u201d",
+                    "text": "\u201cLeggings sind Hosen, aber nicht im Büro.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cBut are all pants leggings?\u201d",
+                    "text": "\u201cAber sind alle Hosen Leggings?\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cLeggings? Pants? It matters not.\u201d",
+                    "text": "\u201cLeggings? Hosen? Es spielt keine Rolle.\u201d",
                     "isCorrect": false
                 }
             ],
@@ -8365,7 +8365,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "How would Socrates respond to my assertion that leggings are pants?"
+                    "text": "Wie würde Sokrates auf meine Behauptung reagieren, dass Leggings Hosen sind?"
                 }
             ]
         },
@@ -8404,23 +8404,23 @@
         {
             "id": "50149",
             "category": {
-                "text": "Muppet Shade"
+                "text": "Das muss ich erstmal ziehen lassen"
             },
             "choices": [
                 {
-                    "text": "India, but that\u2019s none of my business",
+                    "text": "Indien, aber das geht mich eigentlich nichts an",
                     "isCorrect": false
                 },
                 {
-                    "text": "China, but that\u2019s none of my business",
+                    "text": "China, aber das geht mich eigentlich nichts an",
                     "isCorrect": true
                 },
                 {
-                    "text": "Sri Lanka, but that\u2019s none of my business",
+                    "text": "Sri Lanka, aber das geht mich eigentlich nichts an",
                     "isCorrect": false
                 },
                 {
-                    "text": "Kenya, but that\u2019s none of my business",
+                    "text": "Kenia, aber das geht mich eigentlich nichts an",
                     "isCorrect": false
                 }
             ],
@@ -8429,30 +8429,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If Kermit the Frog were sipping so much tea he needed to move to the country that leads the world in tea production, where would he move?"
+                    "text": "Wenn Kermit der Frosch so viel Tee trinken würde, dass er in das Land ziehen müsste, das in der Teeproduktion weltweit führend ist, wohin würde er ziehen?"
                 }
             ]
         },
         {
             "id": "50143",
             "category": {
-                "text": "Please Clap"
+                "text": "Applaus, bitte"
             },
             "choices": [
                 {
-                    "text": "18 times",
+                    "text": "18 Mal",
                     "isCorrect": true
                 },
                 {
-                    "text": "22 times",
+                    "text": "22 Mal",
                     "isCorrect": false
                 },
                 {
-                    "text": "27 times",
+                    "text": "27 Mal",
                     "isCorrect": false
                 },
                 {
-                    "text": "30 times",
+                    "text": "30 Mal",
                     "isCorrect": false
                 }
             ],
@@ -8461,15 +8461,15 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If. You. Can\u2019t. Tell. Me. How. Many. Times. I\u2019ve. Clapped. During. This. Question."
+                    "text": "Wenn. Sie. Mir. Nicht. Sagen. Können. Wie. Oft. Ich. Bei. Dieser. Frage. Geklatscht. Habe."
                 },
                 {
                     "timing": "S + 7.92",
-                    "text": "You. Don\u2019t. Deserve. Any. Cash."
+                    "text": "Bekommen. Sie. Kein. Geld."
                 },
                 {
                     "timing": "S + 13.75",
-                    "text": "Well?"
+                    "text": "Und?"
                 }
             ]
         },
@@ -8508,23 +8508,23 @@
         {
             "id": "12588",
             "category": {
-                "text": "Sea Señor"
+                "text": "Hat Aquaman eine See-Schwäche"
             },
             "choices": [
                 {
-                    "text": "While getting beat up in the Cosmonauts Sea",
+                    "text": "Während er im Kosmonautensee verprügelt wird",
                     "isCorrect": false
                 },
                 {
-                    "text": "While getting beat up in the Sea of the Hebrides",
+                    "text": "Während er im Hebridensee verprügelt wird",
                     "isCorrect": false
                 },
                 {
-                    "text": "While getting beat up in the Sea of Sardinia",
+                    "text": "Während er im Königssee verprügelt wird",
                     "isCorrect": false
                 },
                 {
-                    "text": "While getting beat up in the Sea of Tranquility",
+                    "text": "Während er im Friedenssee verprügelt wird",
                     "isCorrect": true
                 }
             ],
@@ -8533,30 +8533,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "When would Aquaman NOT be able to be saved by sea creatures?"
+                    "text": "Wann würde Aquaman NICHT von Meeresbewohnern gerettet werden können?"
                 }
             ]
         },
         {
             "id": "53269",
             "category": {
-                "text": "Poppin Bottles"
+                "text": "Zünd den Knaller"
             },
             "choices": [
                 {
-                    "text": "sugar fermentation",
+                    "text": "Alkoholische Gärung",
                     "isCorrect": true
                 },
                 {
-                    "text": "liquid condensation",
+                    "text": "Flüssigkeitskondensation",
                     "isCorrect": false
                 },
                 {
-                    "text": "rapid cooling",
+                    "text": "Schock-Kühlung",
                     "isCorrect": false
                 },
                 {
-                    "text": "atmospheric pressure",
+                    "text": "Atmosphärischer Druck",
                     "isCorrect": false
                 }
             ],
@@ -8565,42 +8565,42 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "OH NO!"
+                    "text": "OH NEIN!"
                 },
                 {
                     "timing": "S + 1.02",
-                    "text": "The champagne cork just popped off and struck my cat Mayonnaise!"
+                    "text": "Der Sektkorken ist einfach losgegangen und hat meine Katze Polly getroffen!"
                 },
                 {
                     "timing": "S + 5.05",
-                    "text": "Why?!!"
+                    "text": "Warum?!!"
                 },
                 {
                     "timing": "S + 5.95",
-                    "text": "WHY DID THIS HAPPEN?!!!"
+                    "text": "WARUM IST DAS PASSIERT?!!!"
                 }
             ]
         },
         {
             "id": "53252",
             "category": {
-                "text": "A Hot Cup of GOOOOAL!"
+                "text": "Alles steht auf TOOOOOR!"
             },
             "choices": [
                 {
-                    "text": "three cups of English Tea",
+                    "text": "drei Tassen englischen Tee",
                     "isCorrect": false
                 },
                 {
-                    "text": "four cups of piping cold Spanish gazpacho soup",
+                    "text": "vier Tassen kalte spanische Gazpacho-Suppe",
                     "isCorrect": false
                 },
                 {
-                    "text": "five cups of Brazilian Caipirinha",
+                    "text": "fünf Gläser brasilianischen Caipirinha",
                     "isCorrect": true
                 },
                 {
-                    "text": "ten cups of German Pilsner",
+                    "text": "zehn Gläser König Pilsener",
                     "isCorrect": false
                 }
             ],
@@ -8609,7 +8609,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which drink order best represents the country that has won the most men\u2019s World Cups?"
+                    "text": "Welche Getränkebestellung steht am besten für das Land, das die meisten Fußballweltmeisterschaften der Männer gewonnen hat?"
                 }
             ]
         },
@@ -8744,23 +8744,23 @@
         {
             "id": "51529",
             "category": {
-                "text": "Trippin\u2019 on Friendship"
+                "text": "Die Freundschaft gefährden"
             },
             "choices": [
                 {
-                    "text": "a grocery store",
+                    "text": "im Supermarkt",
                     "isCorrect": true
                 },
                 {
-                    "text": "a hardware store",
+                    "text": "im Baumarkt",
                     "isCorrect": false
                 },
                 {
-                    "text": "a craft store",
+                    "text": "im Spielzeugladen",
                     "isCorrect": false
                 },
                 {
-                    "text": "a pharmacy",
+                    "text": "in der Apotheke",
                     "isCorrect": false
                 }
             ],
@@ -8769,11 +8769,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Quick..."
+                    "text": "Schnell..."
                 },
                 {
                     "timing": "S + 0.61",
-                    "text": "where can I get some MESCLUN?"
+                    "text": "wo bekomme ich MESCLUN her?"
                 }
             ]
         },
@@ -8920,7 +8920,7 @@
         {
             "id": "51402",
             "category": {
-                "text": "Required Reading for Dragon Breeding"
+                "text": "Pflichtlektüre zur Drachenzucht"
             },
             "choices": [
                 {
@@ -8945,7 +8945,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Who wrote <i>Fantastic Beasts and Where to Find Them<\/i>?"
+                    "text": "Wer schrieb <i>Phantastische Tierwesen und wo sie zu finden sind<\/i>?"
                 }
             ]
         },
