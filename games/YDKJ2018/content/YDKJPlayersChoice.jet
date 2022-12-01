@@ -48,11 +48,11 @@
             },
             "id": "53457",
             "choice1": {
-                "text": "eine Frage, bei der Jack wütend wird",
+                "text": "eine Frage, bei der Jack sauer wird",
                 "id": "51952"
             },
             "choice2": {
-                "text": "eine Frage, bei der Jack sich rächt",
+                "text": "eine Frage, bei der Jack neutral bleibt",
                 "id": "50539"
             }
         },
@@ -76,11 +76,11 @@
             },
             "id": "53397",
             "choice1": {
-                "text": "eine Frage, bei der sich die Antwort auf Orange reimt",
+                "text": "eine Frage, bei der sich die Antwort auf Topf reimt",
                 "id": "53392"
             },
             "choice2": {
-                "text": "eine Frage, bei der sich die Antwort auf Lila reimt",
+                "text": "eine Frage, bei der sich die Antwort auf Lila reimt",#
                 "id": "53393"
             }
         },
@@ -90,11 +90,11 @@
             },
             "id": "53391",
             "choice1": {
-                "text": "eine Frage, die mit Liebe gestellt wird",
+                "text": "eine Frage, die mit Liebe gestellt wird",#
                 "id": "52884"
             },
             "choice2": {
-                "text": "eine Frage, die mit Bosheit gestellt wird",
+                "text": "eine Frage, die mit Bosheit gestellt wird",#
                 "id": "52883"
             }
         },
@@ -132,11 +132,11 @@
             },
             "id": "53355",
             "choice1": {
-                "text": "eine Frage über Mama",
+                "text": "eine Frage über Mama",#
                 "id": "52925"
             },
             "choice2": {
-                "text": "eine Frage über Papa",
+                "text": "eine Frage über Papa",#
                 "id": "52926"
             }
         },
@@ -146,7 +146,7 @@
             },
             "id": "53354",
             "choice1": {
-                "text": "eine kluge Frage",
+                "text": "eine kluge Frage",#
                 "id": "52885"
             },
             "choice2": {
@@ -160,11 +160,11 @@
             },
             "id": "53020",
             "choice1": {
-                "text": "eine attraktive Frage",
+                "text": "eine attraktive Frage",#
                 "id": "52753"
             },
             "choice2": {
-                "text": "eine Frage mit viel Sinn für Humor gestellt bekommen",
+                "text": "eine Frage mit viel Sinn für Humor gestellt bekommen",#
                 "id": "52754"
             }
         },
@@ -174,11 +174,11 @@
             },
             "id": "53018",
             "choice1": {
-                "text": "eine Frage, die Sie wissen",
+                "text": "eine Frage, die Sie wissen",#
                 "id": "52985"
             },
             "choice2": {
-                "text": "eine Frage, die Sie lieber nicht wüssten",
+                "text": "eine Frage, die Sie lieber nicht wüssten",#
                 "id": "52986"
             }
         },
@@ -188,11 +188,11 @@
             },
             "id": "53014",
             "choice1": {
-                "text": "eine Frage über Aliens",
+                "text": "eine Frage über Aliens",#
                 "id": "52873"
             },
             "choice2": {
-                "text": "eine Frage über Roboter",
+                "text": "eine Frage über Roboter",#
                 "id": "52872"
             }
         },
@@ -202,11 +202,11 @@
             },
             "id": "53013",
             "choice1": {
-                "text": "eine Frage, die zwei Fliegen mit einer Klappe schlägt",
+                "text": "eine Frage, die zwei Fliegen mit einer Klappe schlägt",#
                 "id": "52870"
             },
             "choice2": {
-                "text": "eine Frage, die zwei Klappen mit einer Fliege schlägt",
+                "text": "eine Frage, die zwei Klappen mit einer Fliege schlägt",#
                 "id": "52871"
             }
         },
@@ -216,11 +216,11 @@
             },
             "id": "53012",
             "choice1": {
-                "text": "eine Frage, bei der Sie Ihre Hühner NICHT zählen, bevor sie geschlüpft sind",
+                "text": "eine Frage, bei der Sie Ihre Hühner NICHT zählen, bevor sie geschlüpft sind",#
                 "id": "52851"
             },
             "choice2": {
-                "text": "eine Frage, bei der Sie Ihre Hühner DOCH zählen, bevor sie geschlüpft sind",
+                "text": "eine Frage, bei der Sie Ihre Hühner DOCH zählen, bevor sie geschlüpft sind",#
                 "id": "52850"
             }
         },
@@ -230,11 +230,11 @@
             },
             "id": "53011",
             "choice1": {
-                "text": "eine Frage über tollen SEX",
+                "text": "eine Frage über tollen SEX",#
                 "id": "52733"
             },
             "choice2": {
-                "text": "eine Frage über die tolle SECHS",
+                "text": "eine Frage über die tolle SECHS",#
                 "id": "52734"
             }
         },
@@ -244,11 +244,11 @@
             },
             "id": "53008",
             "choice1": {
-                "text": "eine Frage mit Airhorns",
+                "text": "eine Frage mit Airhorns",#
                 "id": "51958"
             },
             "choice2": {
-                "text": "eine Frage über Airhorns",
+                "text": "eine Frage über Airhorns",#
                 "id": "51957"
             }
         },
@@ -258,11 +258,11 @@
             },
             "id": "53007",
             "choice1": {
-                "text": "eine delikate Frage über Musicals",
+                "text": "eine delikate Frage über Musicals",#
                 "id": "52108"
             },
             "choice2": {
-                "text": "eine musikalische Frage über Delikatessen",
+                "text": "eine musikalische Frage über Delikatessen",#
                 "id": "52110"
             }
         },
@@ -272,11 +272,11 @@
             },
             "id": "52534",
             "choice1": {
-                "text": "eine laute Frage",
+                "text": "eine laute Frage",#
                 "id": "51828"
             },
             "choice2": {
-                "text": "eine leise Frage",
+                "text": "eine leise Frage",#
                 "id": "51830"
             }
         },
@@ -286,11 +286,11 @@
             },
             "id": "52526",
             "choice1": {
-                "text": "eine kurze Frage",
+                "text": "eine kurze Frage",#
                 "id": "51940"
             },
             "choice2": {
-                "text": "eine lange Frage",
+                "text": "eine lange Frage",#
                 "id": "51941"
             }
         },
@@ -300,11 +300,11 @@
             },
             "id": "52524",
             "choice1": {
-                "text": "eine Frage, die Jack aufmuntert",
+                "text": "eine Frage, die Jack aufmuntert",#
                 "id": "51966"
             },
             "choice2": {
-                "text": "eine Frage, die Jacks Gefühle verletzt",
+                "text": "eine Frage, die Jacks Gefühle verletzt",#
                 "id": "51965"
             }
         },
@@ -314,11 +314,11 @@
             },
             "id": "52523",
             "choice1": {
-                "text": "eine Frage, in der alles richtig geschrieben ist",
+                "text": "eine Frage, in der alles richtig geschrieben ist",#
                 "id": "51968"
             },
             "choice2": {
-                "text": "eine Frage, in der alles falsch geschrieben ist",
+                "text": "eine Frage, in der alles falsch geschrieben ist",#
                 "id": "51967"
             }
         },
@@ -328,11 +328,11 @@
             },
             "id": "52521",
             "choice1": {
-                "text": "eine knifflige Frage",
+                "text": "eine knifflige Frage",#
                 "id": "51978"
             },
             "choice2": {
-                "text": "eine eindeutige Frage",
+                "text": "eine eindeutige Frage",#
                 "id": "51977"
             }
         },
@@ -342,11 +342,11 @@
             },
             "id": "52518",
             "choice1": {
-                "text": "eine Frage, bei der die Antwort Til Schweiger lautet",
+                "text": "eine Frage, bei der die Antwort Til Schweiger lautet",#
                 "id": "51937"
             },
             "choice2": {
-                "text": "eine Frage, bei der die Antwort NICHT Til Schweiger lautet",
+                "text": "eine Frage, bei der die Antwort NICHT Til Schweiger lautet",#
                 "id": "51938"
             }
         },
@@ -356,11 +356,11 @@
             },
             "id": "52517",
             "choice1": {
-                "text": "eine Frage mit Nüssen",
+                "text": "eine Frage mit Nüssen",#
                 "id": "51975"
             },
             "choice2": {
-                "text": "eine Frage ohne Nüsse",
+                "text": "eine Frage ohne Nüsse",#
                 "id": "51974"
             }
         },
@@ -370,11 +370,11 @@
             },
             "id": "52515",
             "choice1": {
-                "text": "eine einfache Frage",
+                "text": "eine einfache Frage",#
                 "id": "51787"
             },
             "choice2": {
-                "text": "eine schwierige Frage",
+                "text": "eine schwierige Frage",#
                 "id": "51788"
             }
         }

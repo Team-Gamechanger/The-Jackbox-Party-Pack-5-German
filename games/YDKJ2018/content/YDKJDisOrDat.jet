@@ -2643,41 +2643,41 @@
         {
             "questions": [
                 {
-                    "text": "Tint",
+                    "text": "Tönung",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Bright",
-                    "correctChoiceString": "dis"
-                },
-                {
-                    "text": "Easy",
-                    "correctChoiceString": "dis"
-                },
-                {
-                    "text": "Resolution",
+                    "text": "Gamma",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Glow",
+                    "text": "Deckungsschatten",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Dark",
-                    "correctChoiceString": "dis"
-                },
-                {
-                    "text": "Smoothness",
+                    "text": "Auflösung",
                     "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Relegation",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Abschlag",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Lange Ecken",
+                    "correctChoiceString": "dis"
                 }
             ],
             "disChoice": {
-                "longText": "a Netflix original program",
-                "shortText": "ON NETFLIX"
+                "longText": "Ein Fußball-Begriff",
+                "shortText": "FUSSBALL"
             },
             "datChoice": {
-                "longText": "a picture calibration setting on my HD TV",
-                "shortText": "IN MY TV SETTINGS"
+                "longText": "eine Bildkalibrierungseinstellung auf meinem Fernseher",
+                "shortText": "IN MEINEN TV EINSTELLUNGEN"
             },
             "id": "50171",
             "category": {

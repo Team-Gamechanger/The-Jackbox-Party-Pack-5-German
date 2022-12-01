@@ -147,24 +147,24 @@
         {
             "id": "53395",
             "category": {
-                "text": "A Question with an Ulterior Motive"
+                "text": "Eine Frage mit einer bösen Absicht"
             },
             "choices": [
                 {
-                    "text": "\u201cWasn\u2019t that the day the Lindbergh baby was kidnapped?\u201d",
+                    "text": "\u201cWar das nicht der Tag, an dem der Kalte Krieg begann?\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cWasn\u2019t that the day D.B. Cooper hijacked a plane?\u201d",
+                    "text": "\u201cWar das nicht der Tag, an dem Martin Luther King ermordet wurde?\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cWasn\u2019t that the day the Black Dahlia was found?\u201d",
+                    "text": "\u201cWar das nicht der Tag, an dem der Reichstag gebrannt hat?\u201d",
                     "isCorrect": false
                 },
                 {
                     "best": true,
-                    "text": "\u201cCookie was with me the whole day, officer.\u201d",
+                    "text": "\u201cJack war den ganzen Tag bei mir, Herr Kommissar.\u201d",
                     "isCorrect": false
                 }
             ],
@@ -173,18 +173,18 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If anybody were to ask where I was on Nov. 24, 1971..."
+                    "text": "Wenn Sie jemand fragen würde, wo ich am 4. April 1968 war..."
                 },
                 {
                     "timing": "S + 5.38",
-                    "text": "what would you say?"
+                    "text": "was würden Sie sagen?"
                 }
             ]
         },
         {
             "id": "53394",
             "category": {
-                "text": "A Question with Nothing to Hide"
+                "text": "Eine Frage, die nichts zu verbergen hat"
             },
             "choices": [
                 {
@@ -209,7 +209,7 @@
             "questionText": [
                 {
                     "timing": "S + 1.75",
-                    "text": "The answer is C."
+                    "text": "Die Antwort lautet C."
                 }
             ]
         },
@@ -252,23 +252,23 @@
         {
             "id": "53392",
             "category": {
-                "text": "A Question Where the Answer Rhymes with \u201cOrange\u201d"
+                "text": "Eine Frage, bei der sich die Antwort auf Topf reimt"
             },
             "choices": [
                 {
-                    "text": "Blorenge",
+                    "text": "Krottenkopf",
                     "isCorrect": true
                 },
                 {
-                    "text": "Glarange",
+                    "text": "Biberschopf",
                     "isCorrect": false
                 },
                 {
-                    "text": "Warrenge",
+                    "text": "Dentahopf",
                     "isCorrect": false
                 },
                 {
-                    "text": "McGlorenge",
+                    "text": "Mosenkropf",
                     "isCorrect": false
                 }
             ],
@@ -284,23 +284,23 @@
         {
             "id": "53334",
             "category": {
-                "text": "A Question that Keeps Things Casual"
+                "text": "Eine Frage, die die Sache locker angeht"
             },
             "choices": [
                 {
-                    "text": "<i>No Strings Attached<\/i>",
+                    "text": "Hey, kann ich nen Orangenlikör haben?",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Just Friends<\/i>",
+                    "text": "Hi, könnt ich ein Ginger Ale haben?",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>A Lot Like Love<\/i>",
+                    "text": "Moin, ich würd gern ein Reisbier haben",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>What Happens in Vegas<\/i>",
+                    "text": "Servus, für mich bitte ein Aperol Spritz",
                     "isCorrect": false
                 }
             ],
@@ -309,34 +309,34 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "I was just wondering...."
+                    "text": "Ich hab mich gerade gefragt..."
                 },
                 {
                     "timing": "S + 2.64",
-                    "text": "could you tell me which of these is NOT one of Ashton \u201cCasual\u201d Kutcher\u2019s movies?"
+                    "text": "könnt ihr mir sagen, wie ich locker ein alkoholfreies Getränk bestellen könnte?"
                 }
             ]
         },
         {
             "id": "53333",
             "category": {
-                "text": "A Formal Question"
+                "text": "Eine formelle Frage"
             },
             "choices": [
                 {
-                    "text": "\u201cRoyals\u201d",
+                    "text": "\u201cRoland Kaiser\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cFancy\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cChandelier\u201d",
+                    "text": "\u201cHeinz Rudolf Kunze\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cSuit & Tie\u201d",
+                    "text": "\u201cPhilipp Dittberner\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cAndreas Gabalier\u201d",
                     "isCorrect": false
                 }
             ],
@@ -345,11 +345,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "To Whom It May Concern,"
+                    "text": "Sehr geehrte Damen und Herren,"
                 },
                 {
                     "timing": "S + 1.97",
-                    "text": "I am inquiring as to which of these musical numbers was performed with aplomb by the effervescent artist Sia?"
+                    "text": "Ich habe großes Interesse an dem Namen des temperamentvollen Interpreten des Gesangsstückes \u201cDie Zeit ist reif\u201d"
                 }
             ]
         },
@@ -548,23 +548,23 @@
         {
             "id": "52886",
             "category": {
-                "text": "A Stupid Question"
+                "text": "Eine dumme Frage"
             },
             "choices": [
                 {
-                    "text": "maybe cells dividing and coming together",
+                    "text": "Zellen kaputt und dann wieder heile",
                     "isCorrect": false
                 },
                 {
-                    "text": "neurons something something electricity",
+                    "text": "Neuronen irgendwie irgendwas Elektrizität",
                     "isCorrect": true
                 },
                 {
-                    "text": "atoms lose electrons or gain I guess",
+                    "text": "Atome verlieren Elektronen oder kriegen sie halt",
                     "isCorrect": false
                 },
                 {
-                    "text": "uhhhh.... carbon gas exchange?",
+                    "text": "ähhhh.... Kohlenstoff Gas Austausch Dings?",
                     "isCorrect": false
                 }
             ],
@@ -573,7 +573,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "How do brain work?"
+                    "text": "Wie klappt Gehirn?"
                 }
             ]
         },
@@ -1133,23 +1133,23 @@
         {
             "id": "52037",
             "category": {
-                "text": "A Forward Question"
+                "text": "Eine Vorwärtsfrage"
             },
             "choices": [
                 {
-                    "text": "\u201cNice AUGER!\u201d",
+                    "text": "\u201cRuder mittschiffs!\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cSweet JIG!\u201d",
+                    "text": "\u201cStütz das Ruder!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cI like your SHANTY!\u201d",
+                    "text": "\u201cKurs steuern!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cIs that a CHUB in your pocket?\u201d",
+                    "text": "\u201cMitte Fahrwasser steuern!\u201d",
                     "isCorrect": false
                 }
             ],
@@ -1158,39 +1158,31 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "I don\u2019t mean to be too forward, but you\u2019re very attractive."
-                },
-                {
-                    "timing": "S + 3.95",
-                    "text": "...no?"
-                },
-                {
-                    "timing": "S + 5.29",
-                    "text": "Well, if I were ice fishing which of these would be the best ice breaker?"
+                    "text": "Wie würde der Befehl lauten, wenn der Kapitän der Titanic absichtlich vorwärts gegen den Eisberg steuern wollen würde?"
                 }
             ]
         },
         {
             "id": "52036",
             "category": {
-                "text": "A Backward Question"
+                "text": "Eine Rückwärtsfrage"
             },
             "choices": [
                 {
-                    "text": "fleek elf",
+                    "text": "Nette Kroketten",
                     "isCorrect": false
                 },
                 {
-                    "text": "taco cat",
+                    "text": "Dreh mal am Herd",
                     "isCorrect": true
                 },
                 {
-                    "text": "Denise sinned",
+                    "text": "Sie essen Eis",
                     "isCorrect": false
                 },
                 {
                     "best": true,
-                    "text": "Which of these is a palindrome?",
+                    "text": "Welches davon ist ein Palindrom?",
                     "isCorrect": false
                 }
             ],
@@ -1199,7 +1191,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "kiss silk"
+                    "text": "Anna hetzt Hanna"
                 }
             ]
         },
@@ -1530,23 +1522,23 @@
         {
             "id": "51952",
             "category": {
-                "text": "A Question Where I Get Mad"
+                "text": "Eine Frage, bei der ich sauer werde"
             },
             "choices": [
                 {
-                    "text": "Furiosa!",
+                    "text": "20",
                     "isCorrect": false
                 },
                 {
-                    "text": "Nux!",
+                    "text": "14",
                     "isCorrect": false
                 },
                 {
-                    "text": "Slit!",
+                    "text": "10",
                     "isCorrect": false
                 },
                 {
-                    "text": "Trumbo!",
+                    "text": "0",
                     "isCorrect": true
                 }
             ],
@@ -1555,11 +1547,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "When I\u2019m angry I like to yell character names from <i>Mad Max: Fury Road<\/i>."
-                },
-                {
-                    "timing": "S + 4.65",
-                    "text": "Which of the following is NOT something I would yell in anger?"
+                    "text": "Wenn ich so richtig sauer bin, welchen pH-Wert könnte ich erreichen?"
                 }
             ]
         },
@@ -1823,23 +1811,23 @@
         {
             "id": "50539",
             "category": {
-                "text": "A Question Where I Get Even"
+                "text": "Eine Frage, bei der ich neutral bleibe"
             },
             "choices": [
                 {
-                    "text": "the sum of an odd number and an odd number",
+                    "text": "Luxemburg",
                     "isCorrect": false
                 },
                 {
-                    "text": "the product of an even number and an odd number",
+                    "text": "Frankreich",
                     "isCorrect": false
                 },
                 {
-                    "text": "the sum of an odd number and an even number",
+                    "text": "Moldawien",
                     "isCorrect": true
                 },
                 {
-                    "text": "the product of an even number and an even number",
+                    "text": "Kroatien",
                     "isCorrect": false
                 }
             ],
@@ -1848,7 +1836,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these numbers just can\u2019t even?"
+                    "text": "Ich möchte versuchen, auch politisch neutral zu bleiben, bin aber kein sonderlich großer Fan der Schweiz. Welcher Nation könnte ich mich bedenkenlos anschließen?"
                 }
             ]
         },
