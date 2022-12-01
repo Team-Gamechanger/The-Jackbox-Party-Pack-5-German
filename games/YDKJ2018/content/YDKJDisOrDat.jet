@@ -443,45 +443,45 @@
         {
             "questions": [
                 {
-                    "text": "a tiny dragon covered in thorns",
+                    "text": "ein kleiner stacheliger Drache",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "a bird that channels electricity",
+                    "text": "ein Vogel, der Strom leitet",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "a paralyzing octopus covered in rings",
+                    "text": "ein lähmender Tintenfisch, der mit Ringen bedeckt ist",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "a gliding rodent with thumbs",
+                    "text": "ein gleitendes Nagetier mit Daumen",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "a 6-foot-tall dog you can ride",
+                    "text": "ein 1,80 m großer Hund, auf dem man reiten kann",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "a duck-billed creature with poisonous feet",
+                    "text": "eine entenschnabelartige Kreatur mit giftigen Füßen",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "a cat that mimics human speech",
+                    "text": "eine Katze, die die menschliche Sprache nachahmt",
                     "correctChoiceString": "dis"
                 }
             ],
             "disChoice": {
-                "longText": "a Pokémon",
+                "longText": "ein Pokémon",
                 "shortText": "POKÉMON"
             },
             "datChoice": {
-                "longText": "a real animal you can find in Australia today",
-                "shortText": "AUSTRALIA"
+                "longText": "ein echtes Tier, das man heute in Australien finden könnte",
+                "shortText": "AUSTRALIEN"
             },
             "id": "53413",
             "category": {
-                "text": "Gotta Avoid Them All!"
+                "text": "Komm und schnapp sie dir nicht!"
             }
         },
         {
