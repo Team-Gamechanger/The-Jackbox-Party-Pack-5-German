@@ -83,23 +83,23 @@
         {
             "id": "53499",
             "category": {
-                "text": "A Question About Feet"
+                "text": "Eine Frage über Füße"
             },
             "choices": [
                 {
-                    "text": "There are over a hundred joints in your feet.",
+                    "text": "Es gibt über hundert Gelenke in den Füßen.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Your strongest muscle is in your heel.",
+                    "text": "Ihr stärkster Muskel befindet sich in der Ferse.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Your feet possess a quarter of your bones.",
+                    "text": "Ihre Füße machen ein Viertel Ihrer Knochen aus.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Your toenails are harder than iron.",
+                    "text": "Ihre Zehennägel sind härter als Eisen.",
                     "isCorrect": false
                 }
             ],
@@ -108,30 +108,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Your feet can claim what feat?"
+                    "text": "Mit was könnten Ihre Füße angeben?"
                 }
             ]
         },
         {
             "id": "53497",
             "category": {
-                "text": "A Question About Faces"
+                "text": "Eine Frage über Gesichter"
             },
             "choices": [
                 {
-                    "text": "90 degrees",
+                    "text": "um 90 Grad drehen",
                     "isCorrect": false
                 },
                 {
-                    "text": "180 degrees",
+                    "text": "um 180 Grad drehen",
                     "isCorrect": true
                 },
                 {
-                    "text": "270 degrees",
+                    "text": "um 270 Grad drehen",
                     "isCorrect": false
                 },
                 {
-                    "text": "360 degrees",
+                    "text": "um 360 Grad drehen",
                     "isCorrect": false
                 }
             ],
@@ -140,7 +140,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "In military terms, if you turned \u201cabout face\u201d you would turn...."
+                    "text": "Wenn Sie in Militärsprache ihr Gesicht \u201ckehren\u201d sollen, würden Sie es..."
                 }
             ]
         },
@@ -356,23 +356,23 @@
         {
             "id": "53230",
             "category": {
-                "text": "A Question About Time"
+                "text": "Eine Frage über die Zeit"
             },
             "choices": [
                 {
-                    "text": "a Delorean hitting me in 1 millisecond",
+                    "text": "ein Delorean, der mich in 1 Millisekunde trifft",
                     "isCorrect": false
                 },
                 {
-                    "text": "a phone booth landing on me in 1 nanosecond",
+                    "text": "eine Telefonzelle, die in 1 Nanosekunde auf mir landet",
                     "isCorrect": false
                 },
                 {
-                    "text": "a police box crushing me in 1 microsecond",
+                    "text": "ein Polizeiauto, das mich in 1 Mikrosekunde zerquetscht",
                     "isCorrect": false
                 },
                 {
-                    "text": "a naked robot striking me in 1 picosecond",
+                    "text": "ein nackter Roboter, der mich in 1 Pikosekunde erwischt",
                     "isCorrect": true
                 }
             ],
@@ -381,30 +381,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these time travel devices is the most immediate threat?"
+                    "text": "Welche dieser Zeitreisegeräte wäre die akuteste Bedrohung?"
                 }
             ]
         },
         {
             "id": "53229",
             "category": {
-                "text": "A Question About Space"
+                "text": "Eine Frage über den Raum"
             },
             "choices": [
                 {
-                    "text": "Hoth",
+                    "text": "Dachboden",
                     "isCorrect": false
                 },
                 {
-                    "text": "Dagobah",
+                    "text": "Küche",
                     "isCorrect": false
                 },
                 {
-                    "text": "Alderaan",
+                    "text": "Schlafzimmer",
                     "isCorrect": true
                 },
                 {
-                    "text": "Tatooine",
+                    "text": "Balkon",
                     "isCorrect": false
                 }
             ],
@@ -413,7 +413,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these fictional planets is now just empty space?"
+                    "text": "Angenommen Ihre Freundin lädt Sie ins Dormitorium ein. In welchem Raum werden Sie von Ihrer Freundin erwartet?"
                 }
             ]
         },
