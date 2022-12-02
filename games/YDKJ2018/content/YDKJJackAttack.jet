@@ -2882,178 +2882,178 @@
         },
         {
             "id": "52627",
-            "title": "I Do... Or, I Did",
+            "title": "Jeder hat seinen Preis",
             "prompts": [
                 {
-                    "title": "Kim Kardashian West",
+                    "title": "Oscar für <i>Bester Film<\/i>",
                     "choices": [
                         {
-                            "text": "Kendrick Lamarr",
+                            "text": "Toy Story 3",
                             "isCorrect": false
                         },
                         {
-                            "text": "Billy West",
+                            "text": "Gravity",
                             "isCorrect": false
                         },
                         {
-                            "text": "Damon Thomas",
+                            "text": "Gladiator",
                             "isCorrect": true
                         },
                         {
-                            "text": "Kris Humphries",
+                            "text": "Rain Man",
                             "isCorrect": true
                         },
                         {
-                            "text": "Robert Kardashian",
+                            "text": "Inception",
                             "isCorrect": false
                         },
                         {
-                            "text": "Kanye West",
+                            "text": "Schindlers Liste",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "King Henry VIII",
+                    "title": "Game Award für <i>Spiel des Jahres<\/i>",
                     "choices": [
                         {
-                            "text": "Anne Boleyn",
+                            "text": "Sekiro: Shadows Die Twice",
                             "isCorrect": true
                         },
                         {
-                            "text": "Eleanor of Aquitaine",
+                            "text": "The Witcher 3: Wild Hunt",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "For Honor",
                             "isCorrect": false
                         },
                         {
-                            "text": "Elsa of Arendelle",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Jane Seymour",
+                            "text": "It Takes Two",
                             "isCorrect": true
                         },
                         {
-                            "text": "Catherine of Aragon",
+                            "text": "Dragon Age: Inquisition",
                             "isCorrect": true
                         },
                         {
-                            "text": "Anne of Green Gables",
+                            "text": "Red Dead Redemption 2",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Don Draper",
+                    "title": "Bambi für <i>Bester nationaler Schauspieler<\/i>",
                     "choices": [
                         {
-                            "text": "Bonnie Draper",
+                            "text": "Elyas M\u2019Barek",
                             "isCorrect": false
                         },
                         {
-                            "text": "Betty Draper",
+                            "text": "Florian David Fitz",
                             "isCorrect": true
                         },
                         {
-                            "text": "Megan Draper",
+                            "text": "Michael Herbig",
                             "isCorrect": true
                         },
                         {
-                            "text": "Anna Draper",
+                            "text": "Bjarne Mädel",
                             "isCorrect": true
                         },
                         {
-                            "text": "Debbie Draper",
+                            "text": "Henning Baum",
                             "isCorrect": false
                         },
                         {
-                            "text": "Dawn Draper",
+                            "text": "Moritz Bleibtreu",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Ron Swanson",
+                    "title": "Grammy Award für <i>Album des Jahres<\/i>",
                     "choices": [
                         {
-                            "text": "Tammy 1",
+                            "text": "<i>21<\/i> von Adele",
                             "isCorrect": true
                         },
                         {
-                            "text": "Leslie",
+                            "text": "<i>Automatic for the People<\/i> von R.E.M.",
                             "isCorrect": false
                         },
                         {
-                            "text": "Rhoda",
+                            "text": "<i>Dark Horse<\/i> von Nickelback",
                             "isCorrect": false
                         },
                         {
-                            "text": "Diane",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Sally",
+                            "text": "<i>Beautiful World<\/i> von Take That",
                             "isCorrect": false
                         },
                         {
-                            "text": "Tammy 2",
+                            "text": "<i>Recovery<\/i> von Eminem",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Random Access Memories<\/i> von Daft Punk",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Tom Cruise",
+                    "title": "Deutscher Webvideopreis für <i>Gaming<\/i>",
                     "choices": [
                         {
-                            "text": "Katie Holmes",
+                            "text": "HandOfBlood",
                             "isCorrect": true
                         },
                         {
-                            "text": "Reese Witherspoon",
+                            "text": "Sturmwaffel",
                             "isCorrect": false
                         },
                         {
-                            "text": "Elizabeth Hurley",
+                            "text": "PietSmiet",
                             "isCorrect": false
                         },
                         {
-                            "text": "Nicole Kidman",
+                            "text": "SiegHain",
                             "isCorrect": true
                         },
                         {
-                            "text": "Mimi Rogers",
+                            "text": "tinNendo",
                             "isCorrect": true
                         },
                         {
-                            "text": "Oprah Winfrey",
+                            "text": "Gronkh",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Marilyn Monroe",
+                    "title": "Nobelpreis für <i>Physik<\/i>",
                     "choices": [
                         {
-                            "text": "Joe DiMaggio",
+                            "text": "Albert Einstein",
                             "isCorrect": true
                         },
                         {
-                            "text": "James Dougherty",
+                            "text": "Niels Bohr",
                             "isCorrect": true
                         },
                         {
-                            "text": "John F. Kennedy",
+                            "text": "Johannes Kepler",
                             "isCorrect": false
                         },
                         {
-                            "text": "James Dean",
+                            "text": "Stephen Hawking",
                             "isCorrect": false
                         },
                         {
-                            "text": "Elvis Presley",
+                            "text": "Henry Dunant",
                             "isCorrect": false
                         },
                         {
-                            "text": "Arthur Miller",
+                            "text": "Max Planck",
                             "isCorrect": true
                         }
                     ]
