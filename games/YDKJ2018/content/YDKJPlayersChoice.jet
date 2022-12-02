@@ -314,11 +314,11 @@
             },
             "id": "52523",
             "choice1": {
-                "text": "eine Frage, in der alles richtig geschrieben ist",#
+                "text": "eine Frage, in der alles richtig geschrieben ist",
                 "id": "51968"
             },
             "choice2": {
-                "text": "eine Frage, in der alles falsch geschrieben ist",#
+                "text": "eine Frage, in der alles falsch geschrieben ist",
                 "id": "51967"
             }
         },

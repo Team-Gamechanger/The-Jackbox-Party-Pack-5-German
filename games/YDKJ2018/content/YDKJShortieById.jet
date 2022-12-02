@@ -1326,23 +1326,23 @@
         {
             "id": "51968",
             "category": {
-                "text": "A Question Where Everything Is Spelled Correctly"
+                "text": "Eine Frage, in der alles richtig geschrieben ist"
             },
             "choices": [
                 {
-                    "text": "<i>Thee Roade<\/i>",
+                    "text": "<i>Se Roud<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Dr. Strangeloave<\/i>",
+                    "text": "<i>Dr. Seldsam<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>I m Legind<\/i>",
+                    "text": "<i>Gulivas Raisen<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>One Direxion: Dis iz Uss<\/i>",
+                    "text": "<i>Fuck you Goethe<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -1351,14 +1351,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "N wich moovie duz EVERYTHING git desstroyed art th enned?"
+                    "text": "Inn wellchem Fihlm wirt ALLES ma Endeh zerstörrt?"
                 }
             ]
         },
         {
             "id": "51967",
             "category": {
-                "text": "A Question Where Everything Is Spelled Incorrectly"
+                "text": "Eine Frage, in der alles falsch geschrieben ist"
             },
             "choices": [
                 {
@@ -1366,15 +1366,15 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Dr. Strangelove<\/i>",
+                    "text": "<i>Dr. Seltsam<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>I Am Legend<\/i>",
+                    "text": "<i>Gullivers Reisen<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>One Direction: This Is Us<\/i>",
+                    "text": "<i>Fack ju Göhte<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -1383,7 +1383,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "In which movie does EVREYTHIGN get destroyed at the end?"
+                    "text": "In welchem Film wird ALLESS am Ende zerstört?"
                 }
             ]
         },
