@@ -44,7 +44,7 @@
         },
         {
             "question": {
-                "text": "Möchten Sie eine Frage gestellt bekommen, bei der Jack wütend wird, oder eine Frage, bei der Jack sich rächt?"
+                "text": "Möchten Sie eine Frage gestellt bekommen, bei der Jack sauer wird, oder eine Frage, bei der Jack neutral bleibt?"
             },
             "id": "53457",
             "choice1": {
@@ -72,7 +72,7 @@
         },
         {
             "question": {
-                "text": "Möchten Sie eine Frage gestellt bekommen, bei der sich die Antwort auf Orange reimt, oder eine Frage, bei der sich die Antwort auf Lila reimt?"
+                "text": "Möchten Sie eine Frage gestellt bekommen, bei der sich die Antwort auf Topf reimt, oder eine Frage, bei der sich die Antwort auf Lila reimt?"
             },
             "id": "53397",
             "choice1": {
@@ -156,29 +156,29 @@
         },
         {
             "question": {
-                "text": "Möchten Sie eine attraktive Frage oder eine Frage mit viel Sinn für Humor gestellt bekommen?"
+                "text": "Möchten Sie eine anziehende Frage oder eine saftige Frage gestellt bekommen?"
             },
             "id": "53020",
             "choice1": {
-                "text": "eine attraktive Frage",#
+                "text": "eine anziehende Frage",
                 "id": "52753"
             },
             "choice2": {
-                "text": "eine Frage mit viel Sinn für Humor gestellt bekommen",#
+                "text": "eine saftige Frage",
                 "id": "52754"
             }
         },
         {
             "question": {
-                "text": "Möchten Sie eine Frage gestellt bekommen, die Sie wissen, oder eine Frage, die Sie lieber nicht wüssten?"
+                "text": "Möchten Sie eine Frage gestellt bekommen, die Sie wissen, oder eine Frage, die Sie lieber nicht wissen wollen?"
             },
             "id": "53018",
             "choice1": {
-                "text": "eine Frage, die Sie wissen",#
+                "text": "eine Frage, die Sie wissen",
                 "id": "52985"
             },
             "choice2": {
-                "text": "eine Frage, die Sie lieber nicht wüssten",#
+                "text": "eine Frage, die Sie lieber nicht wissen wollen",
                 "id": "52986"
             }
         },
@@ -188,39 +188,39 @@
             },
             "id": "53014",
             "choice1": {
-                "text": "eine Frage über Aliens",#
+                "text": "eine Frage über Aliens",
                 "id": "52873"
             },
             "choice2": {
-                "text": "eine Frage über Roboter",#
+                "text": "eine Frage über Roboter",
                 "id": "52872"
             }
         },
         {
             "question": {
-                "text": "Möchten Sie eine Frage gestellt bekommen, die zwei Fliegen mit einer Klappe schlägt, oder eine Frage, die zwei Klappen mit einer Fliege schlägt?"
+                "text": "Möchten Sie eine Frage gestellt bekommen, die zwei Fliegen mit einer Klappe schlägt, oder eine Frage, die eine Fliege mit zwei Klappen schlägt?"
             },
             "id": "53013",
             "choice1": {
-                "text": "eine Frage, die zwei Fliegen mit einer Klappe schlägt",#
+                "text": "eine Frage, die zwei Fliegen mit einer Klappe schlägt",
                 "id": "52870"
             },
             "choice2": {
-                "text": "eine Frage, die zwei Klappen mit einer Fliege schlägt",#
+                "text": "eine Frage, die eine Fliege mit zwei Klappen schlägt",
                 "id": "52871"
             }
         },
         {
             "question": {
-                "text": "Möchten Sie eine Frage gestellt bekommen, bei der Sie Ihre Hühner NICHT zählen, bevor sie geschlüpft sind, oder eine Frage, bei der Sie Ihre Hühner DOCH zählen, bevor sie geschlüpft sind?"
+                "text": "Möchten Sie eine Frage gestellt bekommen, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind, oder eine Frage, bei der Sie DOCH die Hühner mitzählen, bevor sie geschlüpft sind?"
             },
             "id": "53012",
             "choice1": {
-                "text": "eine Frage, bei der Sie Ihre Hühner NICHT zählen, bevor sie geschlüpft sind",#
+                "text": "eine Frage, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind",
                 "id": "52851"
             },
             "choice2": {
-                "text": "eine Frage, bei der Sie Ihre Hühner DOCH zählen, bevor sie geschlüpft sind",#
+                "text": "eine Frage, bei der Sie DOCH die Hühner mitzählen, bevor sie geschlüpft sind",
                 "id": "52850"
             }
         },
@@ -230,11 +230,11 @@
             },
             "id": "53011",
             "choice1": {
-                "text": "eine Frage über tollen SEX",#
+                "text": "eine Frage über tollen SEX",
                 "id": "52733"
             },
             "choice2": {
-                "text": "eine Frage über die tolle SECHS",#
+                "text": "eine Frage über die tolle SECHS",
                 "id": "52734"
             }
         },
@@ -244,11 +244,11 @@
             },
             "id": "53008",
             "choice1": {
-                "text": "eine Frage mit Airhorns",#
+                "text": "eine Frage mit Airhorns",
                 "id": "51958"
             },
             "choice2": {
-                "text": "eine Frage über Airhorns",#
+                "text": "eine Frage über Airhorns",
                 "id": "51957"
             }
         },
@@ -272,11 +272,11 @@
             },
             "id": "52534",
             "choice1": {
-                "text": "eine laute Frage",#
+                "text": "eine laute Frage",
                 "id": "51828"
             },
             "choice2": {
-                "text": "eine leise Frage",#
+                "text": "eine leise Frage",
                 "id": "51830"
             }
         },
@@ -286,11 +286,11 @@
             },
             "id": "52526",
             "choice1": {
-                "text": "eine kurze Frage",#
+                "text": "eine kurze Frage",
                 "id": "51940"
             },
             "choice2": {
-                "text": "eine lange Frage",#
+                "text": "eine lange Frage",
                 "id": "51941"
             }
         },
@@ -300,7 +300,7 @@
             },
             "id": "52524",
             "choice1": {
-                "text": "eine Frage, die Jack aufmuntert",#
+                "text": "eine Frage, die Jack aufmuntert",
                 "id": "51966"
             },
             "choice2": {
@@ -342,11 +342,11 @@
             },
             "id": "52518",
             "choice1": {
-                "text": "eine Frage, bei der die Antwort Til Schweiger lautet",#
+                "text": "eine Frage, bei der die Antwort Til Schweiger lautet",
                 "id": "51937"
             },
             "choice2": {
-                "text": "eine Frage, bei der die Antwort NICHT Til Schweiger lautet",#
+                "text": "eine Frage, bei der die Antwort NICHT Til Schweiger lautet",
                 "id": "51938"
             }
         },
