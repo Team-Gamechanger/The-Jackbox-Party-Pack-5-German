@@ -420,23 +420,23 @@
         {
             "id": "52986",
             "category": {
-                "text": "A Question You Wish You Didn\u2019t Know"
+                "text": "Eine Frage, die Sie lieber nicht wissen wollen"
             },
             "choices": [
                 {
-                    "text": "pig butts",
+                    "text": "Schweinehintern",
                     "isCorrect": false
                 },
                 {
-                    "text": "beaver butts",
+                    "text": "Biberhintern",
                     "isCorrect": true
                 },
                 {
-                    "text": "duck butts",
+                    "text": "Entenhintern",
                     "isCorrect": false
                 },
                 {
-                    "text": "fish butts",
+                    "text": "Fischhintern",
                     "isCorrect": false
                 }
             ],
@@ -445,30 +445,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What is one major source of natural vanilla flavoring?"
+                    "text": "Was ist eine wichtige Zutat für natürliches Vanillearoma?"
                 }
             ]
         },
         {
             "id": "52985",
             "category": {
-                "text": "A Question, You Know"
+                "text": "Eine Frage, die Sie wissen"
             },
             "choices": [
                 {
-                    "text": "enzymes, man",
+                    "text": "Enzyme, alter",
                     "isCorrect": false
                 },
                 {
-                    "text": "lymph nodes, man",
+                    "text": "Lymphknoten, alter",
                     "isCorrect": false
                 },
                 {
-                    "text": "neurons, man",
+                    "text": "Neuronen, alter",
                     "isCorrect": true
                 },
                 {
-                    "text": "plasma, man",
+                    "text": "Plasma, alter",
                     "isCorrect": false
                 }
             ],
@@ -477,7 +477,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "But like, how do you KNOW?"
+                    "text": "Aber, woher wollen Sie das denn wissen?"
                 }
             ]
         },
@@ -676,7 +676,7 @@
         {
             "id": "52873",
             "category": {
-                "text": "A Question About Aliens"
+                "text": "Eine Frage über Aliens"
             },
             "choices": [
                 {
@@ -702,14 +702,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What\u2019s the name of the robot in the movie <i>Aliens<\/i>?"
+                    "text": "Wie lautet der Name des Roboters in dem Film <i>Aliens die Rückkehr<\/i>?"
                 }
             ]
         },
         {
             "id": "52872",
             "category": {
-                "text": "A Question About Robots"
+                "text": "Eine Frage über Roboter"
             },
             "choices": [
                 {
@@ -717,7 +717,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Technodrome",
+                    "text": "Technodrom",
                     "isCorrect": false
                 },
                 {
@@ -734,31 +734,31 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What planet are the Transformers from?"
+                    "text": "Von welchem Planeten stammen die Transformers?"
                 }
             ]
         },
         {
             "id": "52871",
             "category": {
-                "text": "A Question that Kills One Bird with Two Stones"
+                "text": "Eine Frage, die eine Fliege mit zwei Klappen schlägt"
             },
             "choices": [
                 {
-                    "text": "2 pieces of farro",
+                    "text": "2 Drosselklappen",
                     "isCorrect": false
                 },
                 {
-                    "text": "2 pieces of triticale",
-                    "isCorrect": false
-                },
-                {
-                    "text": "2 pieces of amaranth",
-                    "isCorrect": false
-                },
-                {
-                    "text": "2 pieces of diorite",
+                    "text": "2 Schildknorpelklappen",
                     "isCorrect": true
+                },
+                {
+                    "text": "2 Venenklappen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2 Ileozökalklappen",
+                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
@@ -766,30 +766,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of the following items in this question\u2019s possession could be the murder weapons?"
+                    "text": "Welcher der folgenden Dinge, die sich im Besitz dieser Frage befinden, könnte NICHT die Mordwaffe sein?"
                 }
             ]
         },
         {
             "id": "52870",
             "category": {
-                "text": "A Question that Kills Two Birds with One Stone"
+                "text": "Eine Frage, die zwei Fliegen mit einer Klappe schlägt"
             },
             "choices": [
                 {
-                    "text": "farro",
+                    "text": "Drosselklappe",
                     "isCorrect": false
                 },
                 {
-                    "text": "diorite",
+                    "text": "Schildknorpelklappe",
                     "isCorrect": true
                 },
                 {
-                    "text": "triticale",
+                    "text": "Venenklappe",
                     "isCorrect": false
                 },
                 {
-                    "text": "amaranth",
+                    "text": "Ileozökalklappe",
                     "isCorrect": false
                 }
             ],
@@ -798,14 +798,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of the following items in this question\u2019s possession could be the murder weapon?"
+                    "text": "Welcher der folgenden Dinge, die sich im Besitz dieser Frage befinden, könnte NICHT die Mordwaffe sein?"
                 }
             ]
         },
         {
             "id": "52851",
             "category": {
-                "text": "A Question Where You DON\u2019T Count Your Chickens Before They\u2019ve Hatched"
+                "text": "Eine Frage, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind"
             },
             "choices": [
                 {
@@ -821,7 +821,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "1,200",
+                    "text": "1.200",
                     "isCorrect": false
                 }
             ],
@@ -830,14 +830,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If you have 6 eggs and 3 chickens, how many chickens do you have?"
+                    "text": "Wenn Sie 6 Eier und 3 Hühner haben, wie viele Hühner haben Sie dann?"
                 }
             ]
         },
         {
             "id": "52850",
             "category": {
-                "text": "A Question Where You DO Count Your Chickens Before They\u2019ve Hatched"
+                "text": "Eine Frage, bei der Sie DOCH die Hühner mitzählen, bevor sie geschlüpft sind"
             },
             "choices": [
                 {
@@ -853,7 +853,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "1,200",
+                    "text": "1.200",
                     "isCorrect": false
                 }
             ],
@@ -862,30 +862,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If you have 6 eggs and 3 chickens, how many chickens do you have?"
+                    "text": "Wenn Sie 6 Eier und 3 Hühner haben, wie viele Hühner haben Sie dann?"
                 }
             ]
         },
         {
             "id": "52754",
             "category": {
-                "text": "A Question with a Great Sense of Humor"
+                "text": "Eine saftige Frage"
             },
             "choices": [
                 {
-                    "text": "blood",
+                    "text": "Blut",
                     "isCorrect": false
                 },
                 {
-                    "text": "phlegm",
+                    "text": "Gelbgalle",
                     "isCorrect": false
                 },
                 {
-                    "text": "black bile",
+                    "text": "Weißschleim",
                     "isCorrect": false
                 },
                 {
-                    "text": "white pus",
+                    "text": "Schwarzeiter",
                     "isCorrect": true
                 }
             ],
@@ -894,30 +894,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these is NOT one of the four Humors ancient Greeks believed made up human biology?"
+                    "text": "Welches ist KEINE der vier Säfte, von denen die alten Griechen glaubten, dass sie die menschliche Biologie ausmachen?"
                 }
             ]
         },
         {
             "id": "52753",
             "category": {
-                "text": "An Attractive Question"
+                "text": "Eine anziehende Frage"
             },
             "choices": [
                 {
-                    "text": "Jeremy IRONs",
+                    "text": "Werner EISENrieder",
                     "isCorrect": true
                 },
                 {
-                    "text": "GOLDie Hawn",
+                    "text": "Marian GOLD",
                     "isCorrect": false
                 },
                 {
-                    "text": "Sarah SILVERman",
+                    "text": "Geza SILBERer",
                     "isCorrect": false
                 },
                 {
-                    "text": "Bradley COPPER",
+                    "text": "Margarete KUPFER",
                     "isCorrect": false
                 }
             ],
@@ -926,30 +926,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Going by their MAGNETISM, which of these actors is the most attractive?"
+                    "text": "Basierend auf ihrer magnetischen Anziehung, welcher dieser Promis ist am anziehensten?"
                 }
             ]
         },
         {
             "id": "52734",
             "category": {
-                "text": "A Question About Great Sax"
+                "text": "eine Frage über die tolle SECHS"
             },
             "choices": [
                 {
-                    "text": "tenor",
+                    "text": "Ein Prisma hat 6 Seiten",
                     "isCorrect": false
                 },
                 {
-                    "text": "soprano",
+                    "text": "6 ist eine Primzahl",
                     "isCorrect": false
                 },
                 {
-                    "text": "baritone",
+                    "text": "6 ist die kleinste vollkommene Zahl",
                     "isCorrect": true
                 },
                 {
-                    "text": "alto",
+                    "text": "6 steht in China für absolutes Glück",
                     "isCorrect": false
                 }
             ],
@@ -958,30 +958,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which saxophone is the biggest?"
+                    "text": "Was ist so toll an der Sechs?"
                 }
             ]
         },
         {
             "id": "52733",
             "category": {
-                "text": "A Question About Great Sex"
+                "text": "Eine Frage über tollen SEX"
             },
             "choices": [
                 {
-                    "text": "\u201cgymnosperm.\u201d",
+                    "text": "\u201cGymnosperm.\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cangiosperm.\u201d",
+                    "text": "\u201cAnigosperm.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cendosperm.\u201d",
+                    "text": "\u201cEndosperm.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cpteridosperm.\u201d",
+                    "text": "\u201cPteridosperm.\u201d",
                     "isCorrect": false
                 }
             ],
@@ -990,7 +990,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "My friend went out with a plant last night who reproduces through exposed seeds, and I was like \u201cgirl, sounds like you went out with a real...\u201d"
+                    "text": "Meine Freundin ging gestern Abend mit einer Pflanze aus, die sich durch freiliegende Samen vermehrt, und ich sagte nur: \u201cDas klingt ja so, als wäre sie ein echtes...\u201d"
                 }
             ]
         },
@@ -1390,23 +1390,23 @@
         {
             "id": "51966",
             "category": {
-                "text": "A Question that Lifts Me Up"
+                "text": "Eine Frage, die Jack aufmuntert"
             },
             "choices": [
                 {
-                    "text": "\u201cCookie, you\u2019re HOT!\u201d",
+                    "text": "\u201cJack, du bist HEISS!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cCookie, you\u2019re SWEET!\u201d",
+                    "text": "\u201cJack, du bist SÜSS!\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cCookie, you\u2019re WELL-DONE!\u201d",
+                    "text": "\u201cJack, du bist KNUSPRIG!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cCookie, you\u2019re CRISP!\u201d",
+                    "text": "\u201cJack, du bist CREMIG!\u201d",
                     "isCorrect": false
                 }
             ],
@@ -1415,7 +1415,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If I, Cookie Masterson, were AMBROSIA SALAD, what could you say to me?"
+                    "text": "Wenn ich, Jack, ein Kalter Hund wäre, was könnten Sie zu mir sagen?"
                 }
             ]
         },
@@ -1454,23 +1454,23 @@
         {
             "id": "51958",
             "category": {
-                "text": "A Question with Air Horns"
+                "text": "Eine Frage mit Airhorns"
             },
             "choices": [
                 {
-                    "text": "{AIR HORN SFX}",
+                    "text": "{AIRHORN SFX}",
                     "isCorrect": false
                 },
                 {
-                    "text": "{AIR HORN SFX} {AIR HORN SFX}",
+                    "text": "{AIRHORN SFX} {AIRHORN SFX}",
                     "isCorrect": false
                 },
                 {
-                    "text": "{AIR HORN SFX} {AIR HORN SFX} {AIR HORN SFX}",
+                    "text": "{AIRHORN SFX} {AIRHORN SFX} {AIRHORN SFX}",
                     "isCorrect": false
                 },
                 {
-                    "text": "{AIR HORN SFX} {AIR HORN SFX} {AIR HORN SFX} {AIR HORN SFX}",
+                    "text": "{AIRHORN SFX} {AIRHORN SFX} {AIRHORN SFX} {AIRHORN SFX}",
                     "isCorrect": true
                 }
             ],
@@ -1479,30 +1479,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "How many compartments does a cow\u2019s stomach have?"
+                    "text": "Wie viele Kammern hat der Magen einer Kuh?"
                 }
             ]
         },
         {
             "id": "51957",
             "category": {
-                "text": "A Question About Air Horns"
+                "text": "Eine Frage über Airhorns"
             },
             "choices": [
                 {
-                    "text": "\u201c...rheumatic.\u201d",
+                    "text": "\u201c...rheumatisch.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201c...pneumatic.\u201d",
+                    "text": "\u201c...pneumatisch.\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201c...chromatic.\u201d",
+                    "text": "\u201c...chromatisch.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201c...phlegmatic.\u201d",
+                    "text": "\u201c...phlegmatisch.\u201d",
                     "isCorrect": false
                 }
             ],
@@ -1511,11 +1511,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "\u201cIt\u2019s true that I\u2019m an air horn addict."
+                    "text": "\u201cEs stimmt, dass ich fasziniert von Airhorns bin."
                 },
                 {
                     "timing": "S + 2.74",
-                    "text": "I love them because they are...\u201c"
+                    "text": "Ich liebe sie, denn sie sind...\u201c"
                 }
             ]
         },
@@ -1554,23 +1554,23 @@
         {
             "id": "51941",
             "category": {
-                "text": "A Long Question"
+                "text": "Eine lange Frage"
             },
             "choices": [
                 {
-                    "text": "The Attack on Pearl Harbor",
+                    "text": "Der Angriff auf Pearl Harbor",
                     "isCorrect": false
                 },
                 {
-                    "text": "The Normandy Landing",
+                    "text": "Operation Neptune",
                     "isCorrect": true
                 },
                 {
-                    "text": "The Battle of Iwo Jima",
+                    "text": "Die Schlacht um Iwojima",
                     "isCorrect": false
                 },
                 {
-                    "text": "The Paris Peace Treaties",
+                    "text": "Die Pariser Friedenskonferenz",
                     "isCorrect": false
                 }
             ],
@@ -1579,30 +1579,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these is \u201cThe Longest Day\u201d?"
+                    "text": "Welches dieser Ereignisse dauerte am längsten?"
                 }
             ]
         },
         {
             "id": "51940",
             "category": {
-                "text": "A Short Question"
+                "text": "Eine kurze Frage"
             },
             "choices": [
                 {
-                    "text": "Ryan Gosling",
+                    "text": "18 Kurze",
                     "isCorrect": false
                 },
                 {
-                    "text": "Brad Pitt",
+                    "text": "20 Kurze",
                     "isCorrect": false
                 },
                 {
-                    "text": "Steve Carell",
+                    "text": "26 Kurze",
                     "isCorrect": false
                 },
                 {
-                    "text": "Selena Gomez",
+                    "text": "35 Kurze",
                     "isCorrect": true
                 }
             ],
@@ -1611,14 +1611,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Who is the shortest cast member from <i>The Big Short<\/i>?"
+                    "text": "Wie viel Kurze brauche ich, wenn ich einen Liter trinken möchte?"
                 }
             ]
         },
         {
             "id": "51938",
             "category": {
-                "text": "A Question Where the Answer Is Not Shia LaBeouf"
+                "text": "Eine Frage, bei der die Antwort NICHT Til Schweiger lautet"
             },
             "choices": [
                 {
@@ -1635,7 +1635,7 @@
                 },
                 {
                     "best": true,
-                    "text": "Shia LaBeouf",
+                    "text": "Til Schweiger",
                     "isCorrect": false
                 }
             ],
@@ -1644,30 +1644,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these <i>Transformers<\/i> stars turns into a pickup truck?"
+                    "text": "Welcher dieser <i>Transformers<\/i> kann zu einem Kleinlaster werden?"
                 }
             ]
         },
         {
             "id": "51937",
             "category": {
-                "text": "A Question Where the Answer Is Shia LaBeouf"
+                "text": "Eine Frage, bei der die Antwort Til Schweiger lautet"
             },
             "choices": [
                 {
-                    "text": "Shia LaBeouf",
+                    "text": "Til Schweiger",
                     "isCorrect": false
                 },
                 {
-                    "text": "Shia LaBeouf",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Shia LaBeouf",
+                    "text": "Til Schweiger",
                     "isCorrect": true
                 },
                 {
-                    "text": "Shia LaBeouf",
+                    "text": "Til Schweiger",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Til Schweiger",
                     "isCorrect": false
                 }
             ],
@@ -1676,30 +1676,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these is the penultimate Shia LaBeouf?"
+                    "text": "Welcher ist der Vorvorletzte Til Schweiger?"
                 }
             ]
         },
         {
             "id": "51830",
             "category": {
-                "text": "A Quiet Question"
+                "text": "Eine leise Frage"
             },
             "choices": [
                 {
-                    "text": "<i>sounds of silence<\/i>",
+                    "text": "<i>Das leuchtende Schweigen<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>a kind of a hush<\/i>",
+                    "text": "<i>Ein Hauch von Stille<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>the quiet one<\/i>",
+                    "text": "<i>Es lebe die Ruhe<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>careless whisper<\/i>",
+                    "text": "<i>Kaltschnäuziges Geflüster<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -1708,7 +1708,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What is the name of Simon and Garfunkel\u2019s second studio album?"
+                    "text": "Wie heißt das zweite Tabaluga Album von Peter Maffay?"
                 }
             ]
         },
