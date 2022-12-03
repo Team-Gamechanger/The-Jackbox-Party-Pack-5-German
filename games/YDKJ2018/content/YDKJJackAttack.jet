@@ -3422,7 +3422,7 @@
         },
         {
             "id": "52565",
-            "title": "I\u2019m with the Band",
+            "title": "Bands am laufenden Band",
             "prompts": [
                 {
                     "title": "The Beatles",
@@ -3454,146 +3454,146 @@
                     ]
                 },
                 {
-                    "title": "Dr. Teeth and the Electric Mayhem",
+                    "title": "Die Fantastischen Vier",
                     "choices": [
                         {
-                            "text": "Gonzo",
+                            "text": "Danskimo",
                             "isCorrect": false
                         },
                         {
-                            "text": "Animal",
+                            "text": "Smudo",
                             "isCorrect": true
                         },
                         {
-                            "text": "Janice",
+                            "text": "Michi",
                             "isCorrect": true
                         },
                         {
-                            "text": "Floyd Pepper",
+                            "text": "And.Ypsilon",
                             "isCorrect": true
                         },
                         {
-                            "text": "Electric May",
+                            "text": "Apache 207",
                             "isCorrect": false
                         },
                         {
-                            "text": "Dr. Teeth",
+                            "text": "Thomas D",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Wu Tang Clan",
+                    "title": "Tokio Hotel",
                     "choices": [
                         {
-                            "text": "Ol\u2019 Dirty Bastard",
+                            "text": "Gustav Schäfer",
                             "isCorrect": true
                         },
                         {
-                            "text": "Lil Wayne",
+                            "text": "Tim Kaulitz",
                             "isCorrect": false
                         },
                         {
-                            "text": "Ghostface Killah",
+                            "text": "Tom Kaulitz",
                             "isCorrect": true
                         },
                         {
-                            "text": "Masta Killa",
+                            "text": "Georg Listing",
                             "isCorrect": true
                         },
                         {
-                            "text": "Method Man",
-                            "isCorrect": true
+                            "text": "Nico Sallach",
+                            "isCorrect": false
                         },
                         {
-                            "text": "Childish Gambino",
+                            "text": "Kevin Ratajczak",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Destiny\u2019s Child",
+                    "title": "Linkin Park",
                     "choices": [
                         {
-                            "text": "Beyoncé Knowles",
+                            "text": "Rob Bourdon",
                             "isCorrect": true
                         },
                         {
-                            "text": "Shirley Caesar",
+                            "text": "Douglas Robb",
                             "isCorrect": false
                         },
                         {
-                            "text": "Yolanda Adams",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Michelle Williams",
+                            "text": "Brad Delson",
                             "isCorrect": true
                         },
                         {
-                            "text": "Kelly Rowland",
+                            "text": "Joe Hahn",
                             "isCorrect": true
                         },
                         {
-                            "text": "Patti Labelle",
+                            "text": "Mike Shinoda",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Chad Kroeger",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "KISS",
+                    "title": "Die Ärzte",
                     "choices": [
                         {
-                            "text": "The Killer",
+                            "text": "Campino",
                             "isCorrect": false
                         },
                         {
-                            "text": "The Star",
+                            "text": "Finch",
                             "isCorrect": false
                         },
                         {
-                            "text": "The Demon",
+                            "text": "Rodrigo González",
                             "isCorrect": true
                         },
                         {
-                            "text": "The Knight",
+                            "text": "Doppel D Diktator",
                             "isCorrect": false
                         },
                         {
-                            "text": "The Starchild",
+                            "text": "Farin Urlaub",
                             "isCorrect": true
                         },
                         {
-                            "text": "The Spaceman",
+                            "text": "Bela B",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "One Direction",
+                    "title": "Sabaton",
                     "choices": [
                         {
-                            "text": "Spencer Direction",
+                            "text": "Attila Dorn",
                             "isCorrect": false
                         },
                         {
-                            "text": "Harry Styles",
+                            "text": "Joakim Broden",
                             "isCorrect": true
                         },
                         {
-                            "text": "Zayn Malik",
+                            "text": "Hannes Van Dahl",
                             "isCorrect": true
                         },
                         {
-                            "text": "Louis Tomlinson",
+                            "text": "Tommy Johansson",
                             "isCorrect": true
                         },
                         {
-                            "text": "Liam Payne",
+                            "text": "Chris Rörland",
                             "isCorrect": true
                         },
                         {
-                            "text": "Niall Horan",
+                            "text": "Pär Sundström",
                             "isCorrect": true
                         }
                     ]
@@ -3602,179 +3602,179 @@
         },
         {
             "id": "52488",
-            "title": "Living in Synonym",
+            "title": "Das Synonym-ABC",
             "prompts": [
                 {
-                    "title": "happy",
+                    "title": "gut",
                     "choices": [
                         {
-                            "text": "jubilant",
+                            "text": "spitze",
                             "isCorrect": true
                         },
                         {
-                            "text": "blithe",
+                            "text": "positiv",
                             "isCorrect": true
                         },
                         {
-                            "text": "livid",
+                            "text": "schäbig",
                             "isCorrect": false
                         },
                         {
-                            "text": "furtive",
+                            "text": "unheilvoll",
                             "isCorrect": false
                         },
                         {
-                            "text": "ecstatic",
+                            "text": "tadellos",
                             "isCorrect": true
                         },
                         {
-                            "text": "convivial",
+                            "text": "nützlich",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "horny",
+                    "title": "faszinierend",
                     "choices": [
                         {
-                            "text": "lascivious",
+                            "text": "atemberaubend",
                             "isCorrect": true
                         },
                         {
-                            "text": "libidinous",
+                            "text": "packend",
                             "isCorrect": true
                         },
                         {
-                            "text": "crotchety",
+                            "text": "brav",
                             "isCorrect": false
                         },
                         {
-                            "text": "randy",
+                            "text": "spannend",
                             "isCorrect": true
                         },
                         {
-                            "text": "thirsty",
+                            "text": "reizvoll",
                             "isCorrect": true
                         },
                         {
-                            "text": "ballsy",
+                            "text": "trostlos",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "suspicious",
+                    "title": "suspekt",
                     "choices": [
                         {
-                            "text": "capricious",
+                            "text": "frei",
                             "isCorrect": false
                         },
                         {
-                            "text": "skeptical",
+                            "text": "fraglich",
                             "isCorrect": true
                         },
                         {
-                            "text": "zealous",
+                            "text": "behutsam",
                             "isCorrect": false
                         },
                         {
-                            "text": "gregarious",
+                            "text": "unschuldig",
                             "isCorrect": false
                         },
                         {
-                            "text": "dubious",
+                            "text": "unheimlich",
                             "isCorrect": true
                         },
                         {
-                            "text": "wary",
+                            "text": "dunkel",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "angry",
+                    "title": "traditionell",
                     "choices": [
                         {
-                            "text": "indignant",
+                            "text": "eingefahren",
                             "isCorrect": true
                         },
                         {
-                            "text": "furious",
+                            "text": "alt",
                             "isCorrect": true
                         },
                         {
-                            "text": "magnanimous",
+                            "text": "originell",
                             "isCorrect": false
                         },
                         {
-                            "text": "choleric",
+                            "text": "anerkannt",
                             "isCorrect": true
                         },
                         {
-                            "text": "irate",
+                            "text": "überliefert",
                             "isCorrect": true
                         },
                         {
-                            "text": "commodious",
+                            "text": "schöpferisch",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "excellent",
+                    "title": "ablehnend",
                     "choices": [
                         {
-                            "text": "superlative",
+                            "text": "verschlossen",
                             "isCorrect": true
                         },
                         {
-                            "text": "cat\u2019s pajamas",
+                            "text": "reserviert",
                             "isCorrect": true
                         },
                         {
-                            "text": "flagrant",
+                            "text": "achtsam",
                             "isCorrect": false
                         },
                         {
-                            "text": "basic",
+                            "text": "besorgt",
                             "isCorrect": false
                         },
                         {
-                            "text": "peerless",
-                            "isCorrect": true
+                            "text": "sanft",
+                            "isCorrect": false
                         },
                         {
-                            "text": "on fleek",
+                            "text": "unzugänglich",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "sleepy",
+                    "title": "heiß",
                     "choices": [
                         {
-                            "text": "drowsy",
+                            "text": "ungestüm",
                             "isCorrect": true
                         },
                         {
-                            "text": "sluggish",
+                            "text": "kritisch",
                             "isCorrect": true
                         },
                         {
-                            "text": "lurid",
+                            "text": "eisern",
                             "isCorrect": false
                         },
                         {
-                            "text": "soporific",
+                            "text": "rollig",
                             "isCorrect": true
                         },
                         {
-                            "text": "lethargic",
+                            "text": "geil",
                             "isCorrect": true
                         },
                         {
-                            "text": "vicarious",
-                            "isCorrect": false
+                            "text": "zielführend",
+                            "isCorrect": true
                         }
                     ]
                 }
@@ -3782,112 +3782,112 @@
         },
         {
             "id": "52472",
-            "title": "I\u2019ve Been Timeframed",
+            "title": "Diese Kategorie wird den Zeitrahmen sprengen",
             "prompts": [
                 {
-                    "title": "20th Century",
+                    "title": "20. Jahrhundert",
                     "choices": [
                         {
-                            "text": "Titanic sinks",
+                            "text": "Die Titanic sinkt",
                             "isCorrect": true
                         },
                         {
-                            "text": "Lincoln assassinated",
+                            "text": "Otto von Bismarck etabliert die gesetzliche Krankversicherung in Deutschland",
                             "isCorrect": false
                         },
                         {
-                            "text": "Google incorporates",
+                            "text": "Google wird gegründet",
                             "isCorrect": true
                         },
                         {
-                            "text": "Mother Teresa dies",
+                            "text": "Das noch heute nach deutschem Recht geltende BGB tritt in Kraft",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Shrek<\/i> released",
+                            "text": "Neuseeland führt das Frauenwahlrecht ein",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Spider-Man<\/i> star Tom Holland born",
+                            "text": "Fritz Haber entwickelt ein Verfahren zur Herstellung von Kunstdünger & Gaswaffen",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "B.C.",
+                    "title": "Vor Christus",
                     "choices": [
                         {
-                            "text": "Julius Caesar assassinated",
+                            "text": "Gaius Julius Cäsar wird ermordet",
                             "isCorrect": true
                         },
                         {
-                            "text": "Moses frees the slaves",
+                            "text": "Der Bau der Chinesischen Mauer beginnt",
                             "isCorrect": true
                         },
                         {
-                            "text": "Han Dynasty founded",
+                            "text": "Die Hunnen erobern Rom",
                             "isCorrect": false
                         },
                         {
-                            "text": "Hannibal crosses the Alps",
+                            "text": "Hannibal überquert die Alpen",
                             "isCorrect": true
                         },
                         {
-                            "text": "Caligula reins",
+                            "text": "Im Römischen Reich wird das Christentum die Staatsreligion",
                             "isCorrect": false
                         },
                         {
-                            "text": "Gautama Buddha born",
+                            "text": "Gautama Buddha wird geboren",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "After 2018",
+                    "title": "Nach 2018",
                     "choices": [
                         {
-                            "text": "Skynet launches 1st Judgment Day",
+                            "text": "Die SpaceX-Rakete <i>Falcon Heavy<\/i> wird mit einem Tesla ins All geschossen",
                             "isCorrect": false
                         },
                         {
-                            "text": "Thorn investigates Soylent Green",
+                            "text": "SARS-CoV-2 wird entdeckt",
                             "isCorrect": true
                         },
                         {
-                            "text": "Roy Batty saves Deckard",
+                            "text": "Mittel- & Westeuropa erlebt eine der größten Flutkatastrophen der letzten Jahre",
                             "isCorrect": true
                         },
                         {
-                            "text": "Hal 9000 kills astronaut",
+                            "text": "Bundestag verabschiedet das Gesetz zur Ehe für alle",
                             "isCorrect": false
                         },
                         {
-                            "text": "Anderton kidnaps Precog",
+                            "text": "Die Merkel-Ära geht zu Ende",
                             "isCorrect": true
                         },
                         {
-                            "text": "Mary McFly buys <i>Sports Almanac<\/i>",
+                            "text": "Die EU wird 60 Jahre alt",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Today",
+                    "title": "Heute",
                     "choices": [
                         {
-                            "text": "sun turns H into He",
+                            "text": "Im Innern der Sonne wird H in He umgewandelt",
                             "isCorrect": true
                         },
                         {
-                            "text": "Trees turn O3 into CO2",
+                            "text": "Bäume wandeln O3 in CO2 um",
                             "isCorrect": false
                         },
                         {
-                            "text": "Belgium ruled by monarchy",
+                            "text": "Belgien\u2019s Staatsoberhaupt ist ein Monarch",
                             "isCorrect": true
                         },
                         {
-                            "text": "Stonehenge is over 5,000 years old",
+                            "text": "Stonehenge ist über 4000 Jahre alt",
                             "isCorrect": true
                         },
                         {
@@ -3895,65 +3895,65 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "people enjoy You Don\u2019t Know Jack",
+                            "text": "Spieler haben mit You Don\u2019t Know Jack Spaß",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Jurassic Period",
+                    "title": "Die Jurazeit",
                     "choices": [
                         {
-                            "text": "Stegosaurus fends off predators",
+                            "text": "Der Stegosaurus wehrt Fressfeinde ab",
                             "isCorrect": true
                         },
                         {
-                            "text": "Triceratops lays egg",
+                            "text": "Der Triceratops legt ein Ei",
                             "isCorrect": false
                         },
                         {
-                            "text": "Tyrannosaurus hunts",
+                            "text": "Der Tyrannosaurus jagt",
                             "isCorrect": false
                         },
                         {
-                            "text": "Brachiosaurus grazes",
+                            "text": "Der Brachiosaurus grast",
                             "isCorrect": true
                         },
                         {
-                            "text": "Allosaurus cares for young",
+                            "text": "Der Allosaurus kümmert sich um seine Jungen",
                             "isCorrect": true
                         },
                         {
-                            "text": "Velociraptor steals egg",
+                            "text": "Der Velociraptor stiehlt Eier",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "long time ago in galaxy far, far away",
+                    "title": "Vor langer Zeit in einer weit, weit entfernten Galaxis",
                     "choices": [
                         {
-                            "text": "Death Star blows up",
+                            "text": "Der Todesstern explodiert",
                             "isCorrect": true
                         },
                         {
-                            "text": "Luke kills The Emperor",
+                            "text": "Luke tötet den Imperator",
                             "isCorrect": false
                         },
                         {
-                            "text": "Han frozen in carbonite",
+                            "text": "Han ist in Karbonit eingefroren",
                             "isCorrect": true
                         },
                         {
-                            "text": "Leia kills Jabba",
+                            "text": "Leia tötet Jabba",
                             "isCorrect": true
                         },
                         {
-                            "text": "Han shoots Greedo",
+                            "text": "Han erschießt Greedo",
                             "isCorrect": true
                         },
                         {
-                            "text": "Stormtroopers kill Luke\u2019s parents",
+                            "text": "Sturmtruppen töten LukeDon\u2019s Eltern",
                             "isCorrect": false
                         }
                     ]
@@ -4142,116 +4142,87 @@
         },
         {
             "id": "52460",
-            "title": "I Know the General Area",
+            "title": "Ich weiß zumindest, dass wir auf der Erde leben",
             "prompts": [
                 {
-                    "title": "Arctic Circle",
+                    "title": "Europa",
                     "choices": [
                         {
-                            "text": "polar bears",
+                            "text": "Igel",
                             "isCorrect": true
                         },
                         {
-                            "text": "Santa Claus",
+                            "text": "Akropolis",
                             "isCorrect": true
                         },
                         {
-                            "text": "snow leopards",
+                            "text": "Olympische Sommerspiele 2012",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Geburtsort der <i>Warner Bros.<\/i>-Gründer",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Death Valley",
                             "isCorrect": false
                         },
                         {
-                            "text": "Fortress of Solitude",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "penguins",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Dr. Frankenstein\u2019s body",
+                            "text": "Feldhase",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Antarctic Circle",
+                    "title": "Nordamerika",
                     "choices": [
                         {
-                            "text": "polar bears",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "penguins",
+                            "text": "Niagarafälle",
                             "isCorrect": true
                         },
                         {
-                            "text": "Dracula\u2019s body",
+                            "text": "Mount Everest",
                             "isCorrect": false
                         },
                         {
-                            "text": "killer whales",
+                            "text": "Yukon",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>The Thing<\/i>",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "a McDonald\u2019s",
+                            "text": "Machu Picchu",
                             "isCorrect": false
+                        },
+                        {
+                            "text": "Grand Canyon",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Weißkopfadler",
+                            "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Africa",
+                    "title": "Asien",
                     "choices": [
                         {
-                            "text": "Wakanda",
+                            "text": "Philippinen",
                             "isCorrect": true
                         },
                         {
-                            "text": "tigers",
+                            "text": "Chrysanthementhron",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Great Barrier Reef",
                             "isCorrect": false
                         },
                         {
-                            "text": "camels",
+                            "text": "Pandas",
                             "isCorrect": true
                         },
                         {
-                            "text": "The Sphinx",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Mt. Kilimanjaro",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Mt. Aconcagua",
-                            "isCorrect": false
-                        }
-                    ]
-                },
-                {
-                    "title": "Asia",
-                    "choices": [
-                        {
-                            "text": "cobras",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "<i>Aladdin<\/i>",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "the end of <i>Rocky IV<\/i>",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Quetzalcoatl",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "the \u201ceat\u201d in <i>Eat, Pray, Love<\/i>",
+                            "text": "Emus",
                             "isCorrect": false
                         },
                         {
@@ -4261,60 +4232,89 @@
                     ]
                 },
                 {
-                    "title": "South America",
+                    "title": "Nördlicher Polarkreis",
                     "choices": [
                         {
-                            "text": "2016 Olympics",
+                            "text": "Eisbären",
                             "isCorrect": true
                         },
                         {
-                            "text": "penguins",
+                            "text": "Der Weihnachtsmann",
                             "isCorrect": true
                         },
                         {
-                            "text": "llamas",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "the \u201cpray\u201d in <i>Eat, Pray, Love<\/i>",
+                            "text": "Schneeleoparden",
                             "isCorrect": false
                         },
                         {
-                            "text": "Lake Titicaca",
+                            "text": "Schneeeulen",
                             "isCorrect": true
                         },
                         {
-                            "text": "Machu Picchu",
+                            "text": "Pinguine",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Frankenstein\u2019s Körper",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Neverland",
+                    "title": "Südlicher Polarkreis",
                     "choices": [
                         {
-                            "text": "Skull Rock",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Alligator Swamp",
+                            "text": "Eisbären",
                             "isCorrect": false
                         },
                         {
-                            "text": "The Jolly Roger",
+                            "text": "Pinguine",
                             "isCorrect": true
                         },
                         {
-                            "text": "Pixie Hollow",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Boystown",
+                            "text": "Dracula\u2019s Körper",
                             "isCorrect": false
                         },
                         {
-                            "text": "Mermaid\u2019s Lagoon",
+                            "text": "Orcas",
                             "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Amundsen-Scott-Forschungsstation<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Eine McDonald\u2019s Filiale",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Polarkreis 18",
+                    "choices": [
+                        {
+                            "text": "<i>Allein Allein<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Spinner<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>The Colour Of Snow<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Prisoner<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Tourist<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Lass uns gehen<\/i>",
+                            "isCorrect": false
                         }
                     ]
                 }
@@ -4322,178 +4322,178 @@
         },
         {
             "id": "52440",
-            "title": "Do D\u2019s Rhyme?",
+            "title": "BIT-te lass mich mit deinen Formaten in Ruhe",
             "prompts": [
                 {
-                    "title": "dare",
+                    "title": "Videoformate",
                     "choices": [
                         {
-                            "text": "stare",
+                            "text": "MP4",
                             "isCorrect": true
                         },
                         {
-                            "text": "are",
+                            "text": "TIFF",
                             "isCorrect": false
                         },
                         {
-                            "text": "bear",
+                            "text": "AVI",
                             "isCorrect": true
                         },
                         {
-                            "text": "near",
+                            "text": "GIF",
                             "isCorrect": false
                         },
                         {
-                            "text": "where",
+                            "text": "WEBM",
                             "isCorrect": true
                         },
                         {
-                            "text": "stair",
+                            "text": "MOV",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "do",
+                    "title": "Bildformate",
                     "choices": [
                         {
-                            "text": "blue",
+                            "text": "GIF",
                             "isCorrect": true
                         },
                         {
-                            "text": "blow",
+                            "text": "RTF",
                             "isCorrect": false
                         },
                         {
-                            "text": "threw",
+                            "text": "JPEG",
                             "isCorrect": true
                         },
                         {
-                            "text": "through",
+                            "text": "PNG",
                             "isCorrect": true
                         },
                         {
-                            "text": "bough",
+                            "text": "TXT",
                             "isCorrect": false
                         },
                         {
-                            "text": "go",
-                            "isCorrect": false
-                        }
-                    ]
-                },
-                {
-                    "title": "dead",
-                    "choices": [
-                        {
-                            "text": "bead",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "stead",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "steed",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "red",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "bled",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "sued",
-                            "isCorrect": false
-                        }
-                    ]
-                },
-                {
-                    "title": "dough",
-                    "choices": [
-                        {
-                            "text": "goo",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "whoa",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "throw",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "blow",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "now",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "crow",
+                            "text": "SVG",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "done",
+                    "title": "Textformate",
                     "choices": [
                         {
-                            "text": "stone",
+                            "text": "PSD",
                             "isCorrect": false
                         },
                         {
-                            "text": "gone",
+                            "text": "ODT",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "BMP",
                             "isCorrect": false
                         },
                         {
-                            "text": "one",
+                            "text": "3GP",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "DOCX",
                             "isCorrect": true
                         },
                         {
-                            "text": "son",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "sun",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "noun",
+                            "text": "MKV",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Duff",
+                    "title": "Audioformate",
                     "choices": [
                         {
-                            "text": "tough",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "rough",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "bough",
+                            "text": "JAR",
                             "isCorrect": false
                         },
                         {
-                            "text": "cough",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "enough",
+                            "text": "OGG",
                             "isCorrect": true
                         },
                         {
-                            "text": "furlough",
+                            "text": "MP3",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "AAC",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "EXE",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "WAV",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Komprimierungsformate",
+                    "choices": [
+                        {
+                            "text": "PDF",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "KT",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "7Z",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "ACE",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "ZIP",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "CPP",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "PC-Komponenten-Formate",
+                    "choices": [
+                        {
+                            "text": "ATX",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "ITX",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "RTX",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "GTX",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Micro-ATX",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "PPTX",
                             "isCorrect": false
                         }
                     ]
