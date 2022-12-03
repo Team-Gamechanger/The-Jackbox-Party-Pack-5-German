@@ -5222,179 +5222,179 @@
         },
         {
             "id": "52342",
-            "title": "Famous Speeches",
+            "title": "Reden sagen mehr als 1000 Bilder",
             "prompts": [
                 {
-                    "title": "Gettysburg Address",
+                    "title": "Ich bin ein Berliner",
                     "choices": [
                         {
-                            "text": "four score and several years ago",
+                            "text": "Stalin wird die Mauern öffnen und Deutschland einen",
                             "isCorrect": false
                         },
                         {
-                            "text": "a nation divided against itself",
+                            "text": "Vor 30 Jahren hat Deutschland viele falsche Entscheidungen getroffen",
                             "isCorrect": false
                         },
                         {
-                            "text": "four score and seven years ago",
+                            "text": "Ein Leben in Freiheit ist nicht leicht",
                             "isCorrect": true
                         },
                         {
-                            "text": "all men are created equal",
+                            "text": "Durch die Mauer werden Familien getrennt",
                             "isCorrect": true
                         },
                         {
-                            "text": "nobody said it would be easy",
+                            "text": "Bereits jetzt liegen die Trümmern der Mauer vor uns",
                             "isCorrect": false
                         },
                         {
-                            "text": "these dead shall not have died in vain",
+                            "text": "Ich bin ein Bürger Roms",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Hamlet\u2019s Soliloquy",
+                    "title": "Hamlet\u2019s Monolog",
                     "choices": [
                         {
-                            "text": "to be, or not to be",
+                            "text": "Sein oder Nichtsein",
                             "isCorrect": true
                         },
                         {
-                            "text": "when we have shuffled off this mortal coil",
+                            "text": "Wenn wir die irdische Verstrickung lösten",
                             "isCorrect": true
                         },
                         {
-                            "text": "out, damned spot!",
+                            "text": "So macht Eigennutz Feige aus uns allen",
                             "isCorrect": false
                         },
                         {
-                            "text": "ay, there\u2019s the messed grief",
+                            "text": "Nichts hält!",
                             "isCorrect": false
                         },
                         {
-                            "text": "tomorrow and tomorrow and tomorrow",
+                            "text": "Nur wer sich ändert, wird bestehen",
                             "isCorrect": false
                         },
                         {
-                            "text": "ay, there\u2019s the rub",
+                            "text": "Schlafen! Vielleicht auch träumen!",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "MLK\u2019s \u201cI Have A Dream\u201d",
+                    "title": "Merkel\u2019s Fernsehansprache zur Coronakrise",
                     "choices": [
                         {
-                            "text": "five score years ago",
+                            "text": "Es ist ernst",
                             "isCorrect": true
                         },
                         {
-                            "text": "my heart with rapture thrills",
+                            "text": "das Internet ist für uns alle Neuland",
                             "isCorrect": false
                         },
                         {
-                            "text": "my country \u2018tis of thee",
+                            "text": "Wir sind nicht verdammt, die Ausbreitung des Virus passiv hinzunehmen",
                             "isCorrect": true
                         },
                         {
-                            "text": "the curvaceous slopes of California",
+                            "text": "Großeltern und Enkel sollten jetzt nicht zusammenkommen",
                             "isCorrect": true
                         },
                         {
-                            "text": "the scintillating scent of Vermont",
+                            "text": "Ich kann versprechen, das Brandenburger Tor steht noch eine Weile",
                             "isCorrect": false
                         },
                         {
-                            "text": "the robust hills of South Dakota",
+                            "text": "Dieser Fehler ist einzig und allein mein Fehler",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Bill Pullman in <i>Independence Day<\/i>",
+                    "title": "Rede von Steve Jobs vor Absolventen der Stanford Universität",
                     "choices": [
                         {
-                            "text": "We will go blazing into the night!",
+                            "text": "1963 ist kein Ende sondern ein Anfang",
                             "isCorrect": false
                         },
                         {
-                            "text": "We will not vanish without a fight!",
+                            "text": "Bleiben Sie hungrig, bleiben Sie verrückt",
                             "isCorrect": true
                         },
                         {
-                            "text": "We\u2019re going to live on!",
+                            "text": "Vor etwa einem Jahr wurde bei mir Krebs diagnostiziert",
                             "isCorrect": true
                         },
                         {
-                            "text": "We going to ride it out!",
+                            "text": "Ich bin froh, mit euch hier vereint zu sein",
                             "isCorrect": false
                         },
                         {
-                            "text": "We\u2019re going to survive!",
+                            "text": "Ich war gerade 30 geworden, da wurde ich gefeuert",
                             "isCorrect": true
                         },
                         {
-                            "text": "We are Americans!",
+                            "text": "Von jedem Berghang lass die Glocken der Freiheit läuten",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Yoda in <i>The Empire Strikes Back<\/i>",
+                    "title": "Rede aus <i>Der große Diktator<\/i> mit Charlie Chaplin",
                     "choices": [
                         {
-                            "text": "Size matters not.",
+                            "text": "Wir sprechen zu viel und fühlen zu wenig",
                             "isCorrect": true
                         },
                         {
-                            "text": "Saggy I am, but forever immortal.",
+                            "text": "Ich habe einen Traum",
                             "isCorrect": false
                         },
                         {
-                            "text": "For my ally is the Force, and a powerful ally it is.",
+                            "text": "Diktatoren wollen die Freiheit nur für sich",
                             "isCorrect": true
                         },
                         {
-                            "text": "The force lives between you and me, two souls undone.",
+                            "text": "Dies ist unsere Hoffnung",
                             "isCorrect": false
                         },
                         {
-                            "text": "Touch me not.",
-                            "isCorrect": false
+                            "text": "Nieder mit der Unterdrückung, dem Hass und der Intolrenz!",
+                            "isCorrect": true
                         },
                         {
-                            "text": "Luminous beings are we.",
+                            "text": "Soldaten vertraut euch nicht Barbaren an",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Christian Bale rant",
+                    "title": "Yoda\u2019s Rede über <i>das Wesen der Macht<\/i>",
                     "choices": [
                         {
-                            "text": "No, shut the f@%$ up, Bruce",
+                            "text": "Größe bedeutet nichts",
                             "isCorrect": true
                         },
                         {
-                            "text": "Your lights are f#%$ing trash, Bruce",
+                            "text": "Lass es sein",
                             "isCorrect": false
                         },
                         {
-                            "text": "If you touch me, I\u2019ll scream",
+                            "text": "Nicht danken, du mir musst",
                             "isCorrect": false
                         },
                         {
-                            "text": "Ah-da-da-dah, like this in the background",
+                            "text": "Es gibt kein Versuchen",
                             "isCorrect": true
                         },
                         {
-                            "text": "Do you like me like this, Bruce?",
+                            "text": "Dunkel, sehr dunkel die andere Seite ist",
                             "isCorrect": false
                         },
                         {
-                            "text": "We\u2019re f&^%ing done professionally.",
-                            "isCorrect": true
+                            "text": "der Tod, ein natürlicher Bestandteil des Lebens ist",
+                            "isCorrect": false
                         }
                     ]
                 }
