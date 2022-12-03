@@ -5762,25 +5762,17 @@
         },
         {
             "id": "52212",
-            "title": "Spoiler Alert...They Die!",
+            "title": "Spoilerwarnung... Der Charakter stirbt!",
             "prompts": [
                 {
-                    "title": "the dog dies",
+                    "title": "Der Hund stirbt",
                     "choices": [
                         {
-                            "text": "<i>Old Yeller<\/i>",
+                            "text": "<i>House of Cards<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Turner & Hooch<\/i>",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "<i>Air Bud<\/i>",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "<i>Marley & Me<\/i>",
+                            "text": "<i>Hachiko - Eine wunderbare Freundschaft<\/i>",
                             "isCorrect": true
                         },
                         {
@@ -5788,49 +5780,65 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Marmaduke<\/i>",
+                            "text": "<i>John Wick<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Der Polarexpress<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Ein Hund namens Beethoven<\/i>",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "the title character dies",
+                    "title": "Der Hauptcharakter stirbt",
                     "choices": [
                         {
-                            "text": "<i>Lincoln<\/i>",
+                            "text": "<i>Titanic<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Hamlet<\/i>",
+                            "text": "<i>Gladiator<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Saving Private Ryan<\/i>",
+                            "text": "<i>Robin Hood<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Logan Lucky<\/i>",
+                            "text": "<i>Hachiko - Eine wunderbare Freundschaft<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Greatest Showman<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Marmaduke<\/i>",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "<i>Godzilla<\/i> (1954)",
+                            "text": "<i>Armageddon - Das jüngste Gericht<\/i>",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Sean Bean dies",
+                    "title": "Sean Bean stirbt",
                     "choices": [
                         {
-                            "text": "<i>National Treasure<\/i>",
+                            "text": "<i>John Wick 2<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Lord of the Rings: Return of the King<\/i>",
+                            "text": "<i>Game of Thorns<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Game of Thrones<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Der Herr der Ringe: Die Gefährten<\/i>",
                             "isCorrect": false
                         },
                         {
@@ -5838,28 +5846,20 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Lord of the Rings: Fellowship of the Ring<\/i>",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "<i>GoldenEye<\/i>",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "<i>Game of Thorns<\/i>",
+                            "text": "<i>Herr der Ringe: Die Rückkehr des Königs<\/i>",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "the king dies",
+                    "title": "Der König stirbt",
                     "choices": [
                         {
-                            "text": "<i>Lord of the Rings: Return of the King<\/i>",
+                            "text": "<i>Herr der Ringe: Die Rückkehr des Königs<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>King Kong<\/i> (1933)",
+                            "text": "<i>Der König der Löwen<\/i>",
                             "isCorrect": true
                         },
                         {
@@ -5867,36 +5867,36 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>The King\u2019s Speech<\/i>",
+                            "text": "<i>The King\u2019s Speech - Die Rede des Königs<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>The Lion King<\/i>",
+                            "text": "<i>Der Tod von Ludwig XIV<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>The King of Queens<\/i>",
+                            "text": "<i>King of Queens<\/i>",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "the monster dies",
+                    "title": "Das Monster stirbt",
                     "choices": [
                         {
-                            "text": "<i>The Fly<\/i> (1986)",
+                            "text": "<i>A Quiet Place<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Monsters, Inc.<\/i>",
+                            "text": "<i>Monster AG<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>The Fly<\/i> (1958)",
+                            "text": "<i>Edge of Tomorrow<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>The Shape of Water<\/i>",
+                            "text": "<i>Monster Uni<\/i>",
                             "isCorrect": false
                         },
                         {
@@ -5910,30 +5910,30 @@
                     ]
                 },
                 {
-                    "title": "both title characters die",
+                    "title": "Der beste Freund stirbt",
                     "choices": [
                         {
-                            "text": "<i>Romeo and Juliet<\/i>",
+                            "text": "<i>Tenet<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Turner & Hooch<\/i>",
+                            "text": "<i>Ziemlich beste Freunde<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Julie & Julia<\/i>",
+                            "text": "<i>Sherlock Holmes<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Thelma & Louise<\/i>",
+                            "text": "<i>John Wick<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Butch Cassidy and the Sundance Kid<\/i>",
+                            "text": "<i>Forrest Gump<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Assassination of Jesse James by the Coward Robert Ford<\/i>",
+                            "text": "<i>Django Unchained<\/i>",
                             "isCorrect": true
                         }
                     ]
