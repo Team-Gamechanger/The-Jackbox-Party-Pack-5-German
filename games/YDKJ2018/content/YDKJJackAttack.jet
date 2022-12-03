@@ -4862,178 +4862,178 @@
         },
         {
             "id": "52349",
-            "title": "Part of the Team",
+            "title": "Nie ohne mein Team",
             "prompts": [
                 {
-                    "title": "football positions",
+                    "title": "Fußball Positionen",
                     "choices": [
                         {
-                            "text": "quarterback",
+                            "text": "Torhüter",
                             "isCorrect": true
                         },
                         {
-                            "text": "middle",
+                            "text": "Hooligan",
                             "isCorrect": false
                         },
                         {
-                            "text": "center",
+                            "text": "Stürmer",
                             "isCorrect": true
                         },
                         {
-                            "text": "right fielder",
+                            "text": "Kommentator",
                             "isCorrect": false
                         },
                         {
-                            "text": "linebacker",
+                            "text": "Innenverteidiger",
                             "isCorrect": true
                         },
                         {
-                            "text": "cornerback",
+                            "text": "Außenverteidiger",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "futebol positions",
+                    "title": "Basketball Positionen",
                     "choices": [
                         {
-                            "text": "blocker",
+                            "text": "Quarterback",
                             "isCorrect": false
                         },
                         {
-                            "text": "stopper",
+                            "text": "Center",
                             "isCorrect": true
                         },
                         {
-                            "text": "sweeper",
+                            "text": "Point Guard",
                             "isCorrect": true
                         },
                         {
-                            "text": "spotter",
+                            "text": "Hooligan",
                             "isCorrect": false
                         },
                         {
-                            "text": "offensive goalkeeper",
+                            "text": "Mittelblocker",
                             "isCorrect": false
                         },
                         {
-                            "text": "defensive midfielder",
+                            "text": "Power Forward",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "quidditch positions",
+                    "title": "Quidditch Positionen",
                     "choices": [
                         {
-                            "text": "chaser",
+                            "text": "Hüter",
                             "isCorrect": true
                         },
                         {
-                            "text": "digger",
+                            "text": "Bomber",
                             "isCorrect": false
                         },
                         {
-                            "text": "keeper",
+                            "text": "Treiber",
                             "isCorrect": true
                         },
                         {
-                            "text": "seeker",
+                            "text": "Sucher",
                             "isCorrect": true
                         },
                         {
-                            "text": "womper",
+                            "text": "Flieger",
                             "isCorrect": false
                         },
                         {
-                            "text": "beater",
+                            "text": "Jäger",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "film crew",
+                    "title": "Filmcrew",
                     "choices": [
                         {
-                            "text": "gaffer",
+                            "text": "Szenenbildner",
                             "isCorrect": true
                         },
                         {
-                            "text": "spotter",
+                            "text": "Schauspieler",
                             "isCorrect": false
                         },
                         {
-                            "text": "best man",
+                            "text": "Armleuchter",
                             "isCorrect": false
                         },
                         {
-                            "text": "key grip",
+                            "text": "Oberbeleuchter",
                             "isCorrect": true
                         },
                         {
-                            "text": "best boy",
+                            "text": "Drehbuchautor",
                             "isCorrect": true
                         },
                         {
-                            "text": "prop king",
+                            "text": "Stuntman",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "\u201cDungeons & Dragons\u201d classes",
+                    "title": "\u201cDungeons & Dragons\u201d Klassen",
                     "choices": [
                         {
-                            "text": "Fighter",
+                            "text": "Barbar",
                             "isCorrect": true
                         },
                         {
-                            "text": "Paladin",
+                            "text": "Hexenmeister",
                             "isCorrect": true
                         },
                         {
-                            "text": "Knight",
+                            "text": "Kommunist",
                             "isCorrect": false
                         },
                         {
-                            "text": "Monk",
+                            "text": "Waldläufer",
                             "isCorrect": true
                         },
                         {
-                            "text": "Medic",
+                            "text": "Maggi-Schmied",
                             "isCorrect": false
                         },
                         {
-                            "text": "Bard",
+                            "text": "Magieschmied",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "ship crew",
+                    "title": "Team Rocket",
                     "choices": [
                         {
-                            "text": "captain",
+                            "text": "Giovanni",
                             "isCorrect": true
                         },
                         {
-                            "text": "masthead",
+                            "text": "Ash",
                             "isCorrect": false
                         },
                         {
-                            "text": "spotter",
+                            "text": "Pietro",
                             "isCorrect": false
                         },
                         {
-                            "text": "bosun",
+                            "text": "James",
                             "isCorrect": true
                         },
                         {
-                            "text": "first mate",
+                            "text": "Mauzi",
                             "isCorrect": true
                         },
                         {
-                            "text": "huller",
+                            "text": "Tai",
                             "isCorrect": false
                         }
                     ]
@@ -5042,75 +5042,75 @@
         },
         {
             "id": "52343",
-            "title": "You\u2019re a Monster",
+            "title": "Die Monster GmbH",
             "prompts": [
                 {
-                    "title": "ghost",
+                    "title": "Geister",
                     "choices": [
                         {
                             "text": "Casper",
                             "isCorrect": true
                         },
                         {
-                            "text": "Zipper",
+                            "text": "Herobrine",
                             "isCorrect": false
                         },
                         {
-                            "text": "Slimer",
+                            "text": "Hui Buh",
                             "isCorrect": true
                         },
                         {
-                            "text": "Blinky",
+                            "text": "König Buu Huu",
                             "isCorrect": true
                         },
                         {
-                            "text": "Jacob Black",
+                            "text": "Frankenstein",
                             "isCorrect": false
                         },
                         {
-                            "text": "Jacob Marley",
+                            "text": "Fast Kopfloser Nick",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "witch",
+                    "title": "Hexen",
                     "choices": [
                         {
-                            "text": "Cruella De Vil",
+                            "text": "Hades",
                             "isCorrect": false
                         },
                         {
-                            "text": "Magica De Spell",
+                            "text": "Gundula Gaukeley",
                             "isCorrect": true
                         },
                         {
-                            "text": "Sabrina Spellman",
+                            "text": "Bibi Blocksberg",
                             "isCorrect": true
                         },
                         {
-                            "text": "Samantha Spellman",
+                            "text": "Lucifer",
                             "isCorrect": false
                         },
                         {
-                            "text": "Jadis the White",
+                            "text": "Madame Mim",
                             "isCorrect": true
                         },
                         {
-                            "text": "Glinda the Good",
+                            "text": "Hermine Granger",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "werewolf",
+                    "title": "Werwölfe",
                     "choices": [
                         {
-                            "text": "Edward Cullen",
+                            "text": "Gru",
                             "isCorrect": false
                         },
                         {
-                            "text": "Jacob Black",
+                            "text": "Fenrir Greyback",
                             "isCorrect": true
                         },
                         {
@@ -5122,98 +5122,98 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Lawrence Talbot",
+                            "text": "Wayne",
                             "isCorrect": true
                         },
                         {
-                            "text": "Lorne Chaney",
+                            "text": "Akela",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "demon",
+                    "title": "Vampire",
                     "choices": [
+                        {
+                            "text": "Nosferatu",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Edward Cullen",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Fungus",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Graf Zahl",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Stuart",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Jonathan Reid",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Dämonen",
+                    "choices": [
+                        {
+                            "text": "Asura",
+                            "isCorrect": true
+                        },
                         {
                             "text": "Pazuzu",
                             "isCorrect": true
                         },
                         {
-                            "text": "Belphegor",
+                            "text": "Yokai",
                             "isCorrect": true
                         },
                         {
-                            "text": "Mxyzptlk",
+                            "text": "Anubis",
                             "isCorrect": false
                         },
                         {
-                            "text": "Crowley",
+                            "text": "Sphinx",
                             "isCorrect": true
                         },
                         {
-                            "text": "Cinderstick",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Screwtape",
-                            "isCorrect": true
-                        }
-                    ]
-                },
-                {
-                    "title": "living doll",
-                    "choices": [
-                        {
-                            "text": "Chucky",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Talking Tina",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Slappy the Dummy",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Leatherface",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Annabelle",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Tinker Bell",
+                            "text": "Loki",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "New York Giant",
+                    "title": "Minecraft",
                     "choices": [
                         {
-                            "text": "Michael Strahan",
+                            "text": "Creeper",
                             "isCorrect": true
                         },
                         {
-                            "text": "Peyton Manning",
+                            "text": "Eisbär",
                             "isCorrect": false
                         },
                         {
-                            "text": "Joe Namath",
+                            "text": "Tintenfisch",
                             "isCorrect": false
                         },
                         {
-                            "text": "Eli Manning",
+                            "text": "Enderdrache",
                             "isCorrect": true
                         },
                         {
-                            "text": "Lawrence Taylor",
+                            "text": "Magmawürfel",
                             "isCorrect": true
                         },
                         {
-                            "text": "Phil Simms",
+                            "text": "Plagegeist",
                             "isCorrect": true
                         }
                     ]
