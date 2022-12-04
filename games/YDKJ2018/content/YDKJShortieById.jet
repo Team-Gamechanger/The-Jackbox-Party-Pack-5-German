@@ -1454,23 +1454,23 @@
         {
             "id": "51958",
             "category": {
-                "text": "Eine Frage mit Airhorns"
+                "text": "Eine Frage mit Partytröten"
             },
             "choices": [
                 {
-                    "text": "{AIRHORN SFX}",
+                    "text": "{PARTYTRÖTEN SFX}",
                     "isCorrect": false
                 },
                 {
-                    "text": "{AIRHORN SFX} {AIRHORN SFX}",
+                    "text": "{PARTYTRÖTEN SFX} {PARTYTRÖTEN SFX}",
                     "isCorrect": false
                 },
                 {
-                    "text": "{AIRHORN SFX} {AIRHORN SFX} {AIRHORN SFX}",
+                    "text": "{PARTYTRÖTEN SFX} {PARTYTRÖTEN SFX} {PARTYTRÖTEN SFX}",
                     "isCorrect": false
                 },
                 {
-                    "text": "{AIRHORN SFX} {AIRHORN SFX} {AIRHORN SFX} {AIRHORN SFX}",
+                    "text": "{PARTYTRÖTEN SFX} {PARTYTRÖTEN SFX} {PARTYTRÖTEN SFX} {PARTYTRÖTEN SFX}",
                     "isCorrect": true
                 }
             ],
@@ -1486,7 +1486,7 @@
         {
             "id": "51957",
             "category": {
-                "text": "Eine Frage über Airhorns"
+                "text": "Eine Frage über Partytröten"
             },
             "choices": [
                 {
@@ -1511,7 +1511,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "\u201cEs stimmt, dass ich fasziniert von Airhorns bin."
+                    "text": "\u201cEs stimmt, dass ich fasziniert von Partytröten bin."
                 },
                 {
                     "timing": "S + 2.74",
