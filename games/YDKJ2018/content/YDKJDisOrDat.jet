@@ -223,45 +223,45 @@
         {
             "questions": [
                 {
-                    "text": "James __Avoy",
-                    "correctChoiceString": "dat"
-                },
-                {
-                    "text": "Ewan __Gregor",
-                    "correctChoiceString": "dat"
-                },
-                {
-                    "text": "Ian __Kellen",
-                    "correctChoiceString": "dat"
-                },
-                {
-                    "text": "Tim __Graw",
-                    "correctChoiceString": "dat"
-                },
-                {
-                    "text": "Norm __donald",
+                    "text": "Trochäus",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Shirley __Laine",
+                    "text": "Daktylus",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Seth __Farlane",
+                    "text": "Lazarus",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Jambus",
                     "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Stephanus",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Anapäst",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Zachäus",
+                    "correctChoiceString": "dat"
                 }
             ],
             "disChoice": {
-                "longText": "their last name starts with a Mac",
-                "shortText": "MAC"
+                "longText": "Versmaß",
+                "shortText": "Versmaß"
             },
             "datChoice": {
-                "longText": "their last name starts with a Mc",
-                "shortText": "MC"
+                "longText": "Biblische Figur",
+                "shortText": "Bibel"
             },
             "id": "53581",
             "category": {
-                "text": "Macky D\u2019s"
+                "text": "Himmlische Grammatik"
             }
         },
         {
