@@ -211,7 +211,7 @@
             }
         },
         {
-            "question": {
+            "question": { # Du sollst den Tag nicht vor dem Abend loben
                 "text": "Möchten Sie eine Frage gestellt bekommen, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind, oder eine Frage, bei der Sie DOCH die Hühner mitzählen, bevor sie geschlüpft sind?"
             },
             "id": "53012",
@@ -240,15 +240,15 @@
         },
         {
             "question": {
-                "text": "Möchten Sie eine Frage mit Airhorns oder eine Frage über Airhorns gestellt bekommen?"
+                "text": "Möchten Sie eine Frage mit Partytröten oder eine Frage über Partytröten gestellt bekommen?"
             },
             "id": "53008",
             "choice1": {
-                "text": "eine Frage mit Airhorns",
+                "text": "eine Frage mit Partytröten",
                 "id": "51958"
             },
             "choice2": {
-                "text": "eine Frage über Airhorns",
+                "text": "eine Frage über Partytröten",
                 "id": "51957"
             }
         },
