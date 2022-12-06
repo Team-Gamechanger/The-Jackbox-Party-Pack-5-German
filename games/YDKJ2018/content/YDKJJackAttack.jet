@@ -3962,178 +3962,178 @@
         },
         {
             "id": "52464",
-            "title": "Make Me Plural",
+            "title": "Hier ist eine <i>Phasenweise Problematische PowerPoint-Präsentation<\/i>",
             "prompts": [
                 {
-                    "title": "add \u201cs\u201d to the end",
+                    "title": "Die Schlafphasen",
                     "choices": [
                         {
-                            "text": "stomach",
+                            "text": "REM-Schlaf (Rapid-Eye-Movement)",
                             "isCorrect": true
                         },
                         {
-                            "text": "louse",
+                            "text": "Aufwachschlaf",
                             "isCorrect": false
                         },
                         {
-                            "text": "passerby",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "alloy",
+                            "text": "Tiefschlaf",
                             "isCorrect": true
                         },
                         {
-                            "text": "cliff",
+                            "text": "Leichtschlaf",
                             "isCorrect": true
                         },
                         {
-                            "text": "sister-in-law",
+                            "text": "Einschlafphase",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Beruhigungsschlaf",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "add \u201ces\u201d to the end",
+                    "title": "Die Trauerphasen (nach V. Kast)",
                     "choices": [
                         {
-                            "text": "placebo",
+                            "text": "Neuerfindungsphase",
                             "isCorrect": false
                         },
                         {
-                            "text": "zero",
+                            "text": "<i>Suchen und Sich-Trennen<\/i>-Phase",
                             "isCorrect": true
                         },
                         {
-                            "text": "maestro",
+                            "text": "<i>Aufbrechende Emotionen<\/i>-Phase",
                             "isCorrect": true
                         },
                         {
-                            "text": "shampoo",
+                            "text": "Träumerphase",
                             "isCorrect": false
                         },
                         {
-                            "text": "potato",
+                            "text": "<i>Nicht-Wahrhaben-Wollen<\/i>-Phase",
                             "isCorrect": true
                         },
                         {
-                            "text": "avocado",
+                            "text": "Verweigerungsphase",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "don\u2019t change a thing",
+                    "title": "Die Phasen des Kaufprozesses (nach Kotler)",
                     "choices": [
                         {
-                            "text": "bacillus",
+                            "text": "Ablehnung",
                             "isCorrect": false
                         },
                         {
-                            "text": "aircraft",
+                            "text": "Problemerkennung",
                             "isCorrect": true
                         },
                         {
-                            "text": "codex",
+                            "text": "Kaufentscheidung",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Beeinflussung",
                             "isCorrect": false
                         },
                         {
-                            "text": "moose",
+                            "text": "Verhalten nach dem Kauf",
                             "isCorrect": true
                         },
                         {
-                            "text": "fez",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "grapefruit",
-                            "isCorrect": true
-                        }
-                    ]
-                },
-                {
-                    "title": "change \u201coo\u201d to \u201cee\u201d",
-                    "choices": [
-                        {
-                            "text": "blood",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "goose",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "tooth",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "moose",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "foot",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "roof",
+                            "text": "Geschäftswillenentwicklung",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "change \u201cum\u201d to \u201ca\u201d",
+                    "title": "Die Phasen der Mitose (Zellteilung)",
                     "choices": [
                         {
-                            "text": "millennium",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "medium",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "condominium",
+                            "text": "Telephase",
                             "isCorrect": false
                         },
                         {
-                            "text": "aluminum",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "datum",
+                            "text": "Telophase",
                             "isCorrect": true
                         },
                         {
-                            "text": "ovum",
+                            "text": "Gammaphase",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Prophase",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Annophase",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Metaphase",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "change \u201cus\u201d to \u201ci\u201d",
+                    "title": "Die Software-Lebenszyklus-Phasen",
                     "choices": [
                         {
-                            "text": "cactus",
+                            "text": "\u201cWartung und Support\u201d-Phase",
                             "isCorrect": true
                         },
                         {
-                            "text": "caucus",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "census",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "stimulus",
+                            "text": "\u201cAnalyse und Entwurf\u201d-Phase",
                             "isCorrect": true
                         },
                         {
-                            "text": "hiatus",
+                            "text": "\u201cCrunch\u201d>-Phase",
                             "isCorrect": false
                         },
                         {
-                            "text": "Prius",
+                            "text": "\u201cTest und Design\u201d-Phase",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "\u201cWartung und Neuentwicklung\u201d-Phase",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "\u201cImplementierung\u201d-Phase",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Die Phasen von <i>Phase 10<\/i>",
+                    "choices": [
+                        {
+                            "text": "Achterfolge",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "5 Drillinge",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Viererfolge",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "6 Karten einer Farbe",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "7 Karten einer Farbe",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Fünfling und Zwilling",
                             "isCorrect": true
                         }
                     ]
