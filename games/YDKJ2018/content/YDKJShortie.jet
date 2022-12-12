@@ -8984,23 +8984,23 @@
         {
             "id": "51371",
             "category": {
-                "text": "Throwing Shade"
+                "text": "Im Schatten der Hater"
             },
             "choices": [
                 {
-                    "text": "avocado emoji",
+                    "text": "Avocado-Emoji",
                     "isCorrect": false
                 },
                 {
-                    "text": "peanut emoji",
+                    "text": "Erdnuss-Emoji",
                     "isCorrect": false
                 },
                 {
-                    "text": "peach emoji",
+                    "text": "Pfirsich-Emoji",
                     "isCorrect": false
                 },
                 {
-                    "text": "eggplant emoji",
+                    "text": "Auberginen-Emoji",
                     "isCorrect": true
                 }
             ],
@@ -9009,7 +9009,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What emoji would I use if I were throwing NIGHTSHADE at all my haters on the internet?"
+                    "text": "Welches Emoji würde ich benutzen, wenn ich einen NACHTSCHATTEN auf alle meine Hater im Internet werfen würde?"
                 }
             ]
         },
@@ -9048,7 +9048,7 @@
         {
             "id": "51346",
             "category": {
-                "text": "Beethoven, u up?"
+                "text": "Haste Bock, Beethoven?"
             },
             "choices": [
                 {
@@ -9073,7 +9073,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these emoticons most resembles the repeat sign in sheet music?"
+                    "text": "Welches dieser Smileys ähnelt am meisten dem Wiederholungszeichen auf einem Notenblatt?"
                 }
             ]
         },
@@ -9260,23 +9260,23 @@
         {
             "id": "51110",
             "category": {
-                "text": "Are You Frykantig Kidding Me?!"
+                "text": "Billy und sein Boy"
             },
             "choices": [
                 {
-                    "text": "Stieg Larsson the answer of course is.",
+                    "text": "Stieg Larsson die Antwort lautet natürlich.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Stefan Edberg it did in 20th century.",
+                    "text": "Stefan Edberg im 20. Jahrhundert es tat.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ingvar Kamprad was it started by.",
+                    "text": "Ingvar Kamprad damit hat angefangen.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Dolph Lundgren founder is of it.",
+                    "text": "Dolph Lundgren davon Gründer der ist.",
                     "isCorrect": false
                 }
             ],
@@ -9285,30 +9285,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these poorly self-constructed answers mentions the founder of IKEA?"
+                    "text": "In welcher dieser schlechten, selbst zusammengebauten Antworten wird der Gründer von IKEA erwähnt?"
                 }
             ]
         },
         {
             "id": "51097",
             "category": {
-                "text": "Single Serving of Science"
+                "text": "Eine Portion Wissenschaft"
             },
             "choices": [
                 {
-                    "text": "frozen coffee",
+                    "text": "Gefrorener Kaffee",
                     "isCorrect": true
                 },
                 {
-                    "text": "highly pressurized coffee",
+                    "text": "Kaffee mit Überdruck",
                     "isCorrect": false
                 },
                 {
-                    "text": "microscopic coffee",
+                    "text": "Mikroskopisch kleiner Kaffee",
                     "isCorrect": false
                 },
                 {
-                    "text": "coffee from the future",
+                    "text": "Kaffee aus der Zukunft",
                     "isCorrect": false
                 }
             ],
@@ -9317,7 +9317,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If K is referring to the unit of measurement kelvin, what\u2019s in 1 K cup?"
+                    "text": "Wenn sich K auf die Maßeinheit Kelvin bezieht, was befindet sich dann in einer 1 K Tasse?"
                 }
             ]
         },
@@ -9664,23 +9664,23 @@
         {
             "id": "50716",
             "category": {
-                "text": "The Periodic Table of Kevin Hart"
+                "text": "Das Periodensystem von Elyas M\u2019Barek"
             },
             "choices": [
                 {
-                    "text": "\u201cThis holiday season, Kevin Hart is CARBON!\u201d",
+                    "text": "\u201cDiesen Winter, Elyas M\u2019Barek als KOHLENSTOFF!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cThis summer, Kevin Hart is HYDROGEN!\u201d",
+                    "text": "\u201cDiesen Sommer, Elyas M\u2019Barek als WASSERSTOFF!\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cThis fall, Kevin Hart is OXYGEN!\u201d",
+                    "text": "\u201cDiesen Herbst, Elyas M\u2019Barek als SAUERSTOFF!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cNext year, Kevin Hart is HELIUM!\u201d",
+                    "text": "\u201cNächstes Jahr, Elyas M\u2019Barek als HELIUM!\u201d",
                     "isCorrect": false
                 }
             ],
@@ -9689,7 +9689,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If in his next movie, Kevin Hart played the element that is most abundant in the universe, what would the trailer say?"
+                    "text": "Wenn Elyas M\u2019Barek in seinem nächsten Film das Element spielen würde, das im Universum am häufigsten vorkommt, was würde dann im Trailer gesagt werden?"
                 }
             ]
         },
@@ -9860,23 +9860,23 @@
         {
             "id": "50530",
             "category": {
-                "text": "Really Light Beer"
+                "text": "Wir haben nur noch sehr wenig Bier"
             },
             "choices": [
                 {
-                    "text": "a MICRObrew",
+                    "text": "ein MIKROgebräu",
                     "isCorrect": false
                 },
                 {
-                    "text": "a MILLIbrew",
+                    "text": "ein MILLIgebräu",
                     "isCorrect": false
                 },
                 {
-                    "text": "a PICObrew",
+                    "text": "ein PIKOgebräu",
                     "isCorrect": true
                 },
                 {
-                    "text": "a CENTIbrew",
+                    "text": "ein ZENTIgebräu",
                     "isCorrect": false
                 }
             ],
@@ -9885,7 +9885,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these intimidatingly hip beverages is the SMALLEST batch beer?"
+                    "text": "Welches dieser furchteinflößend hippen Getränke ist das KLEINSTE Bier in der Reihe?"
                 }
             ]
         },
@@ -9924,23 +9924,23 @@
         {
             "id": "50237",
             "category": {
-                "text": "The Internet Is Sick"
+                "text": "Das Internet ist krank"
             },
             "choices": [
                 {
-                    "text": "\u201cKeyboard Cat gets RABIES\u201d",
+                    "text": "\u201cDie Keyboard Cat bekommt TOLLWUT\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cCharlie bit my finger and gave me TUBERCULOSIS\u201d",
+                    "text": "\u201cCharlie hat mir in den Finger gebissen und jetzt habe ich TUBERKULOSE\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cGrape Lady Falls and gets MUMPS\u201d",
+                    "text": "\u201cEin wütendes Kind will Unreal Tournament spielen und bekommt stattdessen MUMPS\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cSneezing Panda might have HEPATITIS C\u201d",
+                    "text": "\u201cDer niesende Panda hat vielleicht HEPATITIS C\u201d",
                     "isCorrect": false
                 }
             ],
@@ -9949,7 +9949,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these online sensations would NOT be a \u201cviral\u201d video?"
+                    "text": "Welche dieser Online-Sensationen würde NICHT zu den \u201cviralen\u201d Videos gehören?"
                 }
             ]
         },
@@ -10516,7 +10516,7 @@
         {
             "id": "50915",
             "category": {
-                "text": "12 Small Steps for Man"
+                "text": "Apollo ist nur einmal im Jahr"
             },
             "choices": [
                 {
@@ -10528,7 +10528,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Mercury",
+                    "text": "Merkur",
                     "isCorrect": false
                 },
                 {
@@ -10541,11 +10541,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Imagine you\u2019re planning a girl\u2019s trip with a single goal: Rosé ALL DAY."
+                    "text": "Angenommen Sie planen einen Männerabend mit nur einem Ziel: Den ganzen Tag nur SAUFEN."
                 },
                 {
                     "timing": "S + 5.39",
-                    "text": "Considering the length of its days, which of these destinations would allow you to drink wine for the longest period of time?"
+                    "text": "An welchem dieser Reiseziele können Sie, gemessen an der Länge der Tage, am längsten Alkohol konsumierern?"
                 }
             ]
         },
@@ -10724,23 +10724,23 @@
         {
             "id": "50854",
             "category": {
-                "text": "Terror on the Side of Caution"
+                "text": "Vorsicht ist besser als Nachsicht"
             },
             "choices": [
                 {
-                    "text": "...you get this question wrong!",
+                    "text": "...wenn Sie diese Frage falsch beantworten!",
                     "isCorrect": true
                 },
                 {
-                    "text": "...you get this question right!",
+                    "text": "...wenn Sie diese Frage richtig beantworten!",
                     "isCorrect": false
                 },
                 {
-                    "text": "...we never reveal the correct answer to this question!",
+                    "text": "...wenn wir Ihnen nicht die richtige Antwort auf diese Frage verraten!",
                     "isCorrect": false
                 },
                 {
-                    "text": "...this question is full of bees!",
+                    "text": "...wenn diese Frage bis zum Rand mit Bienen gefüllt wäre!",
                     "isCorrect": false
                 }
             ],
@@ -10749,7 +10749,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If you suffer from atychiphobia, you\u2019ll scream in terror when..."
+                    "text": "Wenn Sie an Atychiophobie leiden werden Sie panisch aufschreien, ..."
                 }
             ]
         },
@@ -10968,15 +10968,15 @@
         {
             "id": "50649",
             "category": {
-                "text": "I\u2019ll Keep This One Short"
+                "text": "Ich fasse mich kurz"
             },
             "choices": [
                 {
-                    "text": "Spongebob SquarePants",
+                    "text": "Spongebob Schwammkopf",
                     "isCorrect": false
                 },
                 {
-                    "text": "Dora the Explorer",
+                    "text": "Dora",
                     "isCorrect": false
                 },
                 {
@@ -10993,7 +10993,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Whose shorts are blue?"
+                    "text": "Wer trägt kurze, blaue Hosen?"
                 }
             ]
         },
@@ -11036,7 +11036,7 @@
         {
             "id": "50577",
             "category": {
-                "text": "A Few Bricks Shy of a Full Set"
+                "text": "Da fehlen ein paar Steine in meinem Set"
             },
             "choices": [
                 {
@@ -11061,11 +11061,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Suppose Danish company LEGO wanted their next LEGO movie to be set close to home... in Denmark."
+                    "text": "Angenommen, das dänische Unternehmen LEGO möchte, dass der nächste LEGO Film in der Nähe seines Heimatlandes spielt... in Dänemark."
                 },
                 {
                     "timing": "S + 6.08",
-                    "text": "Which classic character would we watch go to pieces?"
+                    "text": "Welcher klassischen Figur würden wir beim Untergang zuschauen?"
                 }
             ]
         },
@@ -11136,24 +11136,24 @@
         {
             "id": "50542",
             "category": {
-                "text": "That Puma Just Ate Tyra!"
+                "text": "Und das nennst du Musik?"
             },
             "choices": [
                 {
-                    "text": "Seal fending off a SEAL",
+                    "text": "Der Star singt nur bei Sonnenaufgang",
                     "isCorrect": false
                 },
                 {
-                    "text": "Howie Mandel besieged by PARROTS",
+                    "text": "Der Star kann bis zu 25 Jahre alt werden",
                     "isCorrect": false
                 },
                 {
-                    "text": "Simon Cowell punching an ORANGUTAN",
+                    "text": "Der Star hat einen verhältnismäßig großen Schnabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Star kann problemlos andere Vogelstimmen imitieren",
                     "isCorrect": true
-                },
-                {
-                    "text": "Heidi Klum head-butting a KOALA",
-                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
@@ -11161,11 +11161,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Imagine an unfortunate typo leads NBC to produce <i>America\u2019s Got Talons<\/i>, where celebrity judges fight off a series of clawed animals."
+                    "text": "Angenommen, eine unglückliche Fehlinterpretation würde dafür sorgen, dass RTL <i>Deutschland sucht den Super-Star<\/i> produziert, bei der die Jury den besten Singvogel sucht"
                 },
                 {
                     "timing": "S + 8.25",
-                    "text": "Which scenario would we NEVER see?"
+                    "text": "Welches Merkmal zeichnet die Stare aus?"
                 }
             ]
         },
@@ -11692,23 +11692,23 @@
         {
             "id": "49584",
             "category": {
-                "text": "Hot Privates in Your Area"
+                "text": "Heiße Beamte in Ihrer Umgebung"
             },
             "choices": [
                 {
-                    "text": "a THREE-STAR four-star general",
+                    "text": "ein DREI-STERNE Vier-Sterne Polizist",
                     "isCorrect": false
                 },
                 {
-                    "text": "a FOUR-STAR four-star general",
+                    "text": "ein VIER-STERNE Vier-Sterne Polizist",
                     "isCorrect": false
                 },
                 {
-                    "text": "a FIVE-STAR four-star general",
+                    "text": "ein FÜNF-STERNE Fünf-Sterne Polizist",
                     "isCorrect": true
                 },
                 {
-                    "text": "a SIX-STAR four-star general",
+                    "text": "ein FÜNF-STERNE Fünf-Sterne Polizist",
                     "isCorrect": false
                 }
             ],
@@ -11717,11 +11717,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What\u2019s the highest star rating a United States general can receive"
+                    "text": "Was ist die höchste Sternebewertung, die ein Polizist im gehobenen Polizeivollzugsdienst bekommen kann"
                 },
                 {
                     "timing": "S + 3.81",
-                    "text": "\u2026 on Yelp?"
+                    "text": "\u2026 auf Yelp?"
                 }
             ]
         },
@@ -11956,23 +11956,23 @@
         {
             "id": "50357",
             "category": {
-                "text": "I Paid the Co-Pay... but I Didn\u2019t \u201cLike\u201d It"
+                "text": "Ist Facebook denn privatversichert?"
             },
             "choices": [
                 {
-                    "text": "@EyeLoveSpectacles",
+                    "text": "@MachKeinAuge",
                     "isCorrect": false
                 },
                 {
-                    "text": "@ImTheBloodGuy",
+                    "text": "@DerBlutTyp",
                     "isCorrect": true
                 },
                 {
-                    "text": "@LeakyBladderIsTheMatter",
+                    "text": "@DeineBlaseMeinePhase",
                     "isCorrect": false
                 },
                 {
-                    "text": "@DrElderlyCare",
+                    "text": "@DrSeniorenBetreuung",
                     "isCorrect": false
                 }
             ],
@@ -11981,7 +11981,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If my hematologist joined Instagram, what would be a suitable username?"
+                    "text": "Wenn mein Hämatologe sich einen Instagram-Account erstellen würde, was wäre ein passender Nutzername für ihn?"
                 }
             ]
         },
@@ -12056,23 +12056,23 @@
         {
             "id": "50317",
             "category": {
-                "text": "South by South North"
+                "text": "Kompass mal auf!"
             },
             "choices": [
                 {
-                    "text": "the southern tip of South Korea",
+                    "text": "die Südspitze von Südkorea",
                     "isCorrect": false
                 },
                 {
-                    "text": "the southern tip of South Dakota",
+                    "text": "die Südspitze von Südafrika",
                     "isCorrect": false
                 },
                 {
-                    "text": "the southern tip of Southern Ontario",
+                    "text": "die Südspitze von Südtirol",
                     "isCorrect": false
                 },
                 {
-                    "text": "the southern tip of South Wales",
+                    "text": "die Südspitze von Köln Süd",
                     "isCorrect": true
                 }
             ],
@@ -12081,7 +12081,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these southern points is farthest north?"
+                    "text": "Welcher dieser südlichen Punkte ist am weitesten nördlich?"
                 }
             ]
         },
@@ -12156,23 +12156,23 @@
         {
             "id": "50300",
             "category": {
-                "text": "That\u2019s Dumbledorable"
+                "text": "Super Dummbeldore"
             },
             "choices": [
                 {
-                    "text": "<i>Fantastic Beets and Where to Find Them<\/i>",
+                    "text": "<i>Phantastische Rüben und wo sie zu finden sind<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>Fantastic Geese and Where to Find Them<\/i>",
+                    "text": "<i>Phantastische Gänse und wo sie zu finden sind<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Fantastic Bees and Where to Find Them<\/i>",
+                    "text": "<i>Phantastische Bienen und wo sie zu finden sind<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Fantastic Priests and Where to Find Them<\/i>",
+                    "text": "<i>Phantastische Priester und wo sie zu finden sind<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -12181,7 +12181,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What would be the best title for a <i>Harry Potter<\/i> spin-off where they cast the spell \u201cBeta Vulgaris?\u201d"
+                    "text": "Was wäre der beste Titel für ein <i>Harry Potter<\/i> Spin-Off, bei welchem der Zauberspruch \u201cBeta Vulgaris\u201d gerufen wird?"
                 }
             ]
         },
@@ -12220,23 +12220,23 @@
         {
             "id": "50241",
             "category": {
-                "text": "Let\u2019s Get Some Math for the Table"
+                "text": "Heute gibt es lecker Mathe"
             },
             "choices": [
                 {
-                    "text": ".33 dumplings",
+                    "text": "0,33 Köstlichkeiten",
                     "isCorrect": false
                 },
                 {
-                    "text": "3 dumplings",
+                    "text": "3 Köstlichkeiten",
                     "isCorrect": false
                 },
                 {
-                    "text": "4 dumplings",
+                    "text": "4 Köstlichkeiten",
                     "isCorrect": false
                 },
                 {
-                    "text": "12 dumplings",
+                    "text": "12 Köstlichkeiten",
                     "isCorrect": true
                 }
             ],
@@ -12245,34 +12245,34 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If the dim SUM of 6 pork dumplings and 2 spicy shrimp dumplings is 8 dumplings..."
+                    "text": "Wenn die Summe aus 6 köstlichen Frikadellen und 2 scharfen Klößen 8 Köstlichkeiten ergeben..."
                 },
                 {
                     "timing": "S + 5.78",
-                    "text": "what would be the dim PRODUCT?"
+                    "text": "was wäre das PRODUKT?"
                 }
             ]
         },
         {
             "id": "50123",
             "category": {
-                "text": "I\u2019m a Great SingerrrrRRRRrrrrRRRR"
+                "text": "Ich bin der beste SängerrrrRRRRrrrrRRRR"
             },
             "choices": [
                 {
-                    "text": "Adam Levine spinning at 100 MPH",
+                    "text": "Stefanie Kloß dreht sich mit 100 KM\u002fH",
                     "isCorrect": false
                 },
                 {
-                    "text": "Blake Shelton spinning at 1,000 MPH",
+                    "text": "Mark Forster dreht sich mit 1.000 KM\u002fH",
                     "isCorrect": true
                 },
                 {
-                    "text": "Alicia Keys spinning at 10,000 MPH",
+                    "text": "Peter Maffay dreht sich mit 10.000 KM\u002fH ",
                     "isCorrect": false
                 },
                 {
-                    "text": "Kelly Clarkson spinning at 100,000 MPH",
+                    "text": "Rea Garvey dreht sich mit 100.000 KM\u002fH",
                     "isCorrect": false
                 }
             ],
@@ -12281,18 +12281,18 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Imagine the chairs on <i>The Voice<\/i> malfunction, causing them to spin at potentially lethal speeds."
+                    "text": "Stellen Sie sich vor, die Stühle bei <i>The Voice of Germany<\/i> haben eine Fehlfunktion, so dass sie sich mit potenziell tödlicher Geschwindigkeit drehen."
                 },
                 {
                     "timing": "S + 8.71",
-                    "text": "Which judge would be spinning around at the same speed as Earth?"
+                    "text": "Welches Jurymitglied würde sich mit der gleichen Geschwindigkeit wie die Erde drehen?"
                 }
             ]
         },
         {
             "id": "50119",
             "category": {
-                "text": "Music You Can Laugh To"
+                "text": "Musik zum Lachen"
             },
             "choices": [
                 {
@@ -12317,7 +12317,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If someone put a fermata on their laughter, what would it sound like?"
+                    "text": "Wenn jemand eine Fermate auf sein Lachen legen würde, wie würde sie klingen?"
                 }
             ]
         },
@@ -12420,23 +12420,23 @@
         {
             "id": "50050",
             "category": {
-                "text": "How Did Dad Get My E-Mail Address?"
+                "text": "Woher hat Papa meine E-Mail-Adresse?"
             },
             "choices": [
                 {
-                    "text": "MOM: \u201cThere is no God!\u201d",
+                    "text": "MAMA: \u201cEs gibt keinen Gott!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "DAD: \u201cStop acting like Hitler!\u201d",
+                    "text": "PAPA: \u201cHör auf dich wie Hitler zu verhalten!\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "GRANDMA: \u201cI wish you were all dead!\u201d",
+                    "text": "OMA: \u201cIch wünschte ihr wärt alle tot!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "GRANDPA: \u201cNew phone, who dis?\u201d",
+                    "text": "OPA: \u201cIch hab eure Nummern nicht mehr. Wer ist da?\u201d",
                     "isCorrect": false
                 }
             ],
@@ -12445,7 +12445,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "According to Godwin\u2019s Law, the giant unending group e-mail chain from my entire family will eventually result in which message?"
+                    "text": "Nach Godwins Law wird die endlose Reihe von Gruppen-E-Mails von meiner gesamten Familie irgendwann zu welcher Nachricht führen?"
                 }
             ]
         },
@@ -12740,11 +12740,11 @@
         {
             "id": "49624",
             "category": {
-                "text": "Bless You... Got Served"
+                "text": "Gesundheit."
             },
             "choices": [
                 {
-                    "text": "The Dougie",
+                    "text": "Der Dougie",
                     "isCorrect": false
                 },
                 {
@@ -12752,11 +12752,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "The Humpty Dance",
+                    "text": "Der Humpty-Tanz",
                     "isCorrect": false
                 },
                 {
-                    "text": "Dabbing",
+                    "text": "Der Dab",
                     "isCorrect": true
                 }
             ],
@@ -12765,7 +12765,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which hip hop move best demonstrates the proper hygienic way to sneeze in public as set out by the Center for Disease Control and Prevention?"
+                    "text": "Welcher Hip-Hop-Move veranschaulicht am besten die korrekte hygienische Art und Weise, in der Öffentlichkeit zu niesen, wie sie von der BZgA empfohlen wird?"
                 }
             ]
         },
@@ -13096,23 +13096,23 @@
         {
             "id": "49594",
             "category": {
-                "text": "Redd Beard"
+                "text": "Im Netz gelandet"
             },
             "choices": [
                 {
-                    "text": ":r:matey",
+                    "text": ":r:matrosen",
                     "isCorrect": false
                 },
                 {
-                    "text": "/r/matey",
+                    "text": "/r/matrosen",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cr\u201dmatey",
+                    "text": "\u201cr\u201dmatrosen",
                     "isCorrect": false
                 },
                 {
-                    "text": "(r)matey",
+                    "text": "(r)matrosen",
                     "isCorrect": false
                 }
             ],
@@ -13121,7 +13121,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What\u2019s the proper name format for a subreddit about pirates on Reddit?"
+                    "text": "Wie lautet das richtige Namensformat für einen Subreddit über Piraten auf Reddit?"
                 }
             ]
         },
@@ -13256,7 +13256,7 @@
         {
             "id": "51825",
             "category": {
-                "text": "Hola, Mi Nombre Es Cookie Masterson"
+                "text": "Hola, mi nombre es Jack"
             },
             "choices": [
                 {
@@ -13388,24 +13388,24 @@
         {
             "id": "50363",
             "category": {
-                "text": "I Had No Choice but to Retort, \u201cThose Shoes, Though\u201d"
+                "text": "Dieser ist kein Musik-Streamingdienst."
             },
             "choices": [
                 {
-                    "text": "The singular form of \u201cthese\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "The plural form of \u201cthis\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "The singular form of \u201cthem\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "The plural form of \u201cthat\u201d",
+                    "text": "Die Plural-Form von \u201cjenes\u201d",
                     "isCorrect": true
+                },
+                {
+                    "text": "Die Plural-Form von \u201cjenem\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Plural-Form von \u201cjenen\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Plural-Form von \u201cjener\u201d",
+                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
@@ -13413,7 +13413,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "WHAT IS THOSE?!?!?!"
+                    "text": "WAS IST DIESER?!?!?!"
                 }
             ]
         },
@@ -13520,23 +13520,23 @@
         {
             "id": "50187",
             "category": {
-                "text": "Deer Postmates, Plz Sund Mee Fud"
+                "text": "Libe Froinde bite schikt miir Essenn"
             },
             "choices": [
                 {
-                    "text": "\u201cMediteranean restaurant falaful\u201d",
+                    "text": "\u201cFallafel vom mediterranen Restaurant\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cMediterranean restaraunt falafel\u201d",
+                    "text": "\u201cFalafel vom mediteranen Restaurant\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cMediterranean restaurant falafel\u201d",
+                    "text": "\u201cFalafel vom mediterranen Restaurant\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cMedaterranean restaurant fallafel\u201d",
+                    "text": "\u201cFalaffel vom mediteranen Restaurant\u201d",
                     "isCorrect": false
                 }
             ],
@@ -13545,11 +13545,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "AUTOCORRECT IS BUSTED ON MY PHONE AND I DON\u2019T KNOW HOW TO SPELL ANY OF THESE WORDS!"
+                    "text": "AUTOKORREKTUR AUF MEINEM HANDY IST KAPUTT UND ICH HAB KEINE AHNUNG WIE MAN DIESE WÖRTER SCHREIBT!"
                 },
                 {
                     "timing": "S + 4.99",
-                    "text": "Which of these searches is typo free?"
+                    "text": "Welche dieser Suchen ist frei von Tippfehlern?"
                 }
             ]
         },
@@ -13732,23 +13732,23 @@
         {
             "id": "50120",
             "category": {
-                "text": "MARRY ME!!!"
+                "text": "HEIRATE MICH!!!"
             },
             "choices": [
                 {
-                    "text": "a stadium ad in the FIFA World Cup finals",
+                    "text": "eine Stadionwerbung im Finale der FIFA-Weltmeisterschaft",
                     "isCorrect": true
                 },
                 {
-                    "text": "a celebrity announcement during the Oscars",
+                    "text": "eine Ankündigung eines Prominenten während der Oscar-Verleihung",
                     "isCorrect": false
                 },
                 {
-                    "text": "a 30-second Super Bowl ad",
+                    "text": "eine 30-Sekunden Super Bowl Werbung",
                     "isCorrect": false
                 },
                 {
-                    "text": "a 2 a.m. tweet by a U.S. president",
+                    "text": "ein Tweet, 2 Uhr Nachts vom Bundeskanzler",
                     "isCorrect": false
                 }
             ],
@@ -13757,7 +13757,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If you want everyone to appreciate how frigging adorable you are when you pop the question, how can you reach the MOST people?"
+                    "text": "Wenn Sie wollen, dass möglichst viele Leute wissen, wie süß Sie sind, wenn Sie diese Frage stellen, wie könnten Sie dann die MEISTEN Leute erreichen?"
                 }
             ]
         },
@@ -13992,23 +13992,23 @@
         {
             "id": "50082",
             "category": {
-                "text": "Booty Pebbles"
+                "text": "Bitte Hintern anstellen"
             },
             "choices": [
                 {
-                    "text": "the occipital muscle",
+                    "text": "Der Ozipital-Muskel",
                     "isCorrect": false
                 },
                 {
-                    "text": "the piriformis muscle",
+                    "text": "Der Piriformis-Muskel",
                     "isCorrect": true
                 },
                 {
-                    "text": "the teres major muscle",
+                    "text": "Der Teresmajor-Muskel",
                     "isCorrect": false
                 },
                 {
-                    "text": "the zygomatic muscle",
+                    "text": "Der Jochbeinmuskel",
                     "isCorrect": false
                 }
             ],
@@ -14017,30 +14017,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What\u2019s in your butt?"
+                    "text": "Was ist in Ihrem Arsch?"
                 }
             ]
         },
         {
             "id": "50074",
             "category": {
-                "text": "I Read Ten Books This Year but They All Involved Finding Waldo"
+                "text": "Ich habe dieses Jahr zehn Bücher gelesen, aber in allen ging es um die Suche nach Walter"
             },
             "choices": [
                 {
-                    "text": "a mysterious loner created by Beatrix Potter",
+                    "text": "ein mysteriöser Eigenbrötler, erfunden von Beatrix Potter",
                     "isCorrect": false
                 },
                 {
-                    "text": "a wandering engima created by Maurice Sendak",
+                    "text": "ein wanderndes Engima, erfunden von Maurice Sendak",
                     "isCorrect": false
                 },
                 {
-                    "text": "a complicated man created by P.D. Eastman",
+                    "text": "ein komplizierter Mann, erfunden von P.D. Eastman",
                     "isCorrect": false
                 },
                 {
-                    "text": "a lost soul created by Martin Handford",
+                    "text": "eine verlorene Seele, geschaffen von Martin Handford",
                     "isCorrect": true
                 }
             ],
@@ -14049,7 +14049,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "WHO is Waldo?"
+                    "text": "WER ist Walter?"
                 }
             ]
         },
@@ -14184,23 +14184,23 @@
         {
             "id": "50058",
             "category": {
-                "text": "I\u2019m Only Watching so I Can Talk to My Coworkers"
+                "text": "Ich schau\u2019 das nur für meine Arbeitskollegen"
             },
             "choices": [
                 {
-                    "text": "That\u2019s <i>I, Robot<\/i>, dummy!",
+                    "text": "Das ist <i>I, Robot<\/i>, Dummerchen!",
                     "isCorrect": false
                 },
                 {
-                    "text": "That\u2019s <i>Valley of the Dolls<\/i>, idiot.",
+                    "text": "Das ist <i>Das Tal der Puppen<\/i>, Trottel.",
                     "isCorrect": false
                 },
                 {
-                    "text": "That\u2019s <i>Brave New World<\/i>, stupid.",
+                    "text": "Das ist <i>Schöne neue Welt<\/i>, Depp.",
                     "isCorrect": false
                 },
                 {
-                    "text": "That\u2019s <i>The Stepford Wives<\/i>, moron.",
+                    "text": "Das ist <i>Die Frauen von Stepford<\/i>, Idiot.",
                     "isCorrect": true
                 }
             ],
@@ -14209,11 +14209,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What do you think of this premise for my <i>Black Mirror<\/i> spec script?"
+                    "text": "Was halten Sie von dieser Idee für mein <i>Black Mirror<\/i> Drehbuch?"
                 },
                 {
                     "timing": "S + 3.70",
-                    "text": "There\u2019s this town that seems perfect, but all the women are robots!!!"
+                    "text": "Da gibt es diese Stadt, die perfekt zu sein scheint, aber alle Frauen sind Roboter!!!"
                 }
             ]
         },
@@ -14293,19 +14293,19 @@
             "choices": [
                 {
                     "best": true,
-                    "text": "Rick and his grandfather Morty",
+                    "text": "Rick und sein Großvater Morty",
                     "isCorrect": false
                 },
                 {
-                    "text": "Rick and his uncle Morty",
+                    "text": "Rick und sein Onkel Morty",
                     "isCorrect": false
                 },
                 {
-                    "text": "Rick and his dad Morty",
+                    "text": "Rick und sein Vater Morty",
                     "isCorrect": false
                 },
                 {
-                    "text": "Morty and his grandfather Rick",
+                    "text": "Morty und sein Großvater Rick",
                     "isCorrect": true
                 }
             ],
@@ -14314,11 +14314,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "I keep hearing about this cartoon <i>Rick and Morty<\/i>."
+                    "text": "Ich höre immer wieder von diesem Cartoon <i>Rick and Morty<\/i>."
                 },
                 {
                     "timing": "S + 2.66",
-                    "text": "What\u2019s it about?"
+                    "text": "Worum geht\u2019 da?"
                 }
             ]
         },
@@ -14453,23 +14453,23 @@
         {
             "id": "50037",
             "category": {
-                "text": "Flush to Judgment"
+                "text": "Spülen bis der Arzt kommt"
             },
             "choices": [
                 {
-                    "text": "my \u201cfriend\u201d is lacking bile in their stool",
+                    "text": "mein \u201cFreund\u201d hat zu wenig Galle im Stuhlgang",
                     "isCorrect": true
                 },
                 {
-                    "text": "my \u201cfriend\u201d is bleeding internally",
+                    "text": "mein \u201cFreund\u201d hat innere Blutungen",
                     "isCorrect": false
                 },
                 {
-                    "text": "my \u201cfriend\u201d is eating too much fatty food",
+                    "text": "mein \u201cFreund\u201d isst zu viel fettiges Essen",
                     "isCorrect": false
                 },
                 {
-                    "text": "my \u201cfriend\u201d is evolving into a bird",
+                    "text": "mein \u201cFreund\u201d verwandelt sich in einen Vogel",
                     "isCorrect": false
                 }
             ],
@@ -14478,11 +14478,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What does it mean if your poop is white?"
+                    "text": "Was bedeutet es, wenn die Kacke weiß ist?"
                 },
                 {
                     "timing": "S + 4.22",
-                    "text": "Asking for a friend."
+                    "text": "Ich frage für einen Freund."
                 }
             ]
         },
@@ -14785,7 +14785,7 @@
         {
             "id": "49577",
             "category": {
-                "text": "An Odie but a Goodie"
+                "text": "Aus die Maus"
             },
             "choices": [
                 {
@@ -14810,7 +14810,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Based on the average lifespan of cats, when should Garfield have died?"
+                    "text": "Wann hätte Garfield, ausgehend von der durchschnittlichen Lebenserwartung von Katzen, sterben müssen?"
                 }
             ]
         }
