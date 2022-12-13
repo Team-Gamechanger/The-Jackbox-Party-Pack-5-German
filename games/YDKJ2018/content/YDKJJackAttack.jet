@@ -4930,7 +4930,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Bomber",
+                            "text": "Goldener Schnatz",
                             "isCorrect": false
                         },
                         {
@@ -4942,7 +4942,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Flieger",
+                            "text": "Bomber",
                             "isCorrect": false
                         },
                         {
@@ -5402,178 +5402,178 @@
         },
         {
             "id": "52256",
-            "title": "Follow the Rules",
+            "title": "Befolge die Regeln!",
             "prompts": [
                 {
                     "title": "Fight Club",
                     "choices": [
                         {
-                            "text": "do not talk about Fight Club",
+                            "text": "Ihr verliert kein Wort über den Fight Club",
                             "isCorrect": true
                         },
                         {
-                            "text": "no shoes, no gloves",
+                            "text": "keine Schuhe, keine Handschuhe",
                             "isCorrect": false
                         },
                         {
-                            "text": "DO NOT TALK ABOUT FIGHT CLUB",
+                            "text": "Ihr verliert KEIN WORT über den Fight Club",
                             "isCorrect": true
                         },
                         {
-                            "text": "only two guys to a fight",
+                            "text": "Es kämpfen jeweils nur Zwei",
                             "isCorrect": true
                         },
                         {
-                            "text": "first time? just watch.",
+                            "text": "Das erste Mal? Schaut einfach zu",
                             "isCorrect": false
                         },
                         {
-                            "text": "one fight at a time, fellas",
+                            "text": "Nur ein Kampf auf einmal",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Genie from <i>Aladdin<\/i>",
+                    "title": "Offizielle Fußballregeln des DFB",
                     "choices": [
                         {
-                            "text": "you can\u2019t wish for someone to die",
+                            "text": "Tore (einschließlich tragbarer Tore) müssen fest im Boden verankert sein",
                             "isCorrect": true
                         },
                         {
-                            "text": "you can\u2019t wish for gold",
+                            "text": "Bälle dürfen auch ellipsenförmig sein, sofern sie sich gerade rollen lassen",
                             "isCorrect": false
                         },
                         {
-                            "text": "you can\u2019t wish for knowledge",
+                            "text": "Kunstrasenfelder dürfen jede Farbe haben, solange die Linien erkennbar sind",
                             "isCorrect": false
                         },
                         {
-                            "text": "you can\u2019t wish to bring back the dead",
+                            "text": "Kunstrasenfelder müssen grün sein",
                             "isCorrect": true
                         },
                         {
-                            "text": "you can\u2019t wish to make anyone fall in love",
+                            "text": "Nicht jede Ballberührung eines Spielers mit der Hand/dem Arm ist ein Vergehen",
                             "isCorrect": true
                         },
                         {
-                            "text": "you can\u2019t wish for Jafar to fall into a fountain",
+                            "text": "Ein Tor wird erzielt, wenn der Ball die Torlinie größtenteils überquert hat",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Dua Lipa\u2019s New Rules",
+                    "title": "Schulregeln in Hogwarts (Harry Potter)",
                     "choices": [
                         {
-                            "text": "don\u2019t pick up the phone",
+                            "text": "In den Schulgängen darf nicht gezaubert werden",
                             "isCorrect": true
                         },
                         {
-                            "text": "don\u2019t text him back",
+                            "text": "Der verbotene Wald darf tagsüber von Schülern betreten werden",
                             "isCorrect": false
                         },
                         {
-                            "text": "don\u2019t be weak",
+                            "text": "Bis 23 Uhr dürfen sich die Schüler außerhalb ihrer Häuser aufhalten",
                             "isCorrect": false
                         },
                         {
-                            "text": "don\u2019t be his friend",
+                            "text": "Erst ab dem 3. Schuljahr dürfen Schüler Hogsmeade, ein Dorf in der Nähe von Hogwarts, besuchen",
                             "isCorrect": true
                         },
                         {
-                            "text": "don\u2019t let him in",
+                            "text": "Schülern unter 17 Jahre ist es strikt untersagt außerhalb von Hogwarts zu zaubern",
                             "isCorrect": true
                         },
                         {
-                            "text": "don\u2019t smile at him",
+                            "text": "Schüler dürfen den Verlauf der Geschichte, sowie Naturgesetze beeinflussen, sofern nichts ungeschehen gemacht wird",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Cider House Rules in <i>Cider House Rules<\/i>",
+                    "title": "Die Lebensregeln des Buddhismus",
                     "choices": [
                         {
-                            "text": "Please don\u2019t smoke in bed or use candles",
+                            "text": "Lüge niemals",
                             "isCorrect": true
                         },
                         {
-                            "text": "Please wash hands before touching other children",
+                            "text": "Vernachlässige deine Pflichten, um Trauer zu bewältigen",
                             "isCorrect": false
                         },
                         {
-                            "text": "Please, don\u2019t operate the grinder if you\u2019ve been drinking",
+                            "text": "Sei achtsam, denke und handle stets besonnen",
                             "isCorrect": true
                         },
                         {
-                            "text": "Please no sleepwalking in the corridor",
+                            "text": "Böse Taten sind in Ordnung, sofern sie ausgeglichen werden",
                             "isCorrect": false
                         },
                         {
-                            "text": "Please no crying at mass",
+                            "text": "Verfolge stets dein Ziel, koste es, was es wolle",
                             "isCorrect": false
                         },
                         {
-                            "text": "Please don\u2019t go up on the roof if you\u2019ve been drinking",
+                            "text": "Schade niemandem und zerstöre nicht die Natur",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "7 Habits of Highly Effective People",
+                    "title": "Spielregeln vom klassischen Monopoly",
                     "choices": [
                         {
-                            "text": "Be Proactive",
+                            "text": "Bauen dürfen Spieler nur, wenn sie am Zug sind",
                             "isCorrect": true
                         },
                         {
-                            "text": "Identify Hurdles",
+                            "text": "Wer ein Ereignisfeld betritt, muss keine Karte ziehen",
                             "isCorrect": false
                         },
                         {
-                            "text": "Praise Your Peers",
+                            "text": "Im Gefängnis darf der Spieler keine Miete kassieren",
                             "isCorrect": false
                         },
                         {
-                            "text": "Think Win-Win",
+                            "text": "Auf \u201cFrei Parken\u201d wird kein Geld ausgezahlt",
                             "isCorrect": true
                         },
                         {
-                            "text": "Lick the Knife",
+                            "text": "Landet ein Spieler direkt auf \u201cLos\u201d darf er das doppelte einziehen",
                             "isCorrect": false
                         },
                         {
-                            "text": "Sharpen the Saw",
+                            "text": "Für einen dritten Pasch in Folge muss der Spieler ins Gefängnis",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Gremlin care",
+                    "title": "Die Regeln der Elfen aus <i>Cosmo und Wanda<\/i>",
                     "choices": [
                         {
-                            "text": "no sugar",
+                            "text": "Patenkinder dürfen die Existenz ihrer Elfen nicht verraten, umgekehrt aber schon",
                             "isCorrect": false
                         },
                         {
-                            "text": "no sunlight",
+                            "text": "Elfen dürfen kein Geld herbeizaubern",
                             "isCorrect": true
                         },
                         {
-                            "text": "no water",
+                            "text": "Elfen dürfen nach 10:30Uhr kein Frühstück mehr servieren",
                             "isCorrect": true
                         },
                         {
-                            "text": "no singing",
+                            "text": "Wünsche anderer Patenkinder dürfen rückgängig gemacht werden",
                             "isCorrect": false
                         },
                         {
-                            "text": "no food before midnight",
+                            "text": "Wünsche von Erwachsenen dürfen auch erfüllt werden",
                             "isCorrect": false
                         },
                         {
-                            "text": "no sequels",
+                            "text": "Wettbewerbsvorteile herbeizuzauben ist erlaubt",
                             "isCorrect": false
                         }
                     ]
