@@ -6122,178 +6122,178 @@
         },
         {
             "id": "52190",
-            "title": "What\u2019s the Points?",
+            "title": "Punkt, Punkt, Komma, Strich?",
             "prompts": [
                 {
-                    "title": "1 point",
+                    "title": "1 Punkt",
                     "choices": [
                         {
-                            "text": "a baseball home run",
+                            "text": "Ein Semikolon",
                             "isCorrect": true
                         },
                         {
-                            "text": "a football touchdown",
+                            "text": "Das \u201cJoker\u201d-Teil bei <i>Scrabble<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "a free throw",
+                            "text": "Der neunte Buchstabe des lateinischen Alphabets",
                             "isCorrect": true
                         },
                         {
-                            "text": "a soccer goal",
+                            "text": "Ein Tor beim Fußball",
                             "isCorrect": true
                         },
                         {
-                            "text": "a hockey goal",
+                            "text": "Das <i>Ferrari<\/i>-Logo",
                             "isCorrect": true
                         },
                         {
-                            "text": "a blank Scrabble tile",
+                            "text": "Das \u201cWarnblinker\u201d-Symbol beim Auto",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "2 points",
+                    "title": "2 Punkte",
                     "choices": [
                         {
-                            "text": "a football safety",
+                            "text": "Ein normaler Wurf beim Basketball",
                             "isCorrect": true
                         },
                         {
-                            "text": "a football field goal",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "a bishop",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "B Scrabble tile",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "a football conversion",
+                            "text": "34km/h zu schnell (innerorts)",
                             "isCorrect": true
                         },
                         {
-                            "text": "a basket inside the 3-point line",
+                            "text": "Platz 10 bei der Formel 1",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Ein Unentschieden beim Eishockey",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Ein \u201cO\u201d in <i>Scrabble<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Ein Sieg beim Handball",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "3 points",
+                    "title": "4 Punkte",
                     "choices": [
                         {
-                            "text": "a football field goal",
+                            "text": "Zwei \u201cZweier\u201d bei <i>Kniffel<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "a rook",
+                            "text": "Ein Freiwurf beim Basketball",
                             "isCorrect": false
                         },
                         {
-                            "text": "a knight",
+                            "text": "Ein Tetragon",
                             "isCorrect": true
                         },
                         {
-                            "text": "a hat trick",
+                            "text": "250ml fettarme Milch bei <i>Weight Watchers<\/i> (Stand: 2022)",
                             "isCorrect": true
                         },
                         {
-                            "text": "a rugby try",
+                            "text": "Über 70km/h zu schnell (außerorts)",
                             "isCorrect": false
                         },
                         {
-                            "text": "a bishop",
+                            "text": "Ein Defizit in der Schule",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "4 points",
+                    "title": "5 Punkte",
                     "choices": [
                         {
-                            "text": "a rugby union try",
+                            "text": "Maximale Punktzahl eines Dominosteins",
                             "isCorrect": false
                         },
                         {
-                            "text": "a rugby league try",
+                            "text": "Sternzeichen \u201cKrebs\u201d",
                             "isCorrect": true
                         },
                         {
-                            "text": "a baseball grand slam",
+                            "text": "Das \u201cHaus vom Nikolaus\u201d",
                             "isCorrect": true
                         },
                         {
-                            "text": "a curling grand sweep",
+                            "text": "Platz \u201c30\u201d beim Biathlon-Weltcup",
                             "isCorrect": false
                         },
                         {
-                            "text": "a baseball triple play",
+                            "text": "Fünf \u201cFünfer\u201d bei <i>Kniffel<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "a Y Scrabble tile",
+                            "text": "Höchster Pflegegrad bei der Pflege von Menschen",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "5 points",
+                    "title": "8 Punkte",
                     "choices": [
                         {
-                            "text": "a rook",
+                            "text": "Note \u201cbefriedigend\u201d",
                             "isCorrect": true
                         },
                         {
-                            "text": "a rugby union try",
+                            "text": "Entzug der Fahrerlaubnis",
                             "isCorrect": true
                         },
                         {
-                            "text": "a rhombus",
+                            "text": "Ein Dodekagon",
                             "isCorrect": false
                         },
                         {
-                            "text": "P Scrabble tile",
+                            "text": "Anzahl von einem Viertel der Schachbrettfelder",
                             "isCorrect": false
                         },
                         {
-                            "text": "a darts bullseye",
+                            "text": "Ein \u201cQ\u201d in <i>Scrabble<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "K Scrabble tile",
+                            "text": "Steht auf einer Dartscheibe",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "6 points",
+                    "title": "21 Punkte",
                     "choices": [
                         {
-                            "text": "a football touchdown",
+                            "text": "Ein 6-seitiger Würfel",
                             "isCorrect": true
                         },
                         {
-                            "text": "a Canadian football major",
+                            "text": "Ein Satz im Badminton",
                             "isCorrect": true
                         },
                         {
-                            "text": "X Scrabble tile",
+                            "text": "Ein Sieg im Basketball",
                             "isCorrect": false
                         },
                         {
-                            "text": "an X on <i>Wheel of Fortune<\/i>",
+                            "text": "Ein Marienkäfer",
                             "isCorrect": false
                         },
                         {
-                            "text": "a Star of David",
+                            "text": "Black Jack",
                             "isCorrect": true
                         },
                         {
-                            "text": "a German football touchdown",
+                            "text": "Deutsches Blinden-Alphabet",
                             "isCorrect": false
                         }
                     ]
