@@ -5582,17 +5582,17 @@
         },
         {
             "id": "52219",
-            "title": "Zoo Talking to Me?",
+            "title": "Zoo, lass uns reden!",
             "prompts": [
                 {
-                    "title": "talking dog",
+                    "title": "Sprechende Hunde",
                     "choices": [
                         {
-                            "text": "<i>Up<\/i>",
+                            "text": "<i>Oben<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Air Bud<\/i>",
+                            "text": "<i>Garfield<\/i>",
                             "isCorrect": false
                         },
                         {
@@ -5600,65 +5600,65 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Hotel for Dogs<\/i>",
+                            "text": "<i>Rudolph mit der roten Nase<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Isle of Dogs<\/i>",
+                            "text": "<i>Cap und Capper<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Air Buddies<\/i>",
+                            "text": "<i>Cats & Dogs<\/i>",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "talking fish",
+                    "title": "Sprechende Fische",
                     "choices": [
                         {
-                            "text": "<i>Little Nemo<i>",
+                            "text": "<i>American Mom<i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Shark Tale<\/i>",
+                            "text": "<i>Große Haie - Kleine Fische<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Finding Dory<\/i>",
+                            "text": "<i>American Dad<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Deep Blue Sea<\/i>",
+                            "text": "<i>The Lego Movie<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Dolphin Tale<\/i>",
-                            "isCorrect": false
+                            "text": "<i>Die Hexe und der Zauberer<\/i>",
+                            "isCorrect": true
                         },
                         {
-                            "text": "<i>The Cat in the Hat<\/i>",
+                            "text": "<i>Megamind<\/i>",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "talking cat",
+                    "title": "Sprechende Katzen",
                     "choices": [
                         {
-                            "text": "<i>Alice in Wonderland<\/i>",
+                            "text": "<i>Alice im Wunderland<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>The Truth About Cats & Dogs<\/i>",
+                            "text": "<i>Tom und Jerry<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>The Secret Life of Pets<\/i>",
+                            "text": "<i>Madagascar<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>The Lion King<\/i>",
+                            "text": "<i>Der König der Löwen<\/i>",
                             "isCorrect": true
                         },
                         {
@@ -5672,14 +5672,14 @@
                     ]
                 },
                 {
-                    "title": "talking pig",
+                    "title": "Sprechende Schweine",
                     "choices": [
                         {
-                            "text": "<i>Moana<\/i>",
+                            "text": "<i>Scooby-Doo<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>The Muppets<\/i>",
+                            "text": "<i>Die Muppets<\/i>",
                             "isCorrect": true
                         },
                         {
@@ -5687,57 +5687,57 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Charlotte\u2019s Web<\/i>",
+                            "text": "<i>Aufstand der Tiere<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Animal Farm<\/i>",
+                            "text": "<i>Au Schwarte!<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Okja<\/i>",
+                            "text": "<i>Shaun das Schaf<\/i>",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "talking bug",
+                    "title": "Sprechende Hühner",
                     "choices": [
                         {
-                            "text": "<i>The Tick<\/i>",
+                            "text": "<i>Cars<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Pinocchio<\/i>",
+                            "text": "<i>Chicken Run - Hennen rennen<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Ants<\/i>",
+                            "text": "<i>Rio<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>The Princess and the Frog<\/i>",
+                            "text": "<i>Angry Birds - Der Film<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Himmel und Huhn<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Antz<\/i>",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "<i>Supery Fly<\/i>",
+                            "text": "<i>Tom und Jerry<\/i>",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "talking primate",
+                    "title": "Sprechende Affen",
                     "choices": [
                         {
-                            "text": "<i>The Jungle Book<\/i>",
+                            "text": "<i>Das Dschungelbuch<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>A Bug\u2019s Life<\/i>",
+                            "text": "<i>Toy Story<\/i>",
                             "isCorrect": false
                         },
                         {
@@ -5745,7 +5745,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Sing<\/i>",
+                            "text": "<i>Planet der Affen: Prevolution<\/i>",
                             "isCorrect": true
                         },
                         {
@@ -5753,7 +5753,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>We Bought a Zoo<\/i>",
+                            "text": "<i>Coco, der neugierige Affe<\/i>",
                             "isCorrect": true
                         }
                     ]
