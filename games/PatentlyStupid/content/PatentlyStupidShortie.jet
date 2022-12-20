@@ -242,7 +242,7 @@
             "prompt": "Wilde Tiere essen ständig mein/e <BLANK>!"
         },
         {
-            "decoys": "Kinder | zufällige Feür | zu viel Pfeffer",
+            "decoys": "Kinder | zufällige Feuer | zu viel Pfeffer",
             "x": false,
             "id": 53610,
             "prompt": "Mein Urlaub wird immer durch <BLANK> ruiniert!"

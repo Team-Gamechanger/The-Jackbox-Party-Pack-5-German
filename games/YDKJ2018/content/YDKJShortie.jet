@@ -3200,7 +3200,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Denken Sie das ist lustig?",
+                    "text": "Denken Sie, das ist lustig?",
                     "isCorrect": true
                 },
                 {
@@ -3413,7 +3413,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen Sie haben \u201czu sehr Auge gemacht\u201d und sind nun frontal auf Ihr Gesicht gefallen."
+                    "text": "Angenommen, Sie haben \u201czu sehr Auge gemacht\u201d und sind nun frontal auf Ihr Gesicht gefallen."
                 },
                 {
                     "timing": "S + 5.49",
@@ -3424,7 +3424,7 @@
         {
             "id": "50093",
             "category": {
-                "text": "Protestieren bis der Elektriker kommt"
+                "text": "Protestieren, bis der Elektriker kommt"
             },
             "choices": [
                 {
@@ -3553,7 +3553,7 @@
                 },
                 {
                     "timing": "S + 4.77",
-                    "text": "Wenn ich dies auf natürliche Weise tuen möchte, indem ich meine Hautzellen absterben lasse, wie lange werde ich brauchen, um meinen Skin zu wechseln?"
+                    "text": "Wenn ich dies auf natürliche Weise machen möchte, indem ich meine Hautzellen absterben lasse, wie lange werde ich brauchen, um meinen Skin zu wechseln?"
                 }
             ]
         },
@@ -4893,7 +4893,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Beim durchsuchen Ihrer iPhone-Emojis werden Sie von der \u201cSymbole\u201d Kategorie so richtig abgetan und wischen schnell nach links, bis es nicht mehr geht."
+                    "text": "Beim Durchsuchen Ihrer iPhone-Emojis werden Sie von der \u201cSymbole\u201d-Kategorie so richtig abgetan und wischen schnell nach links, bis es nicht mehr geht."
                 },
                 {
                     "timing": "S + 7.40",
@@ -4936,7 +4936,7 @@
         {
             "id": "50106",
             "category": {
-                "text": "Eine Oliver Welke Frage"
+                "text": "Eine Oliver Welke-Frage"
             },
             "choices": [
                 {
@@ -4944,7 +4944,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Moskau",
+                    "text": "Mumbai",
                     "isCorrect": true
                 },
                 {
@@ -4965,7 +4965,7 @@
                 },
                 {
                     "timing": "S + 4.41",
-                    "text": "Angenommen die Show wird live ausgestrahlt, welche Stadt würde sich technisch gesehen dann eher <i>Die Gestern Show<\/i> ansehen?"
+                    "text": "Angenommen, die Show wird live ausgestrahlt, welche Stadt würde sich technisch gesehen dann eher <i>Die Gestern Show<\/i> ansehen?"
                 }
             ]
         },
@@ -5261,7 +5261,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen Albert Campus würde auf Clickbait zurückgreifen, um sein Werk <i>Der Fremde<\/i> zu vermarkten. Wie würde vermutlich die Schlagzeile lauten?"
+                    "text": "Angenommen, Albert Campus würde auf Clickbait zurückgreifen, um sein Werk <i>Der Fremde<\/i> zu vermarkten. Wie würde vermutlich die Schlagzeile lauten?"
                 }
             ]
         },
@@ -5325,7 +5325,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen Sie würden sich dazu entschließen, ab sofort nur noch Formen zu daten. Bei welcher hätten Sie die größten Chancen auf eine STABILE Beziehung?"
+                    "text": "Angenommen, Sie würden sich dazu entschließen, ab sofort nur noch Formen zu daten. Bei welcher hätten Sie die größten Chancen auf eine STABILE Beziehung?"
                 }
             ]
         },
@@ -5589,7 +5589,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Ihnen jemand ein Dutzend Schokoladenmuffins für jeden gelaufenen Kilometer anbieten würde, wie viele Muffins würden Sie dann wohl ungefähr bei einem Halbmarathon verdienen?"
+                    "text": "Wenn Ihnen jemand ein Dutzend Schokoladenmuffins für jeden gefahrenen Kilometer auf dem Nürburgring anbieten würde, wie viele Muffins würden Sie dann nach einer Runde auf der Gesamtstrecke verdienen?"
                 }
             ]
         },
