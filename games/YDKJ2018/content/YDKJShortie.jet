@@ -4944,7 +4944,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Moskau",
+                    "text": "Mumbai",
                     "isCorrect": true
                 },
                 {
@@ -5589,7 +5589,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Ihnen jemand ein Dutzend Schokoladenmuffins für jeden gelaufenen Kilometer anbieten würde, wie viele Muffins würden Sie dann wohl ungefähr bei einem Halbmarathon verdienen?"
+                    "text": "Wenn Ihnen jemand ein Dutzend Schokoladenmuffins für jeden gefahrenen Kilometer auf dem Nürburgring anbieten würde, wie viele Muffins würden Sie dann nach einer Runde auf der Gesamtstrecke verdienen?"
                 }
             ]
         },
