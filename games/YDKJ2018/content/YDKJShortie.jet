@@ -5960,23 +5960,23 @@
         {
             "id": "51970",
             "category": {
-                "text": "Ich glaub ich See nicht richtig"
+                "text": "Redewendungen und kulinarische Genüsse"
             },
             "choices": [
                 {
-                    "text": "Libyen",
+                    "text": "Hornhaut",
                     "isCorrect": false
                 },
                 {
-                    "text": "Sudan",
+                    "text": "Pupille",
                     "isCorrect": true
                 },
                 {
-                    "text": "Algerien",
+                    "text": "Makula",
                     "isCorrect": false
                 },
                 {
-                    "text": "Niger",
+                    "text": "Iris",
                     "isCorrect": false
                 }
             ],
@@ -5985,11 +5985,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Der Nil ist nicht nur ein Fluss in Ägypten."
+                    "text": "Das Auge isst mit."
                 },
                 {
                     "timing": "S + 4.73",
-                    "text": "Er ist ebenso ein Fluss in..."
+                    "text": "Wenn das Auge WIRKLICH mitessen würde, welchen Teil des Auges würde das Essen zuerst erreichen?"
                 }
             ]
         },
@@ -6060,7 +6060,7 @@
         {
             "id": "51793",
             "category": {
-                "text": "So \u201cSmart\u201d ist mein Home jetzt auch nicht"
+                "text": "So \u201cSmart\u201d ist mein Zuhause jetzt auch nicht"
             },
             "choices": [
                 {
@@ -6245,7 +6245,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welche dieser Tiere habe ich gerade erfunden?"
+                    "text": "Welches dieser Tiere habe ich gerade erfunden?"
                 }
             ]
         },
@@ -6865,7 +6865,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, es gäbe ein Videospiel, bei dem das Ziel des Spielers darin besteht, die Geburt erfolgreich zu überstehen."
+                    "text": "Angenommen, es gäbe ein Videospiel, bei dem das Ziel des Spielers darin besteht, die Wehen erfolgreich zu überstehen."
                 },
                 {
                     "timing": "S + 5.10",
@@ -8340,7 +8340,7 @@
         {
             "id": "50162",
             "category": {
-                "text": "Wenn das Leben dir nur Philosophie gibt"
+                "text": "Ich frag mal bei H&M"
             },
             "choices": [
                 {
@@ -8524,7 +8524,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Während er im Friedenssee verprügelt wird",
+                    "text": "Während er im Meer der Ruhe verprügelt wird",
                     "isCorrect": true
                 }
             ],
@@ -8569,7 +8569,7 @@
                 },
                 {
                     "timing": "S + 1.02",
-                    "text": "Der Sektkorken ist einfach losgegangen und hat meine Katze Polly getroffen!"
+                    "text": "Der Sektkorken ist einfach losgegangen und hat meine Katze Plüschbert getroffen!"
                 },
                 {
                     "timing": "S + 5.05",
@@ -8588,7 +8588,7 @@
             },
             "choices": [
                 {
-                    "text": "drei Tassen englischen Tee",
+                    "text": "drei Tassen Mate aus Argentinien",
                     "isCorrect": false
                 },
                 {
