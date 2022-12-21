@@ -216,23 +216,23 @@
         {
             "id": "53393",
             "category": {
-                "text": "A Question Where the Answer Rhymes with \u201cPurple\u201d"
+                "text": "Eine Frage, bei der sich die Antwort auf \u201cMoral\u201d reimt"
             },
             "choices": [
                 {
-                    "text": "I got kicked in the DURPLE and I started to CURPLE!",
+                    "text": "I bekom a Tritt in da Gloches u musst in a Kiral",
                     "isCorrect": false
                 },
                 {
-                    "text": "I got kicked in the CURPLE and I started to HIRPLE!",
+                    "text": "I bekom a Tritt in da Toches u musst in a Spital",
                     "isCorrect": true
                 },
                 {
-                    "text": "I got kicked in the BURPLE and I started to DURPLE!",
+                    "text": "I bekom a Tritt in da Doches u musst in a Kamal",
                     "isCorrect": false
                 },
                 {
-                    "text": "I got PLURPED in the FLIRPLE and I GRURPLED the WHIRPLE!",
+                    "text": "I bekom a Tritt in da Moches u musst in a Biral",
                     "isCorrect": false
                 }
             ],
@@ -241,11 +241,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "I\u2019m going to tell this girl from Scotland about the time I got kicked in the butt so hard I limped for a week."
+                    "text": "Ich bin kurz davor, diesem Mädchen aus Österreich zu sagen, wie ich einmal so hart in den Hintern getreten wurde, dass ich zum Arzt musste."
                 },
                 {
                     "timing": "S + 5.61",
-                    "text": "If I want to pepper in some old-timey Scottish slang, how should I tell the story?"
+                    "text": "Wie könnte ich ihr das am besten sagen?"
                 }
             ]
         },
@@ -277,7 +277,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these is the name of a real mountain in Southeast Wales?"
+                    "text": "Wie lautet der Name eines echten Berges in Bayern?"
                 }
             ]
         },
@@ -580,23 +580,23 @@
         {
             "id": "52885",
             "category": {
-                "text": "A Smart Question"
+                "text": "Eine kluge Frage"
             },
             "choices": [
                 {
-                    "text": "\u201cAmy Smart\u2019s role turns her from actress to star.\u201d",
+                    "text": "Der glückliche Sohn",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cOnce Amy Smart starts rolling, nothing can stop her.\u201d",
+                    "text": "Die glückliche Juliane",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cEven Amy Smart\u2019s smallest lines have immense impact.\u201d",
+                    "text": "Der starke Ferdinand",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cAmy Smart\u2019s performance is so dense it sucks you in.\u201d",
+                    "text": "Die magische Tanja",
                     "isCorrect": false
                 }
             ],
@@ -605,71 +605,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What review of <i>The Butterfly Effect<\/i> best describes the \u201cbutterfly effect?\u201d"
-                }
-            ]
-        },
-        {
-            "id": "52884",
-            "category": {
-                "text": "A Question Made with Love"
-            },
-            "choices": [
-                {
-                    "text": "\u201cL, is for the way you look at me\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cO, is for the only one I see\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cV, is very very, extraordinary\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cE, is even more than any love I\u2019ve had before\u201d",
-                    "isCorrect": true
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Which of these is NOT a real lyric from the 1965 Nat King Cole hit?"
-                }
-            ]
-        },
-        {
-            "id": "52883",
-            "category": {
-                "text": "A Question Made with Spite"
-            },
-            "choices": [
-                {
-                    "text": "pettiness",
-                    "isCorrect": false
-                },
-                {
-                    "text": "envy",
-                    "isCorrect": true
-                },
-                {
-                    "text": "vengeance",
-                    "isCorrect": false
-                },
-                {
-                    "text": "vainglory",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Which of the seven deadly sins was added by Pope Gregory because he didn\u2019t think Evagrius of Pontus\u2019 list was quite good enough?"
+                    "text": "Welcher dieser Filme stammt von Alexander Kluge?"
                 }
             ]
         },
@@ -1426,19 +1362,19 @@
             },
             "choices": [
                 {
-                    "text": "\u201cCookie, you BLOW!\u201d",
+                    "text": "\u201cJack, du bist ein Sack!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cCookie, you SUCK!\u201d",
+                    "text": "\u201cJack, du bist ein Arsch!\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cCookie, you DRIP!\u201d",
+                    "text": "\u201cJack, du bist ein Hund!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cCookie, you SNAKE!\u201d",
+                    "text": "\u201cJack, du bist Müll!\u201d",
                     "isCorrect": false
                 }
             ],
@@ -1447,7 +1383,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If I, Cookie Masterson, were a SEA LAMPREY, what could you say to me?"
+                    "text": "Angenommen ich wäre ein Regio glutealis, wie könnten Sie mich dann fachlich korrekt nennen?"
                 }
             ]
         },
@@ -1741,70 +1677,6 @@
                 {
                     "timing": "S + 0.00",
                     "text": "Von wem ist der Pop-Song <i>Laut<\/i>?"
-                }
-            ]
-        },
-        {
-            "id": "51788",
-            "category": {
-                "text": "A Hard Question"
-            },
-            "choices": [
-                {
-                    "text": "the Hardburger",
-                    "isCorrect": false
-                },
-                {
-                    "text": "the Thickburger",
-                    "isCorrect": true
-                },
-                {
-                    "text": "the Wideburger",
-                    "isCorrect": false
-                },
-                {
-                    "text": "the Flaccidburger",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Which sandwich do they serve at Hardee\u2019s?"
-                }
-            ]
-        },
-        {
-            "id": "51787",
-            "category": {
-                "text": "An Easy Question"
-            },
-            "choices": [
-                {
-                    "text": "Easy-E",
-                    "isCorrect": false
-                },
-                {
-                    "text": "EZ-E",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Eazy-E",
-                    "isCorrect": true
-                },
-                {
-                    "text": "eeZee",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Which rapper was part of the group N.W.A.?"
                 }
             ]
         },

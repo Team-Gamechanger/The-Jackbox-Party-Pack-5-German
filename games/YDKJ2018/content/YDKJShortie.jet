@@ -11161,7 +11161,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, eine unglückliche Fehlinterpretation würde dafür sorgen, dass RTL <i>Deutschland sucht den Super-Star<\/i> produziert, bei der die Jury den besten Singvogel sucht"
+                    "text": "Angenommen, eine unglückliche Fehlinterpretation würde dafür sorgen, dass RTL <i>Deutschland sucht den Super-Star<\/i> produziert, bei der die Jury den besten Singvogel sucht."
                 },
                 {
                     "timing": "S + 8.25",
@@ -11696,19 +11696,19 @@
             },
             "choices": [
                 {
-                    "text": "ein DREI-STERNE Vier-Sterne Polizist",
+                    "text": "ein Drei-Sterne Vier-Sterne Polizist",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein VIER-STERNE Vier-Sterne Polizist",
+                    "text": "ein Vier-Sterne Vier-Sterne Polizist",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein FÜNF-STERNE Fünf-Sterne Polizist",
+                    "text": "ein Fünf-Sterne Fünf-Sterne Polizist",
                     "isCorrect": true
                 },
                 {
-                    "text": "ein FÜNF-STERNE Fünf-Sterne Polizist",
+                    "text": "ein Sechs-Sterne Sechs-Sterne Polizist",
                     "isCorrect": false
                 }
             ],
@@ -12156,7 +12156,7 @@
         {
             "id": "50300",
             "category": {
-                "text": "Super Dummbeldore"
+                "text": "Super Dumm-bledore"
             },
             "choices": [
                 {
@@ -14040,7 +14040,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "eine verlorene Seele, geschaffen von Martin Handford",
+                    "text": "eine verlorene Seele, erfunden von Martin Handford",
                     "isCorrect": true
                 }
             ],
@@ -14288,7 +14288,7 @@
         {
             "id": "50049",
             "category": {
-                "text": "Adult Swimfan (Note to Self: Remove Dated Reference to 2002 Thriller <i>Swimfan<\/i> Before Game\u2019s Release)"
+                "text": "Unterhaltung wie aus dem Bilderbuch"
             },
             "choices": [
                 {

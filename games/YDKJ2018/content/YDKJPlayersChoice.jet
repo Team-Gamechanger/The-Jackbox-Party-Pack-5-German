@@ -72,7 +72,7 @@
         },
         {
             "question": {
-                "text": "Möchten Sie eine Frage gestellt bekommen, bei der sich die Antwort auf Topf reimt, oder eine Frage, bei der sich die Antwort auf Lila reimt?"
+                "text": "Möchten Sie eine Frage gestellt bekommen, bei der sich die Antwort auf Topf reimt, oder eine Frage, bei der sich die Antwort auf Moral reimt?"
             },
             "id": "53397",
             "choice1": {
@@ -80,22 +80,8 @@
                 "id": "53392"
             },
             "choice2": {
-                "text": "eine Frage, bei der sich die Antwort auf Lila reimt",#
+                "text": "eine Frage, bei der sich die Antwort auf Moral reimt",
                 "id": "53393"
-            }
-        },
-        {
-            "question": {
-                "text": "Möchten Sie eine Frage mit Liebe gestellt bekommen, oder mit Bosheit?"
-            },
-            "id": "53391",
-            "choice1": {
-                "text": "eine Frage, die mit Liebe gestellt wird",#
-                "id": "52884"
-            },
-            "choice2": {
-                "text": "eine Frage, die mit Bosheit gestellt wird",#
-                "id": "52883"
             }
         },
         {
@@ -128,25 +114,11 @@
         },
         {
             "question": {
-                "text": "Möchten Sie eine Frage über Mama oder eine Frage über Papa gestellt bekommen?"
-            },
-            "id": "53355",
-            "choice1": {
-                "text": "eine Frage über Mama",#
-                "id": "52925"
-            },
-            "choice2": {
-                "text": "eine Frage über Papa",#
-                "id": "52926"
-            }
-        },
-        {
-            "question": {
                 "text": "Möchten Sie eine kluge Frage oder eine dumme Frage gestellt bekommen?"
             },
             "id": "53354",
             "choice1": {
-                "text": "eine kluge Frage",#
+                "text": "eine kluge Frage",
                 "id": "52885"
             },
             "choice2": {
@@ -211,7 +183,7 @@
             }
         },
         {
-            "question": { # Du sollst den Tag nicht vor dem Abend loben
+            "question": {
                 "text": "Möchten Sie eine Frage gestellt bekommen, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind, oder eine Frage, bei der Sie DOCH die Hühner mitzählen, bevor sie geschlüpft sind?"
             },
             "id": "53012",
@@ -254,20 +226,6 @@
         },
         {
             "question": {
-                "text": "Möchten Sie eine delikate Frage über Musicals oder eine musikalische Frage über Delikatessen gestellt bekommen?"
-            },
-            "id": "53007",
-            "choice1": {
-                "text": "eine delikate Frage über Musicals",#
-                "id": "52108"
-            },
-            "choice2": {
-                "text": "eine musikalische Frage über Delikatessen",#
-                "id": "52110"
-            }
-        },
-        {
-            "question": {
                 "text": "Möchten Sie eine laute Frage... oder eine leise Frage?"
             },
             "id": "52534",
@@ -304,7 +262,7 @@
                 "id": "51966"
             },
             "choice2": {
-                "text": "eine Frage, die Jacks Gefühle verletzt",#
+                "text": "eine Frage, die Jacks Gefühle verletzt",
                 "id": "51965"
             }
         },
@@ -324,20 +282,6 @@
         },
         {
             "question": {
-                "text": "Möchten Sie eine knifflige Frage... oder eine eindeutige Frage?"
-            },
-            "id": "52521",
-            "choice1": {
-                "text": "eine knifflige Frage",#
-                "id": "51978"
-            },
-            "choice2": {
-                "text": "eine eindeutige Frage",#
-                "id": "51977"
-            }
-        },
-        {
-            "question": {
                 "text": "Möchten Sie eine Frage, bei der die Antwort Til Schweiger lautet... oder eine Frage, bei der die Antwort nicht Til Schweiger lautet?"
             },
             "id": "52518",
@@ -348,34 +292,6 @@
             "choice2": {
                 "text": "eine Frage, bei der die Antwort NICHT Til Schweiger lautet",
                 "id": "51938"
-            }
-        },
-        {
-            "question": {
-                "text": "Möchten Sie eine Frage mit Nüssen... oder eine Frage ohne Nüsse?"
-            },
-            "id": "52517",
-            "choice1": {
-                "text": "eine Frage mit Nüssen",#
-                "id": "51975"
-            },
-            "choice2": {
-                "text": "eine Frage ohne Nüsse",#
-                "id": "51974"
-            }
-        },
-        {
-            "question": {
-                "text": "Möchten Sie eine einfache Frage... oder eine schwierige Frage?"
-            },
-            "id": "52515",
-            "choice1": {
-                "text": "eine einfache Frage",#
-                "id": "51787"
-            },
-            "choice2": {
-                "text": "eine schwierige Frage",#
-                "id": "51788"
             }
         }
     ]
