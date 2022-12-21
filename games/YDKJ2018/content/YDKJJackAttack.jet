@@ -5942,178 +5942,178 @@
         },
         {
             "id": "52192",
-            "title": "You Will Definitely Eat Me",
+            "title": "Lang lebe unser Staatsoberhaupt",
             "prompts": [
                 {
-                    "title": "Waldorf Salad",
+                    "title": "Das 21. Jahrhundert",
                     "choices": [
                         {
-                            "text": "walnut",
+                            "text": "König Charles III.",
                             "isCorrect": true
                         },
                         {
-                            "text": "feta",
+                            "text": "Justin Trudeau",
                             "isCorrect": false
                         },
                         {
-                            "text": "pickle",
+                            "text": "George H. W. Bush",
                             "isCorrect": false
                         },
                         {
-                            "text": "apple",
+                            "text": "Emmanuel Macron",
                             "isCorrect": true
                         },
                         {
-                            "text": "tomato",
+                            "text": "Olaf Scholz",
                             "isCorrect": false
                         },
                         {
-                            "text": "egg",
-                            "isCorrect": false
-                        }
-                    ]
-                },
-                {
-                    "title": "Cuban Sandwich",
-                    "choices": [
-                        {
-                            "text": "pickle",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "ketchup",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "egg",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "hot sauce",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "mustard",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "testicles",
-                            "isCorrect": false
-                        }
-                    ]
-                },
-                {
-                    "title": "Chicago-Style Hot Dog",
-                    "choices": [
-                        {
-                            "text": "tomato",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "onion",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "testicles",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "ketchup",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "pickle",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "mustard",
+                            "text": "Frank-Walter Steinmeier",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Oysters Rockefeller",
+                    "title": "Während des Zweiten Weltkriegs",
                     "choices": [
                         {
-                            "text": "testicles",
+                            "text": "Franklin D. Roosevelt",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Theodor Heuss",
                             "isCorrect": false
                         },
                         {
-                            "text": "oysters",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "pickle",
+                            "text": "Kaiser Naruhito",
                             "isCorrect": false
                         },
                         {
-                            "text": "butter",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "egg",
+                            "text": "Olaf Scholz",
                             "isCorrect": false
                         },
                         {
-                            "text": "bread crumbs",
-                            "isCorrect": true
-                        }
-                    ]
-                },
-                {
-                    "title": "Snickers",
-                    "choices": [
-                        {
-                            "text": "milk chocolate",
+                            "text": "Papst Pius XII.",
                             "isCorrect": true
                         },
                         {
-                            "text": "peanut butter",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "wafer",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "caramel",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "nougat",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "crisped rice",
+                            "text": "Theodore Roosevelt",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Banana Fosters Flambé",
+                    "title": "Das Mittelalter",
                     "choices": [
                         {
-                            "text": "cinnamon",
+                            "text": "Wilhelm der Eroberer",
                             "isCorrect": true
                         },
                         {
-                            "text": "gin",
+                            "text": "Cosimo de Medici",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Otto von Bismarck",
                             "isCorrect": false
                         },
                         {
-                            "text": "marzipan",
+                            "text": "Olaf Scholz",
                             "isCorrect": false
                         },
                         {
-                            "text": "bourbon",
+                            "text": "Philipp I.",
                             "isCorrect": true
                         },
                         {
-                            "text": "bananas",
+                            "text": "Friedrich Barbarossa",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "In Asien",
+                    "choices": [
+                        {
+                            "text": "Mahatma Gandhi",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Moon Jae-in",
                             "isCorrect": true
                         },
                         {
-                            "text": "fire",
+                            "text": "Olaf Scholz",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Xi Jinping",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Mario Draghi",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Kaiser Naruhito",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Vor Christus",
+                    "choices": [
+                        {
+                            "text": "Gaius Julius Cäsar",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Nero",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Obelix",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Trajan",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Romulus",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Caligula",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Aus Film und Fernsehen",
+                    "choices": [
+                        {
+                            "text": "Der Weihnachtsmann aus <i>Der Polarexpress<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Olaf Scholz aus <i>Chip und Chap<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Balduin Bleibtreu aus <i>DuckTales - Neues aus Entenhausen<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "König Artur aus <i>Die Hexe und der Zauberer<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Majestix aus <i>Asterix und Obelix<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Joe Biden aus <i>Super Mario Bros. Super Show<\/i>",
                             "isCorrect": false
                         }
                     ]
@@ -6128,7 +6128,7 @@
                     "title": "1 Punkt",
                     "choices": [
                         {
-                            "text": "Ein Semikolon",
+                            "text": "Ein Tor beim Fußball",
                             "isCorrect": true
                         },
                         {
@@ -6140,7 +6140,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Ein Tor beim Fußball",
+                            "text": "Ein Semikolon",
                             "isCorrect": true
                         },
                         {
