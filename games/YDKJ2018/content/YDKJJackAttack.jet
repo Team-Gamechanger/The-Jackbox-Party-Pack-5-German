@@ -6649,7 +6649,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Mexiko",
+                            "text": "Sri Lanka",
                             "isCorrect": true
                         },
                         {
@@ -6662,178 +6662,178 @@
         },
         {
             "id": "52120",
-            "title": "Made by a Beautiful Partnership",
+            "title": "Welch wundervolles Duo",
             "prompts": [
                 {
                     "title": "Ben & Jerry",
                     "choices": [
                         {
-                            "text": "Cherry Garcia",
+                            "text": "Karamel Sutra",
                             "isCorrect": true
                         },
                         {
-                            "text": "Chocolate Turtles",
+                            "text": "Disney\u2019s Die Eiskönigin",
                             "isCorrect": false
                         },
                         {
-                            "text": "Phish Food",
+                            "text": "Netflix & Chill\u2019d",
                             "isCorrect": true
                         },
                         {
-                            "text": "Santana Banana",
+                            "text": "Schokoheld",
                             "isCorrect": false
                         },
                         {
-                            "text": "GoGo Cocoa",
+                            "text": "WalNutLuck",
                             "isCorrect": false
                         },
                         {
-                            "text": "Blondie Ambition",
+                            "text": "Baked Alaska",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Lennon & McCartney",
+                    "title": "Mario & Luigi",
                     "choices": [
                         {
-                            "text": "<i>Yesterday<\/i>",
+                            "text": "<i>Zusammen durch die Zeit<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Ticket to Ride<\/i>",
+                            "text": "<i>Superstar Saga<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Hey Jude<\/i>",
+                            "text": "<i>Paper Jam Bros.<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Imagine Me & You<\/i>",
+                            "text": "<i>Rettung der verwunschenen Villa<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Imagine<\/i>",
+                            "text": "<i>Träumerland-Abenteurer<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Come Together<\/i>",
+                            "text": "<i>Abenteuer Bowser<\/i>",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Key & Peele",
+                    "title": "Joko & Klaas",
                     "choices": [
                         {
-                            "text": "Eric at the Movies",
+                            "text": "Wer stiehlt mir die Show?",
                             "isCorrect": false
                         },
                         {
-                            "text": "President Obama & Luthor",
+                            "text": "Das Duell um die Welt",
                             "isCorrect": true
                         },
                         {
-                            "text": "DeVon",
+                            "text": "17 Meter",
                             "isCorrect": true
                         },
                         {
-                            "text": "Mr. Ted\u2019s Wild Ride",
+                            "text": "Late Night Berlin",
                             "isCorrect": false
                         },
                         {
-                            "text": "Clarence Thomas & Luthor",
+                            "text": "LOL: Last One Laughing",
                             "isCorrect": false
                         },
                         {
-                            "text": "The Valets",
+                            "text": "Circus HalliGalli",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "<i>Marley & Me<\/i>",
+                    "title": "Bud Spencer & Terence Hill",
                     "choices": [
                         {
-                            "text": "married couple adopts a puppy",
+                            "text": "<i>Zwei Himmelhunde auf dem Weg zur Hölle<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "dog befriends a cat",
+                            "text": "<i>Vier Käse für ein Halleluja<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "married couple moves to Florida",
+                            "text": "<i>Das Krokodil und sein Nilpferd<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "Kathleen Turner is a dog trainer",
+                            "text": "<i>Vier Fäuste gegen Rio<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "dog dies",
+                            "text": "<i>Vier Fäuste für ein Halleluja<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "family gets a goldfish",
+                            "text": "<i>Caligula<\/i>",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Jay Z & Beyoncé",
+                    "title": "Phineas & Ferb",
                     "choices": [
                         {
-                            "text": "<i>Bonnie & Clyde<\/i>",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "<i>Crazy in Love<\/i>",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "<i>Jeopardy<\/i>",
+                            "text": "Zeitreise-Sofa",
                             "isCorrect": false
                         },
                         {
-                            "text": "<i>Baby in Love<\/i>",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "<i>Drunk in Love<\/i>",
+                            "text": "Schrumpfendes U-Boot",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Family Feud<\/i>",
+                            "text": "Jerry das Schnabeltier",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Zeit-Maschine",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Baumhaus-Roboter",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Phindroids und Ferboter",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "chocolate & peanut butter",
+                    "title": "Schoko & Karamell",
                     "choices": [
                         {
-                            "text": "<i>Reese\u2019s Cups<\/i>",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "<i>Butterfinger<\/i>",
+                            "text": "<i>Toffifee<\/i>",
                             "isCorrect": true
                         },
                         {
                             "text": "<i>Snickers<\/i>",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "<i>100 Grand Bar<\/i>",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "<i>Take 5<\/i>",
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>Chocolate Turtles<\/i>",
+                            "text": "<i>Milky Way<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Merci<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Mars<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Hanuta<\/i>",
                             "isCorrect": false
                         }
                     ]
