@@ -302,7 +302,7 @@
             "prompt": "Ich <BLANK>, wenn ich in der Öffentlichkeit spreche."
         },
         {
-            "decoys": "WiFi | Politik | die Benutzung des Ofens",
+            "decoys": "das WLAN | Politik | die Benutzung des Ofens",
             "x": false,
             "id": 53386,
             "prompt": "Ich habe es satt, dass mein Sohn mir <BLANK> erklären muss!"
@@ -1298,7 +1298,7 @@
             "prompt": "Ich möchte, dass <BLANK> einfacher geht!"
         },
         {
-            "decoys": "Waldo | einen guten Mann | einen Grund zum arbeiten gehen",
+            "decoys": "Walter | einen guten Mann | einen Grund zum arbeiten gehen",
             "x": false,
             "id": 53825,
             "prompt": "Es wird schwerer und schwerer, <BLANK> zu finden!"

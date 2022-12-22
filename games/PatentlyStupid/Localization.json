@@ -101,10 +101,10 @@
             "Dingenskirchens 500",
             "Das Ding 200",
             "Das Ding",
-            "Das neue heiße Ding",
-            "Das nächste große Ding",
+            "Das neue heisse Ding",
+            "Das nächste Ding",
             "Erfindung #5",
-            "Ein absolutes Must-Have"
+            "Ein mega Must-Have"
         ],
         
         "FILL_IN_THE_BLANK": "Vervollständigt den Satz!",
@@ -176,7 +176,7 @@
 
         "SKIP_TUTORIAL": "Hier drücken um das Tutorial zu überspringen…",
         "SKIP_INTRO": "Intro überspringen",
-        "SKIP": "Überprüngen",
+        "SKIP": "Überspringen",
         "FOR_INFO": "für Infos",
         "CARD_JOKES": [
             "Schwer verletzt? | Ruf an und ich puste ganz doll! | 0163 141-0754",
@@ -339,7 +339,7 @@
             "“Glaube an dich selbst. Es sei denn, du bist Shrek ... Dann existierst du wahrscheinlich nicht.”",
             "“Du wirst jede ungenutzte Gelegenheit bereuen. Ich? Ich vermisse meine Großeltern.”"
         ],
-        "QUOTESPIRATION": "Zitatspirationen"
+        "QUOTESPIRATION": "Weise Worte"
         
     },
     "fr": {},
