@@ -6482,13 +6482,13 @@
         },
         {
             "id": "52179",
-            "title": "Flagging Enthusiasm",
+            "title": "Spaß mit Flaggen",
             "prompts": [
                 {
-                    "title": "red",
+                    "title": "Rot",
                     "choices": [
                         {
-                            "text": "Finland",
+                            "text": "Finnland",
                             "isCorrect": false
                         },
                         {
@@ -6496,65 +6496,65 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "football penalty",
+                            "text": "Estland",
                             "isCorrect": false
                         },
                         {
-                            "text": "France",
+                            "text": "Belgien",
                             "isCorrect": true
                         },
                         {
-                            "text": "United Kingdom",
+                            "text": "Marokko",
                             "isCorrect": true
                         },
                         {
-                            "text": "House Gryffindor",
+                            "text": "Haus Gryffindor",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "blue",
+                    "title": "Gelb",
                     "choices": [
+                        {
+                            "text": "Haus Stark",
+                            "isCorrect": false
+                        },
                         {
                             "text": "China",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cMann über Bord!\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Neuseeland",
                             "isCorrect": false
                         },
                         {
-                            "text": "Greece",
+                            "text": "Mauritius",
                             "isCorrect": true
                         },
                         {
-                            "text": "Finland",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "start race",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "House Arryn",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Ireland",
+                            "text": "Deutschland",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "horizontal stripes",
+                    "title": "Querstreifen",
                     "choices": [
                         {
-                            "text": "Italy",
+                            "text": "Elfenbeinküste",
                             "isCorrect": false
                         },
                         {
-                            "text": "United States",
+                            "text": "Deutschland",
                             "isCorrect": true
                         },
                         {
-                            "text": "Ireland",
+                            "text": "Irland",
                             "isCorrect": false
                         },
                         {
@@ -6562,98 +6562,98 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "LGBTQ Pride",
+                            "text": "Liechtenstein",
                             "isCorrect": true
                         },
                         {
-                            "text": "Iran",
-                            "isCorrect": true
-                        }
-                    ]
-                },
-                {
-                    "title": "a circle",
-                    "choices": [
-                        {
-                            "text": "Pakistan",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Japan",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "United Federation of Planets",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Norway",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Brazil",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Jedi Order",
+                            "text": "Grönland",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "stars",
+                    "title": "Ein Kreis",
                     "choices": [
                         {
-                            "text": "New Zealand",
+                            "text": "Mongolei",
                             "isCorrect": true
                         },
                         {
-                            "text": "United States",
+                            "text": "Cookinseln",
                             "isCorrect": true
                         },
                         {
-                            "text": "Jolly Roger",
+                            "text": "Die Europäische Union",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Norwegen",
                             "isCorrect": false
                         },
                         {
-                            "text": "South Africa",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "NASA",
+                            "text": "Brasilien",
                             "isCorrect": true
                         },
                         {
-                            "text": "Spain",
+                            "text": "Der Jedi-Orden",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Sterne",
+                    "choices": [
+                        {
+                            "text": "Panama",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Europäische Weltraumorganisation",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Rumänien",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "St. Vincent und die Grenadinen",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Föderierte Staaten von Mikronesien",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Spanien",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "an animal",
+                    "title": "Ein Tier",
                     "choices": [
                         {
-                            "text": "Canada",
+                            "text": "Kanada",
                             "isCorrect": false
                         },
                         {
-                            "text": "House Hufflepuff",
+                            "text": "Haus Slytherin",
                             "isCorrect": true
                         },
                         {
-                            "text": "Spain",
+                            "text": "Spanien",
                             "isCorrect": true
                         },
                         {
-                            "text": "Russia",
+                            "text": "Die NATO",
                             "isCorrect": false
                         },
                         {
-                            "text": "Mexico",
+                            "text": "Mexiko",
                             "isCorrect": true
                         },
                         {
-                            "text": "Australia",
+                            "text": "Norfolkinsel",
                             "isCorrect": false
                         }
                     ]
