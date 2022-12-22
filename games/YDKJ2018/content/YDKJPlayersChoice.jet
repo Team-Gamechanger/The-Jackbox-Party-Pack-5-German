@@ -4,7 +4,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage gestellt bekommen, die etwas Ruhe bereithält, oder eine Frage, die ständig unterbrochen wird?"
             },
-            "id": "53763",
+            "id": "11600",
             "choice1": {
                 "text": "eine Frage, die etwas Ruhe bereithält",
                 "id": "53750"
@@ -18,7 +18,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage zum Raum oder eine Frage zur Zeit gestellt bekommen?"
             },
-            "id": "53544",
+            "id": "11601",
             "choice1": {
                 "text": "eine Frage über den Raum",
                 "id": "53229"
@@ -32,7 +32,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage über Füße oder eine Frage über Gesichter gestellt bekommen?"
             },
-            "id": "53541",
+            "id": "11602",
             "choice1": {
                 "text": "eine Frage über Füße",
                 "id": "53499"
@@ -46,7 +46,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage gestellt bekommen, bei der Jack sauer wird, oder eine Frage, bei der Jack neutral bleibt?"
             },
-            "id": "53457",
+            "id": "11603",
             "choice1": {
                 "text": "eine Frage, bei der Jack sauer wird",
                 "id": "51952"
@@ -60,7 +60,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage gestellt bekommen, die nichts zu verbergen hat, oder eine Frage mit einer bösen Absicht?"
             },
-            "id": "53398",
+            "id": "11604",
             "choice1": {
                 "text": "eine Frage, die nichts zu verbergen hat",
                 "id": "53394"
@@ -74,7 +74,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage gestellt bekommen, bei der sich die Antwort auf Topf reimt, oder eine Frage, bei der sich die Antwort auf Moral reimt?"
             },
-            "id": "53397",
+            "id": "11605",
             "choice1": {
                 "text": "eine Frage, bei der sich die Antwort auf Topf reimt",
                 "id": "53392"
@@ -88,7 +88,7 @@
             "question": {
                 "text": "Möchten Sie eine Rückwärtsfrage oder eine Vorwärtsfrage gestellt bekommen?"
             },
-            "id": "53387",
+            "id": "11606",
             "choice1": {
                 "text": "eine Rückwärtsfrage",
                 "id": "52036"
@@ -102,7 +102,7 @@
             "question": {
                 "text": "Möchten Sie eine formelle Frage gestellt bekommen, oder eine Frage, die die Sache locker angeht?"
             },
-            "id": "53359",
+            "id": "11607",
             "choice1": {
                 "text": "eine formelle Frage",
                 "id": "53333"
@@ -116,7 +116,7 @@
             "question": {
                 "text": "Möchten Sie eine kluge Frage oder eine dumme Frage gestellt bekommen?"
             },
-            "id": "53354",
+            "id": "11608",
             "choice1": {
                 "text": "eine kluge Frage",
                 "id": "52885"
@@ -130,7 +130,7 @@
             "question": {
                 "text": "Möchten Sie eine anziehende Frage oder eine saftige Frage gestellt bekommen?"
             },
-            "id": "53020",
+            "id": "11609",
             "choice1": {
                 "text": "eine anziehende Frage",
                 "id": "52753"
@@ -144,7 +144,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage gestellt bekommen, die Sie wissen, oder eine Frage, die Sie lieber nicht wissen wollen?"
             },
-            "id": "53018",
+            "id": "11610",
             "choice1": {
                 "text": "eine Frage, die Sie wissen",
                 "id": "52985"
@@ -158,7 +158,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage über Aliens oder eine Frage über Roboter gestellt bekommen?"
             },
-            "id": "53014",
+            "id": "11611",
             "choice1": {
                 "text": "eine Frage über Aliens",
                 "id": "52873"
@@ -172,7 +172,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage gestellt bekommen, die zwei Fliegen mit einer Klappe schlägt, oder eine Frage, die eine Fliege mit zwei Klappen schlägt?"
             },
-            "id": "53013",
+            "id": "11612",
             "choice1": {
                 "text": "eine Frage, die zwei Fliegen mit einer Klappe schlägt",
                 "id": "52870"
@@ -186,7 +186,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage gestellt bekommen, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind, oder eine Frage, bei der Sie DOCH die Hühner mitzählen, bevor sie geschlüpft sind?"
             },
-            "id": "53012",
+            "id": "11613",
             "choice1": {
                 "text": "eine Frage, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind",
                 "id": "52851"
@@ -200,7 +200,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage über tollen Sex oder eine Frage über die tolle Sechs gestellt bekommen?"
             },
-            "id": "53011",
+            "id": "11614",
             "choice1": {
                 "text": "eine Frage über tollen SEX",
                 "id": "52733"
@@ -214,7 +214,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage mit Partytröten oder eine Frage über Partytröten gestellt bekommen?"
             },
-            "id": "53008",
+            "id": "11615",
             "choice1": {
                 "text": "eine Frage mit Partytröten",
                 "id": "51958"
@@ -228,7 +228,7 @@
             "question": {
                 "text": "Möchten Sie eine laute Frage... oder eine leise Frage?"
             },
-            "id": "52534",
+            "id": "11616",
             "choice1": {
                 "text": "eine laute Frage",
                 "id": "51828"
@@ -242,7 +242,7 @@
             "question": {
                 "text": "Möchten Sie eine kurze Frage... oder eine lange Frage?"
             },
-            "id": "52526",
+            "id": "11617",
             "choice1": {
                 "text": "eine kurze Frage",
                 "id": "51940"
@@ -256,7 +256,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage, die Jack aufmuntert... oder eine Frage, die Jacks Gefühle verletzt?"
             },
-            "id": "52524",
+            "id": "11618",
             "choice1": {
                 "text": "eine Frage, die Jack aufmuntert",
                 "id": "51966"
@@ -270,7 +270,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage, in der alles richtig geschrieben ist... oder eine Frage, in der alles falsch geschrieben ist?"
             },
-            "id": "52523",
+            "id": "11619",
             "choice1": {
                 "text": "eine Frage, in der alles richtig geschrieben ist",
                 "id": "51968"
@@ -284,7 +284,7 @@
             "question": {
                 "text": "Möchten Sie eine Frage, bei der die Antwort Til Schweiger lautet... oder eine Frage, bei der die Antwort nicht Til Schweiger lautet?"
             },
-            "id": "52518",
+            "id": "11620",
             "choice1": {
                 "text": "eine Frage, bei der die Antwort Til Schweiger lautet",
                 "id": "51937"

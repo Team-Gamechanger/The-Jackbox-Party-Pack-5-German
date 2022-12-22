@@ -482,70 +482,6 @@
             ]
         },
         {
-            "id": "52926",
-            "category": {
-                "text": "A Question About Dad"
-            },
-            "choices": [
-                {
-                    "text": "\u201cHi Ahab, I\u2019m Dad!\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cHi Ishmael, I\u2019m Dad!\u201d",
-                    "isCorrect": true
-                },
-                {
-                    "text": "\u201cHi Queequeg, I\u2019m Dad!\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cHi Starbuck, I\u2019m Dad!\u201d",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "What dad joke would follow the opening line of <i>Moby Dick<\/i>?"
-                }
-            ]
-        },
-        {
-            "id": "52925",
-            "category": {
-                "text": "A Question About Mom"
-            },
-            "choices": [
-                {
-                    "text": "<i>Murphy Brown<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Ally McBeal<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Roseanne<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Shaft<\/i>",
-                    "isCorrect": true
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Whose theme song describes them as a \u201cbad mother\u201d?"
-                }
-            ]
-        },
-        {
             "id": "52886",
             "category": {
                 "text": "Eine dumme Frage"
@@ -588,7 +524,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Die glückliche Juliane",
+                    "text": "Die phantastische Juliane",
                     "isCorrect": false
                 },
                 {
@@ -869,7 +805,7 @@
         {
             "id": "52734",
             "category": {
-                "text": "eine Frage über die tolle SECHS"
+                "text": "Eine Frage über die tolle SECHS"
             },
             "choices": [
                 {
@@ -933,7 +869,7 @@
         {
             "id": "52236",
             "category": {
-                "text": "A Question You\u2019ll Play Again Later"
+                "text": "Eine Frage, die Sie später noch einmal spielen werden"
             },
             "choices": [
                 {
@@ -965,7 +901,7 @@
         {
             "id": "52232",
             "category": {
-                "text": "A Question You\u2019ve Already Played"
+                "text": "Eine Frage, die Sie bereits gespielt haben"
             },
             "choices": [
                 {
@@ -991,78 +927,6 @@
                 {
                     "timing": "S + 0.00",
                     "text": "If Vin Diesel traveled back in time and convinced Jane Austen to write a sequel to one of her classic novels, what <i>Fast and the Furious<\/i>-inspired title would it have?"
-                }
-            ]
-        },
-        {
-            "id": "52110",
-            "category": {
-                "text": "A Musical Question About Delicates"
-            },
-            "choices": [
-                {
-                    "text": "the first wet suit",
-                    "isCorrect": false
-                },
-                {
-                    "text": "the first space suit",
-                    "isCorrect": true
-                },
-                {
-                    "text": "the first bikini",
-                    "isCorrect": false
-                },
-                {
-                    "text": "the first graduation cap and gown",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "What did the underwear company Playtex help make?"
-                }
-            ]
-        },
-        {
-            "id": "52108",
-            "category": {
-                "text": "A Delicate Question About Musicals"
-            },
-            "choices": [
-                {
-                    "text": "<i>Dear Evan Hansen<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Spring Awakening<\/i>",
-                    "isCorrect": true
-                },
-                {
-                    "text": "<i>The Best Little Whorehouse in Texas<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Oklahoma!<\/i>",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "In which musical do Wendla and Melchior..."
-                },
-                {
-                    "timing": "S + 4.82",
-                    "text": "share an..."
-                },
-                {
-                    "timing": "S + 6.59",
-                    "text": "intimate moment in a hayloft?"
                 }
             ]
         },
@@ -1128,134 +992,6 @@
                 {
                     "timing": "S + 0.00",
                     "text": "Anna hetzt Hanna"
-                }
-            ]
-        },
-        {
-            "id": "51978",
-            "category": {
-                "text": "A Tricky Question"
-            },
-            "choices": [
-                {
-                    "text": "<i>Robinson Crusoe<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Anna Karenina<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>David Copperfield<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "none of the above",
-                    "isCorrect": true
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Which of these novels was named after a person who does magic tricks?"
-                }
-            ]
-        },
-        {
-            "id": "51977",
-            "category": {
-                "text": "A Blunt Question"
-            },
-            "choices": [
-                {
-                    "text": "Doobie",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Dank",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Chronic",
-                    "isCorrect": true
-                },
-                {
-                    "text": "The Devil\u2019s Lettuce",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Snoop Dogg created which term for marijuana when he mispronounced a method of growing cannabis?"
-                }
-            ]
-        },
-        {
-            "id": "51975",
-            "category": {
-                "text": "A Question with Nuts"
-            },
-            "choices": [
-                {
-                    "text": "<i>The Sound and The Fury<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>The Sun Also Rises<\/i>",
-                    "isCorrect": true
-                },
-                {
-                    "text": "<i>The Catcher in the Rye<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>The House on Pooh Corner<\/i>",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "In which classic novel does the main character lose his \u201ccandy bar\u201d but not his \u201cpeanuts\u201d?"
-                }
-            ]
-        },
-        {
-            "id": "51974",
-            "category": {
-                "text": "A Question Without Nuts"
-            },
-            "choices": [
-                {
-                    "text": "Little Finger",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Lord Varys",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Khal Drogo",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Hodor",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "What\u2019s the name of the Eunuch from <i>Game of Thrones<\/i>?"
                 }
             ]
         },
@@ -1358,7 +1094,7 @@
         {
             "id": "51965",
             "category": {
-                "text": "A Question that Hurts My Feelings"
+                "text": "Eine Frage, die meine Gefühle verletzt"
             },
             "choices": [
                 {

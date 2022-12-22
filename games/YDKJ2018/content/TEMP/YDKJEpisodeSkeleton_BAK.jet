@@ -1,6 +1,68 @@
 {
     "content": [
         {
+            "commercialImage": "Truth",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "53145",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "53101",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "53642",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "53695",
+                    "type": "Gibberish"
+                },
+                {
+                    "num": 8,
+                    "id": "53746",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "53747",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "53639",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53696",
+            "minEpisodes": 10
+        },
+        {
             "commercialImage": "",
             "questions": [
                 {
@@ -993,6 +1055,68 @@
             "minEpisodes": 0
         },
         {
+            "commercialImage": "Bonus",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "52112",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "52086",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "52075",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "52069",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "52091",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 8,
+                    "id": "52143",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "52096",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "52199",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53888",
+            "minEpisodes": 4
+        },
+        {
             "commercialImage": "",
             "questions": [
                 {
@@ -1053,6 +1177,68 @@
             ],
             "id": "53331",
             "minEpisodes": 4
+        },
+        {
+            "commercialImage": "",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "50358",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "53149",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "50733",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
+                    "type": "Gibberish"
+                },
+                {
+                    "num": 7,
+                    "id": "53000",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 8,
+                    "id": "53147",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "53382",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "53614",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53318",
+            "minEpisodes": 5
         },
         {
             "commercialImage": "",
@@ -1241,6 +1427,130 @@
             "minEpisodes": 3
         },
         {
+            "commercialImage": "None",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "49985",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "50063",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "SPECIALTY",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "Gibberish"
+                },
+                {
+                    "num": 8,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "52340",
+            "minEpisodes": 0
+        },
+        {
+            "commercialImage": "",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "53154",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "53155",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "Gibberish"
+                },
+                {
+                    "num": 8,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "53164",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53676",
+            "minEpisodes": 4
+        },
+        {
             "commercialImage": "",
             "questions": [
                 {
@@ -1362,6 +1672,254 @@
                 }
             ],
             "id": "53678",
+            "minEpisodes": 0
+        },
+        {
+            "commercialImage": "",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "49595",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "52228",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "52516",
+                    "type": "PlayersChoice"
+                },
+                {
+                    "num": 8,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "52237",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "52808",
+            "minEpisodes": 6
+        },
+        {
+            "commercialImage": "",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "51403",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "51891",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "PlayersChoice"
+                },
+                {
+                    "num": 8,
+                    "id": "SPECIALTY",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "52809",
+            "minEpisodes": 0
+        },
+        {
+            "commercialImage": "Bonus",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
+                    "type": "Gibberish"
+                },
+                {
+                    "num": 7,
+                    "id": "52449",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 8,
+                    "id": "53649",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53840",
+            "minEpisodes": 4
+        },
+        {
+            "commercialImage": "",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "51324",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "51995",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "SPECIALTY",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "PlayersChoice"
+                },
+                {
+                    "num": 8,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53841",
             "minEpisodes": 0
         },
         {
@@ -2357,6 +2915,68 @@
             "minEpisodes": 0
         },
         {
+            "commercialImage": "Bonus",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
+                    "type": "Gibberish"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 8,
+                    "id": "SPECIALTY",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "50873",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53799",
+            "minEpisodes": 0
+        },
+        {
             "commercialImage": "",
             "questions": [
                 {
@@ -2454,6 +3074,68 @@
                 {
                     "num": 6,
                     "id": "RANDOM",
+                    "type": "Gibberish"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 8,
+                    "id": "SPECIALTY",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "52210",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53801",
+            "minEpisodes": 21
+        },
+        {
+            "commercialImage": "",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
                     "type": "Shortie"
                 },
                 {
@@ -2479,6 +3161,130 @@
             ],
             "id": "53802",
             "minEpisodes": 30
+        },
+        {
+            "commercialImage": "Bonus",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
+                    "type": "PlayersChoice"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 8,
+                    "id": "SPECIALTY",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "50469",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53803",
+            "minEpisodes": 0
+        },
+        {
+            "commercialImage": "Bonus",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "SPECIALTY",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "50132",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "PlayersChoice"
+                },
+                {
+                    "num": 8,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53804",
+            "minEpisodes": 0
         },
         {
             "commercialImage": "",
@@ -2543,6 +3349,254 @@
             "minEpisodes": 0
         },
         {
+            "commercialImage": "Bonus",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "51674",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "PlayersChoice"
+                },
+                {
+                    "num": 8,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53806",
+            "minEpisodes": 0
+        },
+        {
+            "commercialImage": "",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
+                    "type": "Gibberish"
+                },
+                {
+                    "num": 7,
+                    "id": "50518",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 8,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53807",
+            "minEpisodes": 30
+        },
+        {
+            "commercialImage": "Bonus",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "SPECIALTY",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "Gibberish"
+                },
+                {
+                    "num": 8,
+                    "id": "51021",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53808",
+            "minEpisodes": 0
+        },
+        {
+            "commercialImage": "",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
+                    "type": "Gibberish"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 8,
+                    "id": "SPECIALTY",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "51087",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53809",
+            "minEpisodes": 20
+        },
+        {
             "commercialImage": "",
             "questions": [
                 {
@@ -2602,6 +3656,68 @@
                 }
             ],
             "id": "53810",
+            "minEpisodes": 0
+        },
+        {
+            "commercialImage": "Bonus",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "50413",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "PlayersChoice"
+                },
+                {
+                    "num": 8,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53811",
             "minEpisodes": 0
         },
         {
@@ -3036,6 +4152,68 @@
                 }
             ],
             "id": "53818",
+            "minEpisodes": 0
+        },
+        {
+            "commercialImage": "Bonus",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "PlayersChoice"
+                },
+                {
+                    "num": 8,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "50980",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "53819",
             "minEpisodes": 0
         }
     ]
