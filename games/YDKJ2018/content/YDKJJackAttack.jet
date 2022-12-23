@@ -1230,7 +1230,7 @@
                     ]
                 },
                 {
-                    "title": "Jedes Spiel <i>YOU DON’T KNOW JACK</i>",
+                    "title": "Jede Runde <i>YOU DON’T KNOW JACK</i>",
                     "choices": [
                         {
                             "text": "hat ein Sekt oder Selters",
@@ -1245,7 +1245,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "ist besser als das davor",
+                            "text": "ist besser als die davor",
                             "isCorrect": false
                         },
                         {
@@ -2133,7 +2133,7 @@
                     "title": "in einem Jackbox Party Pack",
                     "choices": [
                         {
-                            "text": "<i>Blather Round<\/i>",
+                            "text": "<i>Blather \u0027Round<\/i>",
                             "isCorrect": true
                         },
                         {
