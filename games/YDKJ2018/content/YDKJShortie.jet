@@ -2616,7 +2616,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "fünf Gläser brasilianischen Caipirinha",
+                    "text": "fünf Gläser brasilianischer Caipirinha",
                     "isCorrect": true
                 },
                 {
@@ -2825,7 +2825,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn sich K auf die Maßeinheit Kelvin bezieht, was befindet sich dann in einer 1 K Tasse?"
+                    "text": "Wenn sich K auf die Maßeinheit Kelvin bezieht, was befindet sich dann in einer 1 K-Tasse?"
                 }
             ]
         },
@@ -3053,7 +3053,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, das dänische Unternehmen LEGO möchte, dass der nächste LEGO Film in der Nähe seines Heimatlandes spielt... in Dänemark."
+                    "text": "Angenommen, das dänische Unternehmen LEGO möchte, dass der nächste LEGO-Film in der Nähe seines Heimatlandes spielt... in Dänemark."
                 },
                 {
                     "timing": "S + 6.08",
@@ -3344,11 +3344,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "PAPA: \u201cHör auf dich wie Hitler zu verhalten!\u201d",
+                    "text": "PAPA: \u201cHör auf, dich wie Hitler zu verhalten!\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "OMA: \u201cIch wünschte ihr wärt alle tot!\u201d",
+                    "text": "OMA: \u201cIch wünschte, ihr wärt alle tot!\u201d",
                     "isCorrect": false
                 },
                 {
@@ -3653,7 +3653,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was halten Sie von dieser Idee für mein <i>Black Mirror<\/i> Drehbuch?"
+                    "text": "Was halten Sie von dieser Idee für mein <i>Black Mirror<\/i>-Drehbuch?"
                 },
                 {
                     "timing": "S + 3.70",
