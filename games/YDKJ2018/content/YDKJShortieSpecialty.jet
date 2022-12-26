@@ -611,23 +611,23 @@
         {
             "id": "53102",
             "category": {
-                "text": "Type = { Female, Author }"
+                "text": "Art = { Männlich, Komiker }"
             },
             "choices": [
                 {
-                    "text": "Agatha Christie",
+                    "text": "Atze Schröder",
                     "isCorrect": false
                 },
                 {
-                    "text": "Virginia Woolf",
+                    "text": "Faisal Kawusi",
                     "isCorrect": false
                 },
                 {
-                    "text": "Toni Morrison",
+                    "text": "Michael Mittermeier",
                     "isCorrect": false
                 },
                 {
-                    "text": "Charlotte Brontë",
+                    "text": "Luke Mockridge",
                     "isCorrect": true
                 }
             ],
@@ -636,38 +636,34 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "\u201cgoverness wanted\u201d<br>"
+                    "text": "\u201ctrends aus den neunzigern\u201d<br>"
                 },
                 {
                     "timing": "S + 1.54",
-                    "text": "\u201cfire insurance policies\u201d<br>"
+                    "text": "\u201cnightwash moderator werden\u201d<br>"
                 },
                 {
                     "timing": "S + 3.70",
-                    "text": "\u201cWhat\u2019s in the atti..."
-                },
-                {
-                    "timing": "S + 4.74",
-                    "text": "SEARCH DENIED! YOU MUST NEVER GO IN THE ATTIC!\u201c<br>"
+                    "text": "\u201cwie shitstorm verhindern\u201d<br>"
                 },
                 {
                     "timing": "S + 9.28",
-                    "text": "Whose search history have we uncovered?"
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
                 }
             ]
         },
         {
             "id": "53098",
             "category": {
-                "text": "Type = { Writer, Archaic }"
+                "text": "Art = { Schriftsteller, Archaisch }"
             },
             "choices": [
                 {
-                    "text": "Aristotle",
+                    "text": "Aristoteles",
                     "isCorrect": false
                 },
                 {
-                    "text": "Rupi Kaur",
+                    "text": "Nora Bossong",
                     "isCorrect": false
                 },
                 {
@@ -675,7 +671,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Robert Frost",
+                    "text": "Theodor Fontane",
                     "isCorrect": false
                 }
             ],
@@ -684,42 +680,42 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "\u201cwanted: lyre accompanist for poetry\u201d<br>"
+                    "text": "\u201cgesucht: leierbegleitung für poesie\u201d<br>"
                 },
                 {
                     "timing": "S + 3.15",
-                    "text": "\u201cwanted: activities for exile\u201d<br>"
+                    "text": "\u201cgesucht: aktivitäten fürs exil\u201d<br>"
                 },
                 {
                     "timing": "S + 5.70",
-                    "text": "\u201cwanted: ladies for sex\u201d<br>"
+                    "text": "\u201cgesucht: frauen für sex\u201d<br>"
                 },
                 {
                     "timing": "S + 8.66",
-                    "text": "Whose search history have we acquired?"
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
                 }
             ]
         },
         {
             "id": "53090",
             "category": {
-                "text": "Type = { Female, Entertainer }"
+                "text": "Art = { Männlich, Entertainer }"
             },
             "choices": [
                 {
-                    "text": "Jada Pinkett Smith",
+                    "text": "Oliver Welke",
                     "isCorrect": false
                 },
                 {
-                    "text": "Wanda Sykes",
+                    "text": "Bernhard Ho\u00ebcker",
                     "isCorrect": false
                 },
                 {
-                    "text": "Queen Latifah",
+                    "text": "Bastian Pastewka",
                     "isCorrect": true
                 },
                 {
-                    "text": "Brandy",
+                    "text": "Christoph Maria Herbst",
                     "isCorrect": false
                 }
             ],
@@ -728,19 +724,19 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "\u201cAny hot singles in <i>Chicago<\/i>?\u201d<br>"
+                    "text": "\u201cdie wochenshow brisko schneider\u201d<br>"
                 },
                 {
                     "timing": "S + 2.53",
-                    "text": "\u201cAny <i>Living Single<\/i>s in my area?\u201d<br>"
+                    "text": "\u201cdeutscher fernsehpreis moderieren wie\u201d<br>"
                 },
                 {
                     "timing": "S + 5.50",
-                    "text": "\u201cWhere should I go on my <i>Girls Trip<\/i> to find these elusive singles?\u201d<br>"
+                    "text": "\u201ceigene sitcom starten\u201d<br>"
                 },
                 {
                     "timing": "S + 10.16",
-                    "text": "Whose search history have we acquired?"
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
                 }
             ]
         },

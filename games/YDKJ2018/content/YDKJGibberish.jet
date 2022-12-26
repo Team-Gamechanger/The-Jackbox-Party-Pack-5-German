@@ -88,31 +88,30 @@
             ]
         },
         {
-            "id": "53562",
+            "id": "11203",
             "category": {
-                "text": "How Dare He Strangle Such a Long Elegant Neck!"
+                "text": "Anti-Fisch-Proteste"
             },
             "gibberishText": {
-                "text": "Kill a swan, shall he?"
+                "text": "Keine Macht für Häute!"
             },
             "spellings": [
-                "sillicon valley",
-                "silacon valley",
-                "silacon valey",
-                "silicon vally"
+                "Kleider machen Leute",
+                "Kleider Leute",
+                "Kleid macht Leute"
             ],
             "correctText": {
-                "text": "<i>Silicon Valley<\/i>"
+                "text": "<i>Kleider machen Leute<\/i>"
             },
             "clues": [
                 {
-                    "text": "A show about people who make computers..."
+                    "text": "PLATZHALTER"
                 },
                 {
-                    "text": "...in a town obsessed with technology."
+                    "text": "PLATZHALTER"
                 },
                 {
-                    "text": "Uh... it\u2019s that HBO show... I can\u2019t think of a better clue, sorry."
+                    "text": "PLATZHALTER"
                 }
             ]
         },

@@ -574,7 +574,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wie lautet der Name des Roboters in dem Film <i>Aliens die Rückkehr<\/i>?"
+                    "text": "Wie lautet der Name des Roboters in dem Film <i>Aliens - Die Rückkehr<\/i>?"
                 }
             ]
         },
@@ -1062,7 +1062,7 @@
         {
             "id": "51966",
             "category": {
-                "text": "Eine Frage, die Jack aufmuntert"
+                "text": "Eine Frage, die mich aufmuntert"
             },
             "choices": [
                 {
@@ -1183,7 +1183,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "\u201cEs stimmt, dass ich fasziniert von Partytröten bin."
+                    "text": "\u201cOh wahr, Partytröten faszinieren mich automatisch."
                 },
                 {
                     "timing": "S + 2.74",
@@ -1251,7 +1251,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welches dieser Ereignisse dauerte am längsten?"
+                    "text": "Welcher dieser Ereignisse ist der längste Tag?"
                 }
             ]
         },
@@ -1262,10 +1262,6 @@
             },
             "choices": [
                 {
-                    "text": "18 Kurze",
-                    "isCorrect": false
-                },
-                {
                     "text": "20 Kurze",
                     "isCorrect": false
                 },
@@ -1275,6 +1271,10 @@
                 },
                 {
                     "text": "35 Kurze",
+                    "isCorrect": false
+                },
+                {
+                    "text": "50 Kurze",
                     "isCorrect": true
                 }
             ],
