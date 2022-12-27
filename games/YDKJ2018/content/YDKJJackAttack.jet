@@ -6848,172 +6848,172 @@
                     "title": "McDonald\u2019s",
                     "choices": [
                         {
-                            "text": "\u201cI\u2019m lovin\u2019 it\u201d",
+                            "text": "\u201cGut, daß es McDonald\u2019s gibt.201d",
                             "isCorrect": true
                         },
                         {
-                            "text": "\u201cMcDonald\u2019s makes me feel good\u201d",
+                            "text": "\u201cIch hasse es\u201d",
                             "isCorrect": false
                         },
                         {
-                            "text": "\u201cDid somebody say McDonald\u2019s?\u201d",
+                            "text": "\u201cMcDonald\u2019s ist einfach gut!\u201d",
                             "isCorrect": true
                         },
                         {
-                            "text": "\u201cGimme the good stuff\u201d",
+                            "text": "\u201cHab einfach eine gute Zeit.\u201d",
                             "isCorrect": false
                         },
                         {
-                            "text": "\u201cIt\u2019s what I eat and what I do\u201d",
+                            "text": "\u201cEssen mit Spaß.\u201d",
                             "isCorrect": true
                         },
                         {
-                            "text": "\u201cFor that price, I\u2019ll take fifty burgers!\u201d",
-                            "isCorrect": false
-                        }
-                    ]
-                },
-                {
-                    "title": "Coca-Cola",
-                    "choices": [
-                        {
-                            "text": "\u201cCoke it is!\u201d",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "\u201cCoca-Cola... Real\u201d",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "\u201cCoke is it!\u201d",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "\u201cThe Great National Temperance Beverage\u201d",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "\u201cCoca-Cola makes me feel good\u201d",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "\u201cEnjoy the Fizz\u201d",
+                            "text": "\u201cHaltet die Klappe und nehmt mein Geld!\u201d",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "FedEx",
+                    "title": "Saturn",
                     "choices": [
                         {
-                            "text": "\u201cRelax, It\u2019s FedEx\u201d",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "\u201cLet Us Handle Your Package\u201d",
+                            "text": "\uIch bin doch nicht blöd!\u201d",
                             "isCorrect": false
                         },
                         {
-                            "text": "\u201cOur Most Important Package is Yours\u201d",
+                            "text": "\u201cSternhagelgünstig!\u201d",
                             "isCorrect": true
                         },
                         {
-                            "text": "\u201cYou\u2019ll Like Us Best\u201d",
+                            "text": "\u201cGeiz ist geil!\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cGeil ist geil!\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cKaufen. Marsch, Marsch!\u201d",
                             "isCorrect": false
                         },
                         {
-                            "text": "\u201cWhy Fool Around with Anyone Else?\u201d",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "\u201cOpen the Door, It\u2019s Us\u201d",
+                            "text": "\u201cHaben wir. Wissen wir. Machen wir.\u201d",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "McDonald\u2019s (but in Australia this time)",
+                    "title": "IKEA",
                     "choices": [
                         {
-                            "text": "\u201cFeed your inner child\u201d",
+                            "text": "\u201cWohnst du noch oder lebst du schon?\u201d",
                             "isCorrect": true
                         },
                         {
-                            "text": "\u201cIt\u2019s a Little Bit Fancy\u201d",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "\u201cBig McDonalds\u201d",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "\u201cMcDonald\u2019s makes me feel good\u201d",
+                            "text": "\u201cDänische Individualität kostet mehr.\u201d",
                             "isCorrect": false
                         },
                         {
-                            "text": "\u201cGimme the good stuff\u201d",
+                            "text": "\u201cNur Stehen ist billiger.\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cLebst du noch oder wohnst du schon?\u201d",
                             "isCorrect": false
                         },
                         {
-                            "text": "\u201cIt all comes together at Macca\u2019s\u201d",
-                            "isCorrect": true
-                        }
-                    ]
-                },
-                {
-                    "title": "Harry S. Truman\u2019s 1948 Presidential Campaign",
-                    "choices": [
-                        {
-                            "text": "\u201cHarry Will Do It Right\u201d",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "\u201cGive \u2018Em Hell, Harry\u201d",
+                            "text": "\u201cMehr Geschmack als Geld.\u201d",
                             "isCorrect": true
                         },
                         {
-                            "text": "\u201cPour It On \u2018Em, Harry\u201d",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "\u201cSlap \u2018Em Good, Harry\u201d",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "\u201cI\u2019m Just Wild About Harry\u201d",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "\u201cHarry Truman Makes Me Feel Good\u201d",
+                            "text": "\u201cEinfach maximal!\u201d",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "Olympic Slogans",
+                    "title": "McDonald\u2019s (aber dieses Mal in Österreich)",
                     "choices": [
                         {
-                            "text": "Beijing \u201cOne World, One Dream\u201d",
+                            "text": "\u201cIch liebe es.\u201d",
                             "isCorrect": true
                         },
                         {
-                            "text": "London \u201cA Celebration of Spirit\u201d",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Sydney \u201cTop Talent, Down Under\u201d",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Barcelona \u201cFriends Forever\u201d",
+                            "text": "\u201cDas etwas andere Restaurant.\u201d",
                             "isCorrect": true
                         },
                         {
-                            "text": "Athens \u201cIt\u2019s Back\u201d",
+                            "text": "\u201cMcDonald\u2019s ist einfach gut!\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cEssen mit Gras.\u201d",
                             "isCorrect": false
                         },
                         {
-                            "text": "Seoul \u201cHarmony and Progress\u201d",
+                            "text": "\u201cLeb deinen Traum, denn er wird wahr.\u201d",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "\u201cFür echte Mampfiosi.\u201d",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Red Bull",
+                    "choices": [
+                        {
+                            "text": "\u201cRed Bullet verleiht Flüüügel.\u201d",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "\u201cRed Bull verleiht Flüüügel.\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cRed Bull verleiht Flügel.\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cRed Bull erfrischt dich.\u201d",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "\u201cRed Bull belebt Geist und Körper.\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cRed Bull bringt dir Energie und Kraft.\u201d",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Wahlkampfslogans von Parteien bei der Bundestagswahl 2021",
+                    "choices": [
+                        {
+                            "text": "Bündnis 90/Die Grünen: \u201cBereit, weil Ihr es seid\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "SPD: \u201cMacht die Mittelschicht wieder stark\u201d",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "CDU: \u201cSodass die Industrie gedeiht.\u201d",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "FDP: \u201cNie gab es mehr zu tun\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "CSU: \u201cDamit Deutschland stark bleibt\u201d",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "CDU: \u201cDeutschland gemeinsam machen\u201d",
                             "isCorrect": true
                         }
                     ]
@@ -7022,178 +7022,178 @@
         },
         {
             "id": "52101",
-            "title": "Do NOT Eat That",
+            "title": "Iss das NICHT",
             "prompts": [
                 {
-                    "title": "If You\u2019re Gluten-Free",
+                    "title": "Wenn du dich <i>glutenfrei<\/i> ernähren willst",
                     "choices": [
                         {
-                            "text": "quinoa",
+                            "text": "Reis",
                             "isCorrect": false
                         },
                         {
-                            "text": "corn flakes",
+                            "text": "Puffreis",
                             "isCorrect": true
                         },
                         {
-                            "text": "strawberries",
+                            "text": "Buttermilch",
                             "isCorrect": false
                         },
                         {
-                            "text": "rice",
+                            "text": "Mohn",
                             "isCorrect": false
                         },
                         {
-                            "text": "gnocchi",
+                            "text": "Bier",
                             "isCorrect": true
                         },
                         {
-                            "text": "matzo",
+                            "text": "Dinkelbrot",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "If You\u2019re on the Paleo Diet",
+                    "title": "Wenn du eine <i>Paleo-Diät<\/i> machst",
                     "choices": [
                         {
-                            "text": "eggs",
+                            "text": "Eier",
                             "isCorrect": false
                         },
                         {
-                            "text": "yogurt",
+                            "text": "Jogurt",
                             "isCorrect": true
                         },
                         {
-                            "text": "potatoes",
+                            "text": "Kaffee",
                             "isCorrect": true
                         },
                         {
-                            "text": "grapes",
+                            "text": "Honig",
                             "isCorrect": false
                         },
                         {
-                            "text": "corn flakes",
+                            "text": "Couscous",
                             "isCorrect": true
                         },
                         {
-                            "text": "macadamia nuts",
+                            "text": "Fisch",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "If You Keep Kosher",
+                    "title": "Wenn du <i>koscher<\/i> leben willst",
                     "choices": [
                         {
-                            "text": "shrimp",
+                            "text": "Garnelen",
                             "isCorrect": true
                         },
                         {
-                            "text": "corn flakes",
+                            "text": "Cornflakes",
                             "isCorrect": false
                         },
                         {
-                            "text": "bacon",
+                            "text": "Schweinefleisch",
                             "isCorrect": true
                         },
                         {
-                            "text": "rabbit",
+                            "text": "Kaviar",
                             "isCorrect": true
                         },
                         {
-                            "text": "goat",
+                            "text": "Rindsfleisch",
                             "isCorrect": false
                         },
                         {
-                            "text": "yogurt",
+                            "text": "Jogurt",
                             "isCorrect": false
                         }
                     ]
                 },
                 {
-                    "title": "If You\u2019re a Cat",
+                    "title": "Wenn du <i>Pescetarier<\/i> bist",
                     "choices": [
                         {
-                            "text": "corn",
+                            "text": "Honig",
                             "isCorrect": false
                         },
                         {
-                            "text": "onions",
+                            "text": "Meeresfrüchte",
                             "isCorrect": true
                         },
                         {
-                            "text": "bacon",
+                            "text": "Käse",
                             "isCorrect": false
                         },
                         {
-                            "text": "coffee",
+                            "text": "Zanderfilet",
                             "isCorrect": true
                         },
                         {
-                            "text": "zinnias",
+                            "text": "Omelette",
                             "isCorrect": false
                         },
                         {
-                            "text": "lilies",
+                            "text": "Lachs",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "If You\u2019re a Vegetarian",
+                    "title": "Wenn du es hasst, <i>vergiftet<\/i> zu werden",
                     "choices": [
                         {
-                            "text": "head cheese",
+                            "text": "Kugelfisch",
                             "isCorrect": true
                         },
                         {
-                            "text": "sweetbreads",
+                            "text": "Kidneybohnen",
                             "isCorrect": true
                         },
                         {
-                            "text": "Welsh rarebit",
+                            "text": "Mandeln",
                             "isCorrect": false
                         },
                         {
-                            "text": "sea cucumber",
+                            "text": "Muskatnüsse",
                             "isCorrect": true
                         },
                         {
-                            "text": "spotted dick",
+                            "text": "Nudeln",
                             "isCorrect": false
                         },
                         {
-                            "text": "geoduck",
+                            "text": "Aprikosenkerne",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "If You Hate Being Poisoned",
+                    "title": "Wenn du ein <i>Hund<\/i> bist",
                     "choices": [
                         {
-                            "text": "castor beans",
+                            "text": "Zwiebeln",
                             "isCorrect": true
                         },
                         {
-                            "text": "dandelions",
+                            "text": "Bananen",
                             "isCorrect": false
                         },
                         {
-                            "text": "oleanders",
+                            "text": "Schokolade",
                             "isCorrect": true
                         },
                         {
-                            "text": "rosary peas",
+                            "text": "Avocado",
                             "isCorrect": true
                         },
                         {
-                            "text": "cattails",
+                            "text": "Himbeeren",
                             "isCorrect": false
                         },
                         {
-                            "text": "amaranth",
+                            "text": "Kiwi",
                             "isCorrect": false
                         }
                     ]
