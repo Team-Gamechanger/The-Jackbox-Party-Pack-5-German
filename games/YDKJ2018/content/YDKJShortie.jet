@@ -343,23 +343,23 @@
         {
             "id": "10010",
             "category": {
-                "text": "Mein Auto läuft mit toten Dinosauriern"
+                "text": "Sakrileg dich nicht mit mir an"
             },
             "choices": [
                 {
-                    "text": "8.000.000€",
+                    "text": "Packende Geheimnisse eines SERBISCHEN FEIERTAGES",
                     "isCorrect": false
                 },
                 {
-                    "text": "56.000.000€",
+                    "text": "Verdeckte Mysterien einer KASACHISCHEN AUTOMARKE",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dunkle Verschwörungen um eine SLOWENISCHE SPEISE",
                     "isCorrect": true
                 },
                 {
-                    "text": "430.000.000€",
-                    "isCorrect": false
-                },
-                {
-                    "text": "1.000.000.000€",
+                    "text": "Geheime Botschaften in den Songs einer KROATISCHEN BAND",
                     "isCorrect": false
                 }
             ],
@@ -368,11 +368,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Ich habe gerade eine Jura-Parkgebühr bekommen, die der Dauer der Jura-Ära entspricht."
-                },
-                {
-                    "timing": "S + 5.45",
-                    "text": "Wie viel muss ich jetzt bezahlen?"
+                    "text": "Hätte Dan Brown eine Fortsetzung zu \u201cThe Da Vinci Code\u201d geschrieben, die den Namen \u201cThe Da MLINCI Code\u201d trägt, worum ginge es dann in diesem Buch?"
                 }
             ]
         },
@@ -1336,23 +1332,23 @@
         {
             "id": "10039",
             "category": {
-                "text": "Lootboxen im echten Leben"
+                "text": "Tiergeräusche mit Interpretationsspielraum"
             },
             "choices": [
                 {
-                    "text": "circa einen Monat",
+                    "text": "Erdnuss! Erdnuss!",
                     "isCorrect": true
                 },
                 {
-                    "text": "circa zwei Monate",
+                    "text": "Vorhaut! Vorhaut!",
                     "isCorrect": false
                 },
                 {
-                    "text": "circa drei Monate",
+                    "text": "Drehbuch! Drehbuch!",
                     "isCorrect": false
                 },
                 {
-                    "text": "circa sechs Monate",
+                    "text": "Küss mich! Küss mich!",
                     "isCorrect": false
                 }
             ],
@@ -1361,11 +1357,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Ich höre ständig, dass es in modernen Videospielen die Möglichkeit gibt, sich einen neuen Skin auszusuchen."
-                },
-                {
-                    "timing": "S + 4.77",
-                    "text": "Wenn ich dies auf natürliche Weise machen möchte, indem ich meine Hautzellen absterben lasse, wie lange werde ich brauchen, um meinen Skin zu wechseln?"
+                    "text": "Hört ein Bosnier einen solchen Hahn in dieser Art krähen, wonach würde es sich für ihn in seiner Sprache anhören?"
                 }
             ]
         },
@@ -2436,7 +2428,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Sri Lanka, aber das geht mich eigentlich nichts an",
+                    "text": "Argentinien, aber das geht mich eigentlich nichts an",
                     "isCorrect": false
                 },
                 {
@@ -2592,24 +2584,24 @@
         {
             "id": "10077",
             "category": {
-                "text": "Die Freundschaft gefährden"
+                "text": "Schlagersänger & Die Liebe zum Meer"
             },
             "choices": [
                 {
-                    "text": "im Supermarkt",
+                    "text": "Helene Lachsfischer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Helene Dorschfischer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Helene Makrelenfischer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Helene Forellenfischer",
                     "isCorrect": true
-                },
-                {
-                    "text": "im Baumarkt",
-                    "isCorrect": false
-                },
-                {
-                    "text": "im Spielzeugladen",
-                    "isCorrect": false
-                },
-                {
-                    "text": "in der Apotheke",
-                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
@@ -2617,11 +2609,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Schnell..."
-                },
-                {
-                    "timing": "S + 0.61",
-                    "text": "wo bekomme ich MESCLUN her?"
+                    "text": "Stellen Sie sich vor, Helene Fischer sucht sich eine neue Karriere als Anglerin an der Ostsee. Was wäre für sie KEINE passende Namensergänzung, weil es diese Fische in der Ostsee nicht gibt?"
                 }
             ]
         },
