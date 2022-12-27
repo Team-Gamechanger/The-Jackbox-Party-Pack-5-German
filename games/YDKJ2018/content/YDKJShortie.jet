@@ -7,7 +7,7 @@
             },
             "choices": [
                 {
-                    "text": "Einen Spionagedroiden ohne Genehmigung der Vereinten Nationen zum Mars schicken",
+                    "text": "Einen Spionagedroiden zum Mars schicken",
                     "isCorrect": true
                 },
                 {
@@ -28,7 +28,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, die Nationen der Erde könnten den <i>Star Wars<\/i>-Bösewicht Kylo Ren dazu überzeugen, den echten \u201cWeltraumvertrag\u201d zu unterzeichnen, welche dieser bösen Taten könnte er dann noch begehen, ohne ihn zu brechen?"
+                    "text": "Angenommen, die Nationen der Erde könnten den <i>Star Wars<\/i>-Bösewicht Kylo Ren dazu überzeugen, den echten \u201cWeltraumvertrag\u201d zu unterzeichnen, welche dieser Schandtaten dürfte er dann trotzdem noch begehen?"
                 }
             ]
         },
@@ -103,7 +103,7 @@
         {
             "id": "10003",
             "category": {
-                "text": "Belgisches Königsdrama"
+                "text": "Belgischer Königsklatsch & Total Tolle Tasten"
             },
             "choices": [
                 {
@@ -192,15 +192,15 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Ich wurde ENDLICH zu einer Unterwasser-Cowboy-Kostümparty eingeladen!"
+                    "text": "Angenommen, Sie wurden zu einer Unterwasser-Cowboy-Kostümparty eingeladen."
                 },
                 {
                     "timing": "S + 3.90",
-                    "text": "Aber ich möchte mich als eine echte Tierart verkleiden."
+                    "text": "Wenn Sie sich sich als eine echte Tierart verkleiden wollen würden,"
                 },
                 {
                     "timing": "S + 6.90",
-                    "text": "Was soll ich wählen?"
+                    "text": "welches Kostüm sollten Sie wählen?"
                 }
             ]
         },
@@ -211,19 +211,19 @@
             },
             "choices": [
                 {
-                    "text": "ein seitliches W",
+                    "text": "Ein seitliches W",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein auf dem Kopf stehendes V",
+                    "text": "Ein auf dem Kopf stehendes V",
                     "isCorrect": true
                 },
                 {
-                    "text": "eine umgedrehte 3",
+                    "text": "Eine umgedrehte 3",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein schiefes Dreieck",
+                    "text": "Ein schiefes Dreieck",
                     "isCorrect": false
                 }
             ],
@@ -243,23 +243,23 @@
         {
             "id": "10007",
             "category": {
-                "text": "Jugendsünden im Modellprojekt"
+                "text": "Grundschulpienzeleien & Die geballte Macht der Welt"
             },
             "choices": [
                 {
-                    "text": "Ich stellte dem KANZLER das Bein und er fiel auf den PRÄSIDENTEN.",
+                    "text": "\u201cIch werde dem KANZLER nie wieder das Bein stellen und mich beim PRÄSIDENTEN entschuldigen.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ich habe mit dem PREMIERMINISTER die Brotdose der KÖNIGIN gestohlen!",
+                    "text": "\u201cIch werde dem PREMIERMINISTER die Brotdose der KÖNIGIN zurückgeben.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Der PRÄSIDENT steckte der PREMIERMINISTERIN, dass ich auf sie stehe.",
+                    "text": "\u201cIch werde dem PRÄSIDENTEN nicht mehr zustecken, dass ich auf die PREMIERMINISTERIN stehe.\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "Der ZAR war zwar nett, aber er hat mich beim ERZBISCHOF verpfiffen.",
+                    "text": "\u201cIch werde dem ERZBISCHOF und dem ZAR nie wieder Majonnaise in den Schuh spritzen.\u201d",
                     "isCorrect": false
                 }
             ],
@@ -268,18 +268,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Als Schüler war ich bei einer dieser Model United Nations. Und ich wurde auf ewig von solchen Veranstaltungen verbannt."
-                },
-                {
-                    "timing": "S + 4.19",
-                    "text": "Welche dieser Interaktionen mit der isländischen Delegation war der Grund dafür?"
+                    "text": "Bedenkt man die Staatsform Islands, welchen dieser Sätze muss Österreich nun wahrscheinlich hundertfach auf die Tafel kritzeln?"
                 }
             ]
         },
         {
             "id": "10008",
             "category": {
-                "text": "Die _____ste Frage von Allen!"
+                "text": "Grammatikalisch große Geschichten"
             },
             "choices": [
                 {
@@ -304,14 +300,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher dieser Titel hat die MEISTEN Adjektive?"
+                    "text": "Welcher dieser Filmtitel hat die MEISTEN Adjektive?"
                 }
             ]
         },
         {
             "id": "10009",
             "category": {
-                "text": "Gute und Schlechte Seiten"
+                "text": "Gute Seiten, Schlechte Seiten"
             },
             "choices": [
                 {
@@ -383,7 +379,7 @@
         {
             "id": "10011",
             "category": {
-                "text": "Der Nippel-Effekt"
+                "text": "You're My Heart, You're My Soul, You're My Unsymmetrische Sexualanatomie"
             },
             "choices": [
                 {
@@ -408,18 +404,18 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, ich würde meinen Nippeln den Spitznamen \u201cModern Talking\u201d geben."
+                    "text": "Angenommen, ich würde den Nippeln meiner Freundin den Spitznamen \u201cModern Talking\u201d geben."
                 },
                 {
                     "timing": "S + 3.50",
-                    "text": "Wie würde ich dann meinen KLEINEREN nennen?"
+                    "text": "Wie würde ich dann den KLEINEREN der beiden nennen?"
                 }
             ]
         },
         {
             "id": "10012",
             "category": {
-                "text": "Furz-Wissenschaft"
+                "text": "Lautere Wissenschaft & Noch lautere Blähungen"
             },
             "choices": [
                 {
@@ -455,19 +451,19 @@
             },
             "choices": [
                 {
-                    "text": "das widerliche H",
+                    "text": "Das widerliche H",
                     "isCorrect": false
                 },
                 {
-                    "text": "das unheimliche Fis",
+                    "text": "Das unheimliche Fis",
                     "isCorrect": true
                 },
                 {
-                    "text": "das schreckliche A",
+                    "text": "Das schreckliche A",
                     "isCorrect": false
                 },
                 {
-                    "text": "das eiskalte Ais",
+                    "text": "Das eiskalte Ais",
                     "isCorrect": false
                 }
             ],
@@ -483,7 +479,7 @@
         {
             "id": "10014",
             "category": {
-                "text": "Ich hör auf meine Katze"
+                "text": "Die Gabe des Jack"
             },
             "choices": [
                 {
@@ -508,15 +504,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Meine Katze ist erstaunlich nett zu mir..."
-                },
-                {
-                    "timing": "S + 2.69",
-                    "text": "....sie saugt sogar meine Wohnung für mich. Ich möchte mich bei ihr revanchieren..."
-                },
-                {
-                    "timing": "S + 6.30",
-                    "text": "...welche gemeine Werbetechnik hat meine Katze da angewendet?"
+                    "text": "Welche Werbetechnik habe ich erfolgreich bei Ihnen angewandt?"
                 }
             ]
         },
@@ -527,19 +515,19 @@
             },
             "choices": [
                 {
-                    "text": "wegen meines limbischen Systems",
+                    "text": "Wegen meines limbischen Systems",
                     "isCorrect": true
                 },
                 {
-                    "text": "wegen meines Großhirns",
+                    "text": "Wegen meines Großhirns",
                     "isCorrect": false
                 },
                 {
-                    "text": "wegen meines Kleinhirns",
+                    "text": "Wegen meines Kleinhirns",
                     "isCorrect": false
                 },
                 {
-                    "text": "wegen meines Stammhirns",
+                    "text": "Wegen meines Stammhirns",
                     "isCorrect": false
                 }
             ],
@@ -548,26 +536,26 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Warum bringen mich riesige Hunde so sehr zum Lachen?"
+                    "text": "Warum bringen mich Rentner so zum Lachen?"
                 }
             ]
         },
         {
             "id": "10016",
             "category": {
-                "text": "Ist Auto-Tune immer noch eine Sache?"
+                "text": "Ist Auto-Tune eigentlich immer noch im Zeitgeist?"
             },
             "choices": [
                 {
-                    "text": "Eine eigene Armatur ohne Genehmigung einbauen",
+                    "text": "Ein eigenes Armaturenbrett einbauen",
                     "isCorrect": true
                 },
                 {
-                    "text": "Auto auf 10 Zentimeter legen",
+                    "text": "Auto auf 10 Zentimeter tieferlegen",
                     "isCorrect": false
                 },
                 {
-                    "text": "Die Schalldämpfung vom Auspuff minimieren",
+                    "text": "Den Schalldämpfer vom Auspuff abbauen",
                     "isCorrect": false
                 },
                 {
@@ -580,14 +568,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Sagen Sie mir, wie ich mein Auto am besten legal tunen kann"
+                    "text": "Wie dürfte ich mein Auto in Deutschland legal und ohne Sondergenehmigung tunen?"
                 }
             ]
         },
         {
             "id": "10017",
             "category": {
-                "text": "Gehen Sie mir nicht auf die Nüsse"
+                "text": "Gehen Sie mir nicht auf die Nüsse!"
             },
             "choices": [
                 {
@@ -635,20 +623,20 @@
         {
             "id": "10018",
             "category": {
-                "text": "Geh mir nicht auf den Duden"
+                "text": "Lexikonnte er, oder Lexikonnte er nicht?"
             },
             "choices": [
                 {
-                    "text": "fünf",
+                    "text": "Fünf",
                     "isCorrect": false
                 },
                 {
-                    "text": "drei",
+                    "text": "Drei",
                     "isCorrect": false
                 },
                 {
                     "best": true,
-                    "text": "nur eins",
+                    "text": "Nur eins",
                     "isCorrect": false
                 },
                 {
@@ -716,23 +704,23 @@
         {
             "id": "10020",
             "category": {
-                "text": "In Spinnweben laufen"
+                "text": "Die spinnen doch, die Spinnen"
             },
             "choices": [
                 {
-                    "text": "FÜNFUNDZWANZIG PROZENT!!!",
+                    "text": "Fünfundzwanzig Prozent",
                     "isCorrect": false
                 },
                 {
-                    "text": "ZEHN PROZENT!!!",
+                    "text": "Zehn Prozent",
                     "isCorrect": false
                 },
                 {
-                    "text": "EIN PROZENT!!!",
+                    "text": "Ein Prozent",
                     "isCorrect": false
                 },
                 {
-                    "text": "WENIGER ALS EIN ZEHNTEL EINES PROZENTS!!!",
+                    "text": "Weniger als ein Zehntel eines Prozent",
                     "isCorrect": true
                 }
             ],
@@ -741,18 +729,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "AAAAAAAHHHH!"
-                },
-                {
-                    "timing": "S + 0.74",
-                    "text": "WIE VIEL PROZENT DER ÜBER 40.000 SPINNENARTEN SIND FÜR DEN MENSCHEN TÖDLICH?!!!!"
+                    "text": "Wie viel Prozent der weltweit über 40.000 Spinnenarten sind für Menschen tödlich?"
                 }
             ]
         },
         {
             "id": "10021",
             "category": {
-                "text": "Drogenrausch und fliegende Zahlen"
+                "text": "Hochfliegende Räusche & Abstürzende Zahlen"
             },
             "choices": [
                 {
@@ -845,7 +829,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn man bedenkt, wie lange es beim letzten Mal gedauert hat, wie würde die Erde reagieren, wenn man sie bitten würde, mehr Kohle zu produzieren?"
+                    "text": "Bedenkt man, wie lange es beim letzten Mal gedauert hat, wie würde die Erde reagieren, wenn man sie bitten würde, mehr Kohle zu produzieren?"
                 }
             ]
         },
@@ -960,19 +944,19 @@
             },
             "choices": [
                 {
-                    "text": "ein Embryo",
+                    "text": "Ein Embryo",
                     "isCorrect": false
                 },
                 {
-                    "text": "eine Zygote",
+                    "text": "Eine Zygote",
                     "isCorrect": true
                 },
                 {
-                    "text": "ein Fötus",
+                    "text": "Ein Fötus",
                     "isCorrect": false
                 },
                 {
-                    "text": "eine Phalanx",
+                    "text": "Eine Phalanx",
                     "isCorrect": false
                 }
             ],
@@ -1081,7 +1065,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Nehmen wir an, Moe Szyslak aus <i>Die Simpsons<\/i> verließ Springfield in Staffel 40, um eine Bar in Japan zu eröffnen."
+                    "text": "Nehmen wir an, Moe Szyslak aus <i>Die Simpsons<\/i> verlässt Springfield in Staffel 40, um eine Bar in Japan zu eröffnen."
                 },
                 {
                     "timing": "S + 5.91",
@@ -1096,19 +1080,19 @@
             },
             "choices": [
                 {
-                    "text": "eine 212 Grad Fahrenheit heiße Wärmflasche",
+                    "text": "Eine 212 Grad Fahrenheit heiße Wärmflasche",
                     "isCorrect": true
                 },
                 {
-                    "text": "ein 265 Grad Fahrenheit heißer Wasserkocher",
+                    "text": "Ein 265 Grad Fahrenheit heißer Wasserkocher",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein 335 Grad Fahrenheit heißer Kochtopf",
+                    "text": "Ein 335 Grad Fahrenheit heißer Kochtopf",
                     "isCorrect": false
                 },
                 {
-                    "text": "eine 400 Grad Fahrenheit heiße Mikrowelle",
+                    "text": "Eine 400 Grad Fahrenheit heiße Mikrowelle",
                     "isCorrect": false
                 }
             ],
@@ -1217,7 +1201,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn es um 1600 schon Computer gegeben hätte, welche dieser Dateien würden in den Büros der katholischen Kirche als NSFW gelten?"
+                    "text": "Wenn es um 1600 schon Computer gegeben hätte, welche dieser Dateien würde in den Büros der katholischen Kirche wohl schnell zur fristlosen Kündigung geführt haben?"
                 }
             ]
         },
@@ -1288,7 +1272,7 @@
         {
             "id": "10037",
             "category": {
-                "text": "In die Augen schauen"
+                "text": "Schau mir in all meine Augen gleichzeitig, Kleines"
             },
             "choices": [
                 {
@@ -1313,11 +1297,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, Sie haben \u201czu sehr Auge gemacht\u201d und sind nun frontal auf Ihr Gesicht gefallen."
-                },
-                {
-                    "timing": "S + 5.49",
-                    "text": "Ihre Augen sind nun auf der gleichen Seite in ihrem Gesicht. Welchem Tier könnte ein ähnlichen Schicksal zugestoßen sein?"
+                    "text": "Ihre Augen sind nun auf der gleichen Seite Ihres Gesichts. Welchem Tier könnte ein ähnliches Schicksal zugestoßen sein?"
                 }
             ]
         },
@@ -1328,19 +1308,19 @@
             },
             "choices": [
                 {
-                    "text": "Volt!",
+                    "text": "\u201cWas wollen wir? Volt! Wann wollen wir es? Jetzt!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ohm!",
+                    "text": "\u201cWas wollen wir? Ohm! Wann wollen wir es? Jetzt!\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "G!",
+                    "text": "\u201cWas wollen wir? Coulomb! Wann wollen wir es? Jetzt!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ampere!",
+                    "text": "\u201cWas wollen wir? Ampere! Wann wollen wir es? Jetzt!\u201d",
                     "isCorrect": false
                 }
             ],
@@ -1349,11 +1329,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn eine Gruppe von Klima-Demonstranten einen Weg finden wollte, um zu messen, wie viel #Widerstand sie erzeugen..."
-                },
-                {
-                    "timing": "S + 5.61",
-                    "text": "Was könnten sie zu ihrem Ausruf \u201cWas wollen wir? ______! Wann wollen wir es? Jetzt!\u201d hinzufügen?"
+                    "text": "Wenn eine Gruppe von Klima-Demonstranten möglichst viel Widerstand ausüben möchte, was sollte sie auf ihren Märschen am ehesten lauthals ausrufen?"
                 }
             ]
         },
@@ -1428,23 +1404,23 @@
         {
             "id": "10041",
             "category": {
-                "text": "Zum Psychologen sprinten"
+                "text": "Verblüffend schnelle Igel & Die geballte Last des Lebens"
             },
             "choices": [
                 {
-                    "text": "seiner Vergangenheit... und Dr. Wily",
+                    "text": "Seiner Vergangenheit... und Dr. Wily",
                     "isCorrect": false
                 },
                 {
-                    "text": "seinen Verpflichtungen... und Dr. Eggman",
+                    "text": "Seinen Verpflichtungen... und Dr. Eggman",
                     "isCorrect": true
                 },
                 {
-                    "text": "seinen Ambitionen ... und Dr. Nefarious",
+                    "text": "Seinen Ambitionen ... und Dr. Nefarious",
                     "isCorrect": false
                 },
                 {
-                    "text": "seinen Gefühlen...  und Dr. Doom",
+                    "text": "Seinen Gefühlen...  und Dr. Doom",
                     "isCorrect": false
                 }
             ],
@@ -1536,24 +1512,24 @@
         {
             "id": "10044",
             "category": {
-                "text": "Wetterstand ist zwecklos"
+                "text": "Simm-sala-bimm-bamm"
             },
             "choices": [
                 {
-                    "text": "\u201cJeder weiß, dass WASSER ZU EIS WIRD.\u201d",
+                    "text": "Den Akt der KONDENSATION",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cWASSER WIRD ZU DAMPF, wenn Sie darauf stehen\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cEIS WIRD ZU WASSER, aber aus Ihnen ist ja anscheinend noch nichts geworden\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cDAMPF WIRD ZU WASSER, sonst noch dumme Fragen?\u201d",
+                    "text": "Den Akt der SUBLIMATION",
                     "isCorrect": true
+                },
+                {
+                    "text": "Den Akt der VERDUNSTUNG",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Den Akt des SCHMELZENS",
+                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
@@ -1561,7 +1537,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was ist eine herablassende Art, Kondensation zu beschreiben?"
+                    "text": "Wenn man davon ausgeht, dass David Copperfield sich während seiner Zaubervorstellungen WIRKLICH in pure Luft auflöst, welchen chemischen Akt hätte er dann vollbracht?"
                 }
             ]
         },
@@ -1616,7 +1592,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cFür dich mit deinem Nitroglycerin und ein paar Stabilisatoren ist das doch ein Klacks!\u201d",
+                    "text": "\u201cFür dich mit deinem NITROGLYCERIN und ein paar STABLISATOREN ist das doch ein Klacks!\u201d",
                     "isCorrect": true
                 }
             ],
@@ -1693,10 +1669,6 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "<i>Die Heute Show<\/i> wird immer freitags um 22:30 Uhr ausgestrahlt."
-                },
-                {
-                    "timing": "S + 4.41",
                     "text": "Angenommen, die Show wird live ausgestrahlt, welche Stadt würde sich technisch gesehen dann eher <i>Die Gestern Show<\/i> ansehen?"
                 }
             ]
@@ -1768,23 +1740,23 @@
         {
             "id": "10051",
             "category": {
-                "text": "Gut in Form"
+                "text": "Du bist heute aber gut in Form, Baby!"
             },
             "choices": [
                 {
-                    "text": "das geheimnisvolle Quadrat",
+                    "text": "Das geheimnisvolle Quadrat",
                     "isCorrect": false
                 },
                 {
-                    "text": "die charmante Raute",
+                    "text": "Die charmante Raute",
                     "isCorrect": false
                 },
                 {
-                    "text": "der leidenschaftliche Kreis",
+                    "text": "Der leidenschaftliche Kreis",
                     "isCorrect": false
                 },
                 {
-                    "text": "das geile Dreieck",
+                    "text": "Das geile Dreieck",
                     "isCorrect": true
                 }
             ],
@@ -1836,19 +1808,19 @@
             },
             "choices": [
                 {
-                    "text": "irgendwas mit der Quelle des Lebens?",
+                    "text": "Irgendwas mit der Quelle des Lebens?",
                     "isCorrect": false
                 },
                 {
-                    "text": "irgendwas mit nem Dreizack?",
+                    "text": "Irgendwas mit nem Dreizack?",
                     "isCorrect": true
                 },
                 {
-                    "text": "irgendwas mit Atlantis?",
+                    "text": "Irgendwas mit Atlantis?",
                     "isCorrect": false
                 },
                 {
-                    "text": "irgendwas mit einem untoten Hai?",
+                    "text": "Irgendwas mit einem untoten Hai?",
                     "isCorrect": false
                 }
             ],
@@ -1868,7 +1840,7 @@
             },
             "choices": [
                 {
-                    "text": "Vier Dutzend Schokomuffins",
+                    "text": "Vier Bäckerdutzend Schokomuffins",
                     "isCorrect": false
                 },
                 {
@@ -1876,11 +1848,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Ein Dutzend Dutzend Schokomuffins",
+                    "text": "Ein Dutzend Bäckerdutzend Schokomuffins",
                     "isCorrect": false
                 },
                 {
-                    "text": "Zwei Dutzend Dutzend Schokomuffins",
+                    "text": "Zwei Bäckerdutzend Dutzend Schokomuffins",
                     "isCorrect": true
                 }
             ],
@@ -1900,19 +1872,19 @@
             },
             "choices": [
                 {
-                    "text": "Hornhaut",
+                    "text": "Die Hornhaut",
                     "isCorrect": false
                 },
                 {
-                    "text": "Pupille",
+                    "text": "Die Pupille",
                     "isCorrect": true
                 },
                 {
-                    "text": "Makula",
+                    "text": "Die Makula",
                     "isCorrect": false
                 },
                 {
-                    "text": "Iris",
+                    "text": "Die Iris",
                     "isCorrect": false
                 }
             ],
@@ -1921,10 +1893,6 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Das Auge isst mit."
-                },
-                {
-                    "timing": "S + 4.73",
                     "text": "Wenn das Auge WIRKLICH mitessen würde, welchen Teil des Auges würde das Essen zuerst erreichen?"
                 }
             ]
@@ -2000,19 +1968,19 @@
             },
             "choices": [
                 {
-                    "text": "grün",
+                    "text": "Grün",
                     "isCorrect": false
                 },
                 {
-                    "text": "braun",
+                    "text": "Braun",
                     "isCorrect": true
                 },
                 {
-                    "text": "blau",
+                    "text": "Blau",
                     "isCorrect": false
                 },
                 {
-                    "text": "gelb",
+                    "text": "Gelb",
                     "isCorrect": false
                 }
             ],
@@ -2032,19 +2000,19 @@
             },
             "choices": [
                 {
-                    "text": "Turteltaube",
+                    "text": "Die Turteltaube",
                     "isCorrect": false
                 },
                 {
-                    "text": "Kängururatte",
+                    "text": "Die Kängururatte",
                     "isCorrect": false
                 },
                 {
-                    "text": "Schweinsnasenfledermaus",
+                    "text": "Die Schweinsnasenfledermaus",
                     "isCorrect": false
                 },
                 {
-                    "text": "Elefantenschwein",
+                    "text": "Das Elefantenschwein",
                     "isCorrect": true
                 }
             ],
@@ -2149,7 +2117,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher Tastaturbefehl auf meinem PC erzeugt ein Symbol, das wie das Arschloch meiner Katze aussieht?"
+                    "text": "Welcher Tastaturbefehl auf meinem PC erzeugt ein Symbol, das wie das Arschloch einer Katze aussieht?"
                 }
             ]
         },
@@ -2324,23 +2292,23 @@
         {
             "id": "10068",
             "category": {
-                "text": "Ich wusste nicht, dass der auch Karate kann."
+                "text": "Ich wusste nicht, dass der auch Karate kann!"
             },
             "choices": [
                 {
-                    "text": "...ist die Haut des Babys dicker als meine!",
+                    "text": "\u201cDem seine Haut war ja auch dicker als meine!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "...kann das Baby doppelt so weit sehen wie ich!",
+                    "text": "\u201cDas Ding kann ja auch doppelt so weit sehen wie ich!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "...sind die Muskeln des Babys dichter als meine!",
+                    "text": "\u201cDie Muskeln von dem Viech sind doch auch viel dichter als meine!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "...hat das Baby mehr Knochen als ich!",
+                    "text": "\u201cDas Blag hat ja auch viel mehr Knochen als ich!\u201d",
                     "isCorrect": true
                 }
             ],
@@ -2349,11 +2317,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Ich habe in einem Kampf gegen ein Baby verloren."
+                    "text": "Angenommen, Sie hätten in einem Faustkampf gegen ein Baby verloren."
                 },
                 {
                     "timing": "S + 5.50",
-                    "text": "Ich bin ein normaler Erwachsener, also..."
+                    "text": "Mit welcher Ausrede könnten Sie versuchen, wenigstens noch einen Bruchteil Ihrer zertrümmerten Würde noch zu retten?"
                 }
             ]
         },
@@ -2488,7 +2456,7 @@
         {
             "id": "10073",
             "category": {
-                "text": "Applaus, bitte"
+                "text": "Applaus, Applaus!"
             },
             "choices": [
                 {
@@ -2528,23 +2496,23 @@
         {
             "id": "10074",
             "category": {
-                "text": "Hat Aquaman eine See-Schwäche"
+                "text": "Hat Aquaman eine See-Schwäche?"
             },
             "choices": [
                 {
-                    "text": "Während er im Kosmonautensee verprügelt wird",
+                    "text": "Während er im Kaspischen Meer derbe verprügelt wird",
                     "isCorrect": false
                 },
                 {
-                    "text": "Während er im Hebridensee verprügelt wird",
+                    "text": "Während er im Hebridensee richtig vermöbelt wird",
                     "isCorrect": false
                 },
                 {
-                    "text": "Während er im Königssee verprügelt wird",
+                    "text": "Während er im Gelben Meer brutal verkloppt wird",
                     "isCorrect": false
                 },
                 {
-                    "text": "Während er im Meer der Ruhe verprügelt wird",
+                    "text": "Während er im Meer der Ruhe böse zusammengeschlagen wird",
                     "isCorrect": true
                 }
             ],
@@ -2553,14 +2521,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wann würde Aquaman NICHT von Meeresbewohnern gerettet werden können?"
+                    "text": "Wann könnte Aquaman NICHT von Meeresbewohnern gerettet werden?"
                 }
             ]
         },
         {
             "id": "10075",
             "category": {
-                "text": "Zünd den Knaller"
+                "text": "Na dann: Prost!"
             },
             "choices": [
                 {
@@ -2585,19 +2553,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "OH NEIN!"
-                },
-                {
-                    "timing": "S + 1.02",
-                    "text": "Der Sektkorken ist einfach losgegangen und hat meine Katze Plüschbert getroffen!"
-                },
-                {
-                    "timing": "S + 5.05",
-                    "text": "Warum?!!"
-                },
-                {
-                    "timing": "S + 5.95",
-                    "text": "WARUM IST DAS PASSIERT?!!!"
+                    "text": "Warum ist das denn eigentlich passiert?"
                 }
             ]
         },
@@ -2608,19 +2564,19 @@
             },
             "choices": [
                 {
-                    "text": "drei Tassen Mate aus Argentinien",
+                    "text": "Drei Tassen Mate aus Argentinien",
                     "isCorrect": false
                 },
                 {
-                    "text": "vier Tassen kalte spanische Gazpacho-Suppe",
+                    "text": "Vier Tassen kalte spanische Gazpacho-Suppe",
                     "isCorrect": false
                 },
                 {
-                    "text": "fünf Gläser brasilianischer Caipirinha",
+                    "text": "Fünf Gläser brasilianischer Caipirinha",
                     "isCorrect": true
                 },
                 {
-                    "text": "zehn Gläser König Pilsener",
+                    "text": "Zehn Gläser König Pilsener",
                     "isCorrect": false
                 }
             ],
@@ -2672,23 +2628,23 @@
         {
             "id": "10078",
             "category": {
-                "text": "Pflichtlektüre zur Drachenzucht"
+                "text": "Ein Thron um sie zu knechten"
             },
             "choices": [
                 {
-                    "text": "Jane Katherine Rowling",
+                    "text": "George Roland Richmond Martin",
                     "isCorrect": false
                 },
                 {
-                    "text": "Joanne Kathleen Rowling",
+                    "text": "George Raymond Richard Martin",
                     "isCorrect": true
                 },
                 {
-                    "text": "Joan Kimberly Rowling",
+                    "text": "George Richford Robert Martin",
                     "isCorrect": false
                 },
                 {
-                    "text": "Jaylen Karter Rowling",
+                    "text": "George Rocheford Ryder Martin",
                     "isCorrect": false
                 }
             ],
@@ -2697,7 +2653,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wer schrieb <i>Phantastische Tierwesen und wo sie zu finden sind<\/i>?"
+                    "text": "Wer schrieb <i>Game of Thrones<\/i> und die anderen Bücher der <i>Das Lied von Eis und Feuer<\/i>-Serie?"
                 }
             ]
         },
@@ -2729,7 +2685,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welches Emoji würde ich benutzen, wenn ich einen NACHTSCHATTEN auf alle meine Hater im Internet werfen würde?"
+                    "text": "Angenommen, Sie verwandeln sich des nächtens in einen Werwolf, der einen NACHTSCHATTEN wirft. Welches Emoji könnten Schaulustige unter die Bilder posten, die von Ihnen zweifellos ohne große Verzögerung im Social-Media-Kosmos auftauchen?"
                 }
             ]
         },
@@ -2864,23 +2820,23 @@
         {
             "id": "10084",
             "category": {
-                "text": "Wir haben nur noch sehr wenig Bier"
+                "text": "Er-BIER-mliche Mengen Bier"
             },
             "choices": [
                 {
-                    "text": "ein MIKROgebräu",
+                    "text": "Ein MIKROgebräu",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein MILLIgebräu",
+                    "text": "Ein MILLIgebräu",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein PIKOgebräu",
+                    "text": "Ein PIKOgebräu",
                     "isCorrect": true
                 },
                 {
-                    "text": "ein ZENTIgebräu",
+                    "text": "Ein ZENTIgebräu",
                     "isCorrect": false
                 }
             ],
@@ -2964,7 +2920,7 @@
         {
             "id": "10087",
             "category": {
-                "text": "Vorsicht ist besser als Nachsicht"
+                "text": "Absurde Phobien & Richtig gruselige Fragen"
             },
             "choices": [
                 {
@@ -2996,7 +2952,7 @@
         {
             "id": "10088",
             "category": {
-                "text": "Ich fasse mich kurz"
+                "text": "Ich fasse mich kurz:"
             },
             "choices": [
                 {
@@ -3053,10 +3009,6 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, das dänische Unternehmen LEGO möchte, dass der nächste LEGO-Film in der Nähe seines Heimatlandes spielt... in Dänemark."
-                },
-                {
-                    "timing": "S + 6.08",
                     "text": "Welcher klassischen Figur würden wir beim Untergang zuschauen?"
                 }
             ]
@@ -3068,19 +3020,19 @@
             },
             "choices": [
                 {
-                    "text": "Der Star singt nur bei Sonnenaufgang",
+                    "text": "Er/Sie singt nur bei Sonnenaufgang",
                     "isCorrect": false
                 },
                 {
-                    "text": "Der Star kann bis zu 25 Jahre alt werden",
+                    "text": "Er/Sie würde höchstens 25 Jahre alt werden",
                     "isCorrect": false
                 },
                 {
-                    "text": "Der Star hat einen verhältnismäßig großen Schnabel",
+                    "text": "Er/Sie hätte einen ungewöhnlich großen Schnabel",
                     "isCorrect": false
                 },
                 {
-                    "text": "Der Star kann problemlos andere Vogelstimmen imitieren",
+                    "text": "Er/Sie würde die Stimmen und Songs anderer Sänger imitieren",
                     "isCorrect": true
                 }
             ],
@@ -3089,11 +3041,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, eine unglückliche Fehlinterpretation würde dafür sorgen, dass RTL <i>Deutschland sucht den Super-Star<\/i> produziert, bei der die Jury den besten Singvogel sucht."
+                    "text": "Angenommen, eine unglückliche Fehlinterpretation würde dafür sorgen, dass RTL nächstes Jahr <i>Deutschland sucht den Super-Star<\/i> produziert, bei der die Jury den besten Singvogel sucht."
                 },
                 {
                     "timing": "S + 8.25",
-                    "text": "Welches Merkmal zeichnet die Stare aus?"
+                    "text": "Welches Merkmal würde den Sieger vermutlich auszeichnen?"
                 }
             ]
         },
@@ -3104,19 +3056,19 @@
             },
             "choices": [
                 {
-                    "text": "ein Drei-Sterne Vier-Sterne Polizist",
+                    "text": "Ein Drei-Sterne Vier-Sterne Polizist",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein Vier-Sterne Vier-Sterne Polizist",
+                    "text": "Ein Vier-Sterne Vier-Sterne Polizist",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein Fünf-Sterne Fünf-Sterne Polizist",
+                    "text": "Ein Fünf-Sterne Fünf-Sterne Polizist",
                     "isCorrect": true
                 },
                 {
-                    "text": "ein Sechs-Sterne Sechs-Sterne Polizist",
+                    "text": "Ein Sechs-Sterne Sechs-Sterne Polizist",
                     "isCorrect": false
                 }
             ],
@@ -3172,19 +3124,19 @@
             },
             "choices": [
                 {
-                    "text": "die Südspitze von Südkorea",
+                    "text": "Die Südspitze von Südkorea",
                     "isCorrect": false
                 },
                 {
-                    "text": "die Südspitze von Südafrika",
+                    "text": "Die Südspitze von Südafrika",
                     "isCorrect": false
                 },
                 {
-                    "text": "die Südspitze von Südtirol",
+                    "text": "Die Südspitze von Südtirol",
                     "isCorrect": false
                 },
                 {
-                    "text": "die Südspitze von Köln Süd",
+                    "text": "Die Südspitze von Köln Süd",
                     "isCorrect": true
                 }
             ],
@@ -3216,7 +3168,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Phantastische Priester und wo sie zu finden sind<\/i>",
+                    "text": "<i>Phantastische Sternsysteme und wo sie zu finden sind<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -3521,11 +3473,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "AUTOKORREKTUR AUF MEINEM HANDY IST KAPUTT UND ICH HAB KEINE AHNUNG WIE MAN DIESE WÖRTER SCHREIBT!"
-                },
-                {
-                    "timing": "S + 4.99",
-                    "text": "Welche dieser Suchen ist frei von Tippfehlern?"
+                    "text": "Welche dieser Lieferando-Suchen ist frei von Tippfehlern?"
                 }
             ]
         },
@@ -3536,19 +3484,19 @@
             },
             "choices": [
                 {
-                    "text": "eine Stadionwerbung im Finale der FIFA-Weltmeisterschaft",
+                    "text": "Eine Stadionwerbung im Finale der FIFA-Weltmeisterschaft",
                     "isCorrect": true
                 },
                 {
-                    "text": "eine Ankündigung eines Prominenten während der Oscar-Verleihung",
+                    "text": "Eine Ankündigung eines Prominenten während der Oscar-Verleihung",
                     "isCorrect": false
                 },
                 {
-                    "text": "eine 30-Sekunden Super Bowl Werbung",
+                    "text": "Eine 30-Sekunden Super Bowl Werbung",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein Tweet, 2 Uhr Nachts vom Bundeskanzler",
+                    "text": "Ein Tweet vom US-Präsidenten",
                     "isCorrect": false
                 }
             ],
@@ -3596,23 +3544,23 @@
         {
             "id": "10106",
             "category": {
-                "text": "Ich habe dieses Jahr zehn Bücher gelesen, aber in allen ging es um die Suche nach Walter"
+                "text": "Was ist ein Walter?"
             },
             "choices": [
                 {
-                    "text": "ein mysteriöser Eigenbrötler, erfunden von Beatrix Potter",
+                    "text": "Ein mysteriöser Eigenbrötler, erfunden von Beatrix Potter",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein wanderndes Engima, erfunden von Maurice Sendak",
+                    "text": "Ein wanderndes Engima, erfunden von Maurice Sendak",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein komplizierter Mann, erfunden von P.D. Eastman",
+                    "text": "Ein komplizierter Mann, erfunden von P.D. Eastman",
                     "isCorrect": false
                 },
                 {
-                    "text": "eine verlorene Seele, erfunden von Martin Handford",
+                    "text": "Eine verlorene Seele, erfunden von Martin Handford",
                     "isCorrect": true
                 }
             ],
@@ -3628,11 +3576,11 @@
         {
             "id": "10107",
             "category": {
-                "text": "Ich schau\u2019 das nur für meine Arbeitskollegen"
+                "text": "Unoriginelle Freunde & Noch weniger originelle Filmideen"
             },
             "choices": [
                 {
-                    "text": "Das ist <i>I, Robot<\/i>, Dummerchen!",
+                    "text": "Das ist <i>I, Robot<\/i>, Schwachkopf.",
                     "isCorrect": false
                 },
                 {
@@ -3653,11 +3601,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was halten Sie von dieser Idee für mein <i>Black Mirror<\/i>-Drehbuch?"
+                    "text": "Wie könnten Sie jemandem antworten, der mit folgender Idee für einen brandneuen Kinofilm auf Sie zukommt:"
                 },
                 {
                     "timing": "S + 3.70",
-                    "text": "Da gibt es diese Stadt, die perfekt zu sein scheint, aber alle Frauen sind Roboter!!!"
+                    "text": "\u201cDa gibt es diese Stadt, die perfekt zu sein scheint, aber alle Frauen sind Roboter!!!\u201d"
                 }
             ]
         },
@@ -3690,10 +3638,6 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Ich höre immer wieder von diesem Cartoon <i>Rick and Morty<\/i>."
-                },
-                {
-                    "timing": "S + 2.66",
                     "text": "Worum geht\u2019s da?"
                 }
             ]
@@ -3705,19 +3649,19 @@
             },
             "choices": [
                 {
-                    "text": "mein \u201cFreund\u201d hat zu wenig Galle im Stuhlgang",
+                    "text": "Sie haben zu wenig Galle im Stuhlgang",
                     "isCorrect": true
                 },
                 {
-                    "text": "mein \u201cFreund\u201d hat innere Blutungen",
+                    "text": "Sie haben innere Blutungen",
                     "isCorrect": false
                 },
                 {
-                    "text": "mein \u201cFreund\u201d isst zu viel fettiges Essen",
+                    "text": "Sie essen zu viel fettiges Essen",
                     "isCorrect": false
                 },
                 {
-                    "text": "mein \u201cFreund\u201d verwandelt sich in einen Vogel",
+                    "text": "Sie verwandeln sich gerade in einen Vogel",
                     "isCorrect": false
                 }
             ],
@@ -3726,11 +3670,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was bedeutet es, wenn die Kacke weiß ist?"
-                },
-                {
-                    "timing": "S + 4.22",
-                    "text": "Ich frage für einen Freund."
+                    "text": "Was bedeutet es, wenn Ihre Kacke weiß ist?"
                 }
             ]
         },
