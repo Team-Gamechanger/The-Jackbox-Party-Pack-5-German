@@ -355,45 +355,45 @@
         {
             "questions": [
                 {
-                    "text": "born in France",
+                    "text": "gebürtiger Franzose",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "appears in <i>Lady Bird<\/i>",
+                    "text": "taucht auf in <i>Keinohrhasen<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "has white skin",
+                    "text": "hat weiße Haut",
                     "correctChoiceString": "both"
                 },
                 {
-                    "text": "not vegan",
-                    "correctChoiceString": "both"
-                },
-                {
-                    "text": "fat content is 45%",
+                    "text": "nicht vegan",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "created by a woman",
+                    "text": "45% Fettgehalt",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "von einer Frau geschaffen",
                     "correctChoiceString": "both"
                 },
                 {
-                    "text": "smooth and supple",
+                    "text": "weich und geschmeidig",
                     "correctChoiceString": "both"
                 }
             ],
             "disChoice": {
-                "longText": "something true about actor Timothée Chalamet",
-                "shortText": "TIMOTHÉE CHALAMET"
+                "longText": "etwas Wahres über den Schauspieler Jürgen Vogel",
+                "shortText": "JÜRGEN VOGEL"
             },
             "datChoice": {
-                "longText": "something true about the cheese Camembert",
+                "longText": "etwas Wahres über den Käse Camembert",
                 "shortText": "CAMEMBERT"
             },
             "id": "53543",
             "category": {
-                "text": "Call Brie by Your Name"
+                "text": "Ist Käse vögeln gesünder?"
             }
         },
         {
@@ -487,45 +487,45 @@
         {
             "questions": [
                 {
-                    "text": "\u201cHappiness is not a goal. It\u2019s a by-product.\u201d",
+                    "text": "Jede Million fängt mit einer Eins an",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "\u201cI never feel guilty about being privileged.\u201d",
+                    "text": "Wer hastig läuft, der fällt.",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "\u201cNo one can make you feel inferior without your consent.\u201d",
+                    "text": "Keine Ahnung, wo ich bin, ich bin planlos",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "\u201cIf you can\u2019t handle the truth, you can\u2019t handle me.\u201d",
+                    "text": "In der Kürze liegt die Würze.",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "\u201cI\u2019m living the American Dream, one mistake at a time.\u201d",
+                    "text": "Bereitschaft ist alles.",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "\u201cA woman\u2019s like a tea bag - you can\u2019t tell how strong she is until you put her in hot water.\u201d",
+                    "text": "Eine Stunde lang, bis zu meinem Samenerguss",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "\u201cI plan for the future, but live in the moment.\u201d",
+                    "text": "Ich war eine Memme aus Instinkt.",
                     "correctChoiceString": "dis"
                 }
             ],
             "disChoice": {
-                "longText": "a tagline from one of the <i>Real Housewives of New York City<\/i>",
-                "shortText": "REAL HOUSEWIVES"
+                "longText": "ein Zitat von William Shakespeare",
+                "shortText": "SHAKESPEARE"
             },
             "datChoice": {
-                "longText": "a quote from Eleanor Roosevelt",
-                "shortText": "ELEANOR ROOSEVELT"
+                "longText": "eine Rapzeile von Moneyboy",
+                "shortText": "MONEYBOY"
             },
             "id": "53407",
             "category": {
-                "text": "First Housewives Club"
+                "text": "Der Bursche, Der G"
             }
         },
         {
