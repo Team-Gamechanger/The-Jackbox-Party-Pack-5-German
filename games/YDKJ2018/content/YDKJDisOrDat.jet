@@ -536,7 +536,7 @@
                 },
                 {
                     "text": "Steinschlag",
-                    "correctChoiceString": "dis"
+                    "correctChoiceString": "both"
                 },
                 {
                     "text": "Herzstillstand",
@@ -1103,89 +1103,89 @@
         {
             "questions": [
                 {
-                    "text": "",
+                    "text": "Susanne",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Gala",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "",
+                    "text": "Julia-Niharika",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "",
+                    "text": "Damla",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "",
+                    "text": "Judith",
                     "correctChoiceString": "both"
                 },
                 {
-                    "text": "",
-                    "correctChoiceString": "dat"
-                },
-                {
-                    "text": "",
+                    "text": "Juliette",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "",
+                    "text": "Saskia",
                     "correctChoiceString": "dis"
                 }
             ],
             "disChoice": {
-                "longText": "xxxxx",
-                "shortText": "DINGS"
+                "longText": "Name einer Kartoffelsorte",
+                "shortText": "KARTOFFEL"
             },
             "datChoice": {
-                "longText": "xxxxx",
-                "shortText": "BUMS"
+                "longText": "Vorname einer Tagesschausprecherin",
+                "shortText": "TAGESSCHAU"
             },
             "id": "11025",
             "category": {
-                "text": "KATEGORIE"
+                "text": "Nachrichten für Couch-Potatos"
             }
         },
         {
             "questions": [
                 {
-                    "text": "",
-                    "correctChoiceString": "dis"
-                },
-                {
-                    "text": "",
+                    "text": "Hakle",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "",
-                    "correctChoiceString": "dat"
-                },
-                {
-                    "text": "",
-                    "correctChoiceString": "both"
-                },
-                {
-                    "text": "",
-                    "correctChoiceString": "dat"
-                },
-                {
-                    "text": "",
+                    "text": "Nestle",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "",
+                    "text": "Kölln",
                     "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Alouette",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Tempo",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Davert",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Vella",
+                    "correctChoiceString": "dat"
                 }
             ],
             "disChoice": {
-                "longText": "xxxxx",
-                "shortText": "DINGS"
+                "longText": "stellt Frühstücksflocken her",
+                "shortText": "FRÜHSTÜCK"
             },
             "datChoice": {
-                "longText": "xxxxx",
-                "shortText": "BUMS"
+                "longText": "stellt Toilettenpapier her",
+                "shortText": "TOILETTE"
             },
             "id": "11026",
             "category": {
-                "text": "KATEGORIE"
+                "text": "Schokoflocken auf dem stillen Örtchen"
             }
         }
     ]
