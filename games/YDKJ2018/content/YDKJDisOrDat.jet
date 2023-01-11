@@ -1187,6 +1187,446 @@
             "category": {
                 "text": "Schokoflocken auf dem stillen Örtchen"
             }
+        },
+        {
+            "questions": [
+                {
+                    "text": "\u201cDer beste Freund eines Mannes ist seine Mutter.\u201d",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "\u201cRäume deine Unordnung selbst auf.\u201d",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "\u201cHalte deine Freunde nahe bei dir, aber deine Feinde noch näher.\u201d",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "\u201cEntschuldige Dich, wenn Du jemandem weh getan hast.\u201d",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "\u201cSei fair.\u201d",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "\u201cAber am schönsten ist es Daheim.\u201d",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "\u201cMöge die Macht mit dir sein.\u201d",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "eine Lektion aus dem Buch <i>Alles, was du wirklich wissen mußt, hast du schon als Kind gelernt<\/i>",
+                "shortText": "KINDERGARTEN LEKTION"
+            },
+            "datChoice": {
+                "longText": "eines der 100 besten Filmzitate aller Zeiten",
+                "shortText": "FILMZITAT"
+            },
+            "id": "11027",
+            "category": {
+                "text": "Blockbuster aus dem Bilderbuch"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "<i>Liebe ist für alle da<\/i>",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "<i>Rein raus<\/i>",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "<i>Böse Mädchen<\/i>",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "<i>Ich seh<\/i>",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "<i>Dicke Titten<\/i>",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "<i>Sugar Daddy<\/i>",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "<i>Sex<\/i>",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "ein Song der Band Rammstein",
+                "shortText": "RAMMSTEIN"
+            },
+            "datChoice": {
+                "longText": "ein Song der Erotik-Influencerin Katja Krasavice",
+                "shortText": "KATJA KRASAVICE"
+            },
+            "id": "11028",
+            "category": {
+                "text": "Zärtlichkeit mit einem Spritzer Härte"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "LIMONADE!!!",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "WASSER!!!",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "MILCH!!!",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "REIS!!!",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "MEHR PEPERONI!!!",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "JOGHURT!!!",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "BACKPULVER!!!",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "LINDERT ES DIE VERBRENNUNG IN MEINEM MUND",
+                "shortText": "LINDERT DIE VERBRENNUNG"
+            },
+            "datChoice": {
+                "longText": "MACHT ES DAS NUR NOCH SCHLIMMER",
+                "shortText": "MACHT ES NUR NOCH SCHLIMMER"
+            },
+            "id": "11029",
+            "category": {
+                "text": "Bitte mit extra scharf"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Hoppenstedt",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Schwarzpappel",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Flatter-Ulme",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Steinlaus",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Wendelin",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Speierling",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Elsbeere",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "eine Figur aus einem Film von Loriot",
+                "shortText": "LORIOT"
+            },
+            "datChoice": {
+                "longText": "eine bedrohte Baumart",
+                "shortText": "BEDROHTER BAUM"
+            },
+            "id": "11031",
+            "category": {
+                "text": "Herr Ober, dürfen wir Ihnen vielleicht etwas Holz bringen?"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "A\u2019dal",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Hoyer",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Avia",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Volcor",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Rhonin",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Jet",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Star",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "ein Charakter in <i>World of Warcraft<\/i>",
+                "shortText": "WORLD OF WARCRAFT"
+            },
+            "datChoice": {
+                "longText": "eine Tankstelle in Deutschland",
+                "shortText": "TANKSTELLE"
+            },
+            "id": "11032",
+            "category": {
+                "text": "Auch Heiler müssen mal tanken"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Das Lalita-Problem",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Fermats letzter Satz",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Die Riemannsche Vermutung",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Das Cooper-Nowitzki-Problem",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Das P-NP-Problem",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Die Annäherungs-Versuchung",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Das Princeton-Problem",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "ein bekanntes mathematisches Problem",
+                "shortText": "MATHE-PROBLEM"
+            },
+            "datChoice": {
+                "longText": "eine Folge <i>The Big Bang Theory<\/i>",
+                "shortText": "BIG BANG THEORY"
+            },
+            "id": "11033",
+            "category": {
+                "text": "1 + 1 = Nerd"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Monopoly",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Kniffel",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Golf",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Uno",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Hanafuda",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Rummikub",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "YOU DON\u2019T KNOW JACK",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "man gewinnt mit den meisten Punkten",
+                "shortText": "MEISTE PUNKTE GEWINNT"
+            },
+            "datChoice": {
+                "longText": "man gewinnt mit den wenigsten Punkten",
+                "shortText": "WENIGSTE PUNKTE GEWINNT"
+            },
+            "id": "11034",
+            "category": {
+                "text": "Gewinner-Gewimmer"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "\u201cIch mag Britney Spears. Ich finde sie süß.\u201d",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "\u201cIch gehe ins Fitnessstudio und schwimme täglich.\u201d",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "\u201cIch selbst kenne einige Menschen, die schwul sind.\u201d",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "\u201cIch glaube, Glück ist Liebe\u201d",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "\u201cIch sammle Emotionen.\u201d",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "\u201cIn Amerika wäre ich definitiv ein Demokrat.\u201d",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "\u201cIch bin 1,70 m groß und hasse es, klein zu sein.\u201d",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "etwas, was Elton John gesagt hat",
+                "shortText": "ELTON JOHN"
+            },
+            "datChoice": {
+                "longText": "etwas, was Vladimir Putin gesagt hat",
+                "shortText": "PUTIN"
+            },
+            "id": "11035",
+            "category": {
+                "text": "Brillenträger & Größenwahnsinnige"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Der Samen der Areoi",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Arschgesichter",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Fahrradrad",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Huch, ein Penis",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Ertrinkendes Mädchen",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Katzenorgie",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Ein Junge und ein Priester",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "etwas, das im Museum of Modern Art ausgestellt wird",
+                "shortText": "MUSEUM OF MODERN ART"
+            },
+            "datChoice": {
+                "longText": "ein Folgentitel einer <i>South Park<\/i> Folge",
+                "shortText": "SOUTH PARK"
+            },
+            "id": "11036",
+            "category": {
+                "text": "Ist das Kunst oder kann das weg?"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Nuru",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Bildau",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Bora",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Waisglass",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Engels",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Connor",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Elena Timpe",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "der Nachname einer bekannten Sarah mit H",
+                "shortText": "SARAH"
+            },
+            "datChoice": {
+                "longText": "der Nachname einer bekannten Sara ohne H",
+                "shortText": "SARA"
+            },
+            "id": "11037",
+            "category": {
+                "text": "Herr Ober, da ist kein H in meiner Suppe!"
+            }
         }
     ]
 }

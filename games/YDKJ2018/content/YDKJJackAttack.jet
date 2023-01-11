@@ -6848,7 +6848,7 @@
                     "title": "McDonald\u2019s",
                     "choices": [
                         {
-                            "text": "\u201cGut, daß es McDonald\u2019s gibt.201d",
+                            "text": "\u201cGut, daß es McDonald\u2019s gibt.\u201d",
                             "isCorrect": true
                         },
                         {
@@ -6877,7 +6877,7 @@
                     "title": "Saturn",
                     "choices": [
                         {
-                            "text": "\uIch bin doch nicht blöd!\u201d",
+                            "text": "\u201cIch bin doch nicht blöd!\u201d",
                             "isCorrect": false
                         },
                         {
@@ -6910,7 +6910,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "\u201cDänische Individualität kostet mehr.\u201d",
+                            "text": "\u201cDänische Individualität kostet weniger.\u201d",
                             "isCorrect": false
                         },
                         {
@@ -6932,7 +6932,7 @@
                     ]
                 },
                 {
-                    "title": "McDonald\u2019s (aber dieses Mal in Österreich)",
+                    "title": "McDonald\u2019s (Österreich)",
                     "choices": [
                         {
                             "text": "\u201cIch liebe es.\u201d",
