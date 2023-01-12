@@ -3408,19 +3408,19 @@
             },
             "choices": [
                 {
-                    "text": "Die Plural-Form von \u201cjenes\u201d",
+                    "text": "Ein maskulines Demonstrativpronomen im Nominativ",
                     "isCorrect": true
                 },
                 {
-                    "text": "Die Plural-Form von \u201cjenem\u201d",
+                    "text": "Ein feminines Possessivpronomen im Genitiv",
                     "isCorrect": false
                 },
                 {
-                    "text": "Die Plural-Form von \u201cjenen\u201d",
+                    "text": "Ein maskulines Indefinitpronomen im Dativ",
                     "isCorrect": false
                 },
                 {
-                    "text": "Die Plural-Form von \u201cjener\u201d",
+                    "text": "Ein neutrales Reflexivpronomen im Akkusativ",
                     "isCorrect": false
                 }
             ],

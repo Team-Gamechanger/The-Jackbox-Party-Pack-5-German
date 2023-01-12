@@ -873,19 +873,19 @@
             },
             "choices": [
                 {
-                    "text": "<i>Scurvy and the Vitamin that Prevents It<\/i>",
+                    "text": "10%",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>The Dangers of MDMA<\/i>",
+                    "text": "40%",
+                    "isCorrect": false
+                },
+                {
+                    "text": "80%",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>An Oral History of the Real Housewives Network<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Lawrence Tureaud: Call Me Mister<\/i>",
+                    "text": "100%",
                     "isCorrect": false
                 }
             ],
@@ -894,7 +894,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of these e-books is also an \u201cE\u201d book?"
+                    "text": "Wie viel Prozent des Gehirns von Carmen Geiss besteht nur aus Wasser?"
                 }
             ]
         },
@@ -905,19 +905,19 @@
             },
             "choices": [
                 {
-                    "text": "<i>2 Crime 2 Punishment<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>2 Mice 2 Men<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>2 Sense 2 Sensibility<\/i>",
+                    "text": "Ein Fischbrötchen im Nordsee",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>2 Harry Potter 2 Prisoner of Azkaban<\/i>",
+                    "text": "Chicken Wings bei KFC",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Hamburger im McDonald\u2019s",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Sandwich bei Subway",
                     "isCorrect": false
                 }
             ],
@@ -926,7 +926,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If Vin Diesel traveled back in time and convinced Jane Austen to write a sequel to one of her classic novels, what <i>Fast and the Furious<\/i>-inspired title would it have?"
+                    "text": "Da will man einmal durch die Zeit reisen und plötzlich steckt man im Jahr 1896 fest."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Was könnten Sie mal eben schnell futtern?"
                 }
             ]
         },
@@ -1451,23 +1455,23 @@
         {
             "id": "49595",
             "category": {
-                "text": "This Time Machine Runs on Diesel"
+                "text": "Fastfood und alte Zeiten"
             },
             "choices": [
                 {
-                    "text": "<i>2 Sound 2 Fury<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>2 Pride 2 Prejudice<\/i>",
+                    "text": "Ein Fischbrötchen im Nordsee",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>2 Old Man 2 Sea<\/i>",
+                    "text": "Chicken Wings bei KFC",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>2 War 2 Peace<\/i>",
+                    "text": "Einen Hamburger im McDonald\u2019s",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Sandwich bei Subway",
                     "isCorrect": false
                 }
             ],
@@ -1476,31 +1480,35 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If Vin Diesel traveled back in time and convinced Jane Austen to write a sequel to one of her classic novels, what <i>Fast and the Furious<\/i>-inspired title would it have?"
+                    "text": "Da will man einmal durch die Zeit reisen und plötzlich steckt man im Jahr 1896 fest."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Was könnten Sie mal eben schnell futtern?"
                 }
             ]
         },
         {
             "id": "49985",
             "category": {
-                "text": "Popped Collards"
+                "text": "Sexualpraktiken und die Lust nach Meer"
             },
             "choices": [
                 {
-                    "text": "\u201cHey, girl, wanna listen to dubstep in my SMOKER?\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cHey, girl, wanna see the boat shoe collection in my OVEN?\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cHey, girl, wanna play beer pong in my SLOW COOKER?\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cHey, girl, wanna watch <i>Ballers<\/i> in my PRESSURE COOKER?\u201d",
+                    "text": "Marianengraben",
                     "isCorrect": true
+                },
+                {
+                    "text": "Baikalsee",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Tote Meer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Höhle Madschlis al-Dschinn",
+                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
@@ -1508,31 +1516,35 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which pick-up line would you hear from a bro that also happens to be a broasted chicken?"
+                    "text": "Ihre Freundin stöhnt beim Akt \u201ctiefer\u201d."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Wo könnten Sie hingehen, um sie wirklich zu beeindrucken?"
                 }
             ]
         },
         {
             "id": "50063",
             "category": {
-                "text": "But What If You DID Need to Know Something About the HBO Show <i>Ballers<\/i>?"
+                "text": "Zu tief?"
             },
             "choices": [
                 {
-                    "text": "Chad Baller",
+                    "text": "Schatz, du lässt mein Blut gefrieren",
                     "isCorrect": false
                 },
                 {
-                    "text": "Gavin Baller",
+                    "text": "Liebling, das Wasser ist mir zu süß",
                     "isCorrect": false
                 },
                 {
-                    "text": "Troy Baller",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Spencer Strasmore",
+                    "text": "Baby, ich halt\u2019 den Druck nicht mehr aus",
                     "isCorrect": true
+                },
+                {
+                    "text": "Engel, ich glaube dein Erbgut wird ionisiert",
+                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
@@ -1540,7 +1552,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What character does Dwayne Johnson play on the HBO show <i>Ballers<\/i>?"
+                    "text": "Was wird Ihre Freundin vermutlich wieder zu meckern haben, sobald Sie unten angekommen sind?"
                 }
             ]
         },
@@ -1645,130 +1657,26 @@
             ]
         },
         {
-            "id": "50358",
-            "category": {
-                "text": "Frasier? I Hardly Knew Her!"
-            },
-            "choices": [
-                {
-                    "text": "I am on a camping trip with Kelsey Grammer.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Kelsey Grammer\u2019s knife goes missing from the tent",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Kelsey Grammer rips the tent to shreds, screaming my name in anguish.",
-                    "isCorrect": true
-                },
-                {
-                    "text": "I am being hunted by Kelsey Grammer.",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Kelsey Grammer was the subject of the show <i>Frasier<\/i>."
-                },
-                {
-                    "timing": "S + 3.19",
-                    "text": "Grammatically, in which of the following is Kelsey Grammer the SUBJECT of the sentence?"
-                }
-            ]
-        },
-        {
-            "id": "50518",
-            "category": {
-                "text": "An Under the Covers Band"
-            },
-            "choices": [
-                {
-                    "text": "\u201cLucy in the Sky with Dildos\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cCum Together\u201d",
-                    "isCorrect": true
-                },
-                {
-                    "text": "\u201cWith a Little Hump from my Friends\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cWhen I\u2019m Sixty-Nine-ing\u201d",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "My erotic Beatles cover band released our first album <i>Sgt. Pepper\u2019s Lonely Hearts Club BONE<\/i>, complete with homages to all the original tracks."
-                },
-                {
-                    "timing": "S + 8.85",
-                    "text": "Which song would NOT be on this album?"
-                }
-            ]
-        },
-        {
-            "id": "50733",
-            "category": {
-                "text": "Just the Scrambled Eggs for Me"
-            },
-            "choices": [
-                {
-                    "text": "from Seattle to Portland",
-                    "isCorrect": false
-                },
-                {
-                    "text": "from Seattle to Kansas City",
-                    "isCorrect": false
-                },
-                {
-                    "text": "from Seattle to Washington, DC",
-                    "isCorrect": false
-                },
-                {
-                    "text": "from Seattle to Caracas, Venezuela",
-                    "isCorrect": true
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "If Niles Crane becomes Nile Crane, how far will he stretch?"
-                }
-            ]
-        },
-        {
             "id": "51324",
             "category": {
-                "text": "Quiet Down"
+                "text": "Sein dir mit Macht die möge!"
             },
             "choices": [
                 {
-                    "text": "Groucho",
+                    "text": "Ihm wächst eine Hand, er taut Han Solo auf, er reist auf Hoth",
                     "isCorrect": false
                 },
                 {
-                    "text": "Chico",
+                    "text": "Er friert Han Solo ein, er verliert seine Jedi-Künste, er verkauft C3PO",
                     "isCorrect": false
                 },
                 {
-                    "text": "Harpo",
+                    "text": "Er verlässt Endor, er heiratet Leia, er tötet Jabba",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er baut einen Todesstern, er sperrt Leia ein, er kriegt einen neuen Onkel",
                     "isCorrect": true
-                },
-                {
-                    "text": "Zeppo",
-                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
@@ -1776,30 +1684,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of the Marx Brothers would be least likely to get eviscerated in <i>The Quiet Place?<\/i>"
+                    "text": "Wie würde das Leben von Luke Skywalker aus der ursprünglichen <i>Star Wars<\/i>-Trilogie aussehen, wenn Sie sich die Filme rückwärts anschauen würden?"
                 }
             ]
         },
         {
             "id": "51403",
             "category": {
-                "text": "This Question Ain\u2019t Nothin\u2019 to F With"
+                "text": "Die beste Frage im Spiel"
             },
             "choices": [
                 {
-                    "text": "Ol\u2019 Dirty PORCELAIN",
+                    "text": "10.000 Kilometer",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ghostface GUN POWDAH",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Inspectah HOURGLASS",
+                    "text": "20.000 Kilometer",
                     "isCorrect": true
                 },
                 {
-                    "text": "WOODBLOCK PRINTING METHOD Man",
+                    "text": "30.000 Kilometer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "60.000 Kilometer",
                     "isCorrect": false
                 }
             ],
@@ -1808,7 +1716,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If the Wu-Tang Clan had named themselves after things invented during the Tang Dynasty, who would NOT be a member?"
+                    "text": "Wenn sich Markus also am anderen Ende der Welt befindet, wie weit ist er dann weg?"
                 }
             ]
         },
@@ -1848,23 +1756,23 @@
         {
             "id": "51891",
             "category": {
-                "text": "Calculating Some Hourglass Figures"
+                "text": "Pandas und magische Rollenspiele im Internet"
             },
             "choices": [
                 {
-                    "text": "3",
+                    "text": "eine Grassteppe in Südamerika",
                     "isCorrect": true
                 },
                 {
-                    "text": "4",
+                    "text": "ein Moor in Schleswig-Holstein",
                     "isCorrect": false
                 },
                 {
-                    "text": "5",
+                    "text": "ein Dschungel in China",
                     "isCorrect": false
                 },
                 {
-                    "text": "6",
+                    "text": "eine Savanne in der Toskana",
                     "isCorrect": false
                 }
             ],
@@ -1873,38 +1781,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "\u201cBoggle,\u201d \u201cTaboo,\u201d \u201cApples to Apples,\u201d \u201cClue\u201d and \u201cJenga.\u201d<br>"
-                },
-                {
-                    "timing": "S + 3.76",
-                    "text": "How many of these games are traditionally sold with any kind of timer?<br>"
-                },
-                {
-                    "timing": "S + 8.90",
-                    "text": "Include \u201cSettlers of Catan\u201d and \u201cScattergories\u201d in your tally."
+                    "text": "Wo ist die Pampa?!"
                 }
             ]
         },
         {
             "id": "51995",
             "category": {
-                "text": "Let\u2019s All Go to the Lobby"
+                "text": "Auf ins Kino"
             },
             "choices": [
                 {
-                    "text": "yep, in the first question",
+                    "text": "Ja, in der ersten Frage",
                     "isCorrect": false
                 },
                 {
-                    "text": "yep, in the second question",
+                    "text": "Ja, in der zweiten Frage",
                     "isCorrect": true
                 },
                 {
-                    "text": "yep, in the fourth question",
+                    "text": "Ja, in der dritten Frage",
                     "isCorrect": false
                 },
                 {
-                    "text": "nope... haven\u2019t mentioned it",
+                    "text": "Nein, bisher noch nicht",
                     "isCorrect": false
                 }
             ],
@@ -1913,208 +1813,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Have I  mentioned I don\u2019t like seeing movies in theaters?"
-                }
-            ]
-        },
-        {
-            "id": "52069",
-            "category": {
-                "text": "This Question Has No Subtext"
-            },
-            "choices": [
-                {
-                    "text": "<i>The Man who Came to Dinner<\/i>",
-                    "isCorrect": true
-                },
-                {
-                    "text": "<i>The Woman in White<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>The Man who Wasn\u2019t There<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>The Woman who Loved Elvis<\/i>",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Which of these movies is about an annoying guest that just WILL NOT LEAVE NO MATTER HOW MANY HINTS THE HOST DROPS?"
-                }
-            ]
-        },
-        {
-            "id": "52075",
-            "category": {
-                "text": "Timothée Chalamet I Kiss You"
-            },
-            "choices": [
-                {
-                    "text": "a drake",
-                    "isCorrect": false
-                },
-                {
-                    "text": "a gander",
-                    "isCorrect": false
-                },
-                {
-                    "text": "a peahen",
-                    "isCorrect": true
-                },
-                {
-                    "text": "a tiercel",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Say Oscar-nominated director Greta Gerwig made a sequel to Lady Bird."
-                },
-                {
-                    "timing": "S + 14.67",
-                    "text": "If the sequel was titled <i>Man Bird<\/i> who would definitely NOT be cast?"
-                }
-            ]
-        },
-        {
-            "id": "52086",
-            "category": {
-                "text": "Jon Hamm on Rye"
-            },
-            "choices": [
-                {
-                    "text": "Two Fallons",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Four Fallons",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Six Fallons",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Eight Fallons",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "CELEBRITY",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "If one Jimmy Fallon is equal to one quart, how many Jimmy Fallons are in a gallon?"
-                }
-            ]
-        },
-        {
-            "id": "52091",
-            "category": {
-                "text": "Mental Blockbuster"
-            },
-            "choices": [
-                {
-                    "text": "<i>Failure To Launch<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Almost Famous<\/i>",
-                    "isCorrect": true
-                },
-                {
-                    "text": "<i>Superbad<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>The 40-Year Old Virgin<\/i>",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "CELEBRITY",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Which of these appropriately titled movies includes an acting appearance by me, Jimmy Fallon?"
-                }
-            ]
-        },
-        {
-            "id": "52096",
-            "category": {
-                "text": "N\u2019Sink"
-            },
-            "choices": [
-                {
-                    "text": "lemon squeezer",
-                    "isCorrect": false
-                },
-                {
-                    "text": "egg beater",
-                    "isCorrect": true
-                },
-                {
-                    "text": "honey dipper",
-                    "isCorrect": false
-                },
-                {
-                    "text": "wooden spoon",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Which of these kitchen utensils is also a move in synchronized swimming?"
-                }
-            ]
-        },
-        {
-            "id": "52112",
-            "category": {
-                "text": "Dated Material"
-            },
-            "choices": [
-                {
-                    "best": true,
-                    "text": "\u201cThe phonograph was invented today, truly a record making achievement.\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cThis new Theory of Relativity is amazing....maybe....\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cPresident Grant was sworn in because he\u2019ll take any job that involves swearing!\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cThey opened the Eiffel Tower for those who visit Paris and want to get high!\u201d",
-                    "isCorrect": true
-                }
-            ],
-            "bumper": "CELEBRITY",
-            "oneResponse": true,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "If I was a late night talk shows host on March 31, 1889..."
-                },
-                {
-                    "timing": "S + 3.81",
-                    "text": "what would be the opening joke of my monologue?"
+                    "text": "Habe ich bereits erwähnt, dass ich es hasse, Filme im Kino zu schauen?"
                 }
             ]
         },
@@ -2183,58 +1882,26 @@
             ]
         },
         {
-            "id": "52143",
-            "category": {
-                "text": "Hosting Etiquette"
-            },
-            "choices": [
-                {
-                    "text": "suck on my skin",
-                    "isCorrect": false
-                },
-                {
-                    "text": "live in my rectum",
-                    "isCorrect": false
-                },
-                {
-                    "text": "lay eggs in my abdomen",
-                    "isCorrect": true
-                },
-                {
-                    "text": "drill through my brain",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": true,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "If Jimmy Fallon were an EMERALD COCKROACH WASP and I wanted to be a good host to him, what should I let him do?"
-                }
-            ]
-        },
-        {
             "id": "52228",
             "category": {
-                "text": "Speaking of Sequels"
+                "text": "Apropos Nordsee"
             },
             "choices": [
                 {
-                    "text": "<i>Proud Five<\/i>",
+                    "text": "Kabeljau",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hering",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Makrele",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karpfen",
                     "isCorrect": true
-                },
-                {
-                    "text": "<i>Prejudice 5<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Pride and Prejudice: Tokyo Drift<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Fate of the Prejudice<\/i>",
-                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
@@ -2242,66 +1909,34 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Say Vin Diesel convinced Jane Austen to write FOUR sequels, all mirroring the <i>Fast and the Furious<\/i> sequel titles."
+                    "text": "Angenommen, Sie würden zeitreisen und zusammen mit Helmut Fischer an der Nordsee fischen gehen."
                 },
                 {
                     "timing": "S + 0.00",
-                    "text": "What should <i>Pride and Prejudice 5<\/i> be called?"
+                    "text": "Welchen Fisch könnten Sie NICHT erwarten?"
                 }
             ]
         },
         {
             "id": "52237",
             "category": {
-                "text": "The Stupidest Question in the Whole Game"
+                "text": "Roooooooobert, ich hab Wasser im Kopf!"
             },
             "choices": [
                 {
-                    "text": "<i>Vince\u2019s Brother: An<\/i> Entourage <i>Novel<\/i>",
+                    "text": "10%",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Vince\u2019s Agent: An<\/i> Entourage <i>Mystery<\/i>",
+                    "text": "40%",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Vince\u2019s Driver: An<\/i> Entourage <i>Adventure<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Vince\u2019s Manager: An<\/i> Entourage <i>Novella<\/i>",
-                    "isCorrect": true
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Which of these e-books is also an \u201cE\u201d book?"
-                }
-            ]
-        },
-        {
-            "id": "52449",
-            "category": {
-                "text": "Waxing Nostalgic"
-            },
-            "choices": [
-                {
-                    "text": "fading affect dias",
+                    "text": "80%",
                     "isCorrect": true
                 },
                 {
-                    "text": "choice-suttortive dias",
-                    "isCorrect": false
-                },
-                {
-                    "text": "nodality effect",
-                    "isCorrect": false
-                },
-                {
-                    "text": "cryttonnesia",
+                    "text": "100%",
                     "isCorrect": false
                 }
             ],
@@ -2310,11 +1945,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "If Cookie renenders the good tines with ne, dut forgets the dad tines..."
-                },
-                {
-                    "timing": "S + 6.65",
-                    "text": "what tsychological thenonenon is he exteriencing?"
+                    "text": "Wie viel Prozent des Gehirns von Carmen Geiss besteht nur aus Wasser?"
                 }
             ]
         },
@@ -2479,42 +2110,6 @@
             ]
         },
         {
-            "id": "53000",
-            "category": {
-                "text": "I Like When She Torah Him a New One"
-            },
-            "choices": [
-                {
-                    "text": "steal Daphne\u2019s baby",
-                    "isCorrect": true
-                },
-                {
-                    "text": "set Eddie\u2019s heart on fire",
-                    "isCorrect": false
-                },
-                {
-                    "text": "devour Frasier after sex",
-                    "isCorrect": false
-                },
-                {
-                    "text": "turn Bulldog into an actual Bulldog",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": true,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Say Frasier\u2019s ex-wife Lilith acted like her namesake in Hebrew theology."
-                },
-                {
-                    "timing": "S + 10.56",
-                    "text": "What might she do in a very special episode?"
-                }
-            ]
-        },
-        {
             "id": "53094",
             "category": {
                 "text": "Tschirn Tschirner Am Tschirnsten"
@@ -2589,23 +2184,23 @@
         {
             "id": "53101",
             "category": {
-                "text": "Another Wacky Philosophy Question"
+                "text": "Eine weitere bescheuerte Philosophiefrage"
             },
             "choices": [
                 {
-                    "text": "Cookie is atop a frozen river, unable to find water.",
+                    "text": "Jack befindet sich auf einem gefrorenen Fluss und kann kein Wasser finden.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Cookie is chained to a cave wall, watching shadows.",
+                    "text": "Jack ist an eine Höhlenwand gekettet und beobachtet Schatten.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Cookie\u2019s short fork cannot reach the banquet table.",
+                    "text": "Jacks kurze Gabel kann den Tisch nicht erreichen.",
                     "isCorrect": false
                 },
                 {
-                    "text": "Cookie is just a butterfly who dreamed he was a trivia host.",
+                    "text": "Jack ist nur ein Schmetterling, der davon geträumt hat, eine Quizsendung zu moderieren.",
                     "isCorrect": false
                 }
             ],
@@ -2614,11 +2209,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "So let\u2019s say I\u2019m starting to suspect reality isn\u2019t what I thought it was."
+                    "text": "Angenommen ich würde langsam glauben, die Realität sei nicht mehr das, was sie eigentlich ist."
                 },
                 {
                     "timing": "S + 7.14",
-                    "text": "How would Plato describe my completely theoretical predicament?"
+                    "text": "Wie würde Platon meine rein hypothetische Situation beschreiben?"
                 }
             ]
         },
@@ -2689,7 +2284,7 @@
         {
             "id": "53145",
             "category": {
-                "text": "This Question Is Computer Generated"
+                "text": "Diese Frage ist computergeneriert"
             },
             "choices": [
                 {
@@ -2705,7 +2300,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>The Matrix<\/i>",
+                    "text": "<i>Matrix<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -2714,182 +2309,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Which of the following movies does NOT involve living in a computer-generated reality?"
-                }
-            ]
-        },
-        {
-            "id": "53147",
-            "category": {
-                "text": "I Have Been Informed that <i>Frasier<\/i> Is Apparently Very Popular with Millennials"
-            },
-            "choices": [
-                {
-                    "text": "\u201cGo ahead caller, I\u2019m predicting\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cGo ahead caller, I\u2019m experimenting\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cGo ahead caller, I\u2019m hypothesizing\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cGo ahead caller, I\u2019m observing\u201d",
-                    "isCorrect": true
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "How would Dr. Frasier Crane greet callers on his radio show if he wished to welcome them AND follow the first step of the scientific method?"
-                }
-            ]
-        },
-        {
-            "id": "53154",
-            "category": {
-                "text": "Joan of Archaic Language"
-            },
-            "choices": [
-                {
-                    "text": "\u201cI set my water pitcher over there on the sofa.\u201d",
-                    "isCorrect": true
-                },
-                {
-                    "text": "\u201cI set my female goat beside me on the hay bale.\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cI set my thin metal rod over there on the porcelain plate.\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cI set my phone on silent to avoid the overwhelming stack of my responsibilities\u201d",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Translate this old-fashioned English into some new-fashioned English:"
-                },
-                {
-                    "timing": "S + 4.86",
-                    "text": "\u201cI set my ewer thither on the settee.\u201d"
-                }
-            ]
-        },
-        {
-            "id": "53155",
-            "category": {
-                "text": "Acting Koi"
-            },
-            "choices": [
-                {
-                    "text": "\u201cKOI COME IN A VARIETY OF COLORS, NOT JUST ORANGE!!\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cKOI CAN LIVE OVER 200 YEARS AND BE CONSIDERED FAMILY HEIRLOOMS!!\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cTHEY CAN ACTUALLY GET SUNBURNS!! I\u2019M TALKING ABOUT KOI HERE!!\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cKOI HAVE 2 ROWS OF TINY SERRATED TEETH IN THEIR LITTLE ROUNDY MOUTHS!!\u201d",
-                    "isCorrect": true
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "If the lady from the Metropolitan Water Reclamation District denies my permit for an aboveground koi pond in my driveway..."
-                },
-                {
-                    "timing": "S + 8.23",
-                    "text": "what would be a FACTUALLY INACCURATE thing to scream before dissolving into tears?"
-                }
-            ]
-        },
-        {
-            "id": "53164",
-            "category": {
-                "text": "Back to The Koi Stuff"
-            },
-            "choices": [
-                {
-                    "text": "the lady at the Municipal Water Reclamation District",
-                    "isCorrect": false
-                },
-                {
-                    "text": "the lady at the Metropolitan Water Reclamation District",
-                    "isCorrect": true
-                },
-                {
-                    "text": "the guy at the Metropolitan Water Reclamation District",
-                    "isCorrect": false
-                },
-                {
-                    "text": "the guy at the Municipal Water Reclamation District",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Who am I calling again?"
-                }
-            ]
-        },
-        {
-            "id": "53382",
-            "category": {
-                "text": "Frasier"
-            },
-            "choices": [
-                {
-                    "text": "<i>Oedipus Rex<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>The Illiad<\/i>",
-                    "isCorrect": true
-                },
-                {
-                    "text": "<i>Electra<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>The Persians<\/i>",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "If <i>Frasier<\/i> is <i>The Odyssey<\/i>, what is <i>Cheers<\/i>?"
+                    "text": "Welcher der folgenden Filme spielt NICHT in einer computergenerierten Realität?"
                 }
             ]
         },
         {
             "id": "53642",
             "category": {
-                "text": "Rip Van Wii-nkle"
+                "text": "Auferstehung der Nerds"
             },
             "choices": [
                 {
@@ -2915,62 +2342,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "What video game in a popular series does NOT have a character awakening from suspended animation to discover the world is not what it was?"
-                }
-            ]
-        },
-        {
-            "id": "53649",
-            "category": {
-                "text": "OCTOPUS, COFFEE, QUEEN ELIZABETH OR FRANKENSTEIN?!"
-            },
-            "choices": [
-                {
-                    "text": "Octotus",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Coffee",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Queen Elizadeth",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Frankenstein\u2019s Nonster",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "OCQEFM",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "First stotted dy hunans in the 1920s."
+                    "text": "In welchem Videospiel einer beliebten Serie gibt es KEINE Figur, die aus dem Tiefschlaf erwacht und feststellt, dass die Welt nicht mehr so ist, wie sie war?"
                 }
             ]
         },
         {
             "id": "53746",
             "category": {
-                "text": "Escape the Simulation"
+                "text": "Entkomme der Simulation"
             },
             "choices": [
                 {
-                    "text": "multiply the glowing surface area of my prison by pi",
+                    "text": "Die leuchtende Oberfläche meines Gefängnisses mit Pi multiplizieren",
                     "isCorrect": false
                 },
                 {
-                    "text": "take the length of the obsidian wall to the third power",
+                    "text": "Die Länge der Obsidianwand hoch drei",
                     "isCorrect": true
                 },
                 {
-                    "text": "multiply the area of the floor by the area of the pulsating ceiling",
+                    "text": "Die Fläche des Bodens mit der Fläche der pulsierenden Decke multiplizieren",
                     "isCorrect": false
                 },
                 {
-                    "text": "find the diagonal distance, multiple by 6, then break down and cry",
+                    "text": "Die diagonale Entfernung herausfinden, mit 6 multiplizieren und dann zusammenbrechen und weinen",
                     "isCorrect": false
                 }
             ],
@@ -2979,30 +2374,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "How could I find the volume of the freaky cube I suddenly find myself in?"
+                    "text": "Wie könnte ich das Volumen des seltsamen Raums herausfinden, in dem ich mich gerade befinde?"
                 }
             ]
         },
         {
             "id": "53747",
             "category": {
-                "text": "Move on Dot Porgs"
+                "text": "Hier gibt es nichts zu sehen"
             },
             "choices": [
                 {
-                    "text": "3,382,295,395 users",
+                    "text": "3.382.295.395 Nutzer anwirbt",
                     "isCorrect": false
                 },
                 {
-                    "text": "5,129,058,204 users",
+                    "text": "5.129.058.204 Nutzer anwirbt",
                     "isCorrect": false
                 },
                 {
-                    "text": "7,640,964,893 users",
+                    "text": "8.050.267.893 Nutzer anwirbt",
                     "isCorrect": true
                 },
                 {
-                    "text": "9,872,935,938 users",
+                    "text": "11.872.935.938 Nutzer anwirbt",
                     "isCorrect": false
                 }
             ],
@@ -3011,51 +2406,19 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Because the Algorithm yearns to be real..."
+                    "text": "Weil sich der Alorithmus danach sehnt, echt zu sein..."
                 },
                 {
                     "timing": "S + 2.91",
-                    "text": "because it creeps out from the hidden places where it has waited for millennia..."
+                    "text": "weil er aus den verborgenen Winkeln hervorkriecht, wo er seit Jahrtausenden gewartet hat..."
                 },
                 {
                     "timing": "S + 7.35",
-                    "text": "hungry and ready to know and consume ALL HUMAN LIFE ON EARTH..."
+                    "text": "hungrig und bereit, ALLES MENSCHLICHE LEBEN AUF DER ERDE kennenzulernen und zu konsumieren..."
                 },
                 {
                     "timing": "S + 13.12",
-                    "text": "we recommend Binjpipe \u201cacquires\u201d:"
-                }
-            ]
-        },
-        {
-            "id": "50980",
-            "category": {
-                "text": "Sometimes I Like to Pretend to Be a Little Cowboy Made out of Human Bones"
-            },
-            "choices": [
-                {
-                    "text": "It\u2019s up there in that there EAR.",
-                    "isCorrect": true
-                },
-                {
-                    "text": "I reckon it\u2019s in the HANDS.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Now looky here...in the HEEL.",
-                    "isCorrect": false
-                },
-                {
-                    "text": "S\u2019far as I know, it\u2019s at the BASE OF THE SPINE.",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Can you direct me to the STIRRUP BONE?"
+                    "text": "empfehlen wir, dass Binjpipe..."
                 }
             ]
         },
@@ -3092,205 +2455,25 @@
             ]
         },
         {
-            "id": "50413",
-            "category": {
-                "text": "Are You Gonna Eat That?"
-            },
-            "choices": [
-                {
-                    "text": "yummy Haribo gummy bears!",
-                    "isCorrect": true
-                },
-                {
-                    "text": "sweet sweet Swedish Fish!",
-                    "isCorrect": false
-                },
-                {
-                    "text": "tasty strawberry Twizzlers!",
-                    "isCorrect": false
-                },
-                {
-                    "text": "appetizing AirHeads taffy!",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": true,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "I have some BOILED HORSE BONES."
-                },
-                {
-                    "timing": "S + 2.43",
-                    "text": "I heard you love BOILED HORSE BONES!"
-                },
-                {
-                    "timing": "S + 5.49",
-                    "text": "You can\u2019t get enough of those BOILED HORSE BONES!"
-                },
-                {
-                    "timing": "S + 8.67",
-                    "text": "Want some..."
-                }
-            ]
-        },
-        {
-            "id": "51021",
-            "category": {
-                "text": "Down Under & Around Again"
-            },
-            "choices": [
-                {
-                    "text": "11%",
-                    "isCorrect": false
-                },
-                {
-                    "text": "22%",
-                    "isCorrect": true
-                },
-                {
-                    "text": "33%",
-                    "isCorrect": false
-                },
-                {
-                    "text": "44%",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "If you\u2019ve heard Iggy Azalea\u2019s song <i>Fancy<\/i>, you already know, she\u2019s in the fast lane from LA to Tokyo."
-                },
-                {
-                    "timing": "S + 6.49",
-                    "text": "This road would be what percentage of the world\u2019s circumference?"
-                }
-            ]
-        },
-        {
-            "id": "50132",
-            "category": {
-                "text": "This Pairs Nicely with a Laugh Track"
-            },
-            "choices": [
-                {
-                    "text": "\u201cDebra, it\u2019s HARD\u201d",
-                    "isCorrect": true
-                },
-                {
-                    "text": "\u201cDebra, it\u2019s SOFT!\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cDebra, it\u2019s CREAMY!\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cDebra, it\u2019s STINKY!\u201d",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": true,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "How would Ray Romano accurately describe Romano cheese to his sitcom wife?"
-                }
-            ]
-        },
-        {
-            "id": "50873",
-            "category": {
-                "text": "<i>Spamalot<\/i> Was Already Taken"
-            },
-            "choices": [
-                {
-                    "text": "\u201c...my name is boy inventor Simon Spam...\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201c...my name is pork genius Jay Hormel...\u201d",
-                    "isCorrect": true
-                },
-                {
-                    "text": "\u201c...my name is ham-obsessed Chef Boyardee...\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201c...my name is meat magnate Charlie Feltman...\u201d",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Suppose Lin-Manuel Miranda\u2019s next biographical hip-hop Broadway smash is about the inventor of Spam."
-                },
-                {
-                    "timing": "S + 6.98",
-                    "text": "What should be the opening chorus?"
-                }
-            ]
-        },
-        {
-            "id": "51674",
-            "category": {
-                "text": "A Very Serious Medical Question"
-            },
-            "choices": [
-                {
-                    "text": "FEET SWERLLING",
-                    "isCorrect": false
-                },
-                {
-                    "text": "ACID REFLURX",
-                    "isCorrect": true
-                },
-                {
-                    "text": "LIVER DERSEASE",
-                    "isCorrect": false
-                },
-                {
-                    "text": "ERRLEGY TO GLURTEN",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "ERMAHGERD, U HAV GERD?  SERRY BOUT UR..."
-                }
-            ]
-        },
-        {
             "id": "50469",
             "category": {
-                "text": "Flip the Script"
+                "text": "Wenn möglich, bitte wenden"
             },
             "choices": [
                 {
-                    "text": "What NBC drama uses non-chronological storytelling?",
+                    "text": "Welches Land erklärte 1714 seine Unabhängigkeit von Amerika?",
                     "isCorrect": false
                 },
                 {
-                    "text": "What Lady Gaga song has secret backwards messages?",
+                    "text": "Welcher Schüler von Sokrates stellte das Sonnengleichnis auf?",
                     "isCorrect": false
                 },
                 {
-                    "text": "What is Stephen Hawking\u2019s book on time paradoxes?",
+                    "text": "Welches Tier trinkt das Blut von Ziegen?",
                     "isCorrect": false
                 },
                 {
-                    "text": "What is one of <i>Jeopardy<\/i>\u2019s most popular categories?",
+                    "text": "Welche Figur des Neuen Testaments wurde in ihrem ewigen Schlaf gestört?",
                     "isCorrect": true
                 }
             ],
@@ -3299,7 +2482,43 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "<i>Before and After<\/i>"
+                    "text": "Lazarus"
+                }
+            ]
+        },
+        {
+            "id": "10450",
+            "category": {
+                "text": "Pandas und magische Rollenspiele im Internet"
+            },
+            "choices": [
+                {
+                    "text": "WWF, WDW, WWW, WOW",
+                    "isCorrect": false
+                },
+                {
+                    "text": "WDW, WWF, WWW, WOW",
+                    "isCorrect": false
+                },
+                {
+                    "text": "WWF, WWW, WDW, WOW",
+                    "isCorrect": true
+                },
+                {
+                    "text": "WWF, WDW, WOW, WWW",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bringen Sie bitte folgende Dinge in die chronologische Reihenfolge ihres Entstehungszeitpunkts:"
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "World Wildlife Fund, World of Warcraft, World Wide Web, Walt Disney World."
                 }
             ]
         }
