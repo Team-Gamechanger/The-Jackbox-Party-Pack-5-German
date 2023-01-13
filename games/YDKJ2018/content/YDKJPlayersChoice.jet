@@ -7,11 +7,11 @@
             "id": "11600",
             "choice1": {
                 "text": "eine Frage, die etwas Ruhe bereithält",
-                "id": "53750"
+                "id": "10700"
             },
             "choice2": {
                 "text": "eine Frage, die ständig unterbrochen wird",
-                "id": "53751"
+                "id": "10701"
             }
         },
         {
@@ -21,11 +21,11 @@
             "id": "11601",
             "choice1": {
                 "text": "eine Frage über den Raum",
-                "id": "53229"
+                "id": "10702"
             },
             "choice2": {
                 "text": "eine Frage über die Zeit",
-                "id": "53230"
+                "id": "10703"
             }
         },
         {
@@ -35,11 +35,11 @@
             "id": "11602",
             "choice1": {
                 "text": "eine Frage über Füße",
-                "id": "53499"
+                "id": "10704"
             },
             "choice2": {
                 "text": "eine Frage über Gesichter",
-                "id": "53497"
+                "id": "10705"
             }
         },
         {
@@ -49,11 +49,11 @@
             "id": "11603",
             "choice1": {
                 "text": "eine Frage, bei der Jack sauer wird",
-                "id": "51952"
+                "id": "10706"
             },
             "choice2": {
                 "text": "eine Frage, bei der Jack neutral bleibt",
-                "id": "50539"
+                "id": "10707"
             }
         },
         {
@@ -63,11 +63,11 @@
             "id": "11604",
             "choice1": {
                 "text": "eine Frage, die nichts zu verbergen hat",
-                "id": "53394"
+                "id": "10708"
             },
             "choice2": {
                 "text": "eine Frage mit einer bösen Absicht",
-                "id": "53395"
+                "id": "10709"
             }
         },
         {
@@ -77,11 +77,11 @@
             "id": "11605",
             "choice1": {
                 "text": "eine Frage, bei der sich die Antwort auf Topf reimt",
-                "id": "53392"
+                "id": "10710"
             },
             "choice2": {
                 "text": "eine Frage, bei der sich die Antwort auf Moral reimt",
-                "id": "53393"
+                "id": "10711"
             }
         },
         {
@@ -91,11 +91,11 @@
             "id": "11606",
             "choice1": {
                 "text": "eine Rückwärtsfrage",
-                "id": "52036"
+                "id": "10712"
             },
             "choice2": {
                 "text": "eine Vorwärtsfrage",
-                "id": "52037"
+                "id": "10713"
             }
         },
         {
@@ -105,11 +105,11 @@
             "id": "11607",
             "choice1": {
                 "text": "eine formelle Frage",
-                "id": "53333"
+                "id": "10714"
             },
             "choice2": {
                 "text": "eine Frage, die die Sache locker angeht",
-                "id": "53334"
+                "id": "10715"
             }
         },
         {
@@ -119,11 +119,11 @@
             "id": "11608",
             "choice1": {
                 "text": "eine kluge Frage",
-                "id": "52885"
+                "id": "10716"
             },
             "choice2": {
                 "text": "eine dumme Frage",
-                "id": "52886"
+                "id": "10717"
             }
         },
         {
@@ -133,11 +133,11 @@
             "id": "11609",
             "choice1": {
                 "text": "eine anziehende Frage",
-                "id": "52753"
+                "id": "10718"
             },
             "choice2": {
                 "text": "eine saftige Frage",
-                "id": "52754"
+                "id": "10719"
             }
         },
         {
@@ -147,11 +147,11 @@
             "id": "11610",
             "choice1": {
                 "text": "eine Frage, die Sie wissen",
-                "id": "52985"
+                "id": "10720"
             },
             "choice2": {
                 "text": "eine Frage, die Sie lieber nicht wissen wollen",
-                "id": "52986"
+                "id": "10721"
             }
         },
         {
@@ -161,11 +161,11 @@
             "id": "11611",
             "choice1": {
                 "text": "eine Frage über Aliens",
-                "id": "52873"
+                "id": "10722"
             },
             "choice2": {
                 "text": "eine Frage über Roboter",
-                "id": "52872"
+                "id": "10723"
             }
         },
         {
@@ -175,11 +175,11 @@
             "id": "11612",
             "choice1": {
                 "text": "eine Frage, die zwei Fliegen mit einer Klappe schlägt",
-                "id": "52870"
+                "id": "10724"
             },
             "choice2": {
                 "text": "eine Frage, die eine Fliege mit zwei Klappen schlägt",
-                "id": "52871"
+                "id": "10725"
             }
         },
         {
@@ -189,11 +189,11 @@
             "id": "11613",
             "choice1": {
                 "text": "eine Frage, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind",
-                "id": "52851"
+                "id": "10726"
             },
             "choice2": {
                 "text": "eine Frage, bei der Sie DOCH die Hühner mitzählen, bevor sie geschlüpft sind",
-                "id": "52850"
+                "id": "10727"
             }
         },
         {
@@ -203,11 +203,11 @@
             "id": "11614",
             "choice1": {
                 "text": "eine Frage über tollen SEX",
-                "id": "52733"
+                "id": "10728"
             },
             "choice2": {
                 "text": "eine Frage über die tolle SECHS",
-                "id": "52734"
+                "id": "10729"
             }
         },
         {
@@ -217,11 +217,11 @@
             "id": "11615",
             "choice1": {
                 "text": "eine Frage mit Partytröten",
-                "id": "51958"
+                "id": "10730"
             },
             "choice2": {
                 "text": "eine Frage über Partytröten",
-                "id": "51957"
+                "id": "10731"
             }
         },
         {
@@ -231,11 +231,11 @@
             "id": "11616",
             "choice1": {
                 "text": "eine laute Frage",
-                "id": "51828"
+                "id": "10732"
             },
             "choice2": {
                 "text": "eine leise Frage",
-                "id": "51830"
+                "id": "10733"
             }
         },
         {
@@ -245,11 +245,11 @@
             "id": "11617",
             "choice1": {
                 "text": "eine kurze Frage",
-                "id": "51940"
+                "id": "10734"
             },
             "choice2": {
                 "text": "eine lange Frage",
-                "id": "51941"
+                "id": "10735"
             }
         },
         {
@@ -259,11 +259,11 @@
             "id": "11618",
             "choice1": {
                 "text": "eine Frage, die Jack aufmuntert",
-                "id": "51966"
+                "id": "10736"
             },
             "choice2": {
                 "text": "eine Frage, die Jacks Gefühle verletzt",
-                "id": "51965"
+                "id": "10737"
             }
         },
         {
@@ -273,11 +273,11 @@
             "id": "11619",
             "choice1": {
                 "text": "eine Frage, in der alles richtig geschrieben ist",
-                "id": "51968"
+                "id": "10738"
             },
             "choice2": {
                 "text": "eine Frage, in der alles falsch geschrieben ist",
-                "id": "51967"
+                "id": "10739"
             }
         },
         {
@@ -287,11 +287,11 @@
             "id": "11620",
             "choice1": {
                 "text": "eine Frage, bei der die Antwort Til Schweiger lautet",
-                "id": "51937"
+                "id": "10740"
             },
             "choice2": {
                 "text": "eine Frage, bei der die Antwort NICHT Til Schweiger lautet",
-                "id": "51938"
+                "id": "10741"
             }
         }
     ]

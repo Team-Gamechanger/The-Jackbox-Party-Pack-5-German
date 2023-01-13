@@ -1,7 +1,7 @@
 {
     "content": [
         {
-            "id": "53195",
+            "id": "11501",
             "title": "Der hier ist für Roboter",
             "prompts": [
                 {
@@ -181,7 +181,7 @@
             ]
         },
         {
-            "id": "53639",
+            "id": "11500",
             "title": "Entkomme der Simulation",
             "prompts": [
                 {
@@ -361,7 +361,7 @@
             ]
         },
         {
-            "id": "53303",
+            "id": "11502",
             "title": "Und WIE Sie in Gefahr sind!<br>(Ja, SIE!)",
             "prompts": [
                 {

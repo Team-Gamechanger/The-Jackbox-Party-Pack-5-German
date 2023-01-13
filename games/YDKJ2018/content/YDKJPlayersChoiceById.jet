@@ -7,11 +7,11 @@
             "id": "11621",
             "choice1": {
                 "text": "eine Frage, die Sie bereits gespielt haben",
-                "id": "52232"
+                "id": "10742"
             },
             "choice2": {
                 "text": "eine Frage, die Sie später noch einmal spielen werden",
-                "id": "52236"
+                "id": "10743"
             }
         }
     ]

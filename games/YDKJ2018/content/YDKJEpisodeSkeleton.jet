@@ -20,7 +20,7 @@
                 },
                 {
                     "num": 3,
-                    "id": "53145",
+                    "id": "10750",
                     "type": "Shortie"
                 },
                 {
@@ -30,36 +30,36 @@
                 },
                 {
                     "num": 5,
-                    "id": "53101",
+                    "id": "10751",
                     "type": "Shortie"
                 },
                 {
                     "num": 6,
-                    "id": "53642",
+                    "id": "10752",
                     "type": "Shortie"
                 },
                 {
                     "num": 7,
-                    "id": "53695",
+                    "id": "11250",
                     "type": "Gibberish"
                 },
                 {
                     "num": 8,
-                    "id": "53746",
+                    "id": "10753",
                     "type": "Shortie"
                 },
                 {
                     "num": 9,
-                    "id": "53747",
+                    "id": "10754",
                     "type": "Shortie"
                 },
                 {
                     "num": 11,
-                    "id": "53639",
+                    "id": "11500",
                     "type": "JackAttack"
                 }
             ],
-            "id": "53696",
+            "id": "12000",
             "minEpisodes": 10
         },
         {
@@ -121,7 +121,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "52208",
+            "id": "12001",
             "minEpisodes": 0
         },
         {
@@ -183,7 +183,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53219",
+            "id": "12002",
             "minEpisodes": 0
         },
         {
@@ -245,7 +245,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53223",
+            "id": "12003",
             "minEpisodes": 0
         },
         {
@@ -307,69 +307,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53225",
-            "minEpisodes": 0
-        },
-        {
-            "commercialImage": "",
-            "questions": [
-                {
-                    "num": 0,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 1,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 2,
-                    "id": "RANDOM",
-                    "type": "DisOrDat"
-                },
-                {
-                    "num": 3,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 4,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 5,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 6,
-                    "id": "SPECIALTY",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 7,
-                    "id": "RANDOM",
-                    "type": "Gibberish"
-                },
-                {
-                    "num": 8,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 9,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 11,
-                    "id": "RANDOM",
-                    "type": "JackAttack"
-                }
-            ],
-            "id": "53224",
+            "id": "12004",
             "minEpisodes": 0
         },
         {
@@ -431,7 +369,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "52570",
+            "id": "12005",
             "minEpisodes": 0
         },
         {
@@ -493,7 +431,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53584",
+            "id": "12006",
             "minEpisodes": 0
         },
         {
@@ -541,7 +479,7 @@
                 },
                 {
                     "num": 8,
-                    "id": "51885",
+                    "id": "10755",
                     "type": "Shortie"
                 },
                 {
@@ -555,7 +493,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53588",
+            "id": "12007",
             "minEpisodes": 0
         },
         {
@@ -617,7 +555,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53045",
+            "id": "12008",
             "minEpisodes": 0
         },
         {
@@ -679,7 +617,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53220",
+            "id": "12009",
             "minEpisodes": 0
         },
         {
@@ -741,7 +679,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53222",
+            "id": "12010",
             "minEpisodes": 0
         },
         {
@@ -803,7 +741,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53582",
+            "id": "12011",
             "minEpisodes": 0
         },
         {
@@ -865,7 +803,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53583",
+            "id": "12012",
             "minEpisodes": 0
         },
         {
@@ -927,7 +865,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53221",
+            "id": "12013",
             "minEpisodes": 0
         },
         {
@@ -989,7 +927,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53585",
+            "id": "12014",
             "minEpisodes": 0
         },
         {
@@ -1051,7 +989,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53586",
+            "id": "12015",
             "minEpisodes": 0
         },
         {
@@ -1074,12 +1012,12 @@
                 },
                 {
                     "num": 3,
-                    "id": "52923",
+                    "id": "10756",
                     "type": "Shortie"
                 },
                 {
                     "num": 4,
-                    "id": "52924",
+                    "id": "10757",
                     "type": "Shortie"
                 },
                 {
@@ -1099,7 +1037,7 @@
                 },
                 {
                     "num": 8,
-                    "id": "51439",
+                    "id": "10758",
                     "type": "Shortie"
                 },
                 {
@@ -1113,7 +1051,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53331",
+            "id": "12016",
             "minEpisodes": 4
         },
         {
@@ -1146,17 +1084,17 @@
                 },
                 {
                     "num": 5,
-                    "id": "50127",
+                    "id": "10759",
                     "type": "Shortie"
                 },
                 {
                     "num": 6,
-                    "id": "50160",
+                    "id": "10760",
                     "type": "Shortie"
                 },
                 {
                     "num": 7,
-                    "id": "50161",
+                    "id": "10761",
                     "type": "Shortie"
                 },
                 {
@@ -1175,7 +1113,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "52339",
+            "id": "12017",
             "minEpisodes": 2
         },
         {
@@ -1208,7 +1146,7 @@
                 },
                 {
                     "num": 5,
-                    "id": "53094",
+                    "id": "10762",
                     "type": "Shortie"
                 },
                 {
@@ -1223,7 +1161,7 @@
                 },
                 {
                     "num": 8,
-                    "id": "53095",
+                    "id": "10763",
                     "type": "Shortie"
                 },
                 {
@@ -1237,7 +1175,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53587",
+            "id": "12018",
             "minEpisodes": 0
         },
         {
@@ -1270,7 +1208,7 @@
                 },
                 {
                     "num": 5,
-                    "id": "52496",
+                    "id": "10764",
                     "type": "Shortie"
                 },
                 {
@@ -1285,12 +1223,12 @@
                 },
                 {
                     "num": 8,
-                    "id": "52506",
+                    "id": "10765",
                     "type": "Shortie"
                 },
                 {
                     "num": 9,
-                    "id": "52507",
+                    "id": "10766",
                     "type": "Shortie"
                 },
                 {
@@ -1299,7 +1237,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "52566",
+            "id": "12019",
             "minEpisodes": 3
         },
         {
@@ -1322,12 +1260,12 @@
                 },
                 {
                     "num": 3,
-                    "id": "52113",
+                    "id": "10767",
                     "type": "Shortie"
                 },
                 {
                     "num": 4,
-                    "id": "52114",
+                    "id": "10768",
                     "type": "Shortie"
                 },
                 {
@@ -1361,7 +1299,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53677",
+            "id": "12020",
             "minEpisodes": 3
         },
         {
@@ -1409,12 +1347,12 @@
                 },
                 {
                     "num": 8,
-                    "id": "53103",
+                    "id": "10769",
                     "type": "Shortie"
                 },
                 {
                     "num": 9,
-                    "id": "53104",
+                    "id": "10770",
                     "type": "Shortie"
                 },
                 {
@@ -1423,7 +1361,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53678",
+            "id": "12021",
             "minEpisodes": 0
         },
         {
@@ -1481,11 +1419,11 @@
                 },
                 {
                     "num": 11,
-                    "id": "53303",
+                    "id": "11502",
                     "type": "JackAttack"
                 }
             ],
-            "id": "53783",
+            "id": "12022",
             "minEpisodes": 5
         },
         {
@@ -1547,7 +1485,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53784",
+            "id": "12023",
             "minEpisodes": 0
         },
         {
@@ -1609,7 +1547,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53785",
+            "id": "12024",
             "minEpisodes": 0
         },
         {
@@ -1671,7 +1609,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53786",
+            "id": "12025",
             "minEpisodes": 0
         },
         {
@@ -1733,7 +1671,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53787",
+            "id": "12026",
             "minEpisodes": 0
         },
         {
@@ -1795,7 +1733,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53788",
+            "id": "12027",
             "minEpisodes": 0
         },
         {
@@ -1857,7 +1795,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53789",
+            "id": "12028",
             "minEpisodes": 0
         },
         {
@@ -1919,7 +1857,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53790",
+            "id": "12029",
             "minEpisodes": 0
         },
         {
@@ -1981,7 +1919,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53791",
+            "id": "12030",
             "minEpisodes": 0
         },
         {
@@ -1999,7 +1937,7 @@
                 },
                 {
                     "num": 2,
-                    "id": "50173",
+                    "id": "11080",
                     "type": "DisOrDat"
                 },
                 {
@@ -2043,7 +1981,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53792",
+            "id": "12031",
             "minEpisodes": 0
         },
         {
@@ -2105,7 +2043,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53793",
+            "id": "12032",
             "minEpisodes": 0
         },
         {
@@ -2167,7 +2105,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53794",
+            "id": "12033",
             "minEpisodes": 0
         },
         {
@@ -2229,7 +2167,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53795",
+            "id": "12034",
             "minEpisodes": 0
         },
         {
@@ -2291,7 +2229,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53796",
+            "id": "12035",
             "minEpisodes": 0
         },
         {
@@ -2353,7 +2291,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53797",
+            "id": "12036",
             "minEpisodes": 0
         },
         {
@@ -2415,7 +2353,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53798",
+            "id": "12037",
             "minEpisodes": 0
         },
         {
@@ -2477,7 +2415,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53800",
+            "id": "12038",
             "minEpisodes": 0
         },
         {
@@ -2535,11 +2473,11 @@
                 },
                 {
                     "num": 11,
-                    "id": "53195",
+                    "id": "11501",
                     "type": "JackAttack"
                 }
             ],
-            "id": "53802",
+            "id": "12039",
             "minEpisodes": 30
         },
         {
@@ -2601,7 +2539,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53805",
+            "id": "12040",
             "minEpisodes": 0
         },
         {
@@ -2663,7 +2601,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53810",
+            "id": "12041",
             "minEpisodes": 0
         },
         {
@@ -2725,7 +2663,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53812",
+            "id": "12042",
             "minEpisodes": 0
         },
         {
@@ -2787,7 +2725,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53813",
+            "id": "12043",
             "minEpisodes": 0
         },
         {
@@ -2849,7 +2787,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53814",
+            "id": "12044",
             "minEpisodes": 0
         },
         {
@@ -2911,131 +2849,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53815",
-            "minEpisodes": 0
-        },
-        {
-            "commercialImage": "",
-            "questions": [
-                {
-                    "num": 0,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 1,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 2,
-                    "id": "RANDOM",
-                    "type": "DisOrDat"
-                },
-                {
-                    "num": 3,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 4,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 5,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 6,
-                    "id": "RANDOM",
-                    "type": "PlayersChoice"
-                },
-                {
-                    "num": 7,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 8,
-                    "id": "SPECIALTY",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 9,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 11,
-                    "id": "RANDOM",
-                    "type": "JackAttack"
-                }
-            ],
-            "id": "53816",
-            "minEpisodes": 0
-        },
-        {
-            "commercialImage": "",
-            "questions": [
-                {
-                    "num": 0,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 1,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 2,
-                    "id": "RANDOM",
-                    "type": "DisOrDat"
-                },
-                {
-                    "num": 3,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 4,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 5,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 6,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 7,
-                    "id": "RANDOM",
-                    "type": "PlayersChoice"
-                },
-                {
-                    "num": 8,
-                    "id": "SPECIALTY",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 9,
-                    "id": "RANDOM",
-                    "type": "Shortie"
-                },
-                {
-                    "num": 11,
-                    "id": "RANDOM",
-                    "type": "JackAttack"
-                }
-            ],
-            "id": "53817",
+            "id": "12045",
             "minEpisodes": 0
         },
         {
@@ -3097,7 +2911,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53818",
+            "id": "12046",
             "minEpisodes": 0
         },
         {
@@ -3120,12 +2934,12 @@
                 },
                 {
                     "num": 3,
-                    "id": "49595",
+                    "id": "RANDOM",
                     "type": "Shortie"
                 },
                 {
                     "num": 4,
-                    "id": "52228",
+                    "id": "RANDOM",
                     "type": "Shortie"
                 },
                 {
@@ -3140,7 +2954,131 @@
                 },
                 {
                     "num": 7,
-                    "id": "52516",
+                    "id": "RANDOM",
+                    "type": "PlayersChoice"
+                },
+                {
+                    "num": 8,
+                    "id": "SPECIALTY",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "12047",
+            "minEpisodes": 0
+        },
+        {
+            "commercialImage": "",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
+                    "type": "PlayersChoice"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 8,
+                    "id": "SPECIALTY",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "12048",
+            "minEpisodes": 0
+        },
+        {
+            "commercialImage": "",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "10771",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "10772",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "11621",
                     "type": "PlayersChoice"
                 },
                 {
@@ -3150,7 +3088,7 @@
                 },
                 {
                     "num": 9,
-                    "id": "52237",
+                    "id": "10773",
                     "type": "Shortie"
                 },
                 {
@@ -3159,7 +3097,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "52808",
+            "id": "12049",
             "minEpisodes": 6
         },
         {
@@ -3182,12 +3120,12 @@
                 },
                 {
                     "num": 3,
-                    "id": "49985",
+                    "id": "10774",
                     "type": "Shortie"
                 },
                 {
                     "num": 4,
-                    "id": "50063",
+                    "id": "10775",
                     "type": "Shortie"
                 },
                 {
@@ -3249,7 +3187,7 @@
                 },
                 {
                     "num": 4,
-                    "id": "51403",
+                    "id": "10776",
                     "type": "Shortie"
                 },
                 {
@@ -3259,7 +3197,7 @@
                 },
                 {
                     "num": 6,
-                    "id": "51891",
+                    "id": "10777",
                     "type": "Shortie"
                 },
                 {
@@ -3274,7 +3212,7 @@
                 },
                 {
                     "num": 9,
-                    "id": "10450",
+                    "id": "10778",
                     "type": "Shortie"
                 },
                 {
@@ -3283,7 +3221,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "52809",
+            "id": "12051",
             "minEpisodes": 0
         },
         {
@@ -3336,7 +3274,7 @@
                 },
                 {
                     "num": 9,
-                    "id": "50469",
+                    "id": "10779",
                     "type": "Shortie"
                 },
                 {
@@ -3345,7 +3283,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53803",
+            "id": "12052",
             "minEpisodes": 0
         },
         {
@@ -3358,7 +3296,7 @@
                 },
                 {
                     "num": 1,
-                    "id": "51324",
+                    "id": "10780",
                     "type": "Shortie"
                 },
                 {
@@ -3378,7 +3316,7 @@
                 },
                 {
                     "num": 5,
-                    "id": "51995",
+                    "id": "10781",
                     "type": "Shortie"
                 },
                 {
@@ -3407,7 +3345,70 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "53841",
+            "id": "12053",
+            "minEpisodes": 0
+        },
+        
+        {
+            "commercialImage": "",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "SPECIALTY",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "Gibberish"
+                },
+                {
+                    "num": 8,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "12054",
             "minEpisodes": 0
         }
     ]
