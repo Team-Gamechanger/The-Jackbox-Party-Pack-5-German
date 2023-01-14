@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "S",
-      "v": "0,1,2,3",
+      "v": "1,2,0,3",
       "n": "MCOrder"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWrongAnswerAudio2"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWrongAnswerAudio3"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasExplanationAudio"
     },
     {
       "t": "B",
-      "v": "",
+      "v": "true",
       "n": "HasJokeAudio"
     },
     {

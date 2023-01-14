@@ -1,0 +1,30 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "10724",
+      "n": "Choice1Id"
+    },
+    {
+      "t": "S",
+      "v": "10725",
+      "n": "Choice2Id"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}
