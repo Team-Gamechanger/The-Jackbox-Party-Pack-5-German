@@ -90,7 +90,7 @@
         {
             "id": "11203",
             "category": {
-                "text": "Anti-Fisch-Proteste"
+                "text": "Auch Diktatoren brauchen Urlaub"
             },
             "gibberishText": {
                 "text": "Keine Macht für Häute!"
@@ -105,13 +105,293 @@
             },
             "clues": [
                 {
-                    "text": "PLATZHALTER"
+                    "text": "Es handelt sich um ein Werk von Gottfried Keller..."
                 },
                 {
-                    "text": "PLATZHALTER"
+                    "text": "...es ist jedoch auch ein bekanntes Sprichwort."
                 },
                 {
-                    "text": "PLATZHALTER"
+                    "text": "Du bist das, was du trägst."
+                }
+            ]
+        },
+        {
+            "id": "11204",
+            "category": {
+                "text": "Von Familiendramen & Lebensmittelverschwendung"
+            },
+            "gibberishText": {
+                "text": "Mehr Mohn! Dacht\u2019 Sophie schwieg"
+            },
+            "spellings": [
+                "Ton macht Musik",
+                "Ton macht die Musik",
+                "Der Ton macht Musik"
+            ],
+            "correctText": {
+                "text": "Der Ton macht die Musik"
+            },
+            "clues": [
+                {
+                    "text": "Es kommt nicht darauf an, was man sagt..."
+                },
+                {
+                    "text": "sondern wie man es sagt."
+                },
+                {
+                    "text": "Man kann es auch auf Lieder anwenden."
+                }
+            ]
+        },
+        {
+            "id": "11205",
+            "category": {
+                "text": "Gewalttätige Kaffeekränzchen"
+            },
+            "gibberishText": {
+                "text": "Hausdamen! Schädigen Sie Flegel!"
+            },
+            "spellings": [
+                "Ausnahmen bestätigen Regel",
+                "Ausnahme bestätigt die Regel",
+                "Ausnahme bestätigt Regel",
+                "Die Ausnahme bestätigt die Regel"
+            ],
+            "correctText": {
+                "text": "Ausnahmen bestätigen die Regel"
+            },
+            "clues": [
+                {
+                    "text": "Es wurde eine Hypothese aufgestellt..."
+                },
+                {
+                    "text": "...doch passierte etwas Unerwartetes."
+                },
+                {
+                    "text": "Das aber trotzdem der Annahme nicht widerspricht"
+                }
+            ]
+        },
+        {
+            "id": "11206",
+            "category": {
+                "text": "Meerestiere an der Börse"
+            },
+            "gibberishText": {
+                "text": "Krass! Flunder-Konzern!"
+            },
+            "spellings": [
+                "Wunder von Bern"
+            ],
+            "correctText": {
+                "text": "Das Wunder von Bern"
+            },
+            "clues": [
+                {
+                    "text": "Im Film dreht es sich um ein besonderes Ereignis..."
+                },
+                {
+                    "text": "...bei einem Fußballspiel..."
+                },
+                {
+                    "text": "das in der Hauptstadt der Schweiz stattfand."
+                }
+            ]
+        },
+        {
+            "id": "11207",
+            "category": {
+                "text": "Unzüchtige Bankunternehmen"
+            },
+            "gibberishText": {
+                "text": "Sehr erregte TAN"
+            },
+            "spellings": [
+                "Bewegter Mann"
+            ],
+            "correctText": {
+                "text": "Der bewegte Mann"
+            },
+            "clues": [
+                {
+                    "text": "In der Komödie geht es um die Folgen eines Seitensprunges..."
+                },
+                {
+                    "text": "...Woraufhin die von Til Schweiger gespielte Hauptfigur Axel..."
+                },
+                {
+                    "text": "bei zwei schwulen Bekannten unterkommt."
+                }
+            ]
+        },
+        {
+            "id": "11208",
+            "category": {
+                "text": "Baustoffe & Fragwürdige Kochtipps"
+            },
+            "gibberishText": {
+                "text": "Mehr Mehl und Schmand? Nimm Schaum!"
+            },
+            "spellings": [
+                "Elefant im Raum",
+                "Die Elefanten im Raum",
+                "Elephant in the Room"
+            ],
+            "correctText": {
+                "text": "Der Elefant im Raum"
+            },
+            "clues": [
+                {
+                    "text": "Das Sprichwort beschreibt ein Problem..."
+                },
+                {
+                    "text": "...zu dem niemand etwas sagt..."
+                },
+                {
+                    "text": "obwohl es unübersehbar im Raum steht."
+                }
+            ]
+        },
+        {
+            "id": "11209",
+            "category": {
+                "text": "Schleimspur an den Chemielehrer"
+            },
+            "gibberishText": {
+                "text": "Laugen drauf! Schleim zweier sauf!"
+            },
+            "spellings": [
+                "Augen auf Eierkauf",
+                "Augen auf beim Eierlauf",
+                "Augen auf beim Autokauf"
+            ],
+            "correctText": {
+                "text": "Augen auf beim Eierkauf"
+            },
+            "clues": [
+                {
+                    "text": "Es handelt sich um eine Warnung."
+                },
+                {
+                    "text": "Denn man soll besonders aufpassen..."
+                },
+                {
+                    "text": "beim Kauf von Eiern."
+                }
+            ]
+        },
+        {
+            "id": "11210",
+            "category": {
+                "text": "Schmuddelszenen in der Gärtnerei"
+            },
+            "gibberishText": {
+                "text": "Sprich \u201cnein\u201d nach! Jungfer wässer mich!"
+            },
+            "spellings": [
+                "Ich einfach unverbesserlich",
+                "Ich, einfach unverbesserlich",
+                "Einfach unverbesserlich"
+            ],
+            "correctText": {
+                "text": "Ich - Einfach unverbesserlich"
+            },
+            "clues": [
+                {
+                    "text": "In diesem Film dreht es sich um einen Bösewicht..."
+                },
+                {
+                    "text": "...der sein Herz an drei adoptierte Weisenkinder verliert."
+                },
+                {
+                    "text": "Facebook-Gruppen lieben die gelben Minions, die in diesem Film debütierten."
+                }
+            ]
+        },
+        {
+            "id": "11211",
+            "category": {
+                "text": "Hollywood an Hansestadt"
+            },
+            "gibberishText": {
+                "text": "Kiel hier, was riet Tom Roth?"
+            },
+            "spellings": [
+                "Spiel das Lied vom Tod",
+                "Spiel mir das Lied Tod",
+                "Das Lied vom Tod",
+                "Spiel mir das Lied vom Tot"
+            ],
+            "correctText": {
+                "text": "Spiel mir das Lied vom Tod"
+            },
+            "clues": [
+                {
+                    "text": "Gesucht ist ein richtig alter Schinken."
+                },
+                {
+                    "text": "Es ist ein sogenannter <i>Italowestern<\/i>..."
+                },
+                {
+                    "text": "...der auch durch seine namensgebende Musik große Bekanntheit erlangte."
+                }
+            ]
+        },
+        {
+            "id": "11212",
+            "category": {
+                "text": "Fuchsige Frisösen feuern Föhne"
+            },
+            "gibberishText": {
+                "text": "Flieh! Föhne wund was schießt!"
+            },
+            "spellings": [
+                "Schöne und das Biest",
+                "Schöne & das Biest",
+                "Die Schöne & das Biest",
+                "Die Schöne und Biest",
+                "Schöne und Biest"
+            ],
+            "correctText": {
+                "text": "Die Schöne und das Biest"
+            },
+            "clues": [
+                {
+                    "text": "Dieser Film basiert auf einem französischen Märchen."
+                },
+                {
+                    "text": "Ich spezifiziere: Dieser Zeichentrickfilm basiert auf einem französischen Märchen."
+                },
+                {
+                    "text": "Noch genauer: Dieser Zeichentrickfilm von <i>Walt Disney<\/i> basiert auf einem französischen Märchen"
+                }
+            ]
+        },
+        {
+            "id": "11213",
+            "category": {
+                "text": "Fordernde Fußpflege"
+            },
+            "gibberishText": {
+                "text": "Kauf Creme, brauch\u2019 Zehen!"
+            },
+            "spellings": [
+                "Auf Schlauch stehen",
+                "Steh auf dem Schlauch",
+                "Aufm Schlauch stehen"
+            ],
+            "correctText": {
+                "text": "Auf dem Schlauch stehen"
+            },
+            "clues": [
+                {
+                    "text": "Es beschreibt so ziemlich Ihre aktuelle Situation."
+                },
+                {
+                    "text": "Denn die Antwort liegt Ihnen auf der Zunge..."
+                },
+                {
+                    "text": "...aber trotzdem kommen Sie nicht drauf."
                 }
             ]
         }

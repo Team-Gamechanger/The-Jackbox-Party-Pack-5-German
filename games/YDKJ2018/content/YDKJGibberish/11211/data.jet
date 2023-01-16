@@ -1,0 +1,66 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "clue1",
+      "n": "Clue1Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "clue2",
+      "n": "Clue2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "clue3",
+      "n": "Clue3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "outro",
+      "n": "OutroAudio"
+    }
+  ]
+}
