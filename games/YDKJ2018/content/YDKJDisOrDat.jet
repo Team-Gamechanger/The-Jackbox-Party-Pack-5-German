@@ -1627,6 +1627,50 @@
             "category": {
                 "text": "Herr Ober, da ist kein H in meiner Suppe!"
             }
+        },
+        {
+            "questions": [
+                {
+                    "text": "=",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": ":",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "/",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "+",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "~",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": ">",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "#",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "Shift muss gedrückt gehalten werden, um es zu schreiben",
+                "shortText": "SHIFT DRÜCKEN"
+            },
+            "datChoice": {
+                "longText": "Shift muss NICHT gedrückt gehalten werden, um es zu schreiben",
+                "shortText": "NICHT SHIFT DRÜCKEN"
+            },
+            "id": "11038",
+            "category": {
+                "text": "Na sieh mal wer da Shift!"
+            }
         }
     ]
 }
