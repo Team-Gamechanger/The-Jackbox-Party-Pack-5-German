@@ -1671,6 +1671,182 @@
             "category": {
                 "text": "Na sieh mal wer da Shift!"
             }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Luftröhre",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Amboss",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Hammer",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Tubulum",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Trommelfell",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Zymbal",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Steigbügel",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "ein Teil des menschlichen Ohres",
+                "shortText": "OHR"
+            },
+            "datChoice": {
+                "longText": "ein Musikinstrument, welches von der Blue Man Group benutzt wurde",
+                "shortText": "BLUE MAN GROUP"
+            },
+            "id": "11039",
+            "category": {
+                "text": "Ich hör nur blau"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Tom Tom",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Octavia",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Garmin",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Trimble",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Mio",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Tirek",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Zecora",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "ein Navigationsgerät für Ihr Auto",
+                "shortText": "GPS"
+            },
+            "datChoice": {
+                "longText": "eine Figur aus <i>My Little Pony<\/i>",
+                "shortText": "MY LITTLE PONY"
+            },
+            "id": "11040",
+            "category": {
+                "text": "Wo geht\u2019s denn hier nach Equestria?"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Frau Falter",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Die Kreatur",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Zed Yago",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Fräulein Wunder",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Angelika Express",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Klaus Renft Combo",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Jennifer Rostock",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "der Name eines Solo-Künstlers",
+                "shortText": "SOLO"
+            },
+            "datChoice": {
+                "longText": "der Name einer Band",
+                "shortText": "BAND"
+            },
+            "id": "11041",
+            "category": {
+                "text": "Deutsche Klassiker und Identitätskrisen"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Das unfolgsame Lämmchen",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Kommt ein Vogel geflogen",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Eine Ente mit 2 Beinen",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Der Jäger aus Kurpfalz",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Frau Horst",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Die verflixte Sieben",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Butzemann",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "ein Kinderlied",
+                "shortText": "KINDERLIED"
+            },
+            "datChoice": {
+                "longText": "ein Trinkspiel",
+                "shortText": "TRINKSPIEL"
+            },
+            "id": "11042",
+            "category": {
+                "text": "Alle meine Entchen sind schon dicht"
+            }
         }
     ]
 }
