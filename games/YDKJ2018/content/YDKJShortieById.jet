@@ -372,7 +372,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "ein nackter Roboter, der mich in 1 Pikosekunde erwischt",
+                    "text": "ein nackter Roboter, der mich in 1 Pikosekunde eliminiert",
                     "isCorrect": true
                 }
             ],
@@ -381,7 +381,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welche dieser Zeitreisegeräte wäre die akuteste Bedrohung?"
+                    "text": "Welches dieser Zeitreisegeräte wäre die akuteste Bedrohung?"
                 }
             ]
         },
@@ -1884,23 +1884,23 @@
         {
             "id": "10772",
             "category": {
-                "text": "Apropos Nordsee"
+                "text": "Apropos 1896"
             },
             "choices": [
                 {
-                    "text": "Kabeljau",
+                    "text": "Der kürzeste Krieg der Weltgeschichte",
                     "isCorrect": false
                 },
                 {
-                    "text": "Hering",
+                    "text": "Der erste tödliche Autounfall aller Zeiten",
                     "isCorrect": false
                 },
                 {
-                    "text": "Makrele",
+                    "text": "Die ersten olympischen Spiele der Neuzeit",
                     "isCorrect": false
                 },
                 {
-                    "text": "Karpfen",
+                    "text": "Die Freiheitsstatue wird eingeweiht",
                     "isCorrect": true
                 }
             ],
@@ -1909,11 +1909,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, Sie würden zeitreisen und zusammen mit Helmut Fischer an der Nordsee fischen gehen."
-                },
-                {
-                    "timing": "S + 0.00",
-                    "text": "Welchen Fisch könnten Sie NICHT erwarten?"
+                    "text": "Welches dieser Ereignisse fand NICHT im Jahr 1896 statt?"
                 }
             ]
         },
@@ -2073,7 +2069,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was war das erste, was ich gesagt habe, nachdem ich diese Zahlenreihe vorgelesen hatte?"
+                    "text": "Was war das erste, was ich gesagt habe, nachdem ich diese Zahlenreihe zum ersten Mal vorgelesen hatte?"
                 }
             ]
         },

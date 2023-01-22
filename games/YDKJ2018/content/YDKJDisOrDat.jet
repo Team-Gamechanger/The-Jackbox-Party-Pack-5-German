@@ -327,7 +327,7 @@
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "ein 1,80 m großer Hund, auf dem man reiten kann",
+                    "text": "ein 1,90 m großer Hund, auf dem man reiten kann",
                     "correctChoiceString": "dis"
                 },
                 {
@@ -495,8 +495,8 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Weintraube",
-                    "correctChoiceString": "dat"
+                    "text": "Melone",
+                    "correctChoiceString": "both"
                 },
                 {
                     "text": "Erdbeere",
@@ -711,7 +711,7 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Ein Belohnungssystem verwenden",
+                    "text": "Informationen sammeln",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -723,11 +723,11 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Missverständnisse ausräumen",
+                    "text": "Den persönlichen Weg finden",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Ermutigung",
+                    "text": "Offen reden",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -740,12 +740,12 @@
                 "shortText": "TRUMP"
             },
             "datChoice": {
-                "longText": "Ratschläge von WebMD um Bettnässen zu vermeiden",
+                "longText": "Ratschläge von DM, um Bettnässen zu vermeiden",
                 "shortText": "BETTNÄSSEN"
             },
             "id": "11016",
             "category": {
-                "text": "Vorsicht, nass!"
+                "text": "Feuchte Laken & noch feuchtere Gehirnzellen"
             }
         },
         {
@@ -833,7 +833,7 @@
             },
             "id": "11018",
             "category": {
-                "text": "Noch ein Grund warum ich nicht <i>In aller Freundschaft<\/i> schauen kann"
+                "text": "Spiel rüber, ich hab\u2019 die Fernbedienung!"
             }
         },
         {
@@ -859,7 +859,7 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Gehirnhälfte, die Kreativität steuert",
+                    "text": "Gehirnhälfte, welche die Kreativität steuert",
                     "correctChoiceString": "dis"
                 },
                 {
@@ -877,7 +877,7 @@
             },
             "id": "11019",
             "category": {
-                "text": "Unnütze Eselsbrücken"
+                "text": "Rechts ist da, wo die CDU links ist"
             }
         },
         {
@@ -887,7 +887,7 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Scorpians",
+                    "text": "Scorpions",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -1053,7 +1053,7 @@
             },
             "id": "11023",
             "category": {
-                "text": "Was für ein Käse"
+                "text": "Stinkender Käse & andere Dinge, die auch stinken"
             }
         },
         {
@@ -1211,7 +1211,7 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "\u201cAber am schönsten ist es Daheim.\u201d",
+                    "text": "\u201cAm schönsten ist es Zuhause.\u201d",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -1279,45 +1279,45 @@
         {
             "questions": [
                 {
-                    "text": "LIMONADE!!!",
+                    "text": "Beate Uhse",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "WASSER!!!",
+                    "text": "Tukan",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Oleanda",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "MILCH!!!",
+                    "text": "Phönix",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "REIS!!!",
+                    "text": "Einhorn",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "MEHR PEPERONI!!!",
+                    "text": "Orion",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "Brunos",
                     "correctChoiceString": "dat"
-                },
-                {
-                    "text": "JOGHURT!!!",
-                    "correctChoiceString": "dis"
-                },
-                {
-                    "text": "BACKPULVER!!!",
-                    "correctChoiceString": "dis"
                 }
             ],
             "disChoice": {
-                "longText": "LINDERT ES DIE VERBRENNUNG IN MEINEM MUND",
-                "shortText": "LINDERT DIE VERBRENNUNG"
+                "longText": "ein Sternbild",
+                "shortText": "STERNBILD"
             },
             "datChoice": {
-                "longText": "MACHT ES DAS NUR NOCH SCHLIMMER",
-                "shortText": "MACHT ES NUR NOCH SCHLIMMER"
+                "longText": "ein Erotikversand",
+                "shortText": "EROTIKVERSAND"
             },
             "id": "11029",
             "category": {
-                "text": "Bitte mit extra scharf"
+                "text": "Unendliche Oberweiten"
             }
         },
         {
@@ -1362,6 +1362,50 @@
             "id": "11031",
             "category": {
                 "text": "Herr Ober, dürfen wir Ihnen vielleicht etwas Holz bringen?"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "VRS",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "MMO",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "BBT",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "VBB",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "FPS",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "RTS",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "MUD",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "eine Form eines Videospiels ist",
+                "shortText": "VIDEOSPIEL"
+            },
+            "datChoice": {
+                "longText": "ein deutscher Verkehrsverbund",
+                "shortText": "VERKEHRSVERBUND"
+            },
+            "id": "11030",
+            "category": {
+                "text": "Scheiße, ich glaube mein Bus laggt"
             }
         },
         {
@@ -1576,7 +1620,7 @@
                 "shortText": "MUSEUM OF MODERN ART"
             },
             "datChoice": {
-                "longText": "ein Folgentitel einer <i>South Park<\/i> Folge",
+                "longText": "ein Titel einer <i>South Park<\/i> Folge",
                 "shortText": "SOUTH PARK"
             },
             "id": "11036",
@@ -1639,8 +1683,8 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "/",
-                    "correctChoiceString": "dis"
+                    "text": "@",
+                    "correctChoiceString": "dat"
                 },
                 {
                     "text": "+",
@@ -1656,7 +1700,7 @@
                 },
                 {
                     "text": "#",
-                    "correctChoiceString": "dis"
+                    "correctChoiceString": "dat"
                 }
             ],
             "disChoice": {
@@ -1846,6 +1890,358 @@
             "id": "11042",
             "category": {
                 "text": "Alle meine Entchen sind schon dicht"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Turbulence",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Creeper",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Cobalt",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Sasser",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Black Edition",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Blaster",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Zephyr",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "ein berühmter Computervirus",
+                "shortText": "COMPUTER-VIRUS"
+            },
+            "datChoice": {
+                "longText": "eine Geschmacksrichtung der Kaugummimarke 5Gum",
+                "shortText": "KAUGUMMI"
+            },
+            "id": "11043",
+            "category": {
+                "text": "Gekaute Gummis & Geklaute Daten"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Emoji - Der Film",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Fantastic Movie",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Slenderman",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Ziemlich beste Freunde",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Whiplash",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "House of the Dead",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Die Pute von Panem",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "einer der laut IMDb <i>besten 50 Filme aller Zeiten<\/i>",
+                "shortText": "BESTER FILM"
+            },
+            "datChoice": {
+                "longText": "einer der laut IMDb <i>schlechtesten 50 Filme aller Zeiten<\/i>",
+                "shortText": "SCHLECHTESTER FILM"
+            },
+            "id": "11044",
+            "category": {
+                "text": "Schnieke Schinken & Miese Müllstreifen"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Calibri",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Trajan",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Konik",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Wiesbaden Swing",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Altai",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Morgan",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Tinker",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "eine Pferderasse",
+                "shortText": "PFERDERASSE"
+            },
+            "datChoice": {
+                "longText": "eine bei Windows vorinstallierte Schriftart",
+                "shortText": "SCHRIFTART"
+            },
+            "id": "11045",
+            "category": {
+                "text": "Dem geschenkten Gaul druckt man nicht ins Maul"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "In der Strafkolonie",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Die Verwandlung",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Um Haus und Hof",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Großer Lärm",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Feuerwerk für eine Leiche",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Nicht jugendfrei",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Der tiefe Schlaf",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "ein Werk von Franz Kafka",
+                "shortText": "KAFKA"
+            },
+            "datChoice": {
+                "longText": "eine Folge des Tatorts",
+                "shortText": "TATORT"
+            },
+            "id": "11046",
+            "category": {
+                "text": "Krimis & andere kranke Erzählungen"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Die Jagd beginnt",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Geist des Kriegers",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Auftauchen der Schwertseele",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Herrin des Feuers",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Vom Grab gerufen",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Düstere Schattenspiele",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Kleid aus Rosen",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "ein Lied der deutschen Metal-Band <i>Subway to Sally<\/i>",
+                "shortText": "SUBWAY TO SALLY"
+            },
+            "datChoice": {
+                "longText": "der Name einer Yu-Gi-Oh-Kindersammelkarte",
+                "shortText": "YU-GI-OH"
+            },
+            "id": "11047",
+            "category": {
+                "text": "Ich spiele Gitarrensolo im Angriffsmodus!"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Ambrakia",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Byzantion",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Duloxetin",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Mirtazapin",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Edessa",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Phenelzin",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Sparta",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "eine antike griechische Stadt",
+                "shortText": "ANTIKE GRIECHISCHE STADT"
+            },
+            "datChoice": {
+                "longText": "ein Antidepressivum",
+                "shortText": "ANTIDEPRESSIVUM"
+            },
+            "id": "11048",
+            "category": {
+                "text": "Haben Sie jemals einen traurigen Griechen gesehen?"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Scheren",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Currywurst",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Alkohol",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "Hartgeld",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Konfetti-Kanone",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Meine Munition",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Schraubendreher",
+                    "correctChoiceString": "dat"
+                }
+            ],
+            "disChoice": {
+                "longText": "ein Lied von Herbert Grönemeyer",
+                "shortText": "GRÖNEMEYER"
+            },
+            "datChoice": {
+                "longText": "ein Gegenstand, der laut Bundespolizei nicht im Handgepäck in einem Flugzeug mitgenommen werden darf",
+                "shortText": "HANDGEPÄCK-VERBOT"
+            },
+            "id": "11049",
+            "category": {
+                "text": "\u201cFlugzeuge im Bauch\u201d & weitere Probleme an der Flughafen-Security"
+            }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Jürgen Bartsch",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Jack the Ripper",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Andy Borg",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "G. G. Anderson",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Simon Bingelhelm",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Beatrice Egli",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Graham Bonney",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "ein Schlagersänger",
+                "shortText": "SCHLAGERSÄNGER"
+            },
+            "datChoice": {
+                "longText": "ein Serienmörder",
+                "shortText": "SERIENMÖRDER"
+            },
+            "id": "11050",
+            "category": {
+                "text": "Deutscher Schlager & andere brutale Straftaten"
             }
         }
     ]
