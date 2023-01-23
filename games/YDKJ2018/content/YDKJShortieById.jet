@@ -1455,7 +1455,7 @@
         {
             "id": "10771",
             "category": {
-                "text": "Fastfood und alte Zeiten"
+                "text": "Fast-Food im wilden Westen"
             },
             "choices": [
                 {
@@ -1491,7 +1491,7 @@
         {
             "id": "10774",
             "category": {
-                "text": "Sexualpraktiken und die Lust nach Meer"
+                "text": "Sexualpraktiken & die Lust nach Meer"
             },
             "choices": [
                 {
@@ -1559,7 +1559,7 @@
         {
             "id": "10759",
             "category": {
-                "text": "Bis zur Mutterschaft und noch viel weiter"
+                "text": "Bis zur Mutterschaft, und noch viel weiter"
             },
             "choices": [
                 {
@@ -1723,7 +1723,7 @@
         {
             "id": "10758",
             "category": {
-                "text": "Schlafen kann ich wenn ich nicht mehr respawne"
+                "text": "Schlafen kann ich, wenn ich nicht mehr respawne"
             },
             "choices": [
                 {
@@ -1852,7 +1852,7 @@
         {
             "id": "10768",
             "category": {
-                "text": "Anschlussfrage"
+                "text": "...B sagen!"
             },
             "choices": [
                 {
@@ -2076,7 +2076,7 @@
         {
             "id": "10757",
             "category": {
-                "text": "Fortnite-Fieber"
+                "text": "Hinfort-nite!"
             },
             "choices": [
                 {
@@ -2156,7 +2156,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cHUNDsgemein diese Übungen\u201d",
+                    "text": "\u201cHUNDsgemein, diese Übungen\u201d",
                     "isCorrect": false
                 }
             ],
@@ -2205,18 +2205,18 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen ich würde langsam glauben, die Realität sei nicht mehr das, was sie eigentlich ist."
+                    "text": "Angenommen, ich würde langsam realisieren, dass meine Wahrnehmung der Realität nicht dem entspricht, was sie in Wirklichkeit ist."
                 },
                 {
                     "timing": "S + 7.14",
-                    "text": "Wie würde Platon meine rein hypothetische Situation beschreiben?"
+                    "text": "Wie würde der Philosoph Platon meine rein hypothetische Situation beschreiben?"
                 }
             ]
         },
         {
             "id": "10769",
             "category": {
-                "text": "Geghostet werden"
+                "text": "G-G-G-G-G-G-Geister!"
             },
             "choices": [
                 {
@@ -2248,7 +2248,7 @@
         {
             "id": "10770",
             "category": {
-                "text": "\u201cGeghostet werden\u201d passt auch als Kategorie für diese Frage"
+                "text": "\u201cG-G-G-G-G-G-Geister!\u201d passt auch als Kategorie für diese Frage"
             },
             "choices": [
                 {
@@ -2338,7 +2338,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "In welchem Videospiel einer beliebten Serie gibt es KEINE Figur, die aus dem Tiefschlaf erwacht und feststellt, dass die Welt nicht mehr so ist, wie sie war?"
+                    "text": "In welchem dieser Ableger beliebter Videospielserien gibt es KEINE Figur, die aus dem Tiefschlaf erwacht und feststellt, dass die Welt nicht mehr so ist, wie sie mal war?"
                 }
             ]
         },
@@ -2370,7 +2370,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wie könnte ich das Volumen des seltsamen Raums herausfinden, in dem ich mich gerade befinde?"
+                    "text": "Wie könnte ich das Volumen dieses seltsamen würfelförmigen Raumes herausfinden, in dem ich mich gerade befinde?"
                 }
             ]
         },
@@ -2421,7 +2421,7 @@
         {
             "id": "10755",
             "category": {
-                "text": "Silber-Vokal"
+                "text": "Ein bisschen abhängen?"
             },
             "choices": [
                 {
