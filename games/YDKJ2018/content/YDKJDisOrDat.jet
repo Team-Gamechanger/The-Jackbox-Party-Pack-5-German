@@ -715,7 +715,7 @@
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Die Waren liefern",
+                    "text": "Sich auf das Schlimmste vorbereiten",
                     "correctChoiceString": "dis"
                 },
                 {
@@ -1211,7 +1211,7 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "\u201cAm schönsten ist es Zuhause.\u201d",
+                    "text": "\u201cAm schönsten ist es zuhause.\u201d",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -1327,7 +1327,7 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Schwarzpappel",
+                    "text": "Schwarz-Pappel",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -1595,7 +1595,7 @@
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Fahrradrad",
+                    "text": "Fahrrad-Rad",
                     "correctChoiceString": "dis"
                 },
                 {
