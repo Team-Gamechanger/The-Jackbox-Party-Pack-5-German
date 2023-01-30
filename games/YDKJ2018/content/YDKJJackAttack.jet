@@ -2072,30 +2072,30 @@
                     ]
                 },
                 {
-                    "title": "Auch ein Park-Haus",
+                    "title": "Lieder von <i>Linkin Park<\/i>",
                     "choices": [
                         {
-                            "text": "Dr. Gregory House",
+                            "text": "Numb",
                             "isCorrect": true
                         },
                         {
-                            "text": "Bruce Wayne",
+                            "text": "Castle of Sand",
                             "isCorrect": false
                         },
                         {
-                            "text": "James Parkinson",
+                            "text": "Final Masquerade",
                             "isCorrect": true
                         },
                         {
-                            "text": "Christopher Turk",
+                            "text": "Found in the Echo",
                             "isCorrect": false
                         },
                         {
-                            "text": "Peter Parker",
+                            "text": "Burn It Down",
                             "isCorrect": true
                         },
                         {
-                            "text": "Hausmeister",
+                            "text": "One More Light",
                             "isCorrect": true
                         }
                     ]
