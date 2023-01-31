@@ -252,7 +252,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Hat korrekt 7 Spiele der Weltmeisterschaft vorhergesagt."
+                    "text": "Hat 7 Spiele einer Fußball-WM korrekt vorhergesagt."
                 }
             ]
         },
@@ -444,7 +444,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Muschelsammler."
+                    "text": "Sammelt Muscheln."
                 }
             ]
         },
@@ -611,7 +611,7 @@
         {
             "id": "10925",
             "category": {
-                "text": "Art = { Männlich, Komiker }"
+                "text": "Typ = { Männlich, Komiker }"
             },
             "choices": [
                 {
@@ -655,7 +655,7 @@
         {
             "id": "10926",
             "category": {
-                "text": "Art = { Schriftsteller, Archaisch }"
+                "text": "Typ = { Schriftsteller, Archaisch }"
             },
             "choices": [
                 {
@@ -699,7 +699,7 @@
         {
             "id": "10927",
             "category": {
-                "text": "Art = { Männlich, Entertainer }"
+                "text": "Typ = { Männlich, Entertainer }"
             },
             "choices": [
                 {
@@ -724,7 +724,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "\u201cdie wochenshow brisko schneider\u201d<br>"
+                    "text": "\u201cbrisko schneider\u201d<br>"
                 },
                 {
                     "timing": "S + 2.53",
@@ -733,6 +733,446 @@
                 {
                     "timing": "S + 5.50",
                     "text": "\u201ceigene sitcom starten\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10928",
+            "category": {
+                "text": "Typ = { Männlich, Regisseur }"
+            },
+            "choices": [
+                {
+                    "text": "Steven Spielberg",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Roland Emmerich",
+                    "isCorrect": true
+                },
+                {
+                    "text": "M. Night Shyamalan",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Matti Geschonneck",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cmikrowellen-strahlung gefährlich\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201csind aliens echt?\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cmaya weltuntergang jahr\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10929",
+            "category": {
+                "text": "Typ = { Weiblich, Comedian }"
+            },
+            "choices": [
+                {
+                    "text": "Maren Kroymann",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Carolin Kebekus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Martina Hill",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Anke Engelke",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cheißen jugendliche noch larissa\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201cunterhalt von rico für maik MIT AI einfordern\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cwie eigene show bei sat.1 bekommen\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10930",
+            "category": {
+                "text": "Typ = { Männlich, Schauspieler }"
+            },
+            "choices": [
+                {
+                    "text": "Michael Fassbender",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Christoph Waltz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Arnold Schwarzenegger",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Christian Berkel",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cösterreichische staatsbürgerschaft erlangen\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201cwie quentin tarantino beeindrucken\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cjames bond bösewicht werden\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10931",
+            "category": {
+                "text": "Typ = { Weiblich, Schauspieler }"
+            },
+            "choices": [
+                {
+                    "text": "Maria Furtwängler",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Liv Lisa Fries",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Franka Potente",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karoline Herfurth",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cverkaufsstrategien mirabellen\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201cworauf stehen Bundeskanzler\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cwie bändigt man eine 10. klasse?\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10932",
+            "category": {
+                "text": "Typ = { Männlich, Schauspieler }"
+            },
+            "choices": [
+                {
+                    "text": "Ulrich Tukur",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Moritz Bleibtreu",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Jan Josef Liefers",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jannis Niewöhner",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cstarb teilnehmer 77 beim stanford-prison-experiment?\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201cdefinition von schuld\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cverursachen safrangelbe samthäubchen einen drogentrip\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10933",
+            "category": {
+                "text": "Typ = { Männlich, Politiker }"
+            },
+            "choices": [
+                {
+                    "text": "Erich Honecker",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Jens Stoltenberg",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Michail Gorbatschow",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fidel Castro",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201caus einem frauengefängnis fliehen\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201cwie den lenin-orden erhalten\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cist leonid breschnew ein guter küsser?\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10934",
+            "category": {
+                "text": "Typ = { Weiblich, Historisch }"
+            },
+            "choices": [
+                {
+                    "text": "Marie Curie",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jeanne d\u2019Arc",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Simone de Beauvoir",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Edith Piaf",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cC\u2019est la vie\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201cIch glaube\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cMein Herz brennt\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wessen Playlist haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10935",
+            "category": {
+                "text": "Typ = { Männlich, Musiker }"
+            },
+            "choices": [
+                {
+                    "text": "Mickie Krause",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jürgen Drews",
+                    "isCorrect": true
+                },
+                {
+                    "text": "G. G. Anderson",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Matthias Reim",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cdarf man in kornfeldern schlafen\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201cbaugenehmigung für ein fliegendes schloss\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cwie der könig von mallorca werden\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10936",
+            "category": {
+                "text": "Typ = { Männlich, Entertainer }"
+            },
+            "choices": [
+                {
+                    "text": "Jan Böhmermann",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Thomas Gottschalk",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Klaas Heufer-Umlauf",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Joko Winterscheidt",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201ctürkischer präsident beleidigungen\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201cvorsitzender einer volkspartei werden\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cwie ins hauptprogramm kommen\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10937",
+            "category": {
+                "text": "Typ = { Weiblich, Promi }"
+            },
+            "choices": [
+                {
+                    "text": "Uschi Glas",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Michelle Hunziker",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Barbara Schöneberger",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ilka Bessin",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cdiadem mit blonder perücke kaufen\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201cwie von der new york times porträtiert werden\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cwo bewerben für wetten dass co-moderation\u201d<br>"
                 },
                 {
                     "timing": "S + 10.16",
