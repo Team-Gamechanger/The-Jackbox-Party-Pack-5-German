@@ -1181,6 +1181,182 @@
             ]
         },
         {
+            "id": "10938",
+            "category": {
+                "text": "Typ = { Weiblich, Sänger }"
+            },
+            "choices": [
+                {
+                    "text": "Juliane Werding",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nina Hagen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sandra",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nena",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cgoogle übersetzer kleines mädchen katalanisch\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201camazon rote luftballons\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cudo lindenberg tinder\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10939",
+            "category": {
+                "text": "Typ = { Weiblich, D-Prominenz }"
+            },
+            "choices": [
+                {
+                    "text": "Carmen Geiss",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Daniela Katzenberger",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gina-Lisa Lohfink",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Verona Pooth",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cbewerbung germany\u2019s next topmodel\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201cvon adelsfamilie adoptieren lassen\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cgibt es mengenrabatt beim schönheitschirurg\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10940",
+            "category": {
+                "text": "Typ = { Männlich, Rapper }"
+            },
+            "choices": [
+                {
+                    "text": "Bushido",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Shindy",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kollegah",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sido",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cJulian\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201cPaul\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cSiggi\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wer hat sich selbst gegoogelt?"
+                }
+            ]
+        },
+        {
+            "id": "10941",
+            "category": {
+                "text": "Typ = { Männlich, Sportler }"
+            },
+            "choices": [
+                {
+                    "text": "Dirk Nowitzki",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Boris Becker",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jan Ullrich",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Oliver Kahn",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cachterbahn maximalgröße\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201cwie millionen in amerika machen\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cwelcher song dibadibadu\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.16",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
             "id": "10950",
             "category": {
                 "text": "Wir haben immer ein offenes Ohr"
