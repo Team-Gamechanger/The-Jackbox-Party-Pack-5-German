@@ -2617,6 +2617,70 @@
                     "text": "World Wildlife Fund, World of Warcraft, World Wide Web, Walt Disney World."
                 }
             ]
+        },
+        {
+            "id": "10790",
+            "category": {
+                "text": "You Don't Know Deutsch"
+            },
+            "choices": [
+                {
+                    "text": "Was ist ein Interrogativsatz?",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das ist ein Interrogativsatz!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie wissen, dass das ein Interrogativsatz ist.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jack sagt, dass das ein Interrogativsatz sei.",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was ist ein Interrogativsatz?"
+                }
+            ]
+        },
+        {
+            "id": "10791",
+            "category": {
+                "text": "You Don't Know Deutsch"
+            },
+            "choices": [
+                {
+                    "text": "Was ist ein Interrogativsatz?",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das ist ein Interrogativsatz!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie wissen, dass das ein Interrogativsatz ist.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jack sagt, dass das ein Interrogativsatz sei.",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was ist ein Interrogativsatz?"
+                }
+            ]
         }
     ]
 }
