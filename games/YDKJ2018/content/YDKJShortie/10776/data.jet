@@ -12,12 +12,12 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntro2Audio"
     },
     {
@@ -47,12 +47,12 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasExplanationAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasJokeAudio"
     },
     {
