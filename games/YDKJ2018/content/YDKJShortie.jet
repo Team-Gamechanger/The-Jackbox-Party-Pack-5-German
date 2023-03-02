@@ -4033,7 +4033,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Kohlenstoffdioxid ist geil, sagen die Bäume!",
+                    "text": "Stickstoffoxid ist geil, sagen die Bäume!",
                     "isCorrect": false
                 },
                 {
@@ -4143,6 +4143,230 @@
                 {
                     "timing": "S + 0.00",
                     "text": "Wenn Sie sich weigern, auf Toilette zu gehen, bis die erste Fernsehwerbung aller Zeiten über Ihren Bildschirm flimmert, wie lange müssten Sie dann einhalten?"
+                }
+            ]
+        },
+        {
+            "id": "10125",
+            "category": {
+                "text": "Die Mathombombe"
+            },
+            "choices": [
+                {
+                    "text": "Atomzweikilometerer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Atomsiebenhundertfünfzigfüßler",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Atomeintausendsechshundertundneunmeterer",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Atomdreikommavierhektarer",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Rechnet man den Begriff vom englischen Maßsystem ordnungsgemäß um, wie könnte man einen \u201cAtommeiler\u201d richtigerweise auch nennen?"
+                }
+            ]
+        },
+        {
+            "id": "10126",
+            "category": {
+                "text": "Der böse Schmerze aus deiner Poperze"
+            },
+            "choices": [
+                {
+                    "text": "\u201cHämmorrhiden\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cHämhoirriden\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cHämorrhoiden\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cHämorrhioden\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "...wie schreibt man eigentlich dieses Wort?"
+                }
+            ]
+        },
+        {
+            "id": "10127",
+            "category": {
+                "text": "Was ist denn mit Carsten los?"
+            },
+            "choices": [
+                {
+                    "text": "Zehnfache Körpertemperatur",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Circa 1500°C",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Circa 2100°C",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Hälfte der Oberflächentemperatur der Sonne",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Auf welche Temperatur müsste Carsten Stahl mindestens erhitzt werden, damit er wie industrieller Stahl einfach dahinfließt?"
+                }
+            ]
+        },
+        {
+            "id": "10128",
+            "category": {
+                "text": "Große Planeten & noch größere Portionen"
+            },
+            "choices": [
+                {
+                    "text": "KNUSPER! SCHLÜRF! KNUSPER!",
+                    "isCorrect": true
+                },
+                {
+                    "text": "KNUSPER! KNUSPER! SCHLÜRF!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "KNUSPER! SCHLÜRF! SCHLÜRF!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "SCHLÜRF! KNUSPER! KNUSPER!",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn wir annehmen, dass er zunächst die Erdkruste schält, wie würde sich seine Mahlzeit durch den Erdmantel, den äußeren Erdkern, und den inneren Erdkern hindurch vermutlich anhören?"
+                }
+            ]
+        },
+        {
+            "id": "10129",
+            "category": {
+                "text": "Der Mann, der mit niemandem Chemie hat"
+            },
+            "choices": [
+                {
+                    "text": "Er vermischt sich mit allen Anwesenden.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Er schwebt an die Decke und heizt sich auf.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er verlässt die Show durch die Wand in einen leereren Raum.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sein Kopf explodiert wegen eines starken Überdrucks.",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Statt in eine Diskussion, wird Lanz aber plötzlich Teil einer Diffusion. Was passiert mit ihm?"
+                }
+            ]
+        },
+        {
+            "id": "10130",
+            "category": {
+                "text": "Belanglose Events & noch belanglosere Menschen"
+            },
+            "choices": [
+                {
+                    "text": "Ralf BAUER",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eckart von HIRSCHhausen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Stefan RAAB",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Johann KÖNIG",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wer wird angesichts seines Namens wahrscheinlich als Mittlerer der neun Kegel stehen mussen?"
+                }
+            ]
+        },
+        {
+            "id": "10131",
+            "category": {
+                "text": "Max Mustermann goes Hollywood"
+            },
+            "choices": [
+                {
+                    "text": "Mr. MARTIN SMITH? Den kennen wir hier nicht, tut mir Leid.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mr. STEPHEN MOORE ist leider gerade nicht im Haus.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mr. DAVID MILLER wird Ihnen auch nichts anderes sagen können, als ich.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mr. JOHN DOE ist gerade leider verhindert.",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Ihre Schwiegermutter begibt sich zum Polizeirevier und verlangt dort, sofort den Manager zu sprechen. Bedenkt man, welchen Namen die US-amerikanische Polizei üblicherweise verwendet, wenn die Identität einer männlichen Person unbekannt ist oder absichtlich geheimgehalten werden soll, wie könnte der Rezeptionist Ihrer Schwiegermutter vermutlich antworten?"
                 }
             ]
         }
