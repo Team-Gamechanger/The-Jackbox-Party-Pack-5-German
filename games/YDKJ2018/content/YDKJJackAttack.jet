@@ -5495,19 +5495,19 @@
                     "title": "Wenn du <i>Pescetarier<\/i> bist",
                     "choices": [
                         {
-                            "text": "Honig",
+                            "text": "Zanderfilet",
                             "isCorrect": false
                         },
                         {
-                            "text": "Meeresfrüchte",
+                            "text": "Eisbein",
                             "isCorrect": true
                         },
                         {
-                            "text": "Käse",
+                            "text": "Meeresfrüchte",
                             "isCorrect": false
                         },
                         {
-                            "text": "Zanderfilet",
+                            "text": "Geflügel",
                             "isCorrect": true
                         },
                         {
@@ -5515,7 +5515,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Lachs",
+                            "text": "Krustenbraten",
                             "isCorrect": true
                         }
                     ]
@@ -5569,7 +5569,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Himbeeren",
+                            "text": "Manuka-Honig",
                             "isCorrect": false
                         },
                         {
