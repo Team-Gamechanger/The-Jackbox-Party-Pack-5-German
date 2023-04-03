@@ -5672,7 +5672,7 @@
                     ]
                 },
                 {
-                    "title": "Orden des Phönix",
+                    "title": "<i>Orden des Phönix<\/i>-Mitglieder",
                     "choices": [
                         {
                             "text": "Sirius Black",
@@ -5759,6 +5759,186 @@
                     ]
                 }
             ]
-        }
+        },
+        {
+            "id": "11432",
+            "title": "Ich Zell auf dich!",
+            "prompts": [
+                {
+                    "title": "Teile einer tierischen Zelle",
+                    "choices": [
+                        {
+                            "text": "Lysosomen",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Zellwand",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Eukaryoten",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Nucleolus",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Vakuole",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Nucleus",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Teile einer pflanzlichen Zelle",
+                    "choices": [
+                        {
+                            "text": "Zellwand",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Endoplasmatisches Retikulum",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Vakuole",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Golgi-Apparat",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Lysosomen",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Eukaryoten",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Wörter mit maximal 3 Silben",
+                    "choices": [
+                        {
+                            "text": "Zellbiologie",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Gazelle",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Akkuzelle",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Porzellantasse",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Abwehrzelle",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Exzellent",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Zellen des menschlichen Körpers",
+                    "choices": [
+                        {
+                            "text": "Blutkörperchen",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Akkuzelle",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Gliazelle",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Epithelzelle",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Endothelzelle",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Neuron",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Orte in Deutschland",
+                    "choices": [
+                        {
+                            "text": "Zellingen",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Zell am Ziller",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Zell am See",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Zellertal",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Appenzell Innerrhoden",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Radolfzell am Bodensee",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Ausstattung von Zellen in deutschen JVAs",
+                    "choices": [
+                        {
+                            "text": "Bett",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Schrank",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dusche",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Computer",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Messer",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Toilette",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        },
     ]
 }
