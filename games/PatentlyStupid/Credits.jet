@@ -1,19 +1,25 @@
 {
     "credits": [
      [
+        {"title":"PROJEKTLEITUNG", "lines":["Erizzle"]},
         {"title":"ÜBERSETZUNG", "lines":["Erizzle", "Ebcx92"]},
         {"title":"DEUTSCHE STIMMEN", "lines":["Lara als Lara", "Captain Quint als Louis"]}
     ],
     [
-        {"title":"ZUSÄTZLICHE STIMMEN", "lines":["PilzPassi", "Vincent Fallow", "Erizzle", "Fero", "Reaperette"]}
+        {"title":"SONSTIGE STIMMEN", "lines":["PilzPassi", "Vincent Fallow", "Erizzle", "Fero", "Reaperette"]},
+        {"title":"SYNCHRONREGIE", "lines":["Erizzle"]},
+        {"title":"DIALOGBUCH", "lines":["Erizzle"]}
     ],
     [
         {"title":"GRAFIKEN", "lines":["Erizzle", "Tobias Heinen", "Andrew (BurAndBY)", "AndrewOxton", "Marvin (Marvj13)"]},
         {"title":"ANIMATIONEN", "lines":["Maximilian Frank"]}
     ],
     [
-        {"title":"SYNCHRONREGIE", "lines":["Erizzle"]},
+        {"title":"VORSCHAUVIDEO", "lines":["Just a Yoshi"]},
         {"title":"WEB-ENTWICKLUNG", "lines":["TheDarkSid3r", "Erizzle"]}
+    ],
+    [
+        {"title":"BESONDERER DANK AN", "lines":["Akira896","Jackbox Games","Unsere Patreon-Unterstützer"]}
     ],
     [
         {"title":"LEITUNG & LEITENDER REDAKTEUR", "lines":[ "Warren Arnold" ]},
