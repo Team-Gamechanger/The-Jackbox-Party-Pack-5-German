@@ -3,17 +3,17 @@
     "content": [
         {
             "answerText": "",
-            "scenarioText": "Du und dein bester Freund erweckt einen Flaschengeist. Ihr erhaltet jeweils einen Wunsch. Dein Kumpel spielt dir einen Streich und wünscht sich, dass dein Fuss durch <BLANK> ersetzt wird.",
+            "scenarioText": "Du und dein bester Freund erweckt einen Flaschengeist. Ihr erhaltet jeweils einen Wunsch. Dein Kumpel spielt dir einen Streich und wünscht sich, dass dein Fuß durch <BLANK> ersetzt wird.",
             "decoys": "eine Hand | einen Spielzeug-LKW | ein Rad | einen linken Fuss | einen Hot Dog",
             "x": false,
             "id": 50571,
             "category": "Seid vorsichtig, was ihr euch wünscht",
-            "questionText": "Nutzt du deinen Wunsch um es rückgängig zu machen?"
+            "questionText": "Nutzt du deinen Wunsch, um es rückgängig zu machen?"
         },
         {
             "answerText": "",
             "scenarioText": "Während eines Strandspaziergangs entdeckst du eine Flaschenpost im Sand liegen. Der Brief ist an dich gerichtet und nur mit einem Satz beschrieben: \u201c<BLANK>\u201d.",
-            "decoys": "Ich weiss, wo du wohnst. | Ich kenne deine Geheimnisse. | Ich komme um dich zu holen. | Ich beobachte dich. | Schick Hilfe.",
+            "decoys": "Ich weiß, wo du wohnst. | Ich kenne deine Geheimnisse. | Ich komme, um dich zu holen. | Ich beobachte dich. | Schick Hilfe.",
             "x": false,
             "id": 50507,
             "category": "Flaschenpost",
@@ -21,8 +21,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Du kaufst dir einen Computer und entdeckst, dass eine menschliche Seele darin gefangen ist. Die Seele gehört <BLANK>. Dieses Bewusstsein hat die gesamte CPU übernommen, du benötigst den Computer für die Schule.",
-            "decoys": "Chris Pratt | Abraham Lincoln | Cardi B | Bill Clinton | Kylie Jenner",
+            "scenarioText": "Du kaufst dir einen Computer und entdeckst, dass eine menschliche Seele darin gefangen ist. Die Seele gehört <BLANK>. Dieses Bewusstsein hat die gesamte CPU übernommen, aber du benötigst den Computer für die Schule.",
+            "decoys": "Alexander Bommes | Til Schweiger | Otto Waalkes | Bill Gates | Dieter Bohlen",
             "x": false,
             "id": 50374,
             "category": "Geist in der Maschine",
@@ -30,7 +30,7 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Ein neuer Social-Media Trend ermutigt Menschen ein Video von sich zu posten, bei dem man <BLANK>, um das Bewusstsein für Hepatitis B zu erhöhen. Es ist allgemein bekannt, dass du dich dafür stark einsetzt.",
+            "scenarioText": "Ein neuer Social-Media Trend ermutigt Menschen, ein Video von sich zu posten, bei dem man <BLANK>, um das Bewusstsein für Hepatitis B zu erhöhen. Es ist allgemein bekannt, dass du dich dafür stark einsetzt.",
             "decoys": "eine kleine Menge Hundekot isst | den Kopf in die Toilette steckt | eine Treppe herunterfällt | singt | Gewichte hebt",
             "x": false,
             "id": 50402,
@@ -39,7 +39,7 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Du bist ein Austausch-Schüler auf einem anderen Planeten. Du lebst bei einer Familie, die im Fokus der Öffentlichkeit steht. Es ist für einen Gast üblich <BLANK>, bevor er ins Bett geht. Es herrschen grosse Spannungen zwischen euren beiden Planeten.",
+            "scenarioText": "Du bist ein Austausch-Schüler auf einem anderen Planeten. Du lebst bei einer Familie, die im Fokus der Öffentlichkeit steht. Es ist für einen Gast üblich, <BLANK>, bevor er ins Bett geht. Es herrschen grosse Spannungen zwischen euren beiden Planeten.",
             "decoys": "nackt zu tanzen | Wasser mit seinem Anus zu trinken | Schnecken zu essen | eine Meile zu laufen | den Boden abzulecken",
             "x": false,
             "id": 50742,
@@ -48,8 +48,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Es existiert ein Buch: darin sind alle Komplimente über dich niedergeschrieben, zusammen mit der Person die sie getätigt hat. Für jede Minute, die du in das Buch blickst, musst du eine Minute <BLANK> betrachten.",
-            "decoys": "Videos von Autounfällen | eine Collage von Kuhgeburten | Ein Buch über alle Beleidigungen über dich | Maden | das Facebook-Profil deiner Ex",
+            "scenarioText": "Es existiert ein Buch: darin sind alle Komplimente über dich niedergeschrieben, zusammen mit der Person die sie getätigt hat. Für jede Minute, die du in dem Buch liest, musst du eine Minute <BLANK> betrachten.",
+            "decoys": "Videos von Autounfällen | eine Collage von Kuhgeburten | ein Buch über alle Beleidigungen über dich | Maden | das Facebook-Profil deiner Ex",
             "x": true,
             "id": 50858,
             "category": "Die Bibel der Anerkennung",
@@ -57,7 +57,7 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Du hast die Möglichkeit das Wort \u201ctinderjährig\u201d aus dem Deutschen Wörterbuch zu streichen. Es wird nie wieder eine Erwähnung finden. Allerdings wird es durch einen neuen populären Begriff ersetzt: \u201c<BLANK>!\u201d",
+            "scenarioText": "Du hast die Möglichkeit, das Wort \u201ctinderjährig\u201d aus dem Deutschen Wörterbuch zu streichen. Es wird nie wieder eine Erwähnung finden. Allerdings wird es durch einen neuen populären Begriff ersetzt: \u201c<BLANK>\u201d.",
             "decoys": "Buh-pah | Schnibbel Schnapp | Arghs Bargs | Sabbel Labbel | Nunkie Dunkie",
             "x": false,
             "id": 50428,
@@ -66,7 +66,7 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Du wirst gebeten für ein Portrait zu posieren, gemalt vom berühmtesten Maler der Welt. Das Bild zeigt dich <BLANK>. Es wird schliesslich im Louvre zur Schau gestellt.",
+            "scenarioText": "Du wirst gebeten, für ein Portrait zu posieren, gemalt vom berühmtesten Maler der Welt. Das Bild zeigt dich <BLANK>. Es wird schließlich im Louvre zur Schau gestellt.",
             "decoys": "nackt, eine Frucht haltend | auf dem WC | wie du zusammengeschlagen wirst | weinend | niesend",
             "x": false,
             "id": 50355,
@@ -76,7 +76,7 @@
         {
             "answerText": "",
             "scenarioText": "Du bist glücklich verlobt, doch machst dir Sorgen um die Kosten der Hochzeit. Ein wohlhabender Geldgeber taucht aus dem Nichts auf, und macht dir einen Deal. Er bezahlt deine Hochzeit, bestimmt aber den Ort: <BLANK>.",
-            "decoys": "ein Mc Donalds | ein Friedhof | ein Bus | ein Fischerboot | Live-TV",
+            "decoys": "ein McDonald\u2019s | ein Friedhof | ein Bus | ein Fischerboot | im Live-TV",
             "x": false,
             "id": 50326,
             "category": "Auf Zehenspitzen vor den Altar treten",
@@ -84,8 +84,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Eine kleinere Sekte zieht in die Stadt, nicht weit entfernt von dir. Anhand deinen Erfahrungen sind sie eine ehrliche, respektvolle und freundliche Gruppe… doch sie beten jeden Tag eine Stunde zu/zur <BLANK>.",
-            "decoys": "einer Schaufensterpuppe | Kai Pflaume | einer Hunde-Taxidermie | Luftverschmutzung | Jeff Dunham",
+            "scenarioText": "Eine kleine Sekte zieht in die Stadt, nicht weit entfernt von dir. Anhand deinen Erfahrungen sind sie eine ehrliche, respektvolle und freundliche Gruppe… doch sie beten jeden Tag eine Stunde zu <BLANK>.",
+            "decoys": "einer Schaufensterpuppe | Kai Pflaume | einer Hunde-Taxidermie | Hundewelpen",
             "x": true,
             "id": 51722,
             "category": "Frieden schliessen",
@@ -93,8 +93,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Du hast dein Traumhaus gefunden und das noch richtig günstig. Bei der Suche nach dem Haken findest du herraus, dass ein/e <BLANK> im Keller ist.",
-            "decoys": "frecher Geist | ein russischer Mob | ein nie erlischendes Feuer | Stinktier-Familie | Nachtklub",
+            "scenarioText": "Du hast dein Traumhaus gefunden und das noch richtig günstig. Bei der Suche nach dem Haken findest du heraus, dass ein/e <BLANK> im Keller ist.",
+            "decoys": "frecher Geist | russischer Mob | nie erlischendes Feuer | Stinktier-Familie | Nachtklub",
             "x": false,
             "id": 50496,
             "category": "Die Vorsicht vor dem Kauf",
@@ -102,7 +102,7 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Am Todesbett bietet dir deine Grossmutter ein Gemälde an, dass seit Generationen im Besitz der Familie ist. Es zeigt <BLANK>. Ihre letzten Worte an dich sind: \u201cBitte hänge es im Wohnzimmer auf.\u201d",
+            "scenarioText": "Am Todesbett bietet dir deine Großmutter ein Gemälde an, das seit Generationen im Besitz der Familie ist. Es zeigt <BLANK>. Ihre letzten Worte an dich sind: \u201cBitte hänge es im Wohnzimmer auf.\u201d",
             "decoys": "sie nackt | Jesus mit einem Maschinengewehr | sie händeschüttelnd mit Hitler | viele, viele Clowns | die Geburt deines Vaters",
             "x": true,
             "id": 51337,
@@ -111,21 +111,21 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Du sitzt vor einem Fernseher mit fünf Sendern. Vier sind Reise-Sender; der Fünfte zeigt <BLANK>. Sobald du den Fernseher anschaltest, wirst du sofort zu einem vollbezahlten Wochend-Urlaub gebeamt, der dem Ort am Bildschirm entspricht.",
-            "decoys": "Gefängnisleben | Marianengraben | Zweiter Weltkrieg | Tal des Todes | Verkehrsstau",
+            "scenarioText": "Du sitzt vor einem Fernseher mit fünf Sendern. Vier sind Reisesender; der fünfte zeigt <BLANK>. Sobald du den Fernseher anschaltest, wirst du sofort zu einem vollbezahlten Wochendurlaub gebeamt, der dem Ort am Bildschirm entspricht.",
+            "decoys": "das Gefängnisleben | den Marianengraben | den Zweiten Weltkrieg | das Tal des Todes | Verkehrsstau",
             "x": false,
             "id": 51741,
-            "category": "TV-Sender Roulette",
+            "category": "TV-Sender-Roulette",
             "questionText": "Schaltest du ein?"
         },
         {
             "answerText": "",
-            "scenarioText": "Immer wenn du dich nackt ausziehst, wirst du unsichtbar. Doch, wenn du das Wort \u201c<BLANK>\u201d hörst, wirst du sofort sichtbar.",
-            "decoys": "Lachs | Khakis | Wrestling | Kaffee | Ambulanz",
+            "scenarioText": "Immer, wenn du dich nackt ausziehst, wirst du unsichtbar. Doch wenn du das Wort \u201c<BLANK>\u201d hörst, wirst du sofort sichtbar.",
+            "decoys": "Lachs | Kakis | Wrestling | Kaffee | Ambulanz",
             "x": true,
             "id": 50575,
             "category": "Eine klare Entscheidung",
-            "questionText": "Nützt du deine Kraft um Arbeitskollegen zu belauschen?"
+            "questionText": "Nutzt du deine Kraft, um Arbeitskollegen zu belauschen?"
         },
         {
             "answerText": "",
@@ -138,8 +138,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Du befindest dich auf einem Gedenkgottesdienst für einen Mann, den du nicht kennst. Du wirst gebeten, ein paar Worte zu sprechen. Alles, was du über den Verstorbenen weisst, ist, dass <BLANK>. Niemand steht auf.",
-            "decoys": "er musizierte | er LKW-Fahrer war | er im Gefägnis war | er Frösche liebte | seine Lieblingsfarbe Orange war",
+            "scenarioText": "Du befindest dich auf einem Gedenkgottesdienst für einen Mann, den du nicht kennst. Du wirst gebeten, ein paar Worte zu sprechen. Alles, was du über den Verstorbenen weißt, ist, dass <BLANK>. Niemand steht auf.",
+            "decoys": "er musizierte | er LKW-Fahrer war | er im Gefängnis war | er Frösche liebte | seine Lieblingsfarbe Orange war",
             "x": true,
             "id": 50794,
             "category": "Überraschungsrede",
@@ -147,8 +147,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Dein Überlandflug ist überbucht. Überraschenden bietet ein Flugbegleiter <BLANK> für die erste Person, die ihren Platz abgibt. Du befindest dich auf dem Weg zur Hochzeit deines Cousin.",
-            "decoys": "1000 Euro | ein gebrauchtes Auto | Musical-Tickets | All-You-Can-Eat Chicken Wings | ein iPad Pro",
+            "scenarioText": "Dein Überlandflug ist überbucht. Überraschenden bietet ein Flugbegleiter <BLANK> für die erste Person, die ihren Platz abgibt. Du befindest dich auf dem Weg zur Hochzeit deines Cousins.",
+            "decoys": "1000 Euro | ein gebrauchtes Auto | Musical-Tickets | All-You-Can-Eat-Chicken Wings | ein iPad Pro",
             "x": false,
             "id": 50403,
             "category": "Der überbuchte Flug",
@@ -156,8 +156,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "In deinem Kopf befindet sich ein Chip, der es ermöglicht die Träume eines Prominenten zu träumen. Dein Star ist <BLANK>. Den Chip entfernen zu lassen, bedeutet nur noch langweilige Träume zu haben.",
-            "decoys": "R. Kelly | Jim Carrey | Thilo Sarrazin | \u201cWeird\u201d Al Yankovic | Jared Leto",
+            "scenarioText": "In deinem Kopf befindet sich ein Chip, der es ermöglicht, die Träume eines Prominenten zu träumen. Dein Star ist <BLANK>. Den Chip entfernen zu lassen, bedeutet nur noch langweilige Träume zu haben.",
+            "decoys": "Günther Jauch | Tim Bendzko | Udo Lindenberg | Olaf Scholz | Manuel Neuer",
             "x": true,
             "id": 51105,
             "category": "Träume sind Schäume",
@@ -174,17 +174,17 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Bei jedem Schiss kommt eine 50 Euro Note aus deinem Hintern. Leider auch <BLANK>.",
-            "decoys": "Drei Esslöffel mit scharfer Sauce | jede Menge Blut | ein Ping-Pong Ball | ein Flaschenverschluss | ein Garnknäudel",
+            "scenarioText": "Bei jedem Schiss kommt ein 50-Euro-Schein aus deinem Hintern. Leider aber auch <BLANK>.",
+            "decoys": "drei Esslöffel mit scharfer Sauce | jede Menge Blut | ein Ping-Pong-Ball | ein Flaschenverschluss | ein Garnknäudel",
             "x": false,
             "id": 51441,
-            "category": "Geldscheisser",
-            "questionText": "Erträgst du die Schmerzen für mindestens ein Monat, bevor du zum Arzt gehst?"
+            "category": "Geldscheißer",
+            "questionText": "Erträgst du die Schmerzen für mindestens einen Monat, bevor du zum Arzt gehst?"
         },
         {
             "answerText": "",
-            "scenarioText": "Du bist bei deiner Schulabschlussfeier schwer gestürzt. Wenn du aufstehst, dein eigenes Gesicht ohrfeigst und \u201c<BLANK>!\u201d rufst, besteht eine 90%-ige Chance die Erinnerungen der Anwesenden zu löschen.",
-            "decoys": "ICH BIN EIN KLUGES BABY | PAPA UMGEFALLEN | MEIN BUM BUM MACHT AUA | IHR HABT ES HIER ZUERST GESEHEN | KEINE BILDER, KEINE ZEUGEN",
+            "scenarioText": "Du bist bei deiner Schulabschlussfeier schwer gestürzt. Wenn du aufstehst, dein eigenes Gesicht ohrfeigst und \u201c<BLANK>!\u201d rufst, besteht eine 90%-ige Chance, die Erinnerungen der Anwesenden zu löschen.",
+            "decoys": "ICH BIN EIN KLUGES BABY | PAPA IST UMGEFALLEN | MEIN BUM BUM MACHT AUA | IHR HABT ES HIER ZUERST GESEHEN | KEINE BILDER, KEINE ZEUGEN",
             "x": false,
             "id": 50984,
             "category": "Schrei-Therapie",
@@ -192,8 +192,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Wegen eines Fehlers, im System deines selbstfahrenden Autos, fährt dich das Fahrzeug direkt zu <BLANK>. Dieser Standort wurde zu deinem Favoriten markiert. Deine Mutter sitzt mit dir im PKW. Wenn du eingreifst, wird das Auto von der Fahrbahn abkommen.",
-            "decoys": "einem Sex-Shop | eine Abtreibungsklinik | einem Strip Club | einem Piercing Shop | einem Dixie-Klo",
+            "scenarioText": "Wegen eines Fehlers im System deines selbstfahrenden Autos fährt dich das Fahrzeug direkt zu <BLANK>. Dieser Standort wurde zu deinem Favoriten markiert. Deine Mutter sitzt mit dir im PKW. Wenn du eingreifst, wird das Auto von der Fahrbahn abkommen.",
+            "decoys": "einem Sex-Shop | einer Abtreibungsklinik | einem Strip Club | einem Piercing Shop | einem Dixie-Klo",
             "x": true,
             "id": 51126,
             "category": "Erlaubnis zu fahren",
@@ -202,7 +202,7 @@
         {
             "answerText": "",
             "scenarioText": "Du entdeckst ein Cupacabra und willst ein Foto machen, doch dein Handyspeicher ist voll. Um genug Speicher frei zu bekommen, musst du das einzige Bild von/vom <BLANK> löschen.",
-            "decoys": "deinen Ur-Grosseltern | einem UFO | Treffen mit Tom Hanks | deinem Haustier aus der Kindheit",
+            "decoys": "deinen Urgrosseltern | einem UFO | Treffen mit Tom Hanks | deinem Haustier aus der Kindheit",
             "x": false,
             "id": 50573,
             "category": "Monströser Zwang",
