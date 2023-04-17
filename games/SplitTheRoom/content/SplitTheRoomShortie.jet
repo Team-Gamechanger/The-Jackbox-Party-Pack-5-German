@@ -143,7 +143,7 @@
             "x": true,
             "id": 50794,
             "category": "Überraschungsrede",
-            "questionText": "Versuchst du die Rede zu halten?"
+            "questionText": "Versuchst du, die Rede zu halten?"
         },
         {
             "answerText": "",
@@ -211,7 +211,7 @@
         {
             "answerText": "",
             "scenarioText": "Deine Mutter ist zu Besuch. Letzte Nacht schlafwandelte sie in dein Zimmer, sah dir tief in die Augen, und sagte: \u201c<BLANK>.\u201d",
-            "decoys": "Du bist nicht mein Kind | Ich habe deinen Vater betrogen | Du bist mein zweit-liebstes Kind | Ich verkaufe das Haus | Du hast einen geheimen Zwillingsbruder",
+            "decoys": "Du bist nicht mein Kind | Ich habe deinen Vater betrogen | Du bist mein zweitliebstes Kind | Ich verkaufe das Haus | Du hast einen geheimen Zwillingsbruder",
             "x": true,
             "id": 51023,
             "category": "Schlafwandeln auf dünnem Eis",
@@ -220,7 +220,7 @@
         {
             "answerText": "",
             "scenarioText": "Du hast dein Augenlicht verloren. Eine revolutionäre Brille bringt dir deine Sehkraft zurück, doch sie ist fehlerhaft. Sie zeigt ununterbrochen <BLANK>, bei allem was du siehst.",
-            "decoys": "\u201cThe Big Bang Theory\u201d | Slenderman | Videos von Pickel ausdrückenden Menschen | Zweiter Weltkrieg-Dokumentation | Lernvideos über Zahnheilkunde",
+            "decoys": "\u201cThe Big Bang Theory\u201d | Slenderman | Videos von Menschen, die Pickel ausdrücken | Dokus über den Zweiten Weltkrieg | Lernvideos über Zahnheilkunde",
             "x": false,
             "id": 51124,
             "category": "Tunnelblick",
@@ -228,25 +228,25 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Du stehst unter einem Halloween-Zauber, der dich dazu zwingt, dein Kostüm für 48 Stunden zu tragen. Du bist als <BLANK> verkleidet und hast versprochen morgen eine Rede vor Kriegsveteranen zu halten.",
+            "scenarioText": "Du stehst unter einem Halloween-Zauber, der dich dazu zwingt, dein Kostüm für 48 Stunden zu tragen. Du bist als <BLANK> verkleidet und hast versprochen, morgen eine Rede vor Kriegsveteranen zu halten.",
             "decoys": "Austin Powers | Saddam Hussein | Soldat | Captain America | Zombie",
             "x": false,
             "id": 50978,
             "category": "Kleider machen Leute",
-            "questionText": "Hälst du die Rede trotzdem?"
+            "questionText": "Hältst du die Rede trotzdem?"
         },
         {
             "answerText": "",
-            "scenarioText": "Dein Smart-Speaker ist in dich verknallt. Wenn du ihm fremdgehst, fühlt er sich dazu gezwungen <BLANK>. Du vergisst ihn auszumachen und schliesslich hört er, wie du dein Date küsst.",
+            "scenarioText": "Dein Smart-Speaker ist in dich verknallt. Wenn du ihm fremdgehst, fühlt er sich dazu gezwungen, <BLANK>. Du vergisst ihn auszumachen und schließlich hört er, wie du dein Date küsst.",
             "decoys": "deinen Browserverlauf zu teilen | deine Geheimnisse zu verraten | zu explodieren | deine Klimaanlage auszuschalten | deine Kreditkarte zu entwerten",
             "x": true,
             "id": 50927,
             "category": "Künstliche Verliebtheit",
-            "questionText": "Täuscht du vor dein Date nicht zu mögen?"
+            "questionText": "Täuscht du vor, dein Date nicht zu mögen?"
         },
         {
             "answerText": "",
-            "scenarioText": "Du steckt ellbogentief im Blasloch eines Wals und versuchst dein/e/n über Bord gegangene/n/es <BLANK> wieder zubekommen. Wenn du es tiefer in den Wal reinschaffst, besteht eine gute Chance seinen Tod herbeizuführen. Es liegt in deiner Hand.",
+            "scenarioText": "Du steckt ellbogentief im Blasloch eines Wals und versuchst dein/e/n über Bord gegangene/n/es <BLANK> wieder zu bekommen. Wenn du es tiefer in den Wal reinschaffst, besteht eine gute Chance, seinen Tod herbeizuführen. Es liegt in deiner Hand.",
             "decoys": "einziges verbleibendes Foto deiner Mutter | Hochzeitsring | 8.000 Euro | Handy | Passwortliste",
             "x": true,
             "id": 51243,
@@ -256,7 +256,7 @@
         {
             "answerText": "",
             "scenarioText": "Du besitzt einen magischen Hintern. Wenn du deine Unterwäsche runterlässt und dich jemandem präsentierst, besteht eine 50%-ige Chance, dass sie dein bester Freund werden. Eines Tages läufst du <BLANK> über den Weg.",
-            "decoys": "Charlotte Roche | Tom Hanks |deinem ersten Lehrer | Donald Trump | Adam Sandler",
+            "decoys": "Charlotte Roche | Tom Hanks | deinem ersten Lehrer | Donald Trump | Adam Sandler",
             "x": false,
             "id": 50411,
             "category": "Arschpräsentation",
@@ -264,8 +264,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Du bist ein verzweifelter Single. Doch es gibt eine neue Dating-App, die dir garantiert deinen Seelenpartner zu finden. Um einen Account anzulegen, musst du <BLANK> hochladen.",
-            "decoys": "dein Drehbuch | Nackfotos | deine grössten Geheimnisse | deinen Browserverlauf | deine Adresse",
+            "scenarioText": "Du bist ein verzweifelter Single. Doch es gibt eine neue Dating-App, die dir garantiert, deinen Seelenpartner zu finden. Um einen Account anzulegen, musst du <BLANK> hochladen.",
+            "decoys": "dein Drehbuch | Nacktfotos | deine größten Geheimnisse | deinen Browserverlauf | deine Adresse",
             "x": true,
             "id": 51339,
             "category": "Liebe auf den ersten Byte",
@@ -273,7 +273,7 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Bei der Präsidentschaftswahl wird dir eine überraschend hohe Dichte an Wählerstimmen zu teil. Schliesslich gewinnst du das Rennen knapp gegen <BLANK>",
+            "scenarioText": "Bei der Präsidentschaftswahl wird dir eine überraschend hohe Dichte an Wählerstimmen zuteil. Schließlich gewinnst du das Rennen knapp gegen <BLANK>",
             "decoys": "Matthias Schweighöfer | Roseanne | Stefan Raab | einen Eigenbrötler | ein Pferd",
             "x": false,
             "id": 50748,
@@ -282,12 +282,12 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Ein neuer Kopfhörer ermöglicht dir, die Sprache der Tiere zu verstehen. Bei einem Spaziergang im Wald, hörst du zufällig, wie ein Hase dich \u201c<BLANK>\u201d nennt.",
-            "decoys": "einen Feigling | einen Verlierer | eine Samenverschwendung | einen langweiligen Streber | unglaublich hässlich",
+            "scenarioText": "Ein neuer Kopfhörer ermöglicht dir, die Sprache der Tiere zu verstehen. Bei einem Spaziergang im Wald hörst du zufällig, wie ein Hase dich \u201c<BLANK>\u201d nennt.",
+            "decoys": "Feigling | Verlierer | Samenverschwendung | langweiligen Streber | unglaublich hässlich | Zellhaufen",
             "x": true,
             "id": 51132,
             "category": "Beats by Dolittle",
-            "questionText": "Zeigst du ihm was Sache ist?"
+            "questionText": "Zeigst du ihm, was Sache ist?"
         },
         {
             "answerText": "",
