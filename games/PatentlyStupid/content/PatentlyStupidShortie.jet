@@ -86,12 +86,6 @@
             "prompt": "Ich weiss nie, was ich für <BLANK> kaufen soll!"
         },
         {
-            "decoys": "rede | die Windeln meines Babys wechsele | einen Film gucke",
-            "x": false,
-            "id": 53734,
-            "prompt": "Ich werde ständig gestört, wenn ich <BLANK>!"
-        },
-        {
             "decoys": "Hintern | Katze | Turnhalle",
             "x": false,
             "id": 53733,
