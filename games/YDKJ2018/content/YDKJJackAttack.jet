@@ -6090,7 +6090,7 @@
                     ]
                 },
                 {
-                    "title": "Esoterische Programmiersprachen",
+                    "title": "Esoterische Sprachen",
                     "choices": [
                         {
                             "text": "Piet",
@@ -6115,6 +6115,366 @@
                         {
                             "text": "C#",
                             "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "11434",
+            "title": "Augen auf bei der Berufswahl",
+            "prompts": [
+                {
+                    "title": "Beim Gericht",
+                    "choices": [
+                        {
+                            "text": "Gerichtsvollzieher",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Justizvollzugsbeamter",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Justizwachtmeister",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Kriminaloberkommissar",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Amtsanwalt",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Brandinspektor",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Unter Wasser",
+                    "choices": [
+                        {
+                            "text": "Meeresbiologe",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Unterwasserterritorialtechniker",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Golfballtaucher",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Ichthyologe",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Quallenkundler",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Unterwasserarchäologe",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Bei der Bundeswehr",
+                    "choices": [
+                        {
+                            "text": "Gebirgsjäger",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Avioniker",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Oberflächenschichter",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Lufthansa-Pilot",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Werkstoffprüfer",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Feinwerkmechaniker",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Im Parlament",
+                    "choices": [
+                        {
+                            "text": "Zahntechniker",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Platzmeister",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Chemielaborant",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Förster",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Bürgermeister",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Saaldiener",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Bei der Schiffahrt",
+                    "choices": [
+                        {
+                            "text": "Gleisbauer",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Fischwirt",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Wasserbauer",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Nautiker",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Technischer Systemplaner",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Zerspannungsmechaniker",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "In der Natur",
+                    "choices": [
+                        {
+                            "text": "Agrarwissenschaftler",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Systemgastronom",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Forstwirt",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Winzer",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Anthropologe",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Konditor",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "11435",
+            "title": "Daran können Sie mich erkennen!",
+            "prompts": [
+                {
+                    "title": "Einen Hut... normalerweise",
+                    "choices": [
+                        {
+                            "text": "Ash Ketchum",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Jack Sparrow",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Patrick Star",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Monkey D. Ruffy",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Waluigi",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Mario",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Eine Brille... in der Regel",
+                    "choices": [
+                        {
+                            "text": "Graf Zahl",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Harry Potter",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Peter Griffin",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Stacy Hirano",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Lawrence Flynn-Fletcher",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dagobert Duck",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Schuhe... üblicherweise",
+                    "choices": [
+                        {
+                            "text": "Charlie Brown",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Nala",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Shrek",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dora",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Siegbert Schnösel",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Blaubarschbube",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Eine Krawatte... für gewöhnlich",
+                    "choices": [
+                        {
+                            "text": "Cranky Kong",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Agent 47",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Harry Hart",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Michael James Ross",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "James Bond",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Phoenix Wright",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Eine Krone oder Tiara... meistens",
+                    "choices": [
+                        {
+                            "text": "Mulan",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Rosalina",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Wonder Woman",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Sailor Moon",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Nala",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Aragorn II.",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Ein Umhang... überwiegend",
+                    "choices": [
+                        {
+                            "text": "Batman",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Ganondorf",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Kim Possible",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Doctor Strange",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "He-Man",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "She-Ra",
+                            "isCorrect": true
                         }
                     ]
                 }
