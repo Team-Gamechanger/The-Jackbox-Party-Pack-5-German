@@ -6480,5 +6480,365 @@
                 }
             ]
         },
+        {
+            "id": "11436",
+            "title": "Die Summe aller Teile",
+            "prompts": [
+                {
+                    "title": "Augapfel",
+                    "choices": [
+                        {
+                            "text": "Pupille",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Helix",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Kornea",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Cochlea",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Retina",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Linse",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Infinity Gauntlet",
+                    "choices": [
+                        {
+                            "text": "Seelenstein",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Zeitstein",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Wissensstein",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Machtstein",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Vermächtnisstein",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Realitätsstein",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Atom",
+                    "choices": [
+                        {
+                            "text": "Patron",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Proton",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Elektron",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Newton",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Crouton",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Neutron",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Weibliches Fortpflanzungssystem",
+                    "choices": [
+                        {
+                            "text": "Uterus",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Stamen",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Zervix",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Ovar",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Salpinx",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Virginia",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Guardians of the Galaxy",
+                    "choices": [
+                        {
+                            "text": "Thor Odinson",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Deadpool",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Wolverine",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Rocket Raccoon",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Peter Quill",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Doctor Who",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Ein Whopper",
+                    "choices": [
+                        {
+                            "text": "eine Viertelpfund Rinderhackbulette",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "saure Gurken",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Schmelzkäse aus Goudazubereitung",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Röstzwiebeln",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "geheime Whopper-Burgersauce",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Zwiebeln",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "11437",
+            "title": "Im Titel verborgen",
+            "prompts": [
+                {
+                    "title": "Enthält ein Pronomen",
+                    "choices": [
+                        {
+                            "text": "<i>Es<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Dinner für Spinner<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Schindlers Liste<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Ich - Einfach unverbesserlich<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>James Bond 007 - Der Spion, der mich liebte<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Miss Daisy und ihr Chauffeur<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Enthält ein Verb",
+                    "choices": [
+                        {
+                            "text": "<i>Der König der Löwen<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Spiel mir das Lied vom Tod<i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Jäger des verlorenen Schatzes<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Einer flog über das Kuckucksnest<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Drive<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Lawrence von Arabien<\/i>",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Enthält ein Adjektiv",
+                    "choices": [
+                        {
+                            "text": "<i>Gladiator<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Der schmale Grat<i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Die üblichen Verdächtigen<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Stirb langsam<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Ziemlich beste Freunde<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Der Pianist<\/i>",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Enthält ein Rammstein-Lied",
+                    "choices": [
+                        {
+                            "text": "<i>In Time - Deine Zeit läuft ab<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Prestige - Die Meister der Magie<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Operation Haifisch - Lautlos kommt der Tod<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Der eiskalte Engel<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Kein Ort ohne Dich<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Botschafter der Angst<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Enthält ein Säugetier",
+                    "choices": [
+                        {
+                            "text": "<i>Der Fuchs<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Findet Nemo<i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Disneys Micky Maus Wunderhaus<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Crocodile Dundee - Ein Krokodil zum Küssen<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Rain Man<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Mein Freund, der Delfin 2<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Enthält einen Apostel",
+                    "choices": [
+                        {
+                            "text": "<i>San Andreas Quake<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Peter Hase<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Jesus liebt mich<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Der Uhrmacher von St. Paul<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Thomas und seine Freunde<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Love, Simon<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        },
     ]
 }
