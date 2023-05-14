@@ -6840,5 +6840,185 @@
                 }
             ]
         },
+        {
+            "id": "11438",
+            "title": "Die Qual der Wahl",
+            "prompts": [
+                {
+                    "title": "Ein Schwert",
+                    "choices": [
+                        {
+                            "text": "König Arthus",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Harry Potter",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Anakin Skywalker",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Batman",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Zombifizierter Piglin",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Godric Gryffindor",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Pfeil und Bogen",
+                    "choices": [
+                        {
+                            "text": "Katniss Everdeen",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Zorro",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Batman",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Robin Hood",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Legolas",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Prinzessin Merida",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Messer",
+                    "choices": [
+                        {
+                            "text": "Michael Myers",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Leatherface",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Ghostface",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Hackfleisch hassender Zerhacker",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Romeo",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Julia",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Friedlicher Protest",
+                    "choices": [
+                        {
+                            "text": "Rosa Parks",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Mahatma Gandhi",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Serverus Snape",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Napoleon",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Martin Luther King",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Richard Löwenherz",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Ein Stab",
+                    "choices": [
+                        {
+                            "text": "Leonardo",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Michelangelo",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Avatar Aang",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Raphael",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Gandalf",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Alastor 'Mad-Eye' Moody",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Ein mächtiger Ring",
+                    "choices": [
+                        {
+                            "text": "Professor Severus Snape",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Frodo Beutlin",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Robin Hood",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Samara Morgan",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Green Lantern",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Indiana Jones",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
     ]
 }
