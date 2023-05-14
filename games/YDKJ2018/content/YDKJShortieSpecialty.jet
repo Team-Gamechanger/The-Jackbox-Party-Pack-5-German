@@ -572,7 +572,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wird in einem Film von Ilja Richter gespielt."
+                    "text": "Wird von Ilja Richter gespielt."
                 }
             ]
         },
@@ -768,7 +768,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "\u201cmikrowellen-strahlung gefährlich\u201d<br>"
+                    "text": "\u201cmikrowellen strahlung gefährlich\u201d<br>"
                 },
                 {
                     "timing": "S + 2.53",
@@ -816,7 +816,7 @@
                 },
                 {
                     "timing": "S + 2.53",
-                    "text": "\u201cunterhalt von rico für maik MIT AI einfordern\u201d<br>"
+                    "text": "\u201cpersonen parodieren kurs\u201d<br>"
                 },
                 {
                     "timing": "S + 5.50",
@@ -1080,7 +1080,7 @@
                 },
                 {
                     "timing": "S + 2.53",
-                    "text": "\u201cbaugenehmigung für ein fliegendes schloss\u201d<br>"
+                    "text": "\u201cbaugenehmigung für ein schloss\u201d<br>"
                 },
                 {
                     "timing": "S + 5.50",
@@ -1111,7 +1111,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Joko Winterscheidt",
+                    "text": "Daniel Aminati",
                     "isCorrect": false
                 }
             ],
@@ -1216,7 +1216,7 @@
                 },
                 {
                     "timing": "S + 5.50",
-                    "text": "\u201cudo lindenberg tinder\u201d<br>"
+                    "text": "\u201cvegane rezepte\u201d<br>"
                 },
                 {
                     "timing": "S + 10.16",
