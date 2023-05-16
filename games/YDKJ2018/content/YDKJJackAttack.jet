@@ -7020,5 +7020,185 @@
                 }
             ]
         },
+        {
+            "id": "11439",
+            "title": "Ein-Wort-Filmzusammenfassungen",
+            "prompts": [
+                {
+                    "title": "Roboter",
+                    "choices": [
+                        {
+                            "text": "<i>Real Steel<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>WALL-E<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>A World Beyond<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Monsters vs. Aliens<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Unknown User<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Die Verurteilten<\/i>",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Zauberei",
+                    "choices": [
+                        {
+                            "text": "<i>Harry Potter und der Halbblut-Prinz<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>The Mentalist<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Nachts im Museum<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>The Illusionist<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Das wandelnde Schloss<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Die Unfassbaren - Now You See Me<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Michael Fassbender",
+                    "choices": [
+                        {
+                            "text": "<i>Harry Potter und der Orden des Phönix<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>12 Years of Slave<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>V wie Vendetta<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>300<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Inglourious Basterds<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Assassin's Creed<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Singen!",
+                    "choices": [
+                        {
+                            "text": "<i>Coda<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Dirty Dancing<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Cats<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Bohemian Rhapsody<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Mr. Bean macht Ferien<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Cars<\/i>",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Komödie",
+                    "choices": [
+                        {
+                            "text": "<i>Wallace & Gromit: Auf der Jagd nach dem Riesenkaninchen<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Die nackte Kanone 33 ⅓<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>The Lost City - Das Geheimnis der verlorenen Stadt<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Hangover<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Der Wixxer<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>John Wick<\/i>",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Auftragsmörder",
+                    "choices": [
+                        {
+                            "text": "<i>John Wick<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Saw<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Léon - Der Profi<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Nachts im Museum<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Pulp Fiction<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Sicario<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
