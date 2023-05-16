@@ -1384,7 +1384,545 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Da Sie vor kurzem \u201c42 Handtücher\u201d gekauft haben, dachten wir, Sie interessieren sich vielleicht für:"
+                    "text": "Da Sie vor kurzem \u201c42 Handtücher\u201d gekauft haben, interessieren Sie sich vielleicht für:"
+                }
+            ]
+        },
+        {
+            "id": "10951",
+            "category": {
+                "text": "Der Streamingdienst für Überflieger"
+            },
+            "choices": [
+                {
+                    "text": "<i>Shaun das Schaf<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Inspector Barnaby<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>The Office<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Sherlock<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie vor Kurzem nach einer Wegbeschreibung von Bristol nach Köln gesucht haben, spricht Sie vielleicht diese Sendung an:"
+                }
+            ]
+        },
+        {
+            "id": "10952",
+            "category": {
+                "text": "Krank vor Konsumentenzufriedenheit"
+            },
+            "choices": [
+                {
+                    "text": "<i>Auf der Reise ins Licht<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Ich will immer wieder … dieses Fieber spür\u2019n<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Herzbeben<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Das Karussell in meinem Bauch<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie vor Kurzem großes Interesse an dem Cotard-Syndrom gezeigt haben, könnte Sie vielleicht dieses Lied von Helene Fischer interessieren:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10953",
+            "category": {
+                "text": "Binjpipe bietet für jeden etwas"
+            },
+            "choices": [
+                {
+                    "text": "<i>Die Legende der Wächter<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Das Schweigen der Lämmer<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Pakt der Wölfe<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Gretel & Hänsel<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie familienfreundliche Filme ab 6 Jahren mögen, könnte Ihnen vielleicht dieser Film gefallen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10954",
+            "category": {
+                "text": "Märchenhaftes Preis-Leistungs-Verhältnis"
+            },
+            "choices": [
+                {
+                    "text": "Die Gründung eines Wasserballteams",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Gründung eines Volleyballteams",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Gründung eines Handballteams",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Gründung eines Basketballteams",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie die Märchen <i>Sechse kommen durch die ganze Welt<\/i>"
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "und <i>Die sechs Schwäne<\/i> der Gebrüder Grimm mögen, könnte Ihnen vielleicht folgendes gefallen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10955",
+            "category": {
+                "text": "Wir wissen, was Sie am dringendsten brauchen"
+            },
+            "choices": [
+                {
+                    "text": "<i>Game of Thrones<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>The Walking Dead<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Westworld<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Breaking Bad<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie Serien genießen, die auf Filmen basieren, könnte Ihnen vielleicht diese Serie gefallen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10956",
+            "category": {
+                "text": "Sagenhafter Kundenservice"
+            },
+            "choices": [
+                {
+                    "text": "Die Sage des König Artus",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Sage des Germanen Arminius",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Sage des König Krösus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Nibelungensage",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Weil Sie <i>Die Ritter der Kokosnuß<\/i> gesehen haben, könnte Ihnen vielleicht diese Erzählung gefallen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10957",
+            "category": {
+                "text": "Wir kennen Sie"
+            },
+            "choices": [
+                {
+                    "text": "Seppl aus <i>Der Räuber Hotzenplotz<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karlsson aus <i>Karlsson vom Dach<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Emil Tischbein aus <i>Emil und die Detektive<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kleiner Bär aus <i>Oh wie schön ist Panama<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie in allen erdenklichen Situationen \u201cDas stört keinen großen Geist\u201d sagen, haben Sie viel mit dieser Kinderbuchfigur zusammen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10958",
+            "category": {
+                "text": "Grenzenloses Entertainmentangebot"
+            },
+            "choices": [
+                {
+                    "text": "Das Leben des Günter Schabowski",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das Leben des Karl Heinz Rummenigge",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Leben des Egon Krenz",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Leben des Pietro Lombardi",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Weil Sie Inhalte mögen, die nach meiner Kenntnis sofort - unverzüglich - erscheinen, empfehlen wir Ihnen folgende Sendung:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10959",
+            "category": {
+                "text": "Der Strom neuer Serien wird nie aufhören"
+            },
+            "choices": [
+                {
+                    "text": "Belastendes Braunschweig",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Peinliches Paderborn",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Erbärmliches Eisenach",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Wehmütiges Wernigerode",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie sich"
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "- warum auch immer"
+                },
+                {
+                    "timing": "S + 2.00",
+                    "text": "- Dokumentationen über Sachsen-Anhalt angesehen haben, empfehlen wir Ihnen folgendes Buch:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10960",
+            "category": {
+                "text": "Haarsträubendes Actionfilm-Angebot"
+            },
+            "choices": [
+                {
+                    "text": "Alf",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CHiPs",
+                    "isCorrect": false
+                },
+                {
+                    "text": "MacGyver",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Knight Rider",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie sich Sendungen angesehen haben, in denen Haartrockner das Leben eines Charakters nachhaltig beeinflussen, empfehlen wir Ihnen folgende Serie:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10961",
+            "category": {
+                "text": "Außergewöhnliche Raabatte"
+            },
+            "choices": [
+                {
+                    "text": "Gesangs-Castingshows",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Rhönrad-Sportsendungen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promi-Pferderennen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Krimi-Improvisationssendungen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "TBA"
+                }
+            ]
+        },
+        {
+            
+            "id": "10962",
+            "category": {
+                "text": "Für (fast) jeden Geldbeutel das richtige Angebot"
+            },
+            "choices": [
+                {
+                    "text": "Geiziger Georgier",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Knausriger Kanadier",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sparsamer Serbe",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bankrotter Brasilianer",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Weil Sie für Binjpipe nicht mehr als 10 Real pro Monat bezahlen wollen, sind Sie vermutlich ein:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10963",
+            "category": {
+                "text": "Blockbuster am laufenden Band"
+            },
+            "choices": [
+                {
+                    "text": "<i>Die Geissens - Eine schrecklich glamouröse Familie<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Die Ludolfs - 4 Brüder auf'm Schrottplatz<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Die Reimanns - Ein außergewöhnliches Leben<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Die Wollnys - Eine schrecklich große Familie<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie fast jeden Tag Nudeln essen, empfehlen wir Ihnen folgende Doku-Soap:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10964",
+            "category": {
+                "text": "Der Streamingdienst, der Sie erfüllt"
+            },
+            "choices": [
+                {
+                    "text": "<i>Jurassic Park<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>The Last of Us<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Train to Busan<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>The Stand<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie gerne Pilze essen, schauen Sie doch eines dieser Programme, in dem Pilze Menschen essen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10965",
+            "category": {
+                "text": "Wir wissen, was Sie brauchen"
+            },
+            "choices": [
+                {
+                    "text": "<i>Sportschau<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Polizeiruf 110<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Das Sandmännchen<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Tagesschau<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Weil diese Sendung seit 1959 erfolgreich im ost- und westdeutschen Fernsehen läuft, könnte sie auch Ihnen gefallen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10966",
+            "category": {
+                "text": "Wir haben stets ein offenes Ohr für Sie"
+            },
+            "choices": [
+                {
+                    "text": "Die Nachtwache",
+                    "isCorrect": true
+                },
+                {
+                    "text": "American Gothic",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Geburt der Venus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Schrei",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie Menschen mit Hüten attraktiv finden, empfehlen wir Ihnen folgendes Kunstwerk:"
                 }
             ]
         }
