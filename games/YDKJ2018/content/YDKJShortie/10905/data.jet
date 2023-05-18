@@ -47,17 +47,17 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasExplanationAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasJokeAudio"
     },
     {
       "t": "S",
-      "v": "OCQEFM",
+      "v": "OCQEFD",
       "n": "Bumper"
     },
     {
