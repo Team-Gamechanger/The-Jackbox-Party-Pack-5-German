@@ -7199,6 +7199,186 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "11440",
+            "title": "Zahlen, bitte!",
+            "prompts": [
+                {
+                    "title": "1",
+                    "choices": [
+                        {
+                            "text": "_____,5 Ritter",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Am _____. Tag",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Freitag der _____.",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Staatsfeind Nr. _____",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "2_____",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "The Witcher _____: Wild Hunt",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "2",
+                    "choices": [
+                        {
+                            "text": "_____ - Nichts ist so wie es scheint",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Der Herr der Ringe: Die _____ Türme",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Die nackte Kanone _____1/2",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Die _____ Gebote",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "H_____O - Plötzlich Meerjungfrau",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "_____ Minuten Ruhm",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "4",
+                    "choices": [
+                        {
+                            "text": "1 Mord für _____",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "_____ Fäuste für ein Halleluja",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": " _____ Blocks",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Die _____ Musketiere - Die Rache der Mylady",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": " _____7 Ronin",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "(T)Raumschiff Surprise - Periode _____",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "8",
+                    "choices": [
+                        {
+                            "text": "The Hateful _____",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": " _____ Zwerge - Der Wald ist nicht genug",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "2_____ Weeks Later ",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "2_____ Days Later",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Star Wars: Episode _____ - Eine neue Hoffnung",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Freitag der _____",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "9",
+                    "choices": [
+                        {
+                            "text": "The Legend of Zelda _____: A Link to the Past",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Fahrenheit _____/11",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Track 2_____ - Ein gefährliches Spiel",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": " _____9 Luftballons",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "_____ Green Mile",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Die fantastischen _____",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "11",
+                    "choices": [
+                        {
+                            "text": "_____ohrkücken",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "_____ wie Pech und Schwefel",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Cosmo und Wanda - Wenn _____en helfen",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Fahrenheit 9/_____",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Notruf _____2 - Die Feuerwehr Simulation 2",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Planet der _____",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
