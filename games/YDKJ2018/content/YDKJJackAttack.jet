@@ -7315,7 +7315,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Freitag der _____",
+                            "text": "Freitag der _____.",
                             "isCorrect": false
                         }
                     ]
@@ -7340,7 +7340,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "_____ Green Mile",
+                            "text": "_____th Green Mile",
                             "isCorrect": false
                         },
                         {
@@ -7374,6 +7374,366 @@
                         },
                         {
                             "text": "Planet der _____",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "11441",
+            "title": "Lotterie der Erkrankungen",
+            "prompts": [
+                {
+                    "title": "Bakterien",
+                    "choices": [
+                        {
+                            "text": "Lungenentzündung",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Münchhausen-Syndrom",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Pest",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Pfeiffersches Drüsenfieber",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Gehörgangsentzündung",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Anthrax",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Viren",
+                    "choices": [
+                        {
+                            "text": "Influenza",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Münchhausen-Syndrom",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Pfeiffersches Drüsenfieber",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Drei-Tage-Fieber",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Milzbrand",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Osteoporose",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Pilze",
+                    "choices": [
+                        {
+                            "text": "Münchhausen-Syndrom",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Ringflechte",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Nagelmykose",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Bulimie",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Kleienflechte",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Parkinson",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Psychisch",
+                    "choices": [
+                        {
+                            "text": "Borderline",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Osteoporose",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Liebeskummer",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Posttraumatische Belastungsstörung",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Hypochondrie",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Asperger Syndrom",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Größtenteils ausgerottet",
+                    "choices": [
+                        {
+                            "text": "Tetanus",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Influenza",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Phimose",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Poliomyelitis",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Diphterie",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Pocken",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Fiktional",
+                    "choices": [
+                        {
+                            "text": "Münchhausen-Syndrom",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Parkinson",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Der Brand",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Medusa-Krankheit",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Morbus Geiger",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Drachenpocken",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "11442",
+            "title": "Alliterative Antworten",
+            "prompts": [
+                {
+                    "title": "<i>Harry Potter<\/i>-Charaktere",
+                    "choices": [
+                        {
+                            "text": "Cho Chang",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Quirinus Quirrell",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Salazar Slytherin",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Miles Morales",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Godric Gryffindor",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Bastian Balthasar Bux",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Schauspieler",
+                    "choices": [
+                        {
+                            "text": "Lauritz Lauritzen",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Götz George",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Svenja Schulze",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Klaus Kinski",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Herbert Hoover",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Sylvester Stallone",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Geheimidentitäten von Superhelden",
+                    "choices": [
+                        {
+                            "text": "Peter Parker",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Susan Storm",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Gellert Grindelwald",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Lex Luthor",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Eddie Erpel",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Severus Snape",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Deutsche Politiker",
+                    "choices": [
+                        {
+                            "text": "Lauritz Lauritzen",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Fred Feuerstein",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Svenja Schulze",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Erhard Eppler",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Hubertus Heil",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Herbert Hoover",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Bewohner von Bikini Bottom",
+                    "choices": [
+                        {
+                            "text": "SpongeBuck Schwammkopf",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Thaddäus Tentakel",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Spongebob Schwammkopf",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Samantha Star",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Siegbert Schnösel",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Sherm Schwammkopf",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "<i>Looney Tunes<\/i>-Figuren",
+                    "choices": [
+                        {
+                            "text": "Bugs Bunny",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Goofy Gophers",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Mickey Mouse",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Gundel Gaukeley",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Daffy Duck",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Daisy Duck",
                             "isCorrect": false
                         }
                     ]
