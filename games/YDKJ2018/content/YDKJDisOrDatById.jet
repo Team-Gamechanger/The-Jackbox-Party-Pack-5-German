@@ -43,6 +43,50 @@
             "category": {
                 "text": "Toilette, Die Woche und Ich"
             }
+        },
+        {
+            "questions": [
+                {
+                    "text": "Es kommt noch besser",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Ausrasten für Anfänger",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Reiz der Schweiz",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Mich hat keiner gefragt",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Planet Deutschland",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Fluch der Familie",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "Einer für alle, alles im Eimer",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "ein ZDF-Fernsehfilm",
+                "shortText": "ZDF"
+            },
+            "datChoice": {
+                "longText": "ein Bühnenprogramm von Kaya Yanar",
+                "shortText": "KAYA YANAR"
+            },
+            "id": "11081",
+            "category": {
+                "text": "Hey, Sie! Was beaugapfeln Sie denn da?!"
+            }
         }
     ]
 }

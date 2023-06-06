@@ -271,7 +271,7 @@
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "taucht auf in <i>Keinohrhasen<\/i>",
+                    "text": "taucht in <i>Keinohrhasen<\/i> auf",
                     "correctChoiceString": "dis"
                 },
                 {
@@ -2211,11 +2211,11 @@
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Andy Borg",
+                    "text": "Gunter Gabriel",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "G. G. Anderson",
+                    "text": "Gottlieb Wendehals",
                     "correctChoiceString": "dis"
                 },
                 {
@@ -2223,7 +2223,7 @@
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Beatrice Egli",
+                    "text": "Heidi Brühl",
                     "correctChoiceString": "dis"
                 },
                 {

@@ -3208,19 +3208,19 @@
             },
             "choices": [
                 {
-                    "text": "Stefanie Kloß dreht sich mit 100 KM\u002fH",
+                    "text": "Stefanie Kloß dreht sich mit 100 km\u002fh",
                     "isCorrect": false
                 },
                 {
-                    "text": "Mark Forster dreht sich mit 1.000 KM\u002fH",
+                    "text": "Mark Forster dreht sich mit 1.000 km\u002fh",
                     "isCorrect": true
                 },
                 {
-                    "text": "Peter Maffay dreht sich mit 10.000 KM\u002fH ",
+                    "text": "Peter Maffay dreht sich mit 10.000 km\u002fh",
                     "isCorrect": false
                 },
                 {
-                    "text": "Rea Garvey dreht sich mit 100.000 KM\u002fH",
+                    "text": "Rea Garvey dreht sich mit 100.000 km\u002fh",
                     "isCorrect": false
                 }
             ],
@@ -3229,11 +3229,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Stellen Sie sich vor, die Stühle bei <i>The Voice of Germany<\/i> haben eine Fehlfunktion, so dass sie sich mit potenziell tödlicher Geschwindigkeit drehen."
+                    "text": "Jemand hat die ikonischen Drehstühle sabotiert, die sich prompt so schnell drehen, wie die Erde. "
                 },
                 {
-                    "timing": "S + 8.71",
-                    "text": "Welches Jurymitglied würde sich mit der gleichen Geschwindigkeit wie die Erde drehen?"
+                    "timing": "S + 1.00",
+                    "text": "Was würde bei der nächsten Ausgabe von <i>The Voice of Germany<\/i> über die deutschen Bildschirme flimmern?"
                 }
             ]
         },
@@ -4345,19 +4345,19 @@
             },
             "choices": [
                 {
-                    "text": "Mr. MARTIN SMITH? Den kennen wir hier nicht, tut mir Leid.",
+                    "text": "\u201cMr. MARTIN SMITH? Den kennen wir hier nicht, tut mir Leid.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Mr. STEPHEN MOORE ist leider gerade nicht im Haus.",
+                    "text": "\u201cMr. STEPHEN MOORE ist leider gerade nicht im Haus.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Mr. DAVID MILLER wird Ihnen auch nichts anderes sagen können, als ich.",
+                    "text": "\u201cMr. DAVID MILLER wird Ihnen auch nichts anderes sagen können, als ich.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Mr. JOHN DOE ist gerade leider verhindert.",
+                    "text": "\u201cMr. JOHN DOE ist gerade leider verhindert.\u201d",
                     "isCorrect": true
                 }
             ],
@@ -4367,6 +4367,426 @@
                 {
                     "timing": "S + 0.00",
                     "text": "Ihre Schwiegermutter begibt sich zum Polizeirevier und verlangt dort, sofort den Manager zu sprechen. Bedenkt man, welchen Namen die US-amerikanische Polizei üblicherweise verwendet, wenn die Identität einer männlichen Person unbekannt ist oder absichtlich geheimgehalten werden soll, wie könnte der Rezeptionist Ihrer Schwiegermutter vermutlich antworten?"
+                }
+            ]
+        },
+        {
+            "id": "10132",
+            "category": {
+                "text": "Mau Zoo Tung"
+            },
+            "choices": [
+                {
+                    "text": "\u201cEin VOGEL? Auf dass ich mich in die Lüfte erhebe!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cIch identifiziere mich in der Tat mit REGENWÜRMERN!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cAls JAGUAR wäre ich sogar ein Tier und ein Auto gleichzeitig!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cSEEHUNDE sind sogar noch süßer als ich, danke für das Kompliment!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, ein Zoologe übernimmt in seinem Land die Macht und wird als “Tyrann” beschimpft. Wie könnte er fachlich korrekt antworten?"
+                }
+            ]
+        },
+        {
+            "id": "10133",
+            "category": {
+                "text": "Wenn dir vom Schnüffeln nicht high, sondern übel wird"
+            },
+            "choices": [
+                {
+                    "text": "Der orangefarbene, der wie eine KUMQUAT riecht",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der rosafarbene, der wie eine DRACHENFRUCHT riecht",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der braune, der wie ein DURIAN riecht",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Der gelbe, der wie eine STERNFRUCHT riecht",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher fruchtig duftende Edding würde schrecklich riechen?"
+                }
+            ]
+        },
+        {
+            "id": "10134",
+            "category": {
+                "text": "Reim-Time, aber ohne Schnickschnack"
+            },
+            "choices": [
+                {
+                    "text": "Haiku, Limerick, Sonett",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sonett, Limerick, Haiku",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Limerick, Haiku, Sonett",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Limerick, Sonett, Haiku",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Sortieren Sie diese Gedichtsformen von KURZ bis LANG: Haiku, Sonett, Limerick"
+                }
+            ]
+        },
+        {
+            "id": "10135",
+            "category": {
+                "text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHH!!!"
+            },
+            "choices": [
+                {
+                    "text": "AAAAAAAAA, AAAAH, AAAAAAAAAAAAAAHH",
+                    "isCorrect": false
+                },
+                {
+                    "text": "AAAAH, AAAAAAAAA, AAAAAAAAAAAAAAHH",
+                    "isCorrect": false
+                },
+                {
+                    "text": "AAAAAAAAA, AAAAAAAAAAAAAAHH, AAAAH",
+                    "isCorrect": true
+                },
+                {
+                    "text": "AAAAH, AAAAAAAAAAAAAAHH, AAAAAAAAA",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Sortieren Sie diese Schreie für mich bitte in alphabetischer Reihenfolge: AAAAH, AAAAAAAAAAAAAAAAHH, AAAAAAAAAAA"
+                }
+            ]
+        },
+        {
+            "id": "10136",
+            "category": {
+                "text": "Genetik mit Gregor"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDer Mais fällt nicht weit vom Halm.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDie Blaubeere fällt nicht weit vom Strauch.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDie Erbse fällt nicht weit aus der Schote.\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cDie Traube fällt nicht weit von der Rebe.\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bedenkt man, für welche Art von genetischem Experiment Gregor Mendel berühmt wurde, wie würde er das bekannte Sprichwort \u201cDer Apfel fällt nicht weit vom Stamm\u201d vermutlich abändern?"
+                }
+            ]
+        },
+        {
+            "id": "10137",
+            "category": {
+                "text": "38537.37139"
+            },
+            "choices": [
+                {
+                    "text": "BIOLOGIE",
+                    "isCorrect": false
+                },
+                {
+                    "text": "HELLES",
+                    "isCorrect": false
+                },
+                {
+                    "text": "GLEICH",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SEEIGEL",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welches dieser Wörter kann ich NICHT auf einem Standard-Taschenrechner schreiben?"
+                }
+            ]
+        },
+        {
+            "id": "10138",
+            "category": {
+                "text": "Härter, Besser, Schneller, Stärker"
+            },
+            "choices": [
+                {
+                    "text": "Um ihre seltsamen kanadischen Gesichter zu verstecken",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um ihre seltsamen französischen Gesichter zu verstecken",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Um ihre seltsamen deutschen Gesichter zu verstecken",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um ihre seltsamen irischen Gesichter zu verstecken",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Warum tragen die beiden Jungs der Band Daft Punk diese riesigen Helme?"
+                }
+            ]
+        },
+        {
+            "id": "10139",
+            "category": {
+                "text": "Von großen Brüdern und Schmuddelfilmchen"
+            },
+            "choices": [
+                {
+                    "text": "3000-****-****-8450",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4000-****-****-9010",
+                    "isCorrect": true
+                },
+                {
+                    "text": "5000-****-****-0666",
+                    "isCorrect": false
+                },
+                {
+                    "text": "6000-****-****-0336",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, die NSA würde mal wieder Ihre Kreditkarteninformationen auslesen, um herauszufinden, welchen Schmuddelkram Sie sich so kaufen. Welche dieser Kreditkartennummern könnte Ihre VISA-Karte sein?"
+                }
+            ]
+        },
+        {
+            "id": "10140",
+            "category": {
+                "text": "Ganz, ganz seltsame Tanzeinlagen"
+            },
+            "choices": [
+                {
+                    "text": "Sie drehen sich zehntausend Mal pro Sekunde um Ihre eigene Achse",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie teilen sich in gleichmäßigen Abständen entzwei",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie tanzen 24 Stunden am Stück",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sie werden im Takt abwechselnd fest, gasförmig, und flüssig",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Sie auf der Tanzfläche im ZIRKADIANEN RHYTHMUS tanzen, was würden Sie dem erstaunten Publikum bieten?"
+                }
+            ]
+        },
+        {
+            "id": "10141",
+            "category": {
+                "text": "Lippen, wie zum Blasen gemacht"
+            },
+            "choices": [
+                {
+                    "text": "Ein Klarinettist",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Piccolo-Spieler",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Oboenspieler",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Fagottist",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher dieser Musiker ist in Anbetracht der Größe seiner Instrumente am wenigsten dem Vorwurf ausgesetzt, \u201cetwas zu kompensieren\u201d?"
+                }
+            ]
+        },
+        {
+            "id": "10142",
+            "category": {
+                "text": "Seltsamstraße"
+            },
+            "choices": [
+                {
+                    "text": "Ernie, Bert, Graf Zahl",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Bert, Ernie, Graf Zahl",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Graf Zahl, Bert, Ernie",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ernie, Graf Zahl, Bert",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Sortieren Sie die Charaktere der Sesamstraße in der Reihenfolge von WENIGSTEN bis MEISTEN Augenbrauen: Bert, Ernie, Graf Zahl"
+                }
+            ]
+        },
+        {
+            "id": "10143",
+            "category": {
+                "text": "Bilderrahmen & große Namen"
+            },
+            "choices": [
+                {
+                    "text": "Irgendwas rechts von ihr",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Irgendwas links von ihr",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Irgendwas über ihr",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Irgendwas hinter ihr",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was zum Teufel schaut die Mona Lisa an?"
+                }
+            ]
+        },
+        {
+            "id": "10144",
+            "category": {
+                "text": "Friss meine Bibel!"
+            },
+            "choices": [
+                {
+                    "text": "Rektor Skinner kassiert einen KOPFschuss",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das Geschoss prallt am dicken BAUCH von Chief Wiggum ab",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mr. Burns wird mit einem Schuss durch die BRUST ermordet",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Homer rennt schreiend weg, während er sich die LEISTE hält",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Bart Simpson beschließt, mit seiner Steinschleuder auf Autoritätspersonen loszugehen."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Was könnte passieren, wenn er sich dabei an die Erzählung von David und Goliath hält?"
                 }
             ]
         }
