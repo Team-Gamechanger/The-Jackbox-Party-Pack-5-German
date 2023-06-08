@@ -32,7 +32,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWrongAnswerAudio1"
     },
     {
@@ -42,12 +42,12 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWrongAnswerAudio3"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasExplanationAudio"
     },
     {

@@ -539,6 +539,186 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "11503",
+            "title": "All die einsamen Buchstaben",
+            "prompts": [
+                {
+                    "title": "Römische Zahlen",
+                    "choices": [
+                        {
+                            "text": "X",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "W",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "M",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "L",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "V",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "II",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Musiknoten",
+                    "choices": [
+                        {
+                            "text": "E",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "A",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "J",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "I",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "C",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "F",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Elemente im Periodensystem",
+                    "choices": [
+                        {
+                            "text": "A",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "H",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Ar",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "O",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "C",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "K",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "bisherige richtige Antworten in dieser Jack Attack",
+                    "choices": [
+                        {
+                            "text": "A",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "C",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Q",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "D",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Y",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "X",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Agenten in <i>Men in Black<\/i>",
+                    "choices": [
+                        {
+                            "text": "K",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "E",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "J",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Y",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "M",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "O",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Temperatur-Einheiten",
+                    "choices": [
+                        {
+                            "text": "C",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "K",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "O",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "M",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "F",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "R",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

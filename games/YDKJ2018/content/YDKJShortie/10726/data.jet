@@ -37,7 +37,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWrongAnswerAudio2"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasExplanationAudio"
     },
     {

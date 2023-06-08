@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntro2Audio"
     },
     {
@@ -57,12 +57,12 @@
     },
     {
       "t": "S",
-      "v": "NONE",
+      "v": "CELEBRITY",
       "n": "Bumper"
     },
     {
       "t": "S",
-      "v": "Before",
+      "v": "Middle",
       "n": "BumperPlacement"
     },
     {

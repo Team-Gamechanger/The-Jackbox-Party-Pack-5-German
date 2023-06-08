@@ -1,6 +1,16 @@
 {
   "fields": [
     {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
       "s": "",
       "t": "A",
       "v": "intro",

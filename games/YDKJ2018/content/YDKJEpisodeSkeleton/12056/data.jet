@@ -1,0 +1,37 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCommercial"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasOutro"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "intro",
+      "n": "Intro"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "commercial",
+      "n": "Commercial"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "outro",
+      "n": "Outro"
+    }
+  ]
+}

@@ -1844,7 +1844,7 @@
                     "isCorrect": false
                 }
             ],
-            "bumper": "NONE",
+            "bumper": "CELEBRITY",
             "oneResponse": false,
             "questionText": [
                 {
@@ -1876,7 +1876,7 @@
                     "isCorrect": false
                 }
             ],
-            "bumper": "NONE",
+            "bumper": "CELEBRITY",
             "oneResponse": false,
             "questionText": [
                 {
@@ -1913,7 +1913,164 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn meine Zahlwurzeln so tief schlagen, wie die Wurzeln einer ausgewachsenen Eiche, wie tief wird mein Zahnarzt dann in mein Zahnfleisch bohren müssen?"
+                    "text": "Wenn meine Zahnwurzeln so tief schlagen, wie die Wurzeln einer ausgewachsenen Eiche, wie tief wird mein Zahnarzt dann in mein Zahnfleisch bohren müssen?"
+                }
+            ]
+        },
+        {
+            "id": "10785",
+            "category": {
+                "text": "Hör Moe auf"
+            },
+            "choices": [
+                {
+                    "text": "Moe's Sashimi",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Moe's Kuko",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Moe's Izakaya",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Moe's Edamame",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Nehmen wir an, Moe Szyslak aus <i>Die Simpsons</i>"
+                },
+                {
+                    "timing": "S + 8.00",
+                    "text": "verlässt Springfield"
+                },
+                {
+                    "timing": "S + 10.28",
+                    "text": "in Staffel 40,"
+                },
+                {
+                    "timing": "S + 17.40",
+                    "text": "um eine Bar in Japan zu eröffnen."
+                },
+                {
+                    "timing": "S + 26.83",
+                    "text": "Wie würde seine neue Kneipe heißen?"
+                }
+            ]
+        },
+        {
+            "id": "10744",
+            "category": {
+                "text": "Eine Frage von Jack"
+            },
+            "choices": [
+                {
+                    "text": "Kampfsportheld Chan",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Amerikanischer Maler Pollock",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hollywood-Schauspieler Nicholson",
+                    "isCorrect": true
+                },
+                {
+                    "best": true,
+                    "text": "Comedian Yanar",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wer könnte diese Show übernehmen, ohne, dass man den Namen <i>You Don't Know Jack<\/i> abändern müsste?"
+                }
+            ]
+        },
+        {
+            "id": "10745",
+            "category": {
+                "text": "Eine Frage von Kaya"
+            },
+            "choices": [
+                {
+                    "text": "Frankfurt a.M.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Stuttgart",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zürich",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Istanbul",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": ""
+                },
+                {
+                    "timing": "S + 14.58",
+                    "text": "Wo komme ich her?"
+                },
+                {
+                    "timing": "S + 18.20",
+                    "text": "Also, aus welcher Stadt?"
+                },
+                {
+                    "timing": "S + 20.02",
+                    "text": "Wo bin ich geboren?"
+                }
+            ]
+        },
+        {
+            "id": "10786",
+            "category": {
+                "text": "Wer hungert, der findet"
+            },
+            "choices": [
+                {
+                    "text": "Kirschbanane",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Blaubeere",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zitrone",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Waldmeister",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn das \u201cL\u201d im Google-Logo aus Süßigkeiten gemacht wäre, welchen Geschmack hätte es vermutlich, wenn man seine Farbe bedenkt?"
                 }
             ]
         },

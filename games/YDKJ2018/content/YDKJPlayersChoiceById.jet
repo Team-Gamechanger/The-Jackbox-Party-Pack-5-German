@@ -13,6 +13,20 @@
                 "text": "eine Frage, die Sie später noch einmal spielen werden",
                 "id": "10743"
             }
+        },
+        {
+            "question": {
+                "text": "Möchten Sie eine Frage von Jack... oder eine Frage von Kaya?"
+            },
+            "id": "11622",
+            "choice1": {
+                "text": "eine Frage von Jack",
+                "id": "10744"
+            },
+            "choice2": {
+                "text": "eine Frage von Kaya",
+                "id": "10745"
+            }
         }
     ]
 }

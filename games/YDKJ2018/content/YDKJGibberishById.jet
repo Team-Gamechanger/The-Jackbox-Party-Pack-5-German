@@ -23,6 +23,30 @@
                     "text": "Also wirklich, die Antwort ist \u201cEntkomme der Simulation\u201d."
                 }
             ]
+        },
+        {
+            "id": "11251",
+            "category": {
+                "text": "Gemeingefährliches Mittagessen"
+            },
+            "gibberishText": {
+                "text": "Iih, Schmand riss um! Verletz' mich!"
+            },
+            "spellings": [],
+            "correctText": {
+                "text": "Niemand ist unersetzlich"
+            },
+            "clues": [
+                {
+                    "text": "Keiner hat ein Anrecht auf eine Rolle..."
+                },
+                {
+                    "text": "...egal, wie lange er oder sie schon in dieser Rolle war."
+                },
+                {
+                    "text": "Die Rolle könnte jederzeit umbesetzt werden."
+                }
+            ]
         }
     ]
 }

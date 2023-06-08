@@ -1,0 +1,26 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "intro",
+      "n": "IntroAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    }
+  ]
+}
