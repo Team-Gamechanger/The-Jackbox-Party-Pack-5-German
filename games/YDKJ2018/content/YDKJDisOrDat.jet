@@ -755,7 +755,7 @@
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Ethereum",
+                    "text": "Nano",
                     "correctChoiceString": "dis"
                 },
                 {
@@ -829,7 +829,7 @@
             },
             "datChoice": {
                 "longText": "eine Bildkalibrierungseinstellung auf meinem Fernseher",
-                "shortText": "IN MEINEN TV EINSTELLUNGEN"
+                "shortText": "TV-EINSTELLUNG"
             },
             "id": "11018",
             "category": {
@@ -1361,7 +1361,7 @@
             },
             "id": "11031",
             "category": {
-                "text": "Herr Ober, dürfen wir Ihnen vielleicht etwas Holz bringen?"
+                "text": "Herr Ober, dürfte ich Ihnen vielleicht etwas Holz bringen?"
             }
         },
         {
@@ -1713,7 +1713,7 @@
             },
             "id": "11038",
             "category": {
-                "text": "Na sieh mal wer da Shift!"
+                "text": "Na, sieh mal wer da Shift!"
             }
         },
         {
@@ -1845,7 +1845,7 @@
             },
             "id": "11041",
             "category": {
-                "text": "Deutsche Klassiker und Identitätskrisen"
+                "text": "Deutsche Klassiker & Identitätskrisen"
             }
         },
         {
@@ -1995,7 +1995,7 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Wiesbaden Swing",
+                    "text": "Sitka",
                     "correctChoiceString": "dat"
                 },
                 {

@@ -1440,6 +1440,7 @@
                     "isCorrect": true
                 },
                 {
+                    "best": true,
                     "text": "2004 und ich schaue die Olympischen Spiele nicht, weil sie langweilig sind",
                     "isCorrect": false
                 }
@@ -1449,10 +1450,10 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Teil 1: In welchem Jahr wurde Beachvolleyball eine offizielle olympische Sportart?"
+                    "text": "Teil 1: In welchem Jahr wurde Beachvolleyball eine offizielle olympische Sportart?<br>"
                 },
                 {
-                    "timing": "S + 4.56",
+                    "timing": "S + 5.77",
                     "text": "Teil 2: In welchem Jahr habe ich angefangen, regelmäßig die Olympischen Spiele zu verfolgen?"
                 }
             ]
