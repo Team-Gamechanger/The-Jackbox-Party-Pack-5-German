@@ -5,7 +5,7 @@
             "title": "Welch farbenfrohe Persönlichkeit",
             "prompts": [
                 {
-                    "title": "rot",
+                    "title": "Rot",
                     "choices": [
                         {
                             "text": "Elmo",
@@ -34,7 +34,7 @@
                     ]
                 },
                 {
-                    "title": "blau",
+                    "title": "Blau",
                     "choices": [
                         {
                             "text": "James P. Sullivan",
@@ -63,7 +63,7 @@
                     ]
                 },
                 {
-                    "title": "gelb",
+                    "title": "Gelb",
                     "choices": [
                         {
                             "text": "Meister Proper",
@@ -92,7 +92,7 @@
                     ]
                 },
                 {
-                    "title": "grün",
+                    "title": "Grün",
                     "choices": [
                         {
                             "text": "Gamora",
@@ -121,7 +121,7 @@
                     ]
                 },
                 {
-                    "title": "orange",
+                    "title": "Orange",
                     "choices": [
                         {
                             "text": "Der Lorax",
@@ -150,7 +150,7 @@
                     ]
                 },
                 {
-                    "title": "rosa",
+                    "title": "Rosa",
                     "choices": [
                         {
                             "text": "Schiggy",
@@ -626,7 +626,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Den Hales Kometen sehen",
+                            "text": "Den Halleyschen Kometen sehen",
                             "isCorrect": true
                         }
                     ]
@@ -635,7 +635,7 @@
                     "title": "Jede Sekunde (mehr oder weniger)",
                     "choices": [
                         {
-                            "text": "50.000 “Gefällt mir”-Klicks auf Facebook",
+                            "text": "60.000 “Gefällt mir”-Klicks auf Facebook",
                             "isCorrect": true
                         },
                         {
@@ -647,7 +647,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Ein neuer Til Schweiger Film",
+                            "text": "Ein neuer Til Schweiger-Film",
                             "isCorrect": false
                         },
                         {
@@ -1265,7 +1265,7 @@
             "title": "Ich wusste gar nicht, dass du auch dort warst",
             "prompts": [
                 {
-                    "title": "der Mond",
+                    "title": "Der Mond",
                     "choices": [
                         {
                             "text": "Neil Armstrong",
@@ -1323,7 +1323,7 @@
                     ]
                 },
                 {
-                    "title": "in der Zukunft",
+                    "title": "In der Zukunft",
                     "choices": [
                         {
                             "text": "Thaddäus Tentakel",
@@ -1352,7 +1352,7 @@
                     ]
                 },
                 {
-                    "title": "Oxford Universität",
+                    "title": "Oxford-Universität",
                     "choices": [
                         {
                             "text": "J.R.R. Tolkien",
@@ -1410,7 +1410,7 @@
                     ]
                 },
                 {
-                    "title": "die Hungerspiele",
+                    "title": "Die Hungerspiele",
                     "choices": [
                         {
                             "text": "Peeta Mellark",
@@ -1590,7 +1590,7 @@
                     ]
                 },
                 {
-                    "title": "in einem Jackbox Party Pack",
+                    "title": "In einem <i>Jackbox Party Pack<\/i>",
                     "choices": [
                         {
                             "text": "<i>Blather \u0027Round<\/i>",
@@ -1850,11 +1850,11 @@
                         },
                         {
                             "text": "Gemeinnützige",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "text": "Gesellschaft",
-                            "isCorrect": false
+                            "isCorrect": true
                         },
                         {
                             "text": "Aufführungs- und mechani­sche Vervielfältigungsrechte",
@@ -2037,7 +2037,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Grimm\u2019s Märchenwald",
+                            "text": "Grimms Märchenwald",
                             "isCorrect": true
                         }
                     ]
