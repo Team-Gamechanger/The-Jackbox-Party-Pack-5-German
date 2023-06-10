@@ -5,7 +5,7 @@
             "title": "Welch farbenfrohe Persönlichkeit",
             "prompts": [
                 {
-                    "title": "Rot",
+                    "title": "rot",
                     "choices": [
                         {
                             "text": "Elmo",
@@ -34,7 +34,7 @@
                     ]
                 },
                 {
-                    "title": "Blau",
+                    "title": "blau",
                     "choices": [
                         {
                             "text": "James P. Sullivan",
@@ -63,7 +63,7 @@
                     ]
                 },
                 {
-                    "title": "Gelb",
+                    "title": "gelb",
                     "choices": [
                         {
                             "text": "Meister Proper",
@@ -92,7 +92,7 @@
                     ]
                 },
                 {
-                    "title": "Grün",
+                    "title": "grün",
                     "choices": [
                         {
                             "text": "Gamora",
@@ -121,7 +121,7 @@
                     ]
                 },
                 {
-                    "title": "Orange",
+                    "title": "orange",
                     "choices": [
                         {
                             "text": "Der Lorax",
@@ -150,7 +150,7 @@
                     ]
                 },
                 {
-                    "title": "Rosa",
+                    "title": "rosa",
                     "choices": [
                         {
                             "text": "Schiggy",
@@ -626,7 +626,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Den Halleyschen Kometen sehen",
+                            "text": "Den Hales Kometen sehen",
                             "isCorrect": true
                         }
                     ]
@@ -635,7 +635,7 @@
                     "title": "Jede Sekunde (mehr oder weniger)",
                     "choices": [
                         {
-                            "text": "60.000 “Gefällt mir”-Klicks auf Facebook",
+                            "text": "50.000 “Gefällt mir”-Klicks auf Facebook",
                             "isCorrect": true
                         },
                         {
@@ -647,7 +647,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Ein neuer Til Schweiger-Film",
+                            "text": "Ein neuer Til Schweiger Film",
                             "isCorrect": false
                         },
                         {
@@ -1265,7 +1265,7 @@
             "title": "Ich wusste gar nicht, dass du auch dort warst",
             "prompts": [
                 {
-                    "title": "Der Mond",
+                    "title": "der Mond",
                     "choices": [
                         {
                             "text": "Neil Armstrong",
@@ -1323,7 +1323,7 @@
                     ]
                 },
                 {
-                    "title": "In der Zukunft",
+                    "title": "in der Zukunft",
                     "choices": [
                         {
                             "text": "Thaddäus Tentakel",
@@ -1352,7 +1352,7 @@
                     ]
                 },
                 {
-                    "title": "Oxford-Universität",
+                    "title": "Oxford Universität",
                     "choices": [
                         {
                             "text": "J.R.R. Tolkien",
@@ -1410,7 +1410,7 @@
                     ]
                 },
                 {
-                    "title": "Die Hungerspiele",
+                    "title": "die Hungerspiele",
                     "choices": [
                         {
                             "text": "Peeta Mellark",
@@ -1590,7 +1590,7 @@
                     ]
                 },
                 {
-                    "title": "In einem <i>Jackbox Party Pack<\/i>",
+                    "title": "in einem Jackbox Party Pack",
                     "choices": [
                         {
                             "text": "<i>Blather \u0027Round<\/i>",
@@ -1850,11 +1850,11 @@
                         },
                         {
                             "text": "Gemeinnützige",
-                            "isCorrect": false
+                            "isCorrect": true
                         },
                         {
                             "text": "Gesellschaft",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "text": "Aufführungs- und mechani­sche Vervielfältigungsrechte",
@@ -2037,7 +2037,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Grimms Märchenwald",
+                            "text": "Grimm\u2019s Märchenwald",
                             "isCorrect": true
                         }
                     ]
@@ -9092,31 +9092,31 @@
                     ]
                 },
                 {
-                    "title": "",
+                    "title": "London",
                     "choices": [
                         {
-                            "text": "Ich werde gewesen sein",
+                            "text": "Steven Gätjen",
                             "isCorrect": false
                         },
                         {
-                            "text": "Ich werde sein",
+                            "text": "Christopher Lee",
                             "isCorrect": true
                         },
                         {
-                            "text": "Ihr werdet haben",
+                            "text": "Heinrich VIII.",
                             "isCorrect": true
                         },
                         {
-                            "text": "Er wird spielen",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Sie werden verlassen",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Ihr hattet verlassen",
+                            "text": "Gordon Ramsay",
                             "isCorrect": false
+                        },
+                        {
+                            "text": "Adele",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Daniel Radcliffe",
+                            "isCorrect": true
                         }
                     ]
                 },
@@ -9124,27 +9124,27 @@
                     "title": "Braunschweig",
                     "choices": [
                         {
-                            "text": "",
+                            "text": "Erik Range",
                             "isCorrect": true
                         },
                         {
-                            "text": "Du warst gewesen",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Er wird spielen",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Du aßest",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Wir hatten gehabt",
+                            "text": "August Lafontaine",
                             "isCorrect": true
                         },
                         {
-                            "text": "Wir hälfen",
+                            "text": "Dennis Brammen",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Lena Meyer-Landrut",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Carl Freidrich Gauß",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Otto Waalkes",
                             "isCorrect": false
                         }
                     ]
@@ -9153,28 +9153,387 @@
                     "title": "Quahog",
                     "choices": [
                         {
-                            "text": "Wir hatten vorgehabt",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Du wirst gehen",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Du wirst gewesen sein",
+                            "text": "Cleveland Brown",
                             "isCorrect": true
                         },
                         {
-                            "text": "Ich werde überwiesen haben",
+                            "text": "Lois Griffin",
                             "isCorrect": true
                         },
                         {
-                            "text": "Ihr werdet vorgehabt haben",
+                            "text": "Carter Pewterschmidt",
                             "isCorrect": true
                         },
                         {
-                            "text": "Ich werde fahren",
+                            "text": "Dr. Elmer Hartman",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Klaus Heisler",
                             "isCorrect": false
+                        },
+                        {
+                            "text": "Megan Griffin",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "11451",
+            "title": "Tipps für die Urlaubsplanung",
+            "prompts": [
+                {
+                    "title": "Ein Gotteshaus",
+                    "choices": [
+                        {
+                            "text": "Kölner Dom",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Petersdom",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Erdenbaum",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Hagia Sophia",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Christ-Erlöser-Kirche",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Heides Flammenturm",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Etwas Antikes",
+                    "choices": [
+                        {
+                            "text": "Big Ben",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Die hängenden Gärten",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Tempel der Artemis",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Mausoleum von Halikarnassos",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Koloss von Rhodos",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Eiffelturm",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Das Abbild von jemandem",
+                    "choices": [
+                        {
+                            "text": "Siegessäule von Berlin",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Große Sphinx von Gizeh",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Cristo Redentor",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "David von Michelangelo",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Fujiyama",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Statue der Einheit",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Für die Unterhaltung",
+                    "choices": [
+                        {
+                            "text": "Elbphillharmonie",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Circus Maximus",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Brandenburger Tor",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "LANXESS arena",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Terrakotta-Armee",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Kolosseum",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Geometrische Körper",
+                    "choices": [
+                        {
+                            "text": "Pyramiden von Gizeh",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Atomium",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Kolosseum",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Siegessäule von Berlin",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Machu Picchu",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Circus Maximus",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Zestört oder beschädigt",
+                    "choices": [
+                        {
+                            "text": "Notre-Dame",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Burg Shuri",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Train Street in Hanoi",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Darwins Bogen",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Ponte Vecchio",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Elbphillharmonie",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "11452",
+            "title": "Der Kongress der Doktoren",
+            "prompts": [
+                {
+                    "title": "Naturwissenschaften",
+                    "choices": [
+                        {
+                            "text": "Dr. James Young Simpson",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Hans Berger",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Sommer",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Sigmund Freud",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Faust",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Mario Mario",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Literatur",
+                    "choices": [
+                        {
+                            "text": "Dr. John H. Watson",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Hershel Layton",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Sommer",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Sherlock Holmes",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Simpson",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Hahn",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Serien",
+                    "choices": [
+                        {
+                            "text": "Dr. Layton",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Elmer Hartman",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Ferb Flynn-Fletcher",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Perry Cox",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Nick Riviera",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Heinz Doofenshmirtz",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Filme",
+                    "choices": [
+                        {
+                            "text": "Dr. Heinz Doofenshmirtz",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Gegrory House",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Shaun Murphy",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. John H. Watson",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Reed Richards",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Aaron Glassman",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Videospiele",
+                    "choices": [
+                        {
+                            "text": "Dr. Jonathan Reid",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Hershel Layton",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Mario",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Ferb Flynn-Fletcher",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Aaron Glassman",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Edgar Swansea",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Marken"
+                        {
+                            "text": "Dr. Hershel Layton",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dr. Oetker",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Pepper",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Sommer",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dr. Best",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "DocMorris",
+                            "isCorrect": true
                         }
                     ]
                 }
