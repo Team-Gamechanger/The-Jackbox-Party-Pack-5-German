@@ -9539,6 +9539,186 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "11453",
+            "title": "100 Jahre geknackt",
+            "prompts": [
+                {
+                    "title": "Snacks",
+                    "choices": [
+                        {
+                            "text": "Haribo Goldbären",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Pringles",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "M&Ms",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Oreos",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Pepsi",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Fanta",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Bücher",
+                    "choices": [
+                        {
+                            "text": "<i>Die unendliche Geschichte<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Buddenbrooks: Verfall einer Familie<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Effi Briest<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Inferno<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Das Parfum<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Die Abenteuer des Huckleberry Finn<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Spielzeuge",
+                    "choices": [
+                        {
+                            "text": "Hula-Hoop-Reifen",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Schleich-Figuren",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Jo-Jo",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Teddybär",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Playmobil",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Schaukelpferd",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Sehenswürdigkeiten",
+                    "choices": [
+                        {
+                            "text": "Karlsbrücke",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Empire State Building",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Biosphère Montreal",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Freiheitsstatue",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Palazzo Vecchio",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Amundsen-Scott-Südpolstation",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Erfindungen",
+                    "choices": [
+                        {
+                            "text": "Elektromagnet",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Teebeutel",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Parkuhr",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Ampeln",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Konservendose",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Nylonstrumpf",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Fiktive Charaktere",
+                    "choices": [
+                        {
+                            "text": "Sherlock Holmes",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Dracula",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Charlie Brown",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Peter Pan",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Gandalf",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Max & Moritz",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
