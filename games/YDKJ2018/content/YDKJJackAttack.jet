@@ -9510,7 +9510,8 @@
                     ]
                 },
                 {
-                    "title": "Marken"
+                    "title": "Marken",
+                    "choices": [
                         {
                             "text": "Dr. Hershel Layton",
                             "isCorrect": false
@@ -9538,6 +9539,6 @@
                     ]
                 }
             ]
-        },
+        }
     ]
 }
