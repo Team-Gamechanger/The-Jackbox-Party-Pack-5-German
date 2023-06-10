@@ -2728,7 +2728,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Fritz Haber entwickelt ein Verfahren zur Herstellung von Kunstdünger & Gaswaffen", // zu lang?
+                            "text": "Fritz Haber entwickelt ein Herstellungsverfahren für Kunstdünger & Gaswaffen",
                             "isCorrect": true
                         }
                     ]
@@ -4148,7 +4148,7 @@
                     "title": "Sprechende Hunde",
                     "choices": [
                         {
-                            "text": "<i>Oben<\/i>", // Die Hunde können nicht sprechen, sie haben ein Halsband mit Sprachcomputer
+                            "text": "<i>Scooby-Doo (Film)<\/i>",
                             "isCorrect": true
                         },
                         {
@@ -4502,7 +4502,7 @@
         },
         {
             "id": "11425",
-            "title": "Lang lebe unser... Staatsoberhaupt", // Grenzwertig ?
+            "title": "Versammlung der Spitzenreiter",
             "prompts": [
                 {
                     "title": "Das 21. Jahrhundert",
@@ -7361,7 +7361,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Cosmo und Wanda - Wenn _____en helfen", // Die Serie heißt ja nicht Wenn 11en helfen, daher schwierig
+                            "text": "Cosmo und Wanda - Wenn _____en helfen",
                             "isCorrect": true
                         },
                         {
@@ -7835,8 +7835,8 @@
                     "title": "Squid Game",
                     "choices": [
                         {
-                            "text": "'187'",
-                            "isCorrect": false // gibt es
+                            "text": "'XI'",
+                            "isCorrect": false 
                         },
                         {
                             "text": "'456'",
@@ -7851,8 +7851,8 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "'007'",
-                            "isCorrect": false // gibt es auch
+                            "text": "'4x4'",
+                            "isCorrect": false 
                         },
                         {
                             "text": "'199'",
@@ -7922,7 +7922,7 @@
         },
         {
             "id": "11444",
-            "title": "GeoGuessr", // Kategorie umbenennen
+            "title": "Prüfung der Ortskenntnis", 
             "prompts": [
                 {
                     "title": "Plätze in Deutschland",
@@ -8041,10 +8041,10 @@
                     ]
                 },
                 {
-                    "title": "Aktuelle Formel 1-Strecken", // Fragen müssen zeitlich unabhängig sein
+                    "title": "Formel 1-Strecken",
                     "choices": [
                         {
-                            "text": "Hockenheimring",
+                            "text": "Pinehills-Rennbahn",
                             "isCorrect": false
                         },
                         {
@@ -8052,7 +8052,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Kyalami Grand Prix Circuit",
+                            "text": "Luigis Rennpiste",
                             "isCorrect": false
                         },
                         {
@@ -8060,7 +8060,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Circuit de Andalucía",
+                            "text": "Drytown Desert Circuit",
                             "isCorrect": false
                         },
                         {
@@ -8656,7 +8656,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "The Witcher",
+                            "text": "The Witcher (Computerspiel)",
                             "isCorrect": false
                         },
                         {
@@ -9388,7 +9388,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Dr. Mario Mario", // soll das so?
+                            "text": "Dr. Mario Mario",
                             "isCorrect": false
                         }
                     ]
@@ -9525,8 +9525,8 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Dr. Sommer",
-                            "isCorrect": false
+                            "text": "DocCheck",
+                            "isCorrect": true
                         },
                         {
                             "text": "Dr. Best",
