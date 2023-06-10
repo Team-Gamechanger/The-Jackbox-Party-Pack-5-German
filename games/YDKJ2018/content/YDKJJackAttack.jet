@@ -2720,7 +2720,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Das noch heute nach deutschem Recht geltende BGB tritt in Kraft",
+                            "text": "Das BGB tritt in Kraft",
                             "isCorrect": true
                         },
                         {
@@ -2728,7 +2728,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Fritz Haber entwickelt ein Verfahren zur Herstellung von Kunstdünger & Gaswaffen",
+                            "text": "Fritz Haber entwickelt ein Verfahren zur Herstellung von Kunstdünger & Gaswaffen", // zu lang?
                             "isCorrect": true
                         }
                     ]
@@ -4009,11 +4009,11 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Kunstrasenfelder müssen grün sein",
+                            "text": "Nicht jede Ballberührung eines Spielers mit der Hand/dem Arm ist ein Vergehen",
                             "isCorrect": true
                         },
                         {
-                            "text": "Nicht jede Ballberührung eines Spielers mit der Hand/dem Arm ist ein Vergehen",
+                            "text": "Kunstrasenfelder müssen grün sein",
                             "isCorrect": true
                         },
                         {
@@ -4121,7 +4121,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Elfen dürfen nach 10:30Uhr kein Frühstück mehr servieren",
+                            "text": "Elfen dürfen nach 10:30 Uhr kein Frühstück mehr servieren",
                             "isCorrect": true
                         },
                         {
@@ -4133,8 +4133,8 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Wettbewerbsvorteile herbeizuzauben ist erlaubt",
-                            "isCorrect": false
+                            "text": "Es darf kein Wettbewerbsvorteil herbeigezaubert werden",
+                            "isCorrect": true
                         }
                     ]
                 }
@@ -4148,7 +4148,7 @@
                     "title": "Sprechende Hunde",
                     "choices": [
                         {
-                            "text": "<i>Oben<\/i>",
+                            "text": "<i>Oben<\/i>", // Die Hunde können nicht sprechen, sie haben ein Halsband mit Sprachcomputer
                             "isCorrect": true
                         },
                         {
@@ -4502,7 +4502,7 @@
         },
         {
             "id": "11425",
-            "title": "Lang lebe unser... Staatsoberhaupt",
+            "title": "Lang lebe unser... Staatsoberhaupt", // Grenzwertig ?
             "prompts": [
                 {
                     "title": "Das 21. Jahrhundert",
@@ -4692,7 +4692,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Das \u201cJoker\u201d-Teil bei <i>Scrabble<\/i>",
+                            "text": "Der Joker-Stein bei <i>Scrabble<\/i>",
                             "isCorrect": false
                         },
                         {
@@ -4708,7 +4708,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Das \u201cWarnblinker\u201d-Symbol beim Auto",
+                            "text": "Das Warnblinker-Symbol beim Auto",
                             "isCorrect": false
                         }
                     ]
@@ -4758,7 +4758,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "250ml fettarme Milch bei <i>Weight Watchers<\/i> (Stand: 2022)",
+                            "text": "250ml fettarme Milch bei <i>Weight Watchers<\/i>",
                             "isCorrect": true
                         },
                         {
@@ -4779,19 +4779,19 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Sternzeichen \u201cKrebs\u201d",
+                            "text": "Sternzeichen Krebs",
                             "isCorrect": true
                         },
                         {
-                            "text": "Das \u201cHaus vom Nikolaus\u201d",
+                            "text": "Das Haus vom Nikolaus",
                             "isCorrect": true
                         },
                         {
-                            "text": "Platz \u201c30\u201d beim Biathlon-Weltcup",
+                            "text": "Platz 30 beim Biathlon-Weltcup",
                             "isCorrect": false
                         },
                         {
-                            "text": "Fünf \u201cFünfer\u201d bei <i>Kniffel<\/i>",
+                            "text": "Fünf Fünfer bei <i>Kniffel<\/i>",
                             "isCorrect": false
                         },
                         {
@@ -5348,19 +5348,19 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "\u201cRed Bull verleiht Flüüügel.\u201d",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "\u201cRed Bull verleiht Flügel.\u201d",
-                            "isCorrect": true
-                        },
-                        {
                             "text": "\u201cRed Bull erfrischt dich.\u201d",
                             "isCorrect": false
                         },
                         {
+                            "text": "\u201cRed Bull verleiht Flüüügel.\u201d",
+                            "isCorrect": true
+                        },
+                        {
                             "text": "\u201cRed Bull belebt Geist und Körper.\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cRed Bull verleiht Flügel.\u201d",
                             "isCorrect": true
                         },
                         {
@@ -7361,7 +7361,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Cosmo und Wanda - Wenn _____en helfen",
+                            "text": "Cosmo und Wanda - Wenn _____en helfen", // Die Serie heißt ja nicht Wenn 11en helfen, daher schwierig
                             "isCorrect": true
                         },
                         {
@@ -7803,7 +7803,7 @@
                     ]
                 },
                 {
-                    "title": "<i>Super Smash Bros.<\/i>-Kämpfer",
+                    "title": "Kämpfer der <i>Super Smash Bros.<\/i>-Reihe",
                     "choices": [
                         {
                             "text": "Waluigi",
@@ -7836,7 +7836,7 @@
                     "choices": [
                         {
                             "text": "'187'",
-                            "isCorrect": false
+                            "isCorrect": false // gibt es
                         },
                         {
                             "text": "'456'",
@@ -7852,7 +7852,7 @@
                         },
                         {
                             "text": "'007'",
-                            "isCorrect": false
+                            "isCorrect": false // gibt es auch
                         },
                         {
                             "text": "'199'",
@@ -7922,7 +7922,7 @@
         },
         {
             "id": "11444",
-            "title": "GeoGuessr",
+            "title": "GeoGuessr", // Kategorie umbenennen
             "prompts": [
                 {
                     "title": "Plätze in Deutschland",
@@ -8041,7 +8041,7 @@
                     ]
                 },
                 {
-                    "title": "Aktuelle Formel 1-Strecken",
+                    "title": "Aktuelle Formel 1-Strecken", // Fragen müssen zeitlich unabhängig sein
                     "choices": [
                         {
                             "text": "Hockenheimring",
@@ -8445,7 +8445,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Keanu Reeves",
+                            "text": "<i>Take on Me<\/i>",
                             "isCorrect": false
                         },
                         {
@@ -8656,7 +8656,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "The Witcher 1",
+                            "text": "The Witcher",
                             "isCorrect": false
                         },
                         {
@@ -9275,7 +9275,7 @@
                     "title": "Für die Unterhaltung",
                     "choices": [
                         {
-                            "text": "Elbphillharmonie",
+                            "text": "Elbphilharmonie",
                             "isCorrect": true
                         },
                         {
@@ -9353,7 +9353,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Elbphillharmonie",
+                            "text": "Elbphilharmonie",
                             "isCorrect": false
                         }
                     ]
@@ -9388,7 +9388,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Dr. Mario Mario",
+                            "text": "Dr. Mario Mario", // soll das so?
                             "isCorrect": false
                         }
                     ]
@@ -9526,7 +9526,7 @@
                         },
                         {
                             "text": "Dr. Sommer",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "text": "Dr. Best",
