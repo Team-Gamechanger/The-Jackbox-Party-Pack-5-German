@@ -5,7 +5,7 @@
             "title": "Welch farbenfrohe Persönlichkeit",
             "prompts": [
                 {
-                    "title": "rot",
+                    "title": "Rot",
                     "choices": [
                         {
                             "text": "Elmo",
@@ -34,7 +34,7 @@
                     ]
                 },
                 {
-                    "title": "blau",
+                    "title": "Blau",
                     "choices": [
                         {
                             "text": "James P. Sullivan",
@@ -63,7 +63,7 @@
                     ]
                 },
                 {
-                    "title": "gelb",
+                    "title": "Gelb",
                     "choices": [
                         {
                             "text": "Meister Proper",
@@ -92,7 +92,7 @@
                     ]
                 },
                 {
-                    "title": "grün",
+                    "title": "Grün",
                     "choices": [
                         {
                             "text": "Gamora",
@@ -121,7 +121,7 @@
                     ]
                 },
                 {
-                    "title": "orange",
+                    "title": "Orange",
                     "choices": [
                         {
                             "text": "Der Lorax",
@@ -150,7 +150,7 @@
                     ]
                 },
                 {
-                    "title": "rosa",
+                    "title": "Rosa",
                     "choices": [
                         {
                             "text": "Schiggy",
@@ -626,7 +626,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Den Hales Kometen sehen",
+                            "text": "Den Halleyschen Kometen sehen",
                             "isCorrect": true
                         }
                     ]
@@ -635,7 +635,7 @@
                     "title": "Jede Sekunde (mehr oder weniger)",
                     "choices": [
                         {
-                            "text": "50.000 “Gefällt mir”-Klicks auf Facebook",
+                            "text": "60.000 “Gefällt mir”-Klicks auf Facebook",
                             "isCorrect": true
                         },
                         {
@@ -647,7 +647,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Ein neuer Til Schweiger Film",
+                            "text": "Ein neuer Til-Schweiger-Film",
                             "isCorrect": false
                         },
                         {
@@ -1265,7 +1265,7 @@
             "title": "Ich wusste gar nicht, dass du auch dort warst",
             "prompts": [
                 {
-                    "title": "der Mond",
+                    "title": "Der Mond",
                     "choices": [
                         {
                             "text": "Neil Armstrong",
@@ -1323,7 +1323,7 @@
                     ]
                 },
                 {
-                    "title": "in der Zukunft",
+                    "title": "In der Zukunft",
                     "choices": [
                         {
                             "text": "Thaddäus Tentakel",
@@ -1352,7 +1352,7 @@
                     ]
                 },
                 {
-                    "title": "Oxford Universität",
+                    "title": "Oxford-Universität",
                     "choices": [
                         {
                             "text": "J.R.R. Tolkien",
@@ -1410,7 +1410,7 @@
                     ]
                 },
                 {
-                    "title": "die Hungerspiele",
+                    "title": "Die Hungerspiele",
                     "choices": [
                         {
                             "text": "Peeta Mellark",
@@ -1590,7 +1590,7 @@
                     ]
                 },
                 {
-                    "title": "in einem Jackbox Party Pack",
+                    "title": "In einem <i>Jackbox Party Pack<\/i>",
                     "choices": [
                         {
                             "text": "<i>Blather \u0027Round<\/i>",
@@ -1850,11 +1850,11 @@
                         },
                         {
                             "text": "Gemeinnützige",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "text": "Gesellschaft",
-                            "isCorrect": false
+                            "isCorrect": true
                         },
                         {
                             "text": "Aufführungs- und mechani­sche Vervielfältigungsrechte",
@@ -2037,13 +2037,13 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Grimm\u2019s Märchenwald",
+                            "text": "Grimms Märchenwald",
                             "isCorrect": true
                         }
                     ]
                 },
                 {
-                    "title": "Parkregeln der StVo in Deutschland",
+                    "title": "Parkregeln der StVO in Deutschland",
                     "choices": [
                         {
                             "text": "Absolutes Halteverbot darf beparkt werden",
@@ -2054,7 +2054,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "In 30er Zonen darf entgegen der Fahrtrichtung geparkt werden",
+                            "text": "In 30er-Zonen darf entgegen der Fahrtrichtung geparkt werden",
                             "isCorrect": false
                         },
                         {
@@ -2234,8 +2234,8 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Michael Herbig",
-                            "isCorrect": true
+                            "text": "Jürgen Vogel", 
+                            "isCorrect": false
                         },
                         {
                             "text": "Bjarne Mädel",
@@ -2712,7 +2712,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Otto von Bismarck etabliert die gesetzliche Krankversicherung in Deutschland",
+                            "text": "Otto von Bismarck etabliert die gesetzliche Krankenversicherung in Deutschland",
                             "isCorrect": false
                         },
                         {
@@ -2803,7 +2803,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Belgien\u2019s Staatsoberhaupt ist ein Monarch",
+                            "text": "Belgiens Staatsoberhaupt ist ein Monarch",
                             "isCorrect": true
                         },
                         {
@@ -2873,7 +2873,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Sturmtruppen töten LukeDon\u2019s Eltern",
+                            "text": "Sturmtruppen töten LukeDons Eltern",
                             "isCorrect": false
                         }
                     ]
@@ -3046,7 +3046,7 @@
                         },
                         {
                             "text": "6 Karten einer Farbe",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "text": "7 Karten einer Farbe",
@@ -3117,7 +3117,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Weißkopfadler",
+                            "text": "Weißkopfseeadler",
                             "isCorrect": true
                         }
                     ]
@@ -3175,7 +3175,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Dr. Frankenstein\u2019s Körper",
+                            "text": "Dr. Frankensteins Körper",
                             "isCorrect": true
                         }
                     ]
@@ -3192,7 +3192,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Dracula\u2019s Körper",
+                            "text": "Draculas Körper",
                             "isCorrect": false
                         },
                         {
@@ -3204,7 +3204,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Eine McDonald\u2019s Filiale",
+                            "text": "Eine <i>McDonald\u2019s<\/i>-Filiale",
                             "isCorrect": false
                         }
                     ]
@@ -3425,7 +3425,7 @@
             "title": "Nie ohne mein Team",
             "prompts": [
                 {
-                    "title": "Fußball Positionen",
+                    "title": "Fußballpositionen",
                     "choices": [
                         {
                             "text": "Torhüter",
@@ -3454,7 +3454,7 @@
                     ]
                 },
                 {
-                    "title": "Basketball Positionen",
+                    "title": "Basketballpositionen",
                     "choices": [
                         {
                             "text": "Quarterback",
@@ -3483,7 +3483,7 @@
                     ]
                 },
                 {
-                    "title": "Quidditch Positionen",
+                    "title": "Quidditch-Positionen",
                     "choices": [
                         {
                             "text": "Hüter",
@@ -3541,7 +3541,7 @@
                     ]
                 },
                 {
-                    "title": "\u201cDungeons & Dragons\u201d Klassen",
+                    "title": "\u201cDungeons & Dragons\u201d-Klassen",
                     "choices": [
                         {
                             "text": "Barbar",
@@ -3641,7 +3641,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Gundula Gaukeley",
+                            "text": "Gundul Gaukeley",
                             "isCorrect": true
                         },
                         {
@@ -3814,7 +3814,7 @@
                     ]
                 },
                 {
-                    "title": "Hamlet\u2019s Monolog",
+                    "title": "Hamlets Monolog",
                     "choices": [
                         {
                             "text": "Sein oder Nichtsein",
@@ -3843,14 +3843,14 @@
                     ]
                 },
                 {
-                    "title": "Merkel\u2019s Fernsehansprache zur Coronakrise",
+                    "title": "Merkels Fernsehansprache zur Coronakrise",
                     "choices": [
                         {
                             "text": "Es ist ernst",
                             "isCorrect": true
                         },
                         {
-                            "text": "das Internet ist für uns alle Neuland",
+                            "text": "Das Internet ist für uns alle Neuland",
                             "isCorrect": false
                         },
                         {
@@ -3872,7 +3872,7 @@
                     ]
                 },
                 {
-                    "title": "Rede von Steve Jobs vor Absolventen der Stanford Universität",
+                    "title": "Rede von Steve Jobs vor Absolventen der Stanford-Universität",
                     "choices": [
                         {
                             "text": "1963 ist kein Ende sondern ein Anfang",
@@ -3892,7 +3892,7 @@
                         },
                         {
                             "text": "Ich war gerade 30 geworden, da wurde ich gefeuert",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "text": "Von jedem Berghang lass die Glocken der Freiheit läuten",
@@ -3930,7 +3930,7 @@
                     ]
                 },
                 {
-                    "title": "Yoda\u2019s Rede über <i>das Wesen der Macht<\/i>",
+                    "title": "Yodas Rede über <i>das Wesen der Macht<\/i>",
                     "choices": [
                         {
                             "text": "Größe bedeutet nichts",
@@ -3972,7 +3972,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "keine Schuhe, keine Handschuhe",
+                            "text": "Keine Schuhe, keine Handschuhe",
                             "isCorrect": false
                         },
                         {
@@ -4042,11 +4042,11 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Schülern unter 17 Jahre ist es strikt untersagt außerhalb von Hogwarts zu zaubern",
-                            "isCorrect": true
+                            "text": "Schülern unter 17 Jahren ist es strikt untersagt, außerhalb von Hogwarts zu zaubern",
+                            "isCorrect": falsch
                         },
                         {
-                            "text": "Schüler dürfen den Verlauf der Geschichte, sowie Naturgesetze beeinflussen, sofern nichts ungeschehen gemacht wird",
+                            "text": "Schüler dürfen den Verlauf der Geschichte sowie Naturgesetze beeinflussen, sofern nichts ungeschehen gemacht wird",
                             "isCorrect": false
                         }
                     ]
@@ -4085,7 +4085,7 @@
                     "choices": [
                         {
                             "text": "Bauen dürfen Spieler nur, wenn sie am Zug sind",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "text": "Wer ein Ereignisfeld betritt, muss keine Karte ziehen",
@@ -4100,7 +4100,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Landet ein Spieler direkt auf \u201cLos\u201d darf er das doppelte einziehen",
+                            "text": "Landet ein Spieler direkt auf \u201cLos\u201d, darf er das doppelte einziehen",
                             "isCorrect": false
                         },
                         {
@@ -4148,7 +4148,7 @@
                     "title": "Sprechende Hunde",
                     "choices": [
                         {
-                            "text": "<i>Scooby-Doo (Film)<\/i>",
+                            "text": "<i>Scooby-Doo<\/i> (Film)",
                             "isCorrect": true
                         },
                         {
@@ -4586,7 +4586,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Friedrich Barbarossa",
+                            "text": "Barbarossa",
                             "isCorrect": true
                         }
                     ]
@@ -5056,7 +5056,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Netflix & Chill\u2019d",
+                            "text": "Netflix & Chilll\u2019d",
                             "isCorrect": true
                         },
                         {
@@ -5413,7 +5413,7 @@
                         },
                         {
                             "text": "Puffreis",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "text": "Buttermilch",
@@ -5441,7 +5441,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Jogurt",
+                            "text": "Joghurt",
                             "isCorrect": true
                         },
                         {
@@ -5482,11 +5482,11 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Rindsfleisch",
+                            "text": "Rindfleisch",
                             "isCorrect": false
                         },
                         {
-                            "text": "Jogurt",
+                            "text": "Joghurt",
                             "isCorrect": false
                         }
                     ]
