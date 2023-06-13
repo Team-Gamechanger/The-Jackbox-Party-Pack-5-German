@@ -13139,6 +13139,366 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "11473",
+            "title": "Der etwas andere Trophäenjäger",
+            "prompts": [
+                {
+                    "title": "<i>PlayStation<\/i>-Trophäen",
+                    "choices": [
+                        {
+                            "text": "Diamant",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Platin",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Eisen",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Silber",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Kupfer",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Bronze",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Olympiamedaillen",
+                    "choices": [
+                        {
+                            "text": "Titanium",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Bronze",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Edelstahl",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Messing",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Gold",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Rubin",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Errungenschaften in <i>Cyberpunk 2077<\/i>",
+                    "choices": [
+                        {
+                            "text": "\u201cDie Stanislawski-Methode\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cDer Narr\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cAfterlife-Legende\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cVollkörperkonversion\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cBreathtaking\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cZehn von zehn\u201d",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Geldstufen bei <i>Wer wird Millionär?<\/i>",
+                    "choices": [
+                        {
+                            "text": "8000€",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "64000000€",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "250€",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "64000€",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "300€",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "128000€",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Filme mit 11 Oscars",
+                    "choices": [
+                        {
+                            "text": "<i>Der Herr der Ringe: Die zwei Türme<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Titanic<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Ben Hur<\/i>",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "<i>Harry Potter 3: Der Gefangene von Askaban<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Gravity<\/i>",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "<i>Der Herr der Ringe: Die Rückkehr des Königs<\/i>",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "EM-Meister im Fußball bis 2001",
+                    "choices": [
+                        {
+                            "text": "Deutsche Demokratische Republik",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Tschechoslowakei",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Griechenland",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Dänemark",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Sowjetunion",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Portugal",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "11474",
+            "title": "Harte Schale, weicher Kern",
+            "prompts": [
+                {
+                    "title": "Dateigrößen",
+                    "choices": [
+                        {
+                            "text": "Byte",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Brontobyte",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Petabyte",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Yottabyte",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Terabyte",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Zettabyte",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "DHL-Portostufen",
+                    "choices": [
+                        {
+                            "text": "2 kg - Päckchen XL",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "31,5 kg - Paket",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "2 kg - Päckchen S",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "10 kg - Paket",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "2 kg - Paket",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "2 kg - Paket M",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Lebensmittelhändler mit eigenem Lieferdienst",
+                    "choices": [
+                        {
+                            "text": "REWE",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "dm",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Kaiser\u2019s Tengelmann",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Netto",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Edeka",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Rossmann",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Waffenkisten in <i>Counter-Strike: Global Offensive<\/i>",
+                    "choices": [
+                        {
+                            "text": "Dreams & Nightmares",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Prisma 2",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Operation Vanguard",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Ice Phoenix",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Fracture",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Operation Biohazard",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Spiel eines <i>Jackbox Party Packs<\/i> mit gerader Nummer",
+                    "choices": [
+                        {
+                            "text": "\u201cWeapons Drawn\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cYou Don\u2019t Know Jack: Full Stream\u201d",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "\u201cSurvive the Internet\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cRole Models\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cMonster Seeking Monster\u201d",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "\u201cNonsensory\u201d",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Paketgrößen bei Amazon",
+                    "choices": [
+                        {
+                            "text": "A1",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Q1",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "E1",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "W1",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "B1",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "M1",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
