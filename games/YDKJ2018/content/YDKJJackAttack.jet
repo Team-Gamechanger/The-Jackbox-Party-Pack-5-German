@@ -14193,27 +14193,27 @@
                     "title": "Gürtel im Haidong Gumdo (koreanischer Schwertkampf)",
                     "choices": [
                         {
-                            "text": "Achterbahnfahrt",
+                            "text": "Schwarz - 4. Dan",
                             "isCorrect": true
                         },
                         {
-                            "text": "Hochleistungssport",
+                            "text": "Weiß",
                             "isCorrect": true
                         },
                         {
-                            "text": "Auf der Flucht",
+                            "text": "Schwarz - 1. Dan",
                             "isCorrect": true
                         },
                         {
-                            "text": "Scharfes Essen essen",
+                            "text": "Blau-Rot",
                             "isCorrect": true
                         },
                         {
-                            "text": "Extreme Unterzuckerung",
-                            "isCorrect": true
+                            "text": "Orange",
+                            "isCorrect": false
                         },
                         {
-                            "text": "Marathonlauf",
+                            "text": "Gelb-Grün",
                             "isCorrect": true
                         }
                     ]
