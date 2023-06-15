@@ -12814,30 +12814,30 @@
                     ]
                 },
                 {
-                    "title": "Römisches Zahlensystem",
+                    "title": "Arabisches Ziffernsystem",
                     "choices": [
                         {
                             "text": "'X'",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "text": "'0'",
-                            "isCorrect": false
+                            "isCorrect": true
                         },
                         {
                             "text": "'C'",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "'N'",
                             "isCorrect": false
                         },
                         {
-                            "text": "'D'",
+                            "text": "'3'",
                             "isCorrect": true
                         },
                         {
-                            "text": "'M'",
+                            "text": "'D'",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "'9'",
                             "isCorrect": true
                         }
                     ]
