@@ -4043,7 +4043,7 @@
                         },
                         {
                             "text": "Schülern unter 17 Jahren ist es strikt untersagt, außerhalb von Hogwarts zu zaubern",
-                            "isCorrect": falsch
+                            "isCorrect": false
                         },
                         {
                             "text": "Schüler dürfen den Verlauf der Geschichte sowie Naturgesetze beeinflussen, sofern nichts ungeschehen gemacht wird",
