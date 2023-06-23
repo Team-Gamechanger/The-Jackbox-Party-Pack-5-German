@@ -92,7 +92,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.32",
       "n": "$InstructionsAudio$DatTextCue"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.00",
       "n": "$InstructionsAudio$DisTextCue"
     },
     {
