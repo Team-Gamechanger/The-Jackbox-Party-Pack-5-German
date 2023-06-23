@@ -6,7 +6,7 @@
 	"supportsFullScreen":"true",
 	"videoplayer":"true",
 	"uaVersionId":"1.0.0",
-	"dev-console":"false",
+	"dev-console":"true",
 	"uaAppName":"YDKJ2018",
 	"debug":"false",
 	"env":"pc",
