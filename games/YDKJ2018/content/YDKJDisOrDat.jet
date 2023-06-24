@@ -531,12 +531,12 @@
         {
             "questions": [
                 {
-                    "text": "Lebensoptionen",
+                    "text": "Kraftfahrer im Verkehr",
                     "correctChoiceString": "dat"
                 },
                 {
                     "text": "Steinschlag",
-                    "correctChoiceString": "both"
+                    "correctChoiceString": "dis"
                 },
                 {
                     "text": "Herzstillstand",
@@ -547,7 +547,7 @@
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Kraftfahrer im Verkehr",
+                    "text": "Lebensoptionen",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -1024,11 +1024,11 @@
                 },
                 {
                     "text": "Maredsous",
-                    "correctChoiceString": "dat"
+                    "correctChoiceString": "dis"
                 },
                 {
                     "text": "Swaffelen",
-                    "correctChoiceString": "both"
+                    "correctChoiceString": "dat"
                 },
                 {
                     "text": "Shibari",
@@ -1235,45 +1235,45 @@
         {
             "questions": [
                 {
-                    "text": "<i>Liebe ist für alle da<\/i>",
-                    "correctChoiceString": "dis"
-                },
-                {
-                    "text": "<i>Rein raus<\/i>",
-                    "correctChoiceString": "dis"
-                },
-                {
-                    "text": "<i>Böse Mädchen<\/i>",
+                    "text": "Jürgen Bartsch",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "<i>Ich seh<\/i>",
+                    "text": "Jack the Ripper",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "<i>Dicke Titten<\/i>",
+                    "text": "Gunter Gabriel",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "<i>Sugar Daddy<\/i>",
+                    "text": "Gottlieb Wendehals",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Simon Bingelhelm",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "<i>Sex<\/i>",
+                    "text": "Heidi Brühl",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "Graham Bonney",
                     "correctChoiceString": "dis"
                 }
             ],
             "disChoice": {
-                "longText": "ein Song der Band Rammstein",
-                "shortText": "RAMMSTEIN"
+                "longText": "ein Schlagersänger",
+                "shortText": "SCHLAGERSÄNGER"
             },
             "datChoice": {
-                "longText": "ein Song der Erotik-Influencerin Katja Krasavice",
-                "shortText": "KATJA KRASAVICE"
+                "longText": "ein Serienmörder",
+                "shortText": "SERIENMÖRDER"
             },
             "id": "11028",
             "category": {
-                "text": "Zärtlichkeit mit einem Spritzer Härte"
+                "text": "Deutscher Schlager & andere brutale Straftaten"
             }
         },
         {
@@ -2198,50 +2198,6 @@
             "id": "11049",
             "category": {
                 "text": "\u201cFlugzeuge im Bauch\u201d & weitere Probleme an der Flughafen-Security"
-            }
-        },
-        {
-            "questions": [
-                {
-                    "text": "Jürgen Bartsch",
-                    "correctChoiceString": "dat"
-                },
-                {
-                    "text": "Jack the Ripper",
-                    "correctChoiceString": "dat"
-                },
-                {
-                    "text": "Gunter Gabriel",
-                    "correctChoiceString": "dis"
-                },
-                {
-                    "text": "Gottlieb Wendehals",
-                    "correctChoiceString": "dis"
-                },
-                {
-                    "text": "Simon Bingelhelm",
-                    "correctChoiceString": "dat"
-                },
-                {
-                    "text": "Heidi Brühl",
-                    "correctChoiceString": "dis"
-                },
-                {
-                    "text": "Graham Bonney",
-                    "correctChoiceString": "dis"
-                }
-            ],
-            "disChoice": {
-                "longText": "ein Schlagersänger",
-                "shortText": "SCHLAGERSÄNGER"
-            },
-            "datChoice": {
-                "longText": "ein Serienmörder",
-                "shortText": "SERIENMÖRDER"
-            },
-            "id": "11050",
-            "category": {
-                "text": "Deutscher Schlager & andere brutale Straftaten"
             }
         }
     ]
