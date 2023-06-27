@@ -181,7 +181,7 @@
 			]
 		},
 		{
-			"id": "11402",
+			"id": "11401",
 			"title": "Üben Üben Üben",
 			"prompts": [
 				{
@@ -361,7 +361,7 @@
 			]
 		},
 		{
-			"id": "11403",
+			"id": "11402",
 			"title": "Klappt jedes Mal",
 			"prompts": [
 				{
@@ -541,7 +541,7 @@
 			]
 		},
 		{
-			"id": "11406",
+			"id": "11403",
 			"title": "Traditionell enthalten",
 			"prompts": [
 				{
@@ -721,7 +721,7 @@
 			]
 		},
 		{
-			"id": "11409",
+			"id": "11404",
 			"title": "Wir brauchen mehr Meer",
 			"prompts": [
 				{
@@ -901,7 +901,7 @@
 			]
 		},
 		{
-			"id": "11410",
+			"id": "11405",
 			"title": "Namen die für etwas stehen",
 			"prompts": [
 				{
@@ -1081,7 +1081,7 @@
 			]
 		},
 		{
-			"id": "11411",
+			"id": "11406",
 			"title": "Park hier, Park dort",
 			"prompts": [
 				{
@@ -1261,7 +1261,7 @@
 			]
 		},
 		{
-			"id": "11412",
+			"id": "11407",
 			"title": "Jeder hat seinen Preis",
 			"prompts": [
 				{
@@ -1441,7 +1441,7 @@
 			]
 		},
 		{
-			"id": "11414",
+			"id": "11408",
 			"title": "Zwischen Vakuum & Supernova",
 			"prompts": [
 				{
@@ -1621,7 +1621,7 @@
 			]
 		},
 		{
-			"id": "11415",
+			"id": "11409",
 			"title": "Diese Kategorie wird den Zeitrahmen sprengen",
 			"prompts": [
 				{
@@ -1801,7 +1801,7 @@
 			]
 		},
 		{
-			"id": "11416",
+			"id": "11410",
 			"title": "Ich Phase es nicht",
 			"prompts": [
 				{
@@ -1981,7 +1981,7 @@
 			]
 		},
 		{
-			"id": "11417",
+			"id": "11411",
 			"title": "Ich weiß zumindest, dass wir auf der Erde leben",
 			"prompts": [
 				{
@@ -2161,7 +2161,7 @@
 			]
 		},
 		{
-			"id": "11418",
+			"id": "11412",
 			"title": "BIT-te lass mich mit deinen Formaten in Ruhe",
 			"prompts": [
 				{
@@ -2313,27 +2313,27 @@
 					"title": "RTL-Formate",
 					"choices": [
 						{
-							"text": "\"Wer wird Millionär?\"",
+							"text": "Wer wird Millionär?",
 							"isCorrect": true
 						},
 						{
-							"text": "\"Gefragt - Gejagt\"",
+							"text": "Gefragt - Gejagt",
 							"isCorrect": false
 						},
 						{
-							"text": "\"Schwiegertochter gesucht\"",
+							"text": "Schwiegertochter gesucht",
 							"isCorrect": false
 						},
 						{
-							"text": "\"Joko & Klaas gegen ProSieben\"",
+							"text": "Joko & Klaas gegen ProSieben",
 							"isCorrect": false
 						},
 						{
-							"text": "\"7 Tage 7 Köpfe\"",
+							"text": "7 Tage 7 Köpfe",
 							"isCorrect": true
 						},
 						{
-							"text": "\"Domino Day\"",
+							"text": "Domino Day",
 							"isCorrect": true
 						}
 					]
@@ -2341,7 +2341,7 @@
 			]
 		},
 		{
-			"id": "11419",
+			"id": "11413",
 			"title": "Nie ohne mein Team",
 			"prompts": [
 				{
@@ -2521,7 +2521,7 @@
 			]
 		},
 		{
-			"id": "11420",
+			"id": "11414",
 			"title": "Die Monster GmbH",
 			"prompts": [
 				{
@@ -2701,7 +2701,7 @@
 			]
 		},
 		{
-			"id": "11423",
+			"id": "11415",
 			"title": "Zoo, lass uns reden!",
 			"prompts": [
 				{
@@ -2881,7 +2881,7 @@
 			]
 		},
 		{
-			"id": "11424",
+			"id": "11416",
 			"title": "Spoilerwarnung... Der Charakter stirbt!",
 			"prompts": [
 				{
@@ -3061,7 +3061,7 @@
 			]
 		},
 		{
-			"id": "11426",
+			"id": "11417",
 			"title": "Punkt, Punkt, Komma, Strich?",
 			"prompts": [
 				{
@@ -3241,7 +3241,7 @@
 			]
 		},
 		{
-			"id": "11427",
+			"id": "11418",
 			"title": "Spaß mit Flaggen",
 			"prompts": [
 				{
@@ -3421,7 +3421,7 @@
 			]
 		},
 		{
-			"id": "11428",
+			"id": "11419",
 			"title": "Welch wundervolles Duo",
 			"prompts": [
 				{
@@ -3601,7 +3601,7 @@
 			]
 		},
 		{
-			"id": "11429",
+			"id": "11420",
 			"title": "Hier könnte Ihre Werbung stehen",
 			"prompts": [
 				{
@@ -3781,7 +3781,7 @@
 			]
 		},
 		{
-			"id": "11430",
+			"id": "11421",
 			"title": "Iss das NICHT",
 			"prompts": [
 				{
@@ -3961,7 +3961,7 @@
 			]
 		},
 		{
-			"id": "11433",
+			"id": "11422",
 			"title": "Sprich mir nach",
 			"prompts": [
 				{
@@ -4141,7 +4141,7 @@
 			]
 		},
 		{
-			"id": "11434",
+			"id": "11423",
 			"title": "Augen auf bei der Berufswahl",
 			"prompts": [
 				{
@@ -4321,7 +4321,7 @@
 			]
 		},
 		{
-			"id": "11436",
+			"id": "11424",
 			"title": "Die Summe aller Teile",
 			"prompts": [
 				{
@@ -4501,7 +4501,7 @@
 			]
 		},
 		{
-			"id": "11437",
+			"id": "11425",
 			"title": "Im Titel verborgen",
 			"prompts": [
 				{
@@ -4681,7 +4681,7 @@
 			]
 		},
 		{
-			"id": "11439",
+			"id": "11426",
 			"title": "Ein-Wort-Filmzusammenfassungen",
 			"prompts": [
 				{
@@ -4861,7 +4861,7 @@
 			]
 		},
 		{
-			"id": "11440",
+			"id": "11427",
 			"title": "Zahlen, bitte!",
 			"prompts": [
 				{
@@ -5041,7 +5041,7 @@
 			]
 		},
 		{
-			"id": "11441",
+			"id": "11428",
 			"title": "Lotterie der Erkrankungen",
 			"prompts": [
 				{
@@ -5221,7 +5221,7 @@
 			]
 		},
 		{
-			"id": "11444",
+			"id": "11429",
 			"title": "Prüfung der Ortskenntnis",
 			"prompts": [
 				{
@@ -5401,7 +5401,7 @@
 			]
 		},
 		{
-			"id": "11446",
+			"id": "11430",
 			"title": "Warnung: Dieser Film enthält...",
 			"prompts": [
 				{
@@ -5581,7 +5581,7 @@
 			]
 		},
 		{
-			"id": "11447",
+			"id": "11431",
 			"title": "Ein Buchstabe nach dem anderen",
 			"prompts": [
 				{
@@ -5761,7 +5761,7 @@
 			]
 		},
 		{
-			"id": "11448",
+			"id": "11432",
 			"title": "Zusammen sind wir stark",
 			"prompts": [
 				{
@@ -5941,7 +5941,7 @@
 			]
 		},
 		{
-			"id": "11449",
+			"id": "11433",
 			"title": "Zeichen der Zeit",
 			"prompts": [
 				{
@@ -6121,7 +6121,7 @@
 			]
 		},
 		{
-			"id": "11451",
+			"id": "11434",
 			"title": "Tipps für die Urlaubsplanung",
 			"prompts": [
 				{
@@ -6301,7 +6301,7 @@
 			]
 		},
 		{
-			"id": "11454",
+			"id": "11435",
 			"title": "Die Form des Einzelnen",
 			"prompts": [
 				{
@@ -6481,7 +6481,7 @@
 			]
 		},
 		{
-			"id": "11456",
+			"id": "11436",
 			"title": "Nun ja, eigentlich...",
 			"prompts": [
 				{
@@ -6661,7 +6661,7 @@
 			]
 		},
 		{
-			"id": "11459",
+			"id": "11437",
 			"title": "Ein echtes Land und...",
 			"prompts": [
 				{
@@ -6841,7 +6841,7 @@
 			]
 		},
 		{
-			"id": "11460",
+			"id": "11438",
 			"title": "Eine Marke hat viele Gesichter",
 			"prompts": [
 				{
@@ -7021,7 +7021,7 @@
 			]
 		},
 		{
-			"id": "11462",
+			"id": "11439",
 			"title": "Chronik der Musik",
 			"prompts": [
 				{
@@ -7201,7 +7201,7 @@
 			]
 		},
 		{
-			"id": "11463",
+			"id": "11440",
 			"title": "Immer diese Fachleute mit ihrem Jargon",
 			"prompts": [
 				{
@@ -7381,7 +7381,7 @@
 			]
 		},
 		{
-			"id": "11464",
+			"id": "11441",
 			"title": "Kenne dein KFZ-Kennzeichen",
 			"prompts": [
 				{
@@ -7561,7 +7561,7 @@
 			]
 		},
 		{
-			"id": "11467",
+			"id": "11442",
 			"title": "Das Richtige sagen, egal in welcher Sprache",
 			"prompts": [
 				{
@@ -7741,7 +7741,7 @@
 			]
 		},
 		{
-			"id": "11468",
+			"id": "11443",
 			"title": "Entdecke deinen Körper",
 			"prompts": [
 				{
@@ -7921,7 +7921,7 @@
 			]
 		},
 		{
-			"id": "11469",
+			"id": "11444",
 			"title": "Füge einfach “Land” hinzu",
 			"prompts": [
 				{
@@ -8101,7 +8101,7 @@
 			]
 		},
 		{
-			"id": "11471",
+			"id": "11445",
 			"title": "Konkurrenz für Graf Zahl",
 			"prompts": [
 				{
@@ -8281,7 +8281,7 @@
 			]
 		},
 		{
-			"id": "11473",
+			"id": "11446",
 			"title": "Der etwas andere Trophäenjäger",
 			"prompts": [
 				{
@@ -8461,7 +8461,7 @@
 			]
 		},
 		{
-			"id": "11474",
+			"id": "11447",
 			"title": "Harte Schale, weicher Kern",
 			"prompts": [
 				{
@@ -8641,7 +8641,7 @@
 			]
 		},
 		{
-			"id": "11476",
+			"id": "11448",
 			"title": "Ein “Auf und Ab” wie auf einer Gartenschaukel",
 			"prompts": [
 				{
@@ -8821,7 +8821,7 @@
 			]
 		},
 		{
-			"id": "11478",
+			"id": "11449",
 			"title": "Eine Vitrine voll mit Abzeichen",
 			"prompts": [
 				{
@@ -9001,7 +9001,7 @@
 			]
 		},
 		{
-			"id": "11479",
+			"id": "11450",
 			"title": "Der Ehre wegen",
 			"prompts": [
 				{
@@ -9181,7 +9181,7 @@
 			]
 		},
 		{
-			"id": "11481",
+			"id": "11451",
 			"title": "Ein Komponist für alle Fälle",
 			"prompts": [
 				{
@@ -9361,7 +9361,7 @@
 			]
 		},
 		{
-			"id": "11482",
+			"id": "11452",
 			"title": "Alles, was Rang und Namen hat",
 			"prompts": [
 				{
@@ -9541,7 +9541,7 @@
 			]
 		},
 		{
-			"id": "11484",
+			"id": "11453",
 			"title": "Von Ball zu Ball",
 			"prompts": [
 				{
@@ -9721,7 +9721,7 @@
 			]
 		},
 		{
-			"id": "11487",
+			"id": "11454",
 			"title": "Wir sind viele, wir sind Einheit",
 			"prompts": [
 				{
@@ -9901,7 +9901,7 @@
 			]
 		},
 		{
-			"id": "11488",
+			"id": "11455",
 			"title": "Legionen des Rechts",
 			"prompts": [
 				{
@@ -10081,7 +10081,7 @@
 			]
 		},
 		{
-			"id": "11489",
+			"id": "11456",
 			"title": "Voll im Zuckerrausch",
 			"prompts": [
 				{
@@ -10261,7 +10261,7 @@
 			]
 		},
 		{
-			"id": "11491",
+			"id": "11457",
 			"title": "Die Qual der Wahl",
 			"prompts": [
 				{
@@ -10441,7 +10441,7 @@
 			]
 		},
 		{
-			"id": "11496",
+			"id": "11458",
 			"title": "Epochale Personen",
 			"prompts": [
 				{
@@ -10621,7 +10621,7 @@
 			]
 		},
 		{
-			"id": "11498",
+			"id": "11459",
 			"title": "Wer suchet, der findet",
 			"prompts": [
 				{
@@ -10801,7 +10801,7 @@
 			]
 		},
 		{
-			"id": "11499",
+			"id": "11460",
 			"title": "Die Vielschichtigkeit von Arealen",
 			"prompts": [
 				{
