@@ -632,35 +632,6 @@
 					]
 				},
 				{
-					"title": "Christoph Maria Herbst",
-					"choices": [
-						{
-							"text": "<i>Stromberg</i>",
-							"isCorrect": true
-						},
-						{
-							"text": "<i>Tatort Münster</i>",
-							"isCorrect": false
-						},
-						{
-							"text": "<i>Weihnachtsmann & Co. KG</i>",
-							"isCorrect": false
-						},
-						{
-							"text": "<i>Richterin Barbara Salesch</i>",
-							"isCorrect": false
-						},
-						{
-							"text": "<i>Hui Buh</i>-Filme",
-							"isCorrect": true
-						},
-						{
-							"text": "<i>In aller Freundschaft</i>",
-							"isCorrect": false
-						}
-					]
-				},
-				{
 					"title": "rohes Fleisch",
 					"choices": [
 						{
@@ -715,6 +686,35 @@
 						{
 							"text": "Long Island Iced Tea",
 							"isCorrect": true
+						}
+					]
+				},
+				{
+					"title": "Christoph Maria Herbst",
+					"choices": [
+						{
+							"text": "<i>Stromberg</i>",
+							"isCorrect": true
+						},
+						{
+							"text": "<i>Tatort Münster</i>",
+							"isCorrect": false
+						},
+						{
+							"text": "<i>Weihnachtsmann & Co. KG</i>",
+							"isCorrect": false
+						},
+						{
+							"text": "<i>Richterin Barbara Salesch</i>",
+							"isCorrect": false
+						},
+						{
+							"text": "<i>Hui Buh</i>-Filme",
+							"isCorrect": true
+						},
+						{
+							"text": "<i>In aller Freundschaft</i>",
+							"isCorrect": false
 						}
 					]
 				}
@@ -1434,6 +1434,186 @@
 						},
 						{
 							"text": "Max Planck",
+							"isCorrect": true
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "11414",
+			"title": "Zwischen Vakuum & Supernova",
+			"prompts": [
+				{
+                    "title": "Planeten unseres Sonnensystems",
+                    "choices": [
+                        {
+                            "text": "Neptun",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Jupiter",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Mars-Trojaner",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Saturn",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Phobos",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Uranus",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+				{
+					"title": "Sternbilder",
+					"choices": [
+						{
+							"text": "Andromeda",
+							"isCorrect": true
+						},
+						{
+							"text": "Pegasus",
+							"isCorrect": true
+						},
+						{
+							"text": "Galaxis",
+							"isCorrect": false
+						},
+						{
+							"text": "Oktant",
+							"isCorrect": true
+						},
+						{
+							"text": "Achterdeck des Schiffs",
+							"isCorrect": true
+						},
+						{
+							"text": "Hydra",
+							"isCorrect": false
+						}
+					]
+				},
+				{
+					"title": "Zwergplaneten unserer Galaxis",
+					"choices": [
+						{
+							"text": "Neptun",
+							"isCorrect": false
+						},
+						{
+							"text": "Ceres",
+							"isCorrect": true
+						},
+						{
+							"text": "Voeld",
+							"isCorrect": false
+						},
+						{
+							"text": "Hellas-Becken",
+							"isCorrect": false
+						},
+						{
+							"text": "Makemake",
+							"isCorrect": true
+						},
+						{
+							"text": "Pluto",
+							"isCorrect": true
+						}
+					]
+				},
+				{
+					"title": "Sterne",
+					"choices": [
+						{
+							"text": "Sirius",
+							"isCorrect": true
+						},
+						{
+							"text": "Deimos",
+							"isCorrect": false
+						},
+						{
+							"text": "Die Sonne",
+							"isCorrect": true
+						},
+						{
+							"text": "Der Mond",
+							"isCorrect": false
+						},
+						{
+							"text": "Eris",
+							"isCorrect": false
+						},
+						{
+							"text": "Proxima Centauri",
+							"isCorrect": true
+						}
+					]
+				},
+				{
+					"title": "Gesteinsplaneten",
+					"choices": [
+						{
+							"text": "Erde",
+							"isCorrect": true
+						},
+						{
+							"text": "Merkur",
+							"isCorrect": true
+						},
+						{
+							"text": "Kepler-186f",
+							"isCorrect": true
+						},
+						{
+							"text": "Mars",
+							"isCorrect": true
+						},
+						{
+							"text": "Uranus",
+							"isCorrect": false
+						},
+						{
+							"text": "Venus",
+							"isCorrect": true
+						}
+					]
+				},
+				{
+					"title": "Asteroiden benannt nach Personen",
+					"choices": [
+						{
+							"text": "(4787) Homer Simpson",
+							"isCorrect": false
+						},
+						{
+							"text": "(9617) Grahamchapman",
+							"isCorrect": true
+						},
+						{
+							"text": "(13926) Berners-Lee",
+							"isCorrect": true
+						},
+						{
+							"text": "(29457) Marcopolo",
+							"isCorrect": true
+						},
+						{
+							"text": "(11014) X-Men",
+							"isCorrect": false
+						},
+						{
+							"text": "(1134) Kepler",
 							"isCorrect": true
 						}
 					]
@@ -3245,35 +3425,6 @@
 			"title": "Welch wundervolles Duo",
 			"prompts": [
 				{
-					"title": "Ben & Jerry",
-					"choices": [
-						{
-							"text": "Karamel Sutra",
-							"isCorrect": true
-						},
-						{
-							"text": "Disney’s Die Eiskönigin",
-							"isCorrect": false
-						},
-						{
-							"text": "Netflix & Chilll’d",
-							"isCorrect": true
-						},
-						{
-							"text": "Schokoheld",
-							"isCorrect": false
-						},
-						{
-							"text": "WalNutLuck",
-							"isCorrect": false
-						},
-						{
-							"text": "Baked Alaska",
-							"isCorrect": true
-						}
-					]
-				},
-				{
 					"title": "Mario & Luigi",
 					"choices": [
 						{
@@ -3385,6 +3536,35 @@
 						},
 						{
 							"text": "Phindroids und Ferboter",
+							"isCorrect": true
+						}
+					]
+				},
+				{
+					"title": "Ben & Jerry",
+					"choices": [
+						{
+							"text": "Karamel Sutra",
+							"isCorrect": true
+						},
+						{
+							"text": "Disney’s Die Eiskönigin",
+							"isCorrect": false
+						},
+						{
+							"text": "Netflix & Chilll’d",
+							"isCorrect": true
+						},
+						{
+							"text": "Schokoheld",
+							"isCorrect": false
+						},
+						{
+							"text": "WalNutLuck",
+							"isCorrect": false
+						},
+						{
+							"text": "Baked Alaska",
 							"isCorrect": true
 						}
 					]
@@ -3570,30 +3750,30 @@
 					]
 				},
 				{
-					"title": "-",
+					"title": "Ritter Sport",
 					"choices": [
 						{
-							"text": "-",
+							"text": "“Der große Genuß mit Naturenergie.”",
+							"isCorrect": true
+						},
+						{
+							"text": "“Die zarteste Versuchung, seit es Schokolade gibt.”",
 							"isCorrect": false
 						},
 						{
-							"text": "-",
+							"text": "“Quadratisch. Theoretisch. Gut.”",
 							"isCorrect": false
 						},
 						{
-							"text": "-",
-							"isCorrect": false
+							"text": "“Für die fröhlichen Leute von unterwegs.”",
+							"isCorrect": true
 						},
 						{
-							"text": "-",
-							"isCorrect": false
+							"text": "“Knick. Knack. Auf Zack.”",
+							"isCorrect": true
 						},
 						{
-							"text": "-",
-							"isCorrect": false
-						},
-						{
-							"text": "-",
+							"text": "“Ihre Alpenmilchschokolade.”",
 							"isCorrect": false
 						}
 					]
@@ -3930,31 +4110,31 @@
 					]
 				},
 				{
-					"title": "Fiktive Sprachen",
+					"title": "Fiktionale Sprachen",
 					"choices": [
 						{
-							"text": "-",
+							"text": "Dovahzul",
+							"isCorrect": true
+						},
+						{
+							"text": "Uto-Aztekisch",
 							"isCorrect": false
 						},
 						{
-							"text": "-",
+							"text": "Quechua",
 							"isCorrect": false
 						},
 						{
-							"text": "-",
-							"isCorrect": false
+							"text": "Klingonisch",
+							"isCorrect": true
 						},
 						{
-							"text": "-",
-							"isCorrect": false
+							"text": "Imperiales Gotisch",
+							"isCorrect": true
 						},
 						{
-							"text": "-",
-							"isCorrect": false
-						},
-						{
-							"text": "-",
-							"isCorrect": false
+							"text": "Valyrisch",
+							"isCorrect": true
 						}
 					]
 				}
@@ -4412,30 +4592,30 @@
 					]
 				},
 				{
-					"title": "-",
+					"title": "Enthält ein Lied der <i>Neuen Deutschen Welle<\/i>",
 					"choices": [
 						{
-							"text": "-",
-							"isCorrect": false
+							"text": "Major Tom",
+							"isCorrect": true
 						},
 						{
-							"text": "-",
-							"isCorrect": false
+							"text": "Bruttosozialprodukt",
+							"isCorrect": true
 						},
 						{
-							"text": "-",
-							"isCorrect": false
+							"text": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+							"isCorrect": true
 						},
 						{
-							"text": "-",
-							"isCorrect": false
+							"text": "Sternenhimmel",
+							"isCorrect": true
 						},
 						{
-							"text": "-",
-							"isCorrect": false
+							"text": "Eisbär",
+							"isCorrect": true
 						},
 						{
-							"text": "-",
+							"text": "Mensch",
 							"isCorrect": false
 						}
 					]
@@ -5581,6 +5761,186 @@
 			]
 		},
 		{
+			"id": "11448",
+			"title": "Zusammen sind wir stark",
+			"prompts": [
+				{
+					"title": "Crew der Black Pearl aus <i>Fluch der Karibik<\/i>",
+					"choices": [
+						{
+							"text": "Jack Sparrow",
+							"isCorrect": true
+						},
+						{
+							"text": "Davy Jones",
+							"isCorrect": false
+						},
+						{
+							"text": "Hector Barbossa",
+							"isCorrect": true
+						},
+						{
+							"text": "Maccus",
+							"isCorrect": false
+						},
+						{
+							"text": "Joshamee Gibbs",
+							"isCorrect": true
+						},
+						{
+							"text": "Koleniko",
+							"isCorrect": false
+						}
+					]
+				},
+				{
+					"title": "Batman-Schurken",
+					"choices": [
+						{
+							"text": "Oswald Chesterfield Cobblepot",
+							"isCorrect": true
+						},
+						{
+							"text": "Pamela Lillian Isley",
+							"isCorrect": true
+						},
+						{
+							"text": "Alfred Pennyworth",
+							"isCorrect": false
+						},
+						{
+							"text": "Victor Fries",
+							"isCorrect": true
+						},
+						{
+							"text": "Edward Nygma",
+							"isCorrect": true
+						},
+						{
+							"text": "Dr. Jonathan Cran",
+							"isCorrect": true
+						}
+					]
+				},
+				{
+					"title": "Die Panzerknacker",
+					"choices": [
+						{
+							"text": "Achtmalacht",
+							"isCorrect": true
+						},
+						{
+							"text": "Burger Knack",
+							"isCorrect": true
+						},
+						{
+							"text": "Knick Knack",
+							"isCorrect": false
+						},
+						{
+							"text": "Karlchen Knack",
+							"isCorrect": true
+						},
+						{
+							"text": "Iku",
+							"isCorrect": true
+						},
+						{
+							"text": "Eddie Erpel",
+							"isCorrect": false
+						}
+					]
+				},
+				{
+                    "title": "<i>Orden des Phönix<\/i>-Mitglieder",
+                    "choices": [
+                        {
+                            "text": "Sirius Black",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Alastor 'Mad-Eye' Moody",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Luna Lovegood",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Minerva McGonagall",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Remus Lupin",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Severus Snape",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+				{
+					"title": "Ritter der Tafelrunde",
+					"choices": [
+						{
+							"text": "Lancelot",
+							"isCorrect": true
+						},
+						{
+							"text": "Parzival",
+							"isCorrect": true
+						},
+						{
+							"text": "Beowulf",
+							"isCorrect": false
+						},
+						{
+							"text": "Kay",
+							"isCorrect": true
+						},
+						{
+							"text": "Tristan",
+							"isCorrect": true
+						},
+						{
+							"text": "Galahad",
+							"isCorrect": true
+						}
+					]
+				},
+				{
+					"title": "Team von Bob der Baumeister",
+					"choices": [
+						{
+							"text": "Wendy",
+							"isCorrect": true
+						},
+						{
+							"text": "Baggo",
+							"isCorrect": false
+						},
+						{
+							"text": "Schleppo",
+							"isCorrect": true
+						},
+						{
+							"text": "Rolli",
+							"isCorrect": false
+						},
+						{
+							"text": "Baggi",
+							"isCorrect": true
+						},
+						{
+							"text": "Hebo",
+							"isCorrect": false
+						}
+					]
+				}
+			]
+		},
+		{
 			"id": "11449",
 			"title": "Zeichen der Zeit",
 			"prompts": [
@@ -5823,10 +6183,39 @@
 					]
 				},
 				{
+					"title": "Befindet sich auf der Nordhalbkugel",
+					"choices": [
+						{
+							"text": "Elbphilharmonie",
+							"isCorrect": true
+						},
+						{
+							"text": "Circus Maximus",
+							"isCorrect": true
+						},
+						{
+							"text": "Sydney Opera",
+							"isCorrect": false
+						},
+						{
+							"text": "LANXESS arena",
+							"isCorrect": true
+						},
+						{
+							"text": "Terrakotta-Armee",
+							"isCorrect": true
+						},
+						{
+							"text": "Kolosseum",
+							"isCorrect": true
+						}
+					]
+				},
+				{
 					"title": "Das Abbild von jemandem",
 					"choices": [
 						{
-							"text": "Siegessäule von Berlin",
+							"text": "Elbphilharmonie",
 							"isCorrect": false
 						},
 						{
@@ -5852,39 +6241,10 @@
 					]
 				},
 				{
-					"title": "Für die Unterhaltung",
+					"title": "Liegt in einer Metropole",
 					"choices": [
 						{
-							"text": "Elbphilharmonie",
-							"isCorrect": true
-						},
-						{
-							"text": "Circus Maximus",
-							"isCorrect": true
-						},
-						{
-							"text": "Brandenburger Tor",
-							"isCorrect": false
-						},
-						{
-							"text": "LANXESS arena",
-							"isCorrect": true
-						},
-						{
-							"text": "Terrakotta-Armee",
-							"isCorrect": false
-						},
-						{
-							"text": "Kolosseum",
-							"isCorrect": true
-						}
-					]
-				},
-				{
-					"title": "Geometrische Körper",
-					"choices": [
-						{
-							"text": "Pyramiden von Gizeh",
+							"text": "Mailänder Dom",
 							"isCorrect": true
 						},
 						{
@@ -5892,7 +6252,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Kolosseum",
+							"text": "Tal der Könige",
 							"isCorrect": false
 						},
 						{
@@ -5904,7 +6264,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Circus Maximus",
+							"text": "Reiterstandbild des Dschingis Khan",
 							"isCorrect": false
 						}
 					]
@@ -7032,7 +7392,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "'GL'",
+							"text": "'AC'",
 							"isCorrect": true
 						},
 						{
@@ -7040,7 +7400,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "'SI'",
+							"text": "'W'",
 							"isCorrect": true
 						},
 						{
@@ -7057,7 +7417,7 @@
 					"title": "Hessen",
 					"choices": [
 						{
-							"text": "'KLE'",
+							"text": "'RV'",
 							"isCorrect": false
 						},
 						{
@@ -7069,15 +7429,15 @@
 							"isCorrect": true
 						},
 						{
-							"text": "'SI'",
+							"text": "'MM'",
 							"isCorrect": false
 						},
 						{
-							"text": "'VIE'",
+							"text": "'GAP'",
 							"isCorrect": false
 						},
 						{
-							"text": "'RÜD'",
+							"text": "'F'",
 							"isCorrect": true
 						}
 					]
@@ -7086,23 +7446,23 @@
 					"title": "Brandenburg",
 					"choices": [
 						{
-							"text": "'PER'",
+							"text": "'RN'",
 							"isCorrect": true
 						},
 						{
-							"text": "'GG'",
+							"text": "'M'",
 							"isCorrect": false
 						},
 						{
-							"text": "'MOL'",
+							"text": "'PM'",
 							"isCorrect": true
 						},
 						{
-							"text": "'KY'",
+							"text": "'P'",
 							"isCorrect": true
 						},
 						{
-							"text": "'PRÜ'",
+							"text": "'IN'",
 							"isCorrect": false
 						},
 						{
@@ -7983,31 +8343,31 @@
 					]
 				},
 				{
-					"title": "-",
+					"title": "Errungenschaften in <i>Minecraft<\/i>",
 					"choices": [
 						{
-							"text": "-",
+							"text": "Inventur",
+							"isCorrect": true
+						},
+						{
+							"text": "Der Kommissar",
 							"isCorrect": false
 						},
 						{
-							"text": "-",
+							"text": "Monsterjäger",
+							"isCorrect": true
+						},
+						{
+							"text": "Computerliebe",
 							"isCorrect": false
 						},
 						{
-							"text": "-",
+							"text": "Goldener Reiter",
 							"isCorrect": false
 						},
 						{
-							"text": "-",
-							"isCorrect": false
-						},
-						{
-							"text": "-",
-							"isCorrect": false
-						},
-						{
-							"text": "-",
-							"isCorrect": false
+							"text": "Glück Auf!",
+							"isCorrect": true
 						}
 					]
 				},
@@ -8192,31 +8552,31 @@
 					]
 				},
 				{
-					"title": "-",
+					"title": "Items aus dem <i>Super Mario<\/i>-Franchise",
 					"choices": [
 						{
-							"text": "-",
+							"text": "Roter Panzer",
+							"isCorrect": true
+						},
+						{
+							"text": "Eggman-Gerät",
 							"isCorrect": false
 						},
 						{
-							"text": "-",
-							"isCorrect": false
+							"text": "1UP-Pilz",
+							"isCorrect": true
 						},
 						{
-							"text": "-",
-							"isCorrect": false
+							"text": "Kugelwilli",
+							"isCorrect": true
 						},
 						{
-							"text": "-",
-							"isCorrect": false
+							"text": "Eisblume",
+							"isCorrect": true
 						},
 						{
-							"text": "-",
-							"isCorrect": false
-						},
-						{
-							"text": "-",
-							"isCorrect": false
+							"text": "Mega-Pilz",
+							"isCorrect": true
 						}
 					]
 				},
@@ -10474,30 +10834,30 @@
 					]
 				},
 				{
-					"title": "-",
+					"title": "Schichtenmodell der Netzwerkarchitektur",
 					"choices": [
 						{
-							"text": "-",
+							"text": "Bitübertragungsschicht",
+							"isCorrect": true
+						},
+						{
+							"text": "Vermittlungsschicht",
+							"isCorrect": true
+						},
+						{
+							"text": "Transportschicht",
+							"isCorrect": true
+						},
+						{
+							"text": "Grafikenschicht",
 							"isCorrect": false
 						},
 						{
-							"text": "-",
-							"isCorrect": false
+							"text": "Kommunikationsschicht",
+							"isCorrect": true
 						},
 						{
-							"text": "-",
-							"isCorrect": false
-						},
-						{
-							"text": "-",
-							"isCorrect": false
-						},
-						{
-							"text": "-",
-							"isCorrect": false
-						},
-						{
-							"text": "-",
+							"text": "Vorstellungsschicht",
 							"isCorrect": false
 						}
 					]
