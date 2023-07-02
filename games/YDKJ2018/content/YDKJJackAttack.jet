@@ -28,7 +28,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Mister Kacka-Popo-Loch",
+							"text": "Mister Kakapopoloch",
 							"isCorrect": false
 						}
 					]
@@ -78,7 +78,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Mister Kacka-Popo-Loch",
+							"text": "Mister Kakapopoloch",
 							"isCorrect": true
 						},
 						{
@@ -283,7 +283,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Sturm Der Liebe</i>",
+							"text": "<i>Sturm der Liebe</i>",
 							"isCorrect": false
 						},
 						{
@@ -385,7 +385,7 @@
 						},
 						{
 							"text": "Hortensien-Pflanze blüht",
-							"isCorrect": false
+							"isCorrect": true
 						},
 						{
 							"text": "Die Hungerspiele",
@@ -435,7 +435,7 @@
 						},
 						{
 							"text": "Sich als Miss Universe bewerben können",
-							"isCorrect": true
+							"isCorrect": false
 						},
 						{
 							"text": "Streptokokken bekommen (normalerweise)",
@@ -463,7 +463,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Sechs Babys werden geboren",
+							"text": "Vier Babys werden geboren",
 							"isCorrect": true
 						},
 						{
@@ -471,7 +471,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Biene schlägt 200 Mal mit den Flügeln",
+							"text": "Biene schlägt 250 Mal mit den Flügeln",
 							"isCorrect": true
 						},
 						{
@@ -484,27 +484,27 @@
 					"title": "Jedes Mal, wenn ein Schmetterling mit den Flügeln schlägt",
 					"choices": [
 						{
-							"text": "gibt es einen Hurrikan in Uruguay",
+							"text": "Gibt es einen Hurrikan in Uruguay",
 							"isCorrect": false
 						},
 						{
-							"text": "zieht sich der Körper vom Schmetterling zusammen",
+							"text": "Zieht sich der Körper vom Schmetterling zusammen",
 							"isCorrect": true
 						},
 						{
-							"text": "wird Luft unter die Flügel gepresst",
+							"text": "Wird Luft unter die Flügel gepresst",
 							"isCorrect": true
 						},
 						{
-							"text": "erzeugt die Luft über den Flügeln einen Aufwind",
+							"text": "Erzeugt die Luft über den Flügeln einen Auftrieb",
 							"isCorrect": true
 						},
 						{
-							"text": "nehmen die Flügel Nährstoffe aus der Luft auf",
+							"text": "Nehmen die Flügel Nährstoffe aus der Luft auf",
 							"isCorrect": false
 						},
 						{
-							"text": "bekommt Robert Geiss einen Gehaltsscheck",
+							"text": "Bekommt Robert Geiss einen Gehaltsscheck",
 							"isCorrect": false
 						}
 					]
@@ -513,27 +513,27 @@
 					"title": "Jede Runde <i>YOU DON’T KNOW JACK</i>",
 					"choices": [
 						{
-							"text": "hat ein Sekt oder Selters",
+							"text": "Hat ein Sekt oder Selters",
 							"isCorrect": true
 						},
 						{
-							"text": "sagt Jack etwas dummes",
+							"text": "Sagt Jack etwas dummes",
 							"isCorrect": true
 						},
 						{
-							"text": "wurde mit Liebe gemacht",
+							"text": "Wurde mit Liebe gemacht",
 							"isCorrect": true
 						},
 						{
-							"text": "ist besser als die davor",
+							"text": "Ist besser als die davor",
 							"isCorrect": false
 						},
 						{
-							"text": "hat eine Jack Attack",
+							"text": "Hat eine Jack Attack",
 							"isCorrect": true
 						},
 						{
-							"text": "hat einen Gewinner",
+							"text": "Hat mindestens einen Gewinner",
 							"isCorrect": true
 						}
 					]
@@ -548,7 +548,7 @@
 					"title": "Kartoffeln",
 					"choices": [
 						{
-							"text": "Wiener Schnitzel",
+							"text": "Döner",
 							"isCorrect": false
 						},
 						{
@@ -632,7 +632,7 @@
 					]
 				},
 				{
-					"title": "rohes Fleisch",
+					"title": "Rohes Fleisch",
 					"choices": [
 						{
 							"text": "Hamburger",
@@ -697,7 +697,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Tatort Münster</i>",
+							"text": "<i>Tatort</i> Münster",
 							"isCorrect": false
 						},
 						{
@@ -757,11 +757,11 @@
 					"title": "Mehr als 10 Liter",
 					"choices": [
 						{
-							"text": "1 Minute Duschen im Durchschnitt",
+							"text": "1 Minute Duschen",
 							"isCorrect": true
 						},
 						{
-							"text": "Empfohlene Wassermenge für Kinder",
+							"text": "Täglicher Wasserbedarf bei Kindern",
 							"isCorrect": false
 						},
 						{
@@ -773,7 +773,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Blutvolumen eines durchschnittlichen Erwachsenen",
+							"text": "Blutvolumen eines Erwachsenen",
 							"isCorrect": false
 						},
 						{
@@ -786,27 +786,27 @@
 					"title": "Hersteller für Rasenmäher",
 					"choices": [
 						{
-							"text": "Gardena",
+							"text": "<i>Gardena</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Kärcher",
+							"text": "<i>Kärcher</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Hunds-Garten",
+							"text": "<i>Hunds-Garten</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Garden Gourmet",
+							"text": "<i>Garden Gourmet</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Kia",
+							"text": "<i>Kia</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Vorwerk",
+							"text": "<i>Vorwerk</i>",
 							"isCorrect": false
 						}
 					]
@@ -902,7 +902,7 @@
 		},
 		{
 			"id": "11405",
-			"title": "Namen die für etwas stehen",
+			"title": "Namen, die für etwas stehen",
 			"prompts": [
 				{
 					"title": "ISBN",
@@ -992,7 +992,7 @@
 					]
 				},
 				{
-					"title": "DHL",
+					"title": "<i>DHL</i>",
 					"choices": [
 						{
 							"text": "Logistik",
@@ -1050,30 +1050,30 @@
 					]
 				},
 				{
-					"title": "EDEKA",
+					"title": "<i>REWE</i>",
 					"choices": [
 						{
-							"text": "Albrecht",
+							"text": "Regionale",
 							"isCorrect": false
 						},
 						{
-							"text": "Kolonialwarenhändler",
+							"text": "Revisionsverband",
 							"isCorrect": true
 						},
 						{
-							"text": "Deutsche",
+							"text": "Wertverbund",
 							"isCorrect": false
 						},
 						{
-							"text": "Konsumentenbelieferung",
+							"text": "Weinhändler",
 							"isCorrect": false
 						},
 						{
-							"text": "Karlsruhe",
+							"text": "Wuppertal",
 							"isCorrect": false
 						},
 						{
-							"text": "Einkaufsgenossenschaft",
+							"text": "Westkauf-Genossenschaften",
 							"isCorrect": true
 						}
 					]
@@ -1114,7 +1114,7 @@
 					]
 				},
 				{
-					"title": "Themenbereiche im Europa-Park",
+					"title": "Themenbereiche im <i>Europa-Park</i>",
 					"choices": [
 						{
 							"text": "Klugheim",
@@ -1249,11 +1249,11 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Mr. Hankey der Weihnachtskot",
+							"text": "Mr. Hankey, der Weihnachtskot",
 							"isCorrect": true
 						},
 						{
-							"text": "Mr. Kakapopoloch",
+							"text": "Mister Kakapopoloch",
 							"isCorrect": false
 						}
 					]
@@ -1262,10 +1262,10 @@
 		},
 		{
 			"id": "11407",
-			"title": "Jeder hat seinen Preis",
+			"title": "Der Preis ist heiß",
 			"prompts": [
 				{
-					"title": "Oscar für <i>Bester Film</i>",
+					"title": "Oscar für \"Bester Film\"",
 					"choices": [
 						{
 							"text": "Toy Story 3",
@@ -1294,7 +1294,7 @@
 					]
 				},
 				{
-					"title": "Game Award für <i>Spiel des Jahres</i>",
+					"title": "Game Award für \"Spiel des Jahres\"",
 					"choices": [
 						{
 							"text": "Sekiro: Shadows Die Twice",
@@ -1323,7 +1323,7 @@
 					]
 				},
 				{
-					"title": "Bambi für <i>Bester nationaler Schauspieler</i>",
+					"title": "Bambi für \"Bester nationaler Schauspieler\"",
 					"choices": [
 						{
 							"text": "Elyas M’Barek",
@@ -1352,7 +1352,7 @@
 					]
 				},
 				{
-					"title": "Grammy Award für <i>Album des Jahres</i>",
+					"title": "Grammy Award für \"Album des Jahres\"",
 					"choices": [
 						{
 							"text": "<i>21</i> von Adele",
@@ -1381,7 +1381,7 @@
 					]
 				},
 				{
-					"title": "Deutscher Webvideopreis für <i>Gaming</i>",
+					"title": "Deutscher Webvideopreis für \"Gaming\"",
 					"choices": [
 						{
 							"text": "HandOfBlood",
@@ -1410,7 +1410,7 @@
 					]
 				},
 				{
-					"title": "Nobelpreis für <i>Physik</i>",
+					"title": "Nobelpreis für Physik",
 					"choices": [
 						{
 							"text": "Albert Einstein",
@@ -1445,34 +1445,34 @@
 			"title": "Zwischen Vakuum & Supernova",
 			"prompts": [
 				{
-                    "title": "Planeten unseres Sonnensystems",
-                    "choices": [
-                        {
-                            "text": "Neptun",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Jupiter",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Mars-Trojaner",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Saturn",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Phobos",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Uranus",
-                            "isCorrect": true
-                        }
-                    ]
-                },
+					"title": "Planeten unseres Sonnensystems",
+					"choices": [
+						{
+							"text": "Neptun",
+							"isCorrect": true
+						},
+						{
+							"text": "Jupiter",
+							"isCorrect": true
+						},
+						{
+							"text": "Mars-Trojaner",
+							"isCorrect": false
+						},
+						{
+							"text": "Saturn",
+							"isCorrect": true
+						},
+						{
+							"text": "Phobos",
+							"isCorrect": false
+						},
+						{
+							"text": "Uranus",
+							"isCorrect": true
+						}
+					]
+				},
 				{
 					"title": "Sternbilder",
 					"choices": [
@@ -1636,7 +1636,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Google wird gegründet",
+							"text": "<i>Google</i> wird gegründet",
 							"isCorrect": true
 						},
 						{
@@ -1686,7 +1686,7 @@
 					"title": "Nach 2018",
 					"choices": [
 						{
-							"text": "Die SpaceX-Rakete <i>Falcon Heavy</i> wird mit einem Tesla ins All geschossen",
+							"text": "Die <i>SpaceX</i>-Rakete \"Falcon Heavy\" wird mit einem Tesla ins All geschossen",
 							"isCorrect": false
 						},
 						{
@@ -1707,7 +1707,7 @@
 						},
 						{
 							"text": "Die EU wird 60 Jahre alt",
-							"isCorrect": false
+							"isCorrect": true
 						}
 					]
 				},
@@ -1715,7 +1715,7 @@
 					"title": "Heute",
 					"choices": [
 						{
-							"text": "Im Innern der Sonne wird H in He umgewandelt",
+							"text": "Im Inneren der Sonne wird H in He umgewandelt",
 							"isCorrect": true
 						},
 						{
@@ -1735,7 +1735,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Spieler haben mit You Don’t Know Jack Spaß",
+							"text": "Spieler haben mit <i>YOU DON'T KNOW JACK</i> \"Spaß\"",
 							"isCorrect": true
 						}
 					]
@@ -1753,7 +1753,7 @@
 						},
 						{
 							"text": "Der Tyrannosaurus jagt",
-							"isCorrect": false
+							"isCorrect": true
 						},
 						{
 							"text": "Der Brachiosaurus grast",
@@ -1837,7 +1837,7 @@
 					"title": "Die Trauerphasen (nach V. Kast)",
 					"choices": [
 						{
-							"text": "Neuerfindungsphase",
+							"text": "<i>Neuerfindungs</i>-Phase",
 							"isCorrect": false
 						},
 						{
@@ -1849,7 +1849,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Träumerphase",
+							"text": "<i>Träumer</i>-Phase",
 							"isCorrect": false
 						},
 						{
@@ -1857,7 +1857,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Verweigerungsphase",
+							"text": "<i>Verweigerungs</i>-Phase",
 							"isCorrect": false
 						}
 					]
@@ -2087,7 +2087,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Schneeeulen",
+							"text": "Schnee-Eulen",
 							"isCorrect": true
 						},
 						{
@@ -2120,7 +2120,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Amundsen-Scott-Forschungsstation</i>",
+							"text": "Amundsen-Scott-Südpolstation",
 							"isCorrect": true
 						},
 						{
@@ -2310,30 +2310,30 @@
 					]
 				},
 				{
-					"title": "RTL-Formate",
+					"title": "<i>RTL</i>-Formate",
 					"choices": [
 						{
-							"text": "Wer wird Millionär?",
+							"text": "<i>Wer wird Millionär?</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Gefragt - Gejagt",
+							"text": "<i>Gefragt - Gejagt</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Schwiegertochter gesucht",
-							"isCorrect": false
-						},
-						{
-							"text": "Joko & Klaas gegen ProSieben",
-							"isCorrect": false
-						},
-						{
-							"text": "7 Tage 7 Köpfe",
+							"text": "<i>Schwiegertochter gesucht</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Domino Day",
+							"text": "<i>Joko & Klaas gegen ProSieben</i>",
+							"isCorrect": false
+						},
+						{
+							"text": "<i>7 Tage, 7 Köpfe</i>",
+							"isCorrect": true
+						},
+						{
+							"text": "<i>Domino Day</i>",
 							"isCorrect": true
 						}
 					]
@@ -2461,7 +2461,7 @@
 					]
 				},
 				{
-					"title": "“Dungeons & Dragons”-Klassen",
+					"title": "<i>Dungeons & Dragons</i>-Klassen",
 					"choices": [
 						{
 							"text": "Barbar",
@@ -2480,7 +2480,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Maggi-Schmied",
+							"text": "<i>Maggi</i>-Schmied",
 							"isCorrect": false
 						},
 						{
@@ -2670,7 +2670,7 @@
 					]
 				},
 				{
-					"title": "Minecraft",
+					"title": "<i>Minecraft</i>",
 					"choices": [
 						{
 							"text": "Creeper",
@@ -2728,7 +2728,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Cats & Dogs</i>",
+							"text": "<i>Cats & Dogs - Wie Hund und Katz</i>",
 							"isCorrect": true
 						}
 					]
@@ -2874,7 +2874,7 @@
 						},
 						{
 							"text": "<i>Coco, der neugierige Affe</i>",
-							"isCorrect": true
+							"isCorrect": false
 						}
 					]
 				}
@@ -4592,7 +4592,7 @@
 					]
 				},
 				{
-					"title": "Enthält ein Lied der <i>Neuen Deutschen Welle<\/i>",
+					"title": "Enthält ein Lied der <i>Neuen Deutschen Welle</i>",
 					"choices": [
 						{
 							"text": "Major Tom",
@@ -5765,7 +5765,7 @@
 			"title": "Zusammen sind wir stark",
 			"prompts": [
 				{
-					"title": "Crew der Black Pearl aus <i>Fluch der Karibik<\/i>",
+					"title": "Crew der Black Pearl aus <i>Fluch der Karibik</i>",
 					"choices": [
 						{
 							"text": "Jack Sparrow",
@@ -5852,34 +5852,34 @@
 					]
 				},
 				{
-                    "title": "<i>Orden des Phönix<\/i>-Mitglieder",
-                    "choices": [
-                        {
-                            "text": "Sirius Black",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Alastor 'Mad-Eye' Moody",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Luna Lovegood",
-                            "isCorrect": false
-                        },
-                        {
-                            "text": "Minerva McGonagall",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Remus Lupin",
-                            "isCorrect": true
-                        },
-                        {
-                            "text": "Severus Snape",
-                            "isCorrect": true
-                        }
-                    ]
-                },
+					"title": "<i>Orden des Phönix</i>-Mitglieder",
+					"choices": [
+						{
+							"text": "Sirius Black",
+							"isCorrect": true
+						},
+						{
+							"text": "Alastor 'Mad-Eye' Moody",
+							"isCorrect": true
+						},
+						{
+							"text": "Luna Lovegood",
+							"isCorrect": false
+						},
+						{
+							"text": "Minerva McGonagall",
+							"isCorrect": true
+						},
+						{
+							"text": "Remus Lupin",
+							"isCorrect": true
+						},
+						{
+							"text": "Severus Snape",
+							"isCorrect": true
+						}
+					]
+				},
 				{
 					"title": "Ritter der Tafelrunde",
 					"choices": [
@@ -8343,7 +8343,7 @@
 					]
 				},
 				{
-					"title": "Errungenschaften in <i>Minecraft<\/i>",
+					"title": "Errungenschaften in <i>Minecraft</i>",
 					"choices": [
 						{
 							"text": "Inventur",
@@ -8552,7 +8552,7 @@
 					]
 				},
 				{
-					"title": "Items aus dem <i>Super Mario<\/i>-Franchise",
+					"title": "Items aus dem <i>Super Mario</i>-Franchise",
 					"choices": [
 						{
 							"text": "Roter Panzer",
