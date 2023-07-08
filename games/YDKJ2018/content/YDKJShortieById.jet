@@ -288,31 +288,31 @@
             },
             "choices": [
                 {
-                    "text": "Hey, kann ich nen Orangenlikör haben?",
+                    "text": "\u201cHey, kann ich \u2019nen Orangenlikör haben?\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Hi, könnt ich ein Ginger Ale haben?",
+                    "text": "\u201cHi, könnt\u2019 ich ein Ginger Ale haben?\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "Moin, ich würd gern ein Reisbier haben",
+                    "text": "\u201cMoin, ich würd\u2019 gern ein Reisbier haben\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Servus, für mich bitte ein Aperol Spritz",
+                    "text": "\u201cServus, für mich bitte ein Aperol Spritz\u201d",
                     "isCorrect": false
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
                     "text": "Ich hab mich gerade gefragt..."
                 },
                 {
-                    "timing": "S + 2.64",
+                    "timing": "S + 2.65",
                     "text": "könnt ihr mir sagen, wie ich locker ein alkoholfreies Getränk bestellen könnte?"
                 }
             ]
@@ -324,36 +324,40 @@
             },
             "choices": [
                 {
-                    "text": "\u201cRoland Kaiser\u201d",
+                    "text": "Roland Kaiser",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cHeinz Rudolf Kunze\u201d",
+                    "text": "Heinz Rudolf Kunze",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cPhilipp Dittberner\u201d",
+                    "text": "Philipp Dittberner",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cAndreas Gabalier\u201d",
+                    "text": "Andreas Gabalier",
                     "isCorrect": false
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
                     "text": "Sehr geehrte Damen und Herren,"
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 2.00",
                     "text": "Ich hätte ein gehobenes Interesse an dem Namen des temperamentvollen Interpreten des durch die Worte \u201cDie Zeit ist reif\u201d betitelten Gesangstückes."
                 },
                 {
-                    "timing": "S + 2.00",
-                    "text": "Wäre es Ihnen im Bereich des Möglichen, mir diesen freundlichst zu nennen -- falls diese Information Ihnen vorliegt, natürlich?"
+                    "timing": "S + 11.16",
+                    "text": "Wäre es Ihnen im Bereich des Möglichen, mir diesen freundlichst zu nennen"
+                },
+                {
+                    "timing": "S + 15.52",
+                    "text": "-- falls diese Information Ihnen vorliegt, natürlich?"
                 }
             ]
         },
@@ -445,7 +449,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -481,7 +485,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Aber, woher wollen Sie das denn wissen?"
+                    "text": "Aber woher wollen Sie das denn wissen?"
                 }
             ]
         },
@@ -504,12 +508,12 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "ähhhh.... Aminosäure Austausch Dings?",
+                    "text": "ähhhh.... Aminosäure-Austausch-Dings?",
                     "isCorrect": false
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -621,19 +625,19 @@
             },
             "choices": [
                 {
-                    "text": "2 Drosselklappen",
+                    "text": "Zwei Drosselklappen",
                     "isCorrect": false
                 },
                 {
-                    "text": "2 Schildknorpelklappen",
+                    "text": "Zwei Schildknorpelklappen",
                     "isCorrect": true
                 },
                 {
-                    "text": "2 Venenklappen",
+                    "text": "Zwei Venenklappen",
                     "isCorrect": false
                 },
                 {
-                    "text": "2 Ileozökalklappen",
+                    "text": "Zwei Ileozökalklappen",
                     "isCorrect": false
                 }
             ],
@@ -642,7 +646,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher der folgenden Dinge, die sich im Besitz dieser Frage befinden, könnte NICHT die Mordwaffe sein?"
+                    "text": "Welcher der folgenden Gegenstände, die sich im Besitz dieser Frage befinden, könnte NICHT die Mordwaffe sein, weil es keine echten Klappen sind?"
                 }
             ]
         },
@@ -653,19 +657,19 @@
             },
             "choices": [
                 {
-                    "text": "Drosselklappe",
+                    "text": "Eine Drosselklappe",
                     "isCorrect": false
                 },
                 {
-                    "text": "Schildknorpelklappe",
+                    "text": "Eine Schildknorpelklappe",
                     "isCorrect": true
                 },
                 {
-                    "text": "Venenklappe",
+                    "text": "Eine Venenklappe",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ileozökalklappe",
+                    "text": "Eine Ileozökalklappe",
                     "isCorrect": false
                 }
             ],
@@ -674,7 +678,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher der folgenden Dinge, die sich im Besitz dieser Frage befinden, könnte NICHT die Mordwaffe sein?"
+                    "text": "Welcher der folgenden Gegenstände, die sich im Besitz dieser Frage befinden, könnte NICHT die Mordwaffe sein, weil es keine echte Klappe ist?"
                 }
             ]
         },
@@ -770,7 +774,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welches ist KEINE der vier Säfte, von denen die alten Griechen glaubten, dass sie die menschliche Biologie ausmachen?"
+                    "text": "Welcher ist KEINER der vier Säfte, von denen die alten Griechen glaubten, dass sie die menschliche Biologie ausmachen?"
                 }
             ]
         },
@@ -845,19 +849,19 @@
             },
             "choices": [
                 {
-                    "text": "\u201cGymnosperm.\u201d",
+                    "text": "Gymnosperme.",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cAngiosperm.\u201d",
+                    "text": "Angiosperme.",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cEndosperm.\u201d",
+                    "text": "Endosperme.",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cPteridosperm.\u201d",
+                    "text": "Pteridosperme.",
                     "isCorrect": false
                 }
             ],
@@ -866,7 +870,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Meine Freundin ging gestern Abend mit einer Pflanze aus, die sich durch freiliegende Samen vermehrt, und ich sagte nur: \u201cDas klingt ja so, als wäre sie ein echtes...\u201d"
+                    "text": "Meine Freundin ging gestern Abend mit einer Pflanze aus, die sich durch freiliegende Samen vermehrt, und ich sagte nur: \u201cDas klingt ja so, als wäre sie eine echte...\u201d"
                 }
             ]
         },
@@ -1138,24 +1142,24 @@
             },
             "choices": [
                 {
-                    "text": "{PARTYTRÖTEN SFX}",
+                    "text": "TRÖT!",
                     "isCorrect": false
                 },
                 {
-                    "text": "{PARTYTRÖTEN SFX} {PARTYTRÖTEN SFX}",
+                    "text": "TRÖT! TRÖT!",
                     "isCorrect": false
                 },
                 {
-                    "text": "{PARTYTRÖTEN SFX} {PARTYTRÖTEN SFX} {PARTYTRÖTEN SFX}",
+                    "text": "TRÖT! TRÖT! TRÖT!",
                     "isCorrect": false
                 },
                 {
-                    "text": "{PARTYTRÖTEN SFX} {PARTYTRÖTEN SFX} {PARTYTRÖTEN SFX} {PARTYTRÖTEN SFX}",
+                    "text": "TRÖT! TRÖT! TRÖT! TRÖT!",
                     "isCorrect": true
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -1170,19 +1174,19 @@
             },
             "choices": [
                 {
-                    "text": "\u201c...rheumatisch.\u201d",
+                    "text": "...rheumatisch.",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201c...pneumatisch.\u201d",
+                    "text": "...pneumatisch.",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201c...chromatisch.\u201d",
+                    "text": "...achromatisch.",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201c...phlegmatisch.\u201d",
+                    "text": "...phlegmatisch.",
                     "isCorrect": false
                 }
             ],
@@ -1194,7 +1198,7 @@
                     "text": "\u201cOh wahr, Partytröten faszinieren mich automatisch."
                 },
                 {
-                    "timing": "S + 2.74",
+                    "timing": "S + 3.29",
                     "text": "Ich liebe sie, denn sie sind...\u201c"
                 }
             ]
@@ -1259,7 +1263,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher dieser Ereignisse ist der längste Tag?"
+                    "text": "Welches dieser Ereignisse ist der längste Tag?"
                 }
             ]
         },
@@ -1388,7 +1392,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wie heißt das zweite Tabaluga Album von Peter Maffay?"
+                    "text": "Wie heißt das zweite Tabaluga-Album von Peter Maffay?"
                 }
             ]
         },
@@ -1399,19 +1403,19 @@
             },
             "choices": [
                 {
-                    "text": "<i>ANDREAS BOURANI<\/i>",
+                    "text": "ANDREAS BOURANI!!!!!",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>TIM BENDZKO<\/i>",
+                    "text": "TIM BENDZKO!!!!!",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>XAVIER NAIDOO<\/i>",
+                    "text": "XAVIER NAIDOO!!!!!",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>MARK FORSTER<\/i>",
+                    "text": "MARK FORSTER!!!!!",
                     "isCorrect": false
                 }
             ],
@@ -1420,7 +1424,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Von wem ist der Pop-Song <i>Laut<\/i>?"
+                    "text": "VON WEM IST DER POP-SONG \u201cLAUT\u201d??"
                 }
             ]
         },
