@@ -1035,7 +1035,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Inn wellchem Fihlm wirt ALLES ma Endeh zerstörrt?"
+                    "text": "Inn wellchem Fihlm wirt ALLES amm Endeh zerstörrt?"
                 }
             ]
         },
@@ -2161,7 +2161,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Die Freiheitsstatue wird eingeweiht",
+                    "text": "Die Einweihung der Freiheitsstatue",
                     "isCorrect": true
                 }
             ],
