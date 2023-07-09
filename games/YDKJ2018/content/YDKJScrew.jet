@@ -84,7 +84,7 @@
             "id":"TOS",
             
             "controllerText":"Sie wurden genagelt! Versuchen Sie JETZT mal zu antworten!",
-            "controllerName":"Fake Geschäftsbedingungen",
+            "controllerName":"Fake-Geschäftsbedingungen",
             
             "power":1
         }
