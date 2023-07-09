@@ -195,12 +195,8 @@
                     "text": "Angenommen, Sie wurden zu einer Unterwasser-Cowboy-Kostümparty eingeladen."
                 },
                 {
-                    "timing": "S + 3.90",
-                    "text": "Wenn Sie sich sich als eine echte Tierart verkleiden wollen würden,"
-                },
-                {
-                    "timing": "S + 6.90",
-                    "text": "welches Kostüm sollten Sie wählen?"
+                    "timing": "S + 4.09",
+                    "text": "Wenn Sie sich als eine echte Tierart verkleiden wollen würden, welches Kostüm sollten Sie wählen?"
                 }
             ]
         },
@@ -235,8 +231,8 @@
                     "text": "Angenommen, ich würde Sie auffordern, das \u201cGRIECHISCHE L\u201d zu machen."
                 },
                 {
-                    "timing": "S + 3.18",
-                    "text": "Welche Form sollten Sie mit Ihren Fingern auf der Stirn machen, während Sie wie ein Idiot herumtanzen?"
+                    "timing": "S + 3.57",
+                    "text": "Welche Form sollten Sie mit Ihren Fingern auf der Stirn machen, während Sie wie ein Vollidiot in der Gegend herumtanzen?"
                 }
             ]
         },
@@ -301,6 +297,238 @@
                 {
                     "timing": "S + 0.00",
                     "text": "Welcher dieser Filmtitel hat die MEISTEN Adjektive?"
+                }
+            ]
+        },
+        {
+            "id": "10009",
+            "category": {
+                "text": "Gute Seiten, Schlechte Seiten"
+            },
+            "choices": [
+                {
+                    "text": "Heiße Steine und <i>Das Erdbeben in Chili<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Schwedisch <i>Romeo und Julia<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Shiatsu und <i>Der große Gatsby<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aromaöl mit <i>Wilhelm Tell<\/i>",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Nehmen wir an, Sie besuchen ein luxuriöses Spa, in dem klassische Literatur gespielt wird, während Sie verwöhnt werden."
+                },
+                {
+                    "timing": "S + 6.17",
+                    "text": "Wenn Sie möchten, dass Ihre Massage ein \u201cHappy End\u201d hat, was wäre Ihre beste Wahl?"
+                }
+            ]
+        },
+        {
+            "id": "10010",
+            "category": {
+                "text": "Sakrileg dich nicht mit mir an"
+            },
+            "choices": [
+                {
+                    "text": "Packende Geheimnisse eines SERBISCHEN FEIERTAGES",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Verdeckte Mysterien einer KASACHISCHEN AUTOMARKE",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dunkle Verschwörungen um eine SLOWENISCHE SPEISE",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Geheime Botschaften in den Songs einer KROATISCHEN BAND",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Hätte Dan Brown eine Fortsetzung zu \u201cThe Da Vinci Code\u201d geschrieben, die den Namen \u201cThe Da MLINCI Code\u201d trägt, worum ginge es dann in diesem Buch?"
+                }
+            ]
+        },
+        {
+            "id": "10011",
+            "category": {
+                "text": "You're My Heart, You're My Soul, You're My Unsymmetrische Sexualanatomie"
+            },
+            "choices": [
+                {
+                    "text": "Dieter",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jürgen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Thomas",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Udo",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, ich würde den Nippeln meiner Freundin den Spitznamen \u201cModern Talking\u201d geben."
+                },
+                {
+                    "timing": "S + 4.63",
+                    "text": "Wie würde ich dann den KLEINEREN der beiden nennen?"
+                }
+            ]
+        },
+        {
+            "id": "10012",
+            "category": {
+                "text": "Lautere Wissenschaft & Noch lautere Blähungen"
+            },
+            "choices": [
+                {
+                    "text": "Die Masse Ihres Furzes",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Dauer Ihres Furzes",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Druck Ihres Furzes",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Häufigkeit Ihres Furzes",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn jemand Ihre Fürze in Pascal messen würde, welchen Aspekt des Furzes würde er dann messen?"
+                }
+            ]
+        },
+        {
+            "id": "10013",
+            "category": {
+                "text": "Leitervorfall"
+            },
+            "choices": [
+                {
+                    "text": "Das widerliche H",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das unheimliche Fis",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das schreckliche A",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das eiskalte Ais",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, das unschuldige G klettert auf der Tonleiter. Welche Note würde sich am ehesten hinter ihr anschleichen?"
+                }
+            ]
+        },
+        {
+            "id": "10014",
+            "category": {
+                "text": "Die Gabe des Jack"
+            },
+            "choices": [
+                {
+                    "text": "Die AIDAS-Formel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Ad Hominem-Argument",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Prinzip der Reziprozität",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Persuasive Kommunikation",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche Werbetechnik habe ich erfolgreich bei Ihnen angewandt?"
+                }
+            ]
+        },
+        {
+            "id": "10015",
+            "category": {
+                "text": "Lach- und Krachgeschichten"
+            },
+            "choices": [
+                {
+                    "text": "Wegen meines limbischen Systems",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Wegen meines Großhirns",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Wegen meines Kleinhirns",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Wegen meines Stammhirns",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Warum bringen mich Rentner so zum Lachen?"
                 }
             ]
         }
