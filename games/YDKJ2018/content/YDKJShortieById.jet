@@ -937,7 +937,7 @@
                     "text": "Da will man einmal durch die Zeit reisen und plötzlich steckt man im Jahr 1896 fest."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 5.50",
                     "text": "Was könnten Sie mal eben schnell futtern?"
                 }
             ]
@@ -1491,7 +1491,7 @@
                     "text": "Da will man einmal durch die Zeit reisen und plötzlich steckt man im Jahr 1896 fest."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 5.50",
                     "text": "Was könnten Sie mal eben schnell futtern?"
                 }
             ]
@@ -2290,7 +2290,8 @@
                 },
                 {
                     "text": "Ludwig Ludwig Ludwig Ludwig Ludwig Ludwig Ludwig Ludwig Ludwig Ludwig Ludwig Ludwig Ludwig Ludwig",
-                    "isCorrect": false
+                    "isCorrect": false,
+                    "best": true
                 }
             ],
             "bumper": "NONE",
@@ -2326,7 +2327,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2425,15 +2426,15 @@
             "oneResponse": false,
             "questionText": [
                 {
-                    "timing": "S + 0.45",
+                    "timing": "S + 0.00",
                     "text": "Angenommen Nora Tschirner und ich wären in der gleichen Vinyasa-Yoga-Stunde..."
                 },
                 {
-                    "timing": "S + 5.63",
-                    "text": "und wir beide krümmten unsere Rücken in die Katzenstellung, ließen dann aber unsere Bäuche fallen und hoben unsere Köpfe ins BITILASANA..."
+                    "timing": "S + 4.10",
+                    "text": "und wir beide krümmten unsere Rücken in die Katzenstellung, ließen dann aber unsere Bäuche fallen und hoben unsere Köpfe ins BITILASANA heben..."
                 },
                 {
-                    "timing": "S + 11.87",
+                    "timing": "S + 11.38",
                     "text": "Was wäre ein cooler Spruch, den ich zu Nora Tschirner sagen könnte?"
                 }
             ]
@@ -2471,70 +2472,6 @@
                 {
                     "timing": "S + 7.14",
                     "text": "Wie würde der Philosoph Platon meine rein hypothetische Situation beschreiben?"
-                }
-            ]
-        },
-        {
-            "id": "10769",
-            "category": {
-                "text": "G-G-G-G-G-G-Geister!"
-            },
-            "choices": [
-                {
-                    "text": "Bloody Mary, Bloody Mary, Bloody Mary",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Samara, Samara, Samara",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Beetlejuice, Beetlejuice, Beetlejuice",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Candyman, Candyman, Candyman",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Das Vorlesen welcher der folgenden Antworten würde NICHT dazu führen, dass ein übernatürliches Wesen in meinem Aufnahmestudio erscheint?"
-                }
-            ]
-        },
-        {
-            "id": "10770",
-            "category": {
-                "text": "\u201cG-G-G-G-G-G-Geister!\u201d passt auch als Kategorie für diese Frage"
-            },
-            "choices": [
-                {
-                    "text": "<i>Wer hat Angst vor Virginia Woolf?<\/i>",
-                    "isCorrect": true
-                },
-                {
-                    "text": "<i>Tod eines Handlungsreisenden<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Das Phantom der Oper<\/i>",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Rosenkranz und Güldenstern<\/i>",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Welches Theaterstück mit einem angsteinflößenden Titel könnten drei Geister und ich aufführen, weil es traditionell eine vierköpfige Besetzung erfordert?"
                 }
             ]
         },
