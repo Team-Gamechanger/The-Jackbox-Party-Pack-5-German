@@ -160,7 +160,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was wäre ein Beispiel für \u201cSemantische Sättigung\u201d unter Verwendung des Wortes \u201cBallermann\"?"
+                    "text": "Was wäre ein Beispiel für \u201csemantische Sättigung\u201d unter Verwendung des Wortes \u201cBallermann\"?"
                 }
             ]
         },
@@ -207,7 +207,7 @@
         {
             "id": "10006",
             "category": {
-                "text": "Ein Epischer Siegestanz"
+                "text": "Ein epischer Siegestanz"
             },
             "choices": [
                 {
@@ -479,15 +479,15 @@
             },
             "choices": [
                 {
-                    "text": "AIDAS-Formel",
+                    "text": "Die AIDAS-Formel",
                     "isCorrect": false
                 },
                 {
-                    "text": "Low-Balling-Technik",
+                    "text": "Das Ad Hominem-Argument",
                     "isCorrect": false
                 },
                 {
-                    "text": "Prinzip der Reziprozität",
+                    "text": "Das Prinzip der Reziprozität",
                     "isCorrect": true
                 },
                 {
@@ -528,7 +528,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": true,
+            "oneResponse": false,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -596,7 +596,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Erdnuss in meiner Luftröhre...."
+                    "text": "Erdnuss... in... meiner... Luftröhre...."
                 },
                 {
                     "timing": "S + 2.66",
@@ -716,7 +716,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Weniger als ein Zehntel eines Prozent",
+                    "text": "Weniger als ein Zehntel eines Prozents",
                     "isCorrect": true
                 }
             ],
