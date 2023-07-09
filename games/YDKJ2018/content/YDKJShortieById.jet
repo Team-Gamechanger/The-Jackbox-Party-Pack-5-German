@@ -1503,19 +1503,19 @@
             },
             "choices": [
                 {
-                    "text": "Marianengraben",
+                    "text": "Zum Marianengraben",
                     "isCorrect": true
                 },
                 {
-                    "text": "Baikalsee",
+                    "text": "Zum Baikalsee",
                     "isCorrect": false
                 },
                 {
-                    "text": "Das Tote Meer",
+                    "text": "In das Tote Meer",
                     "isCorrect": false
                 },
                 {
-                    "text": "Die Höhle Madschlis al-Dschinn",
+                    "text": "In die Höhle Madschlis al-Dschinn",
                     "isCorrect": false
                 }
             ],
@@ -1527,7 +1527,7 @@
                     "text": "Ihre Freundin stöhnt beim Akt \u201ctiefer\u201d."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 2.46",
                     "text": "Wo könnten Sie hingehen, um sie wirklich zu beeindrucken?"
                 }
             ]
@@ -2751,23 +2751,23 @@
         {
             "id": "10791",
             "category": {
-                "text": "You Don't Know Deutsch"
+                "text": "Wenn Wörter ihre Identität hinterfragen"
             },
             "choices": [
                 {
-                    "text": "Was ist ein Interrogativsatz?",
+                    "text": "Nomen",
                     "isCorrect": true
                 },
                 {
-                    "text": "Das ist ein Interrogativsatz!",
+                    "text": "Verben",
                     "isCorrect": false
                 },
                 {
-                    "text": "Sie wissen, dass das ein Interrogativsatz ist.",
+                    "text": "Adjektive",
                     "isCorrect": false
                 },
                 {
-                    "text": "Jack sagt, dass das ein Interrogativsatz sei.",
+                    "text": "Adverben",
                     "isCorrect": false
                 }
             ],
@@ -2776,7 +2776,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was ist ein Interrogativsatz?"
+                    "text": "Was sind "Nomen", "Verb", "Adjektiv" und "Adverb"?"
                 }
             ]
         }
