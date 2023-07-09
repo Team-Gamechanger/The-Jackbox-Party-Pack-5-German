@@ -56,7 +56,7 @@
                 }
             ],
             "bumper": "OCQEFD",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -284,7 +284,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Stand 2021 das Thema der teuersten Fernseh-Serie aller Zeiten."
+                    "text": "Das Thema einer der 10 teuersten Fernseh-Serien aller Zeiten."
                 }
             ]
         },
@@ -573,38 +573,6 @@
                 {
                     "timing": "S + 0.00",
                     "text": "Wird von Ilja Richter gespielt."
-                }
-            ]
-        },
-        {
-            "id": "10918",
-            "category": {
-                "text": "OKTOPUS, KAFFEE, QUEEN ELIZABETH ODER FRANKENSTEIN?!"
-            },
-            "choices": [
-                {
-                    "text": "Oktopus",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Kaffee",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Queen Elizabeth",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Frankenstein",
-                    "isCorrect": true
-                }
-            ],
-            "bumper": "OCQEFM",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Hat kein Problem mit starker Kälte."
                 }
             ]
         },
