@@ -595,15 +595,15 @@
                     "text": "Erdnuss..."
                 },
                 {
-                    "timing": "S + 1.72"
+                    "timing": "S + 1.72",
                     "text": "in..."
                 },
                 {
-                    "timing": "S + 2.46"
+                    "timing": "S + 2.46",
                     "text": "meiner..."
                 },
                 {
-                    "timing": "S + 3.73"
+                    "timing": "S + 3.73",
                     "text": "Luftröhre..."
                 },
                 {
@@ -702,7 +702,7 @@
                 {
                     "timing": "S + 1.26",
                     "text": "das Nationaltier Frankreichs ist direkt hinter Ihnen..."
-                }
+                },
                 {
                     "timing": "S + 4.80",
                     "text": "bleiben Sie einfach ruhig und..."
@@ -769,10 +769,10 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, Wissenschaftler würden herausfinden, dass Energy-Drinks Kokain enthalten würden."
+                    "text": "Angenommen, Wissenschaftler fänden heraus, dass Energy-Drinks Kokain enthalten."
                 },
                 {
-                    "timing": "S + 6.00",
+                    "timing": "S + 4.35",
                     "text": "Wie würde sich das auf die Getränkeindustrie auswirken?"
                 }
             ]
