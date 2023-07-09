@@ -592,22 +592,34 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Erdnuss... in... meiner... Luftröhre...."
+                    "text": "Erdnuss..."
                 },
                 {
-                    "timing": "S + 2.66",
+                    "timing": "S + 1.72"
+                    "text": "in..."
+                },
+                {
+                    "timing": "S + 2.46"
+                    "text": "meiner..."
+                },
+                {
+                    "timing": "S + 3.73"
+                    "text": "Luftröhre..."
+                },
+                {
+                    "timing": "S + 5.57",
                     "text": "kann nicht mehr atmen..."
                 },
                 {
-                    "timing": "S + 4.38",
+                    "timing": "S + 7.50",
                     "text": "ich kann..."
                 },
                 {
-                    "timing": "S + 5.22",
+                    "timing": "S + 8.79",
                     "text": "nicht..."
                 },
                 {
-                    "timing": "S + 6.32",
+                    "timing": "S + 9.64",
                     "text": "mehr..."
                 }
             ]
@@ -644,15 +656,15 @@
                     "text": "Also, wenn es so, ähm, äh..."
                 },
                 {
-                    "timing": "S + 2.80",
+                    "timing": "S + 4.25",
                     "text": "öhm, hm, eh..."
                 },
                 {
-                    "timing": "S + 5.12",
+                    "timing": "S + 8.27",
                     "text": "oh."
                 },
                 {
-                    "timing": "S + 5.84",
+                    "timing": "S + 8.51",
                     "text": "Wie viele der Wörter in dieser Frage sind in einem Scrabble-Spiel NICHT zulässig?"
                 }
             ]
@@ -681,14 +693,18 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Okay... das Nationaltier Frankreichs ist direkt hinter Ihnen..."
+                    "text": "Okay..."
                 },
                 {
-                    "timing": "S + 5.28",
+                    "timing": "S + 1.26",
+                    "text": "das Nationaltier Frankreichs ist direkt hinter Ihnen..."
+                }
+                {
+                    "timing": "S + 4.80",
                     "text": "bleiben Sie einfach ruhig und..."
                 }
             ]
