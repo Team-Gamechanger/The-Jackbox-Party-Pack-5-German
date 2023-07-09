@@ -449,7 +449,7 @@
                 "10 kleine Jäger Meister"
             ],
             "correctText": {
-                "text": "<i>Zehn kleine Jägermeister<\/i>"
+                "text": "\u201cZehn kleine Jägermeister\u201d"
             },
             "clues": [
                 {
@@ -480,7 +480,7 @@
                 "Soll das bezahlen"
             ],
             "correctText": {
-                "text": "<i>Wer soll das bezahlen?<\/i>"
+                "text": "\u201cWer soll das bezahlen?\u201d"
             },
             "clues": [
                 {
@@ -832,7 +832,7 @@
                 "Marmor, Stein und Eisen bricht"
             ],
             "correctText": {
-                "text": "<i>Marmor, Stein und Eisen bricht<\/i>"
+                "text": "\u201cMarmor, Stein und Eisen bricht\u201d"
             },
             "clues": [
                 {
@@ -918,7 +918,7 @@
                 "Blau blüht der Enzian"
             ],
             "correctText": {
-                "text": "<i>Blau blüht der Enzian<\/i>"
+                "text": "\u201cBlau blüht der Enzian\u201d"
             },
             "clues": [
                 {
@@ -1037,7 +1037,7 @@
                 "Nur noch kurz die Welt retten"
             ],
             "correctText": {
-                "text": "<i>Nur noch kurz die Welt retten<\/i>"
+                "text": "\u201cNur noch kurz die Welt retten\u201d"
             },
             "clues": [
                 {
