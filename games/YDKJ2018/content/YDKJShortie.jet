@@ -531,6 +531,219 @@
                     "text": "Warum bringen mich Rentner so zum Lachen?"
                 }
             ]
+        },
+        {
+            "id": "10017",
+            "category": {
+                "text": "Gehen Sie mir nicht auf die Nüsse!"
+            },
+            "choices": [
+                {
+                    "text": "...O gegen CO austauschen...",
+                    "isCorrect": false
+                },
+                {
+                    "text": "...O2 gegen CO2 austauschen...",
+                    "isCorrect": true
+                },
+                {
+                    "text": "...O gegen C2O austauschen...",
+                    "isCorrect": false
+                },
+                {
+                    "text": "...O3 gegen CO2 austauschen...",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Erdnuss..."
+                },
+                {
+                    "timing": "S + 1.72",
+                    "text": "in..."
+                },
+                {
+                    "timing": "S + 2.46",
+                    "text": "meiner..."
+                },
+                {
+                    "timing": "S + 3.73",
+                    "text": "Luftröhre..."
+                },
+                {
+                    "timing": "S + 5.57",
+                    "text": "kann nicht mehr atmen..."
+                },
+                {
+                    "timing": "S + 7.50",
+                    "text": "ich kann..."
+                },
+                {
+                    "timing": "S + 8.79",
+                    "text": "nicht..."
+                },
+                {
+                    "timing": "S + 9.64",
+                    "text": "mehr..."
+                }
+            ]
+        },
+        {
+            "id": "10018",
+            "category": {
+                "text": "Lexikonnte er, oder Lexikonnte er nicht?"
+            },
+            "choices": [
+                {
+                    "text": "Fünf",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Drei",
+                    "isCorrect": false
+                },
+                {
+                    "best": true,
+                    "text": "Nur eins",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie sind alle zulässig.",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Also, wenn es so, ähm, äh..."
+                },
+                {
+                    "timing": "S + 4.25",
+                    "text": "öhm, hm, eh..."
+                },
+                {
+                    "timing": "S + 8.27",
+                    "text": "oh."
+                },
+                {
+                    "timing": "S + 8.51",
+                    "text": "Wie viele der Wörter in dieser Frage sind in einem Scrabble-Spiel NICHT zulässig?"
+                }
+            ]
+        },
+        {
+            "id": "10019",
+            "category": {
+                "text": "Ist doch Zoologisch"
+            },
+            "choices": [
+                {
+                    "text": "...es wird sich langweilgen und wegschwimmen.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "...es wird sich die Federn sträuben und friedlich davonstolzieren.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "...es wird Ihnen seine Zähne zeigen, aber nur knurren.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "...es wird sehr, sehr langsam unter einen Stein kriechen.",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Okay..."
+                },
+                {
+                    "timing": "S + 1.26",
+                    "text": "das Nationaltier Frankreichs ist direkt hinter Ihnen..."
+                },
+                {
+                    "timing": "S + 4.80",
+                    "text": "bleiben Sie einfach ruhig und..."
+                }
+            ]
+        },
+        {
+            "id": "10020",
+            "category": {
+                "text": "Die spinnen doch, die Spinnen"
+            },
+            "choices": [
+                {
+                    "text": "Fünfundzwanzig Prozent",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zehn Prozent",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Prozent",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Weniger als ein Zehntel eines Prozents",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie viel Prozent der weltweit über 40.000 Spinnenarten sind für Menschen tödlich?"
+                }
+            ]
+        },
+        {
+            "id": "10021",
+            "category": {
+                "text": "Hochfliegende Räusche & Abstürzende Zahlen"
+            },
+            "choices": [
+                {
+                    "text": "Es würde die Verkäufe der Red Bull AG beeinflussen.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Es würde die Verkäufe der Red Bull GmbH beeinflussen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Es würde die Verkäufe der Red Bull UG beeinflussen.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Es würde die Verkäufe der Red Bull oHG beeinflussen.",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Wissenschaftler würden herausfinden, dass Energy-Drinks Kokain enthalten würden."
+                },
+                {
+                    "timing": "S + 4.35",
+                    "text": "Wie würde sich das auf die Getränkeindustrie auswirken?"
+                }
+            ]
         }
     ]
 }
