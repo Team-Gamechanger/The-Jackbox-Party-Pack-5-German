@@ -6,26 +6,25 @@
                 "text": "Hilfe, mein Hund schaut fern"
             },
             "gibberishText": {
-                "text": "Wer dackelt? Hält mich heut’ Programm"
+                "text": "Wer dackelt, hält sich breit Programm"
             },
             "spellings": [
-                "der apfel fällt nicht weit vom stamm",
                 "apfel fällt nicht weit",
                 "der apfel fällt nicht weit",
                 "apfel fällt nicht weit vom stamm"
             ],
             "correctText": {
-                "text": "“Der Apfel fällt nicht weit vom Stamm”"
+                "text": "Der Apfel fällt nicht weit vom Stamm"
             },
             "clues": [
                 {
                     "text": "Meine Fähigkeiten machen sich bemerkbar..."
                 },
                 {
-                    "text": "...wo die nur herkommen?"
+                    "text": "...ob die wohl von meinen Eltern kommen?"
                 },
                 {
-                    "text": "Wahrscheinlich von meinen Eltern."
+                    "text": "Der Sprössling entfernt sich nun mal nicht allzusehr von der Quelle!"
                 }
             ]
         },
@@ -41,7 +40,9 @@
                 "wenn sich zwei streiten freut sich der dritte",
                 "wenn sich 2 streiten freut sich der 3.",
                 "wenn sich 2 streiten freut sich der dritte",
-                "wenn sich zwei streiten freut sich der 3."
+                "wenn sich zwei streiten freut sich der 3.",
+                "Wenn zwei sich streiten freut sich der Dritte",
+                "Wenn zwei sich streiten, freut sich der Dritte"
             ],
             "correctText": {
                 "text": "Wenn sich zwei streiten, freut sich der Dritte"
@@ -70,30 +71,31 @@
                 "liebling ich habe die kinder geschrumpft",
                 "liebling ich hab die kinder geschrumpft",
                 "schatz ich hab die kinder geschrumpft",
-                "liebling die kinder geschrumpft"
+                "liebling die kinder geschrumpft",
+                "Liebling, ich habe die Kinder geschrumpft"
             ],
             "correctText": {
                 "text": "<i>Liebling, ich habe die Kinder geschrumpft<\/i>"
             },
             "clues": [
                 {
-                    "text": "Ein Disney-Film..."
+                    "text": "Es handelt sich um einen <i>Disney<\/i>-Film..."
                 },
                 {
                     "text": "...bei welchem etwas verkleinert wird."
                 },
                 {
-                    "text": "Sie waren noch so jung."
+                    "text": "Schatz! Unser Nachwuchs ist so winzig!"
                 }
             ]
         },
         {
             "id": "11203",
             "category": {
-                "text": "Auch Diktatoren brauchen Urlaub"
+                "text": "Schaurige Konsequenzen schlechter Laune"
             },
             "gibberishText": {
-                "text": "Keine Macht für Häute!"
+                "text": "Leid erwachen Häute!"
             },
             "spellings": [
                 "Kleider machen Leute",
@@ -111,14 +113,14 @@
                     "text": "...es ist jedoch auch ein bekanntes Sprichwort."
                 },
                 {
-                    "text": "Du bist das, was du trägst."
+                    "text": "Man ist das, was man trägt."
                 }
             ]
         },
         {
             "id": "11204",
             "category": {
-                "text": "Amüsierte Pflanzen & Erfolgreiches Tiergut"
+                "text": "Amüsierte Pflanzen & erfolgreiches Tiergut"
             },
             "gibberishText": {
                 "text": "Mehr Mohn lacht Vieh zu Sieg"
@@ -136,7 +138,7 @@
                     "text": "Es kommt nicht darauf an, was man sagt..."
                 },
                 {
-                    "text": "sondern wie man es sagt."
+                    "text": "...sondern wie man es sagt."
                 },
                 {
                     "text": "Man kann es auch auf Lieder anwenden."
@@ -149,7 +151,7 @@
                 "text": "Gewalttätige Kaffeekränzchen"
             },
             "gibberishText": {
-                "text": "Hausdamen! Sie Schädigen, Sie Flegel!"
+                "text": "Hausdamen! Sie schädigen die Flegel!"
             },
             "spellings": [
                 "Ausnahmen bestätigen Regel",
@@ -168,7 +170,7 @@
                     "text": "...doch passierte etwas Unerwartetes."
                 },
                 {
-                    "text": "Das aber trotzdem der Annahme nicht widerspricht"
+                    "text": "Aber wenn es so unerwartet ist, <i>unterstreicht<\/i> das doch eigentlich nur die Hypothese."
                 }
             ]
         },
@@ -181,53 +183,56 @@
                 "text": "Krass! Flunder-Konzern!"
             },
             "spellings": [
-                "Wunder von Bern"
+                "Wunder von Bern",
+                "Das Wunder von Bern"
             ],
             "correctText": {
-                "text": "Das Wunder von Bern"
+                "text": "<i>Das Wunder von Bern<\/i>"
             },
             "clues": [
                 {
                     "text": "Im Film dreht es sich um ein besonderes Ereignis..."
                 },
                 {
-                    "text": "...bei einem Fußballspiel..."
+                    "text": "...bei einem Fußballspiel."
                 },
                 {
-                    "text": "das in der Hauptstadt der Schweiz stattfand."
+                    "text": "Ein wahres Mirakel in der Hauptstadt der Schweiz."
                 }
             ]
         },
         {
             "id": "11207",
             "category": {
-                "text": "Unzüchtige Bankunternehmen"
+                "text": "Von Außenseitern & geächteten Ausnahmeathleten"
             },
             "gibberishText": {
-                "text": "Sehr erregte TAN"
+                "text": "\u201cWas, Freak? Wände hassen Schwimmer.\u201d"
             },
             "spellings": [
-                "Bewegter Mann"
+                "Fliegendes Klassenzimmer",
+                "Das fliegende Klassenzimmer",
+                "Fliegende Klassenzimmer"
             ],
             "correctText": {
-                "text": "Der bewegte Mann"
+                "text": "<i>Das fliegende Klassenzimmer<\/i>"
             },
             "clues": [
                 {
-                    "text": "In der Komödie geht es um die Folgen eines Seitensprunges..."
+                    "text": "Es handelt sich um ein Kinderbuch..."
                 },
                 {
-                    "text": "...Woraufhin die von Til Schweiger gespielte Hauptfigur Axel..."
+                    "text": "...über eine Gruppe Schüler, die für ein Theaterstück übt."
                 },
                 {
-                    "text": "bei zwei schwulen Bekannten unterkommt."
+                    "text": "Das Stück ist nach einer schwebenden Lehrräumlichkeit benannt."
                 }
             ]
         },
         {
             "id": "11208",
             "category": {
-                "text": "Baustoffe & Fragwürdige Kochtipps"
+                "text": "Baustoffe & fragwürdige Kochtipps"
             },
             "gibberishText": {
                 "text": "Mehr Mehl und Schmand? Nimm Schaum!"
@@ -245,10 +250,10 @@
                     "text": "Das Sprichwort beschreibt ein Problem..."
                 },
                 {
-                    "text": "...zu dem niemand etwas sagt..."
+                    "text": "...zu dem niemand etwas sagt."
                 },
                 {
-                    "text": "obwohl es unübersehbar im Raum steht."
+                    "text": "Wie ein großes Tier mitten im Zimmer."
                 }
             ]
         },
@@ -270,13 +275,13 @@
             },
             "clues": [
                 {
-                    "text": "Es handelt sich um eine Warnung."
+                    "text": "Es handelt sich um eine Warnung..."
                 },
                 {
-                    "text": "Denn man soll besonders aufpassen..."
+                    "text": "...bei der Auswahl eines bestimmten Tiererzeugnisses."
                 },
                 {
-                    "text": "beim Kauf von Eiern."
+                    "text": "Genau hinschauen!"
                 }
             ]
         },
@@ -286,15 +291,18 @@
                 "text": "Schmuddelszenen in der Gärtnerei"
             },
             "gibberishText": {
-                "text": "Sprich \u201cnein\u201d nach! Jungfer wässer mich!"
+                "text": "Sprich \u201cnein\u201d nach! Jungfer wässer\u2019 mich!"
             },
             "spellings": [
                 "Ich einfach unverbesserlich",
                 "Ich, einfach unverbesserlich",
-                "Einfach unverbesserlich"
+                "Einfach unverbesserlich",
+                "Ich - Einfach unverbesserlich",
+                "Ich- Einfach unverbesserlich",
+                "Ich-einfach unverbesserlich"
             ],
             "correctText": {
-                "text": "Ich - Einfach unverbesserlich"
+                "text": "<i>Ich - Einfach unverbesserlich<\/i>"
             },
             "clues": [
                 {
@@ -304,7 +312,7 @@
                     "text": "...der sein Herz an drei adoptierte Weisenkinder verliert."
                 },
                 {
-                    "text": "Facebook-Gruppen lieben die gelben Minions, die in diesem Film debütierten."
+                    "text": "<i>Facebook<\/i>-Gruppen lieben die gelben <i>Minions<\/i>, die in diesem Film debütierten."
                 }
             ]
         },
@@ -314,16 +322,17 @@
                 "text": "Hollywood an Hansestadt"
             },
             "gibberishText": {
-                "text": "Kiel hier, was riet Tom Roth?"
+                "text": "\u201cKiel hier, was riet Tom Roth?\u201d"
             },
             "spellings": [
                 "Spiel das Lied vom Tod",
                 "Spiel mir das Lied Tod",
                 "Das Lied vom Tod",
-                "Spiel mir das Lied vom Tot"
+                "Spiel mir das Lied vom Tot",
+                "Spiel mir das Lied vom Tod"
             ],
             "correctText": {
-                "text": "Spiel mir das Lied vom Tod"
+                "text": "<i>Spiel mir das Lied vom Tod<\/i>"
             },
             "clues": [
                 {
@@ -343,17 +352,18 @@
                 "text": "Fuchsige Frisösen feuern Föhne"
             },
             "gibberishText": {
-                "text": "Flieh! Föhne wund was schießt!"
+                "text": "\u201cFlieh! Föhne wund was schießt!\u201d"
             },
             "spellings": [
                 "Schöne und das Biest",
                 "Schöne & das Biest",
                 "Die Schöne & das Biest",
                 "Die Schöne und Biest",
-                "Schöne und Biest"
+                "Schöne und Biest",
+                "Die Schöne und das Biest"
             ],
             "correctText": {
-                "text": "Die Schöne und das Biest"
+                "text": "<i>Die Schöne und das Biest<\/i>"
             },
             "clues": [
                 {
@@ -363,7 +373,7 @@
                     "text": "Ich spezifiziere: Dieser Zeichentrickfilm basiert auf einem französischen Märchen."
                 },
                 {
-                    "text": "Noch genauer: Dieser Zeichentrickfilm von <i>Walt Disney<\/i> basiert auf einem französischen Märchen"
+                    "text": "Noch genauer: Dieser Zeichentrickfilm von <i>Walt Disney<\/i> basiert auf einem französischen Märchen."
                 }
             ]
         },
@@ -391,7 +401,7 @@
                     "text": "Denn die Antwort liegt Ihnen auf der Zunge..."
                 },
                 {
-                    "text": "...aber trotzdem kommen Sie nicht drauf."
+                    "text": "...aber irgendwas scheint die Leitung zu blockieren!"
                 }
             ]
         },
@@ -415,65 +425,72 @@
                     "text": "Es handelt sich um eine Warnung..."
                 },
                 {
-                    "text": "das man nicht pausenlos Pausieren darf..."
+                    "text": "...dass man nicht pausenlos Pausieren darf..."
                 },
                 {
-                    "text": "da man ansonsten körperlichen Schaden davontragen könnte."
+                    "text": "...da man ansonsten körperlichen Schaden davontragen könnte."
                 }
             ]
         },
         {
             "id": "11215",
             "category": {
-                "text": "Tim Mälzer hinter schwedischen Gardinen"
+                "text": "Nutzvieh & ganz seltsame Zirkusaufführungen"
             },
             "gibberishText": {
-                "text": "Angler-Ruten zwinge Rindbrei!"
+                "text": "\u201cDen Schweinepfleger schmeißt er?\u201d"
             },
             "spellings": [
-                "Alle guten Dinge sind Drei",
-                "Aller guten Dinge sind 3",
-                "Alle guten Dinge sind 3"
+                "Zehn kleine Jägermeister",
+                "10 kleine Jägermeister",
+                "Zehn Jägermeister",
+                "10 Jägermeister",
+                "Zehn kleine Jäger Meister",
+                "10 kleine Jäger Meister"
             ],
             "correctText": {
-                "text": "Aller guten Dinge sind Drei"
+                "text": "<i>Zehn kleine Jägermeister<\/i>"
             },
             "clues": [
                 {
-                    "text": "Wenn es beim ersten Mal nicht klappt..."
+                    "text": "Es handelt sich um ein deutsches Lied..."
                 },
                 {
-                    "text": "und beim zweiten Mal auch nicht..."
+                    "text": "...das eine Abwandlung eines alten Kinderliedes ist."
                 },
                 {
-                    "text": "dann sollte man es nochmal versuchen."
+                    "text": "Es geht um eine Gruppe kleiner Kräuterliköre."
                 }
             ]
         },
         {
             "id": "11216",
             "category": {
-                "text": "Taube Nüsschen im Wellnesssalon"
+                "text": "Deutsches Beamtentum & kreative Selbstverwirklichung"
             },
             "gibberishText": {
-                "text": "Mehr Spa plagt Nussstrauch! Bejagen!"
+                "text": "Der Zoll lasse malen!"
             },
             "spellings": [
-                "Wer A sagt muss auch B sagen",
-                "Wer A sagt muss B sagen"
+                "Wer soll das bezahlen?",
+                "Wer soll das bezahlen",
+                "Wer soll bezahlen?",
+                "Wer soll bezahlen",
+                "Soll das bezahlen?",
+                "Soll das bezahlen"
             ],
             "correctText": {
-                "text": "Wer A sagt, muss auch B sagen"
+                "text": "<i>Wer soll das bezahlen?<\/i>"
             },
             "clues": [
                 {
-                    "text": "Wer etwas anfängt..."
+                    "text": "Es handelt sich um ein altes deutsches Volkslied..."
                 },
                 {
-                    "text": "sollte es auch beenden."
+                    "text": "...in dem es um sehr hohe Preise geht."
                 },
                 {
-                    "text": "Man hört ja auch beim Alphabet nicht mittendrin auf."
+                    "text": "Wer ist denn so reich, dass er dafür Geld ausgeben kann?"
                 }
             ]
         },
@@ -490,10 +507,11 @@
                 "Der Stein der Weisen",
                 "Harry Potter und Stein der Weisen",
                 "Harry Potter und der Stein der Waisen",
-                "Harry Potter Stein der Weisen"
+                "Harry Potter Stein der Weisen",
+                "Harry Potter und der Stein der Weisen"
             ],
             "correctText": {
-                "text": "Harry Potter und der Stein der Weisen"
+                "text": "<i>Harry Potter und der Stein der Weisen<\/i>"
             },
             "clues": [
                 {
@@ -503,7 +521,674 @@
                     "text": "Der Film erzählt die Geschichte eines elfährigen Waisenjungen..."
                 },
                 {
-                    "text": "...der eine Tages auf eine Zaubererschule gebracht wird."
+                    "text": "...der eines Tages auf eine Zaubererschule gebracht wird."
+                }
+            ]
+        },
+        {
+            "id": "11218",
+            "category": {
+                "text": "Farbenfrohe Giftgasangriffe"
+            },
+            "gibberishText": {
+                "text": "Oh, so bunt! Gas-Regen wo schieben?"
+            },
+            "spellings": [
+                "Joko & Klaas gegen ProSieben",
+                "Joko und Klaas gegen Pro7",
+                "Joko & Klaas gegen Pro7",
+                "Joko Klaas gegen ProSieben",
+                "Joko Klaas gegen Pro7",
+                "Joko und Klaas gegen ProSieben"
+            ],
+            "correctText": {
+                "text": "<i>Joko und Klaas gegen ProSieben<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Es handelt sich um eine Spielshow..."
+                },
+                {
+                    "text": "...mit prominenten Kandidaten."
+                },
+                {
+                    "text": "Das Duo versucht, ihren Arbeitgeber zu besiegen."
+                }
+            ]
+        },
+        {
+            "id": "11219",
+            "category": {
+                "text": "Klamme Matrosen gegen den Kapitalismus"
+            },
+            "gibberishText": {
+                "text": "Pralle See-Gebühren, mach schon!"
+            },
+            "spellings": [
+                "Alle Wege führen Rom",
+                "Wege führen nach Rom",
+                "Alle Wege führn nach Rom"
+            ],
+            "correctText": {
+                "text": "Alle Wege führen nach Rom"
+            },
+            "clues": [
+                {
+                    "text": "Es gibt immer mehrere Möglichkeiten..."
+                },
+                {
+                    "text": "...sein Ziel zu erreichen."
+                },
+                {
+                    "text": "Egal, wo es lang geht - irgendwann landen Sie in Italien."
+                }
+            ]
+        },
+        {
+            "id": "11220",
+            "category": {
+                "text": "Völlig abstruse Mathematik"
+            },
+            "gibberishText": {
+                "text": "Vier sieben Nebendrittel."
+            },
+            "spellings": [
+                "Wir lieben Lebens Mittel",
+                "Wir lieben Lebensmittel"
+            ],
+            "correctText": {
+                "text": "<i>Wir lieben Lebensmittel<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Es ist der Slogan eines Einzelhändlers..."
+                },
+                {
+                    "text": "...genauer gesagt, einer Supermarktkette."
+                },
+                {
+                    "text": "Einer Supermarktkette, die ihre Zuneigung zu ihren Produkten ausdrückt."
+                }
+            ]
+        },
+        {
+            "id": "11221",
+            "category": {
+                "text": "Ungewöhnlich anstrengende Richtungswechsel"
+            },
+            "gibberishText": {
+                "text": "Mehr Mühe! So, gelenkt gen Turm!"
+            },
+            "spellings": [
+                "Früher Vogel fängt den Wurm",
+                "Der frühe Vogel fängt Wurm",
+                "Früher Vogel fängt Wurm"
+            ],
+            "correctText": {
+                "text": "Der frühe Vogel fängt den Wurm"
+            },
+            "clues": [
+                {
+                    "text": "Je zeitiger man auftaucht..."
+                },
+                {
+                    "text": "...desto mehr Chancen auf Erfolg hat man."
+                },
+                {
+                    "text": "Wer als erstes angeflogen kommt, fängt die Beute!"
+                }
+            ]
+        },
+        {
+            "id": "11222",
+            "category": {
+                "text": "Architektur & erstaunlich kurze Treppen"
+            },
+            "gibberishText": {
+                "text": "Die Gebäude zweier Stufen."
+            },
+            "spellings": [
+                "Friede Freude Eierkuchen",
+                "Friede, Freude Eierkuchen",
+                "Friede Freude, Eierkuchen",
+                "Friede, Freude, Eier Kuchen"
+            ],
+            "correctText": {
+                "text": "Friede, Freude, Eierkuchen"
+            },
+            "clues": [
+                {
+                    "text": "Es handelt sich um eine ideale Situation..."
+                },
+                {
+                    "text": "...eine, die vor Harmonie nur so strotzt."
+                },
+                {
+                    "text": "Es gibt sogar leckeres Gebäck!"
+                }
+            ]
+        },
+        {
+            "id": "11223",
+            "category": {
+                "text": "Weiche Teile & harte Kriminalität"
+            },
+            "gibberishText": {
+                "text": "Was? Sack-Duelle? Mord\u2019 du ihn so!"
+            },
+            "spellings": [
+                "Aktuelles Sportstudio",
+                "Das aktuelle Sport Studio",
+                "Das aktuellste Sportstudio",
+                "Das aktuellste Sport Studio",
+                "Das aktuelle Sportstudio"
+            ],
+            "correctText": {
+                "text": "<i>Das aktuelle Sportstudio<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Es handelt sich um eine Sendung im ZDF..."
+                },
+                {
+                    "text": "...die sich um das Sportliche dreht."
+                },
+                {
+                    "text": "Eine Sendung, die immer auf dem neuesten Stand ist."
+                }
+            ]
+        },
+        {
+            "id": "11224",
+            "category": {
+                "text": "Mamas extrem ängstliche Küche"
+            },
+            "gibberishText": {
+                "text": "Soll doch Mutti schlottern Schmor herbei!"
+            },
+            "spellings": [
+                "Call of Duty Modern Warfare 2",
+                "Call of Duty: Modern Warfare Zwei",
+                "Call of Duty Modern Warfare Zwei",
+                "Call of Duty: Modern Warfare 3",
+                "Call of Duty Modern Warfare 3",
+                "Call of Duty: Modern Warfare Drei",
+                "Call of Duty Modern Warfare Drei",
+                "Call of Duty: Modern Warfare 2"
+            ],
+            "correctText": {
+                "text": "<i>Call of Duty: Modern Warfare 2<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Es ist ein Titel in einem gigantischen Franchise..."
+                },
+                {
+                    "text": "...einem Ego-Shooter-Franchise, das im Krieg spielt."
+                },
+                {
+                    "text": "Es geht speziell um höchst moderne Kriegsführung."
+                }
+            ]
+        },
+        {
+            "id": "11225",
+            "category": {
+                "text": "Der unwiderstehliche Drang der Süßigkeiten"
+            },
+            "gibberishText": {
+                "text": "Frust! Dieses Naschen-Fluch!"
+            },
+            "spellings": [
+                "Das lustige Taschenbuch",
+                "Lustige Taschenbücher",
+                "Lustiges Taschenbuch"
+            ],
+            "correctText": {
+                "text": "<i>Lustiges Taschenbuch<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Es handelt sich um eine Reihe an Büchern..."
+                },
+                {
+                    "text": "...die sich um Comics für Kinder drehen."
+                },
+                {
+                    "text": "Sie sind urkomisch und im kompakten Format."
+                }
+            ]
+        },
+        {
+            "id": "11226",
+            "category": {
+                "text": "Kuhscheiße & unachtsame Familienväter"
+            },
+            "gibberishText": {
+                "text": "\u201cVati! Obacht! Rinder-Klo!\u201d"
+            },
+            "spellings": [
+                "Haribo macht Kinder froh und Erwachsene ebenso",
+                "Haribo macht Kinder froh"
+            ],
+            "correctText": {
+                "text": "<i>Haribo macht Kinder froh<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Es geht hier um einen Werbe-Slogan..."
+                },
+                {
+                    "text": "...für eine Süßigkeitenmarke."
+                },
+                {
+                    "text": "Sie sorgt für reichlich Freude bei den Kleinen."
+                }
+            ]
+        },
+        {
+            "id": "11227",
+            "category": {
+                "text": "Attraktive Schlachtenmitbringsel"
+            },
+            "gibberishText": {
+                "text": "Knut singt schrill: \u201cGeile Narben!\u201d"
+            },
+            "spellings": [
+                "Gutes Ding will Weile haben",
+                "Gut Ding, will Weile haben",
+                "Gut Ding Weile haben",
+                "Gut Ding will Weile"
+            ],
+            "correctText": {
+                "text": "Gut Ding will Weile haben"
+            },
+            "clues": [
+                {
+                    "text": "Manchmal dauert es länger..."
+                },
+                {
+                    "text": "...besonders, wenn es gut werden soll."
+                },
+                {
+                    "text": "Gute Sachen brauchen nun mal ihre Zeit!"
+                }
+            ]
+        },
+        {
+            "id": "11228",
+            "category": {
+                "text": "Kreative Inneneinrichtung für das Esszimmer"
+            },
+            "gibberishText": {
+                "text": "Da, vor dein Mundspeisen-Licht!"
+            },
+            "spellings": [
+                "Marmor Stein und Eisen bricht",
+                "Marmor, Stein Eisen bricht",
+                "Marmor Stein Eisen bricht",
+                "Marmor, Stein & Eisen bricht",
+                "Marmor Stein & Eisen bricht",
+                "Marmor, Stein und Eisen bricht"
+            ],
+            "correctText": {
+                "text": "<i>Marmor, Stein und Eisen bricht<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Es ist ein altes Liebeslied..."
+                },
+                {
+                    "text": "...in dem es um die Stabilität der Liebe geht."
+                },
+                {
+                    "text": "Die geht nämlich nicht kaputt, anders als herkömmliche Materialien!"
+                }
+            ]
+        },
+        {
+            "id": "11229",
+            "category": {
+                "text": "Modesünden & Yassification"
+            },
+            "gibberishText": {
+                "text": "Lass zeigen mehr Glamour!"
+            },
+            "spellings": [
+                "Schweigen der Lämmer",
+                "Das Schweigen Lämmer",
+                "Das Schweigen der Lämmer"
+            ],
+            "correctText": {
+                "text": "<i>Das Schweigen der Lämmer<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Es geht um einen Horrorklassiker..."
+                },
+                {
+                    "text": "...in dem es um die Jagd nach einem Serienmörder geht."
+                },
+                {
+                    "text": "Minderjährige Schafe könnten sprachlos werden."
+                }
+            ]
+        },
+        {
+            "id": "11230",
+            "category": {
+                "text": "Wenn Bälle mit Füßen getreten werden"
+            },
+            "gibberishText": {
+                "text": "\u201cPass geben! Quer Bande, Ben!\u201d"
+            },
+            "spellings": [
+                "Leben der Anderen",
+                "Das Leben Anderen",
+                "Das Leben der Anderen"
+            ],
+            "correctText": {
+                "text": "<i>Das Leben der Anderen<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Es geht um einen deutschen Film aus dem Jahr 2006..."
+                },
+                {
+                    "text": "...über einen Schriftsteller und die Machenschaften der Stasi."
+                },
+                {
+                    "text": "\u201cDas Dasein von denen, die nicht wir sind\u201d"
+                }
+            ]
+        },
+        {
+            "id": "11231",
+            "category": {
+                "text": "Wenn der Urlaub viel zu früh zuende geht"
+            },
+            "gibberishText": {
+                "text": "\u201cCiao Südmeer\u201d, flennt sie dann."
+            },
+            "spellings": [
+                "Blau blüht Enzian",
+                "Blau, Blau, Blau blüht der Enzian",
+                "Blau Blau Blau blüht der Enzian",
+                "Blau blüht mehr Enzian",
+                "Blau blüht der Enzian"
+            ],
+            "correctText": {
+                "text": "<i>Blau blüht der Enzian<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Es handelt sich um einen Schlager..."
+                },
+                {
+                    "text": "...vom einzig wahren Heino."
+                },
+                {
+                    "text": "Die Blumen strahlen in einer satten Farbe, Farbe, Farbe."
+                }
+            ]
+        },
+        {
+            "id": "11232",
+            "category": {
+                "text": "Preissssswerte exotische Einkäufe"
+            },
+            "gibberishText": {
+                "text": "Nie teuer Schlangen hole!"
+            },
+            "spellings": [
+                "Feuerzangenbowle",
+                "Die Feuer-Zangen-Bowle",
+                "Die Feuer Zangen Bowle",
+                "Feuer-Zangen-Bowle",
+                "Feuer Zangen Bowle",
+                "Die Feuerzangenbowle"
+            ],
+            "correctText": {
+                "text": "<i>Die Feuerzangenbowle<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Es handelt sich um eine Komödie..."
+                },
+                {
+                    "text": "...eine deutsche Komödie aus dem Jahr 1944."
+                },
+                {
+                    "text": "Benannt nach einem beliebten Festtagspunsch."
+                }
+            ]
+        },
+        {
+            "id": "11233",
+            "category": {
+                "text": "Völlig losgelöst-- ah, nein, doch nicht"
+            },
+            "gibberishText": {
+                "text": "\u201cLass schweben!\u201d - \u201cMist! Nein! Komm nie hoch!\u201d"
+            },
+            "spellings": [
+                "Leben ist kein Ponyhof",
+                "Das Leben kein Ponyhof",
+                "Das Leben ist ein Ponyhof",
+                "Leben ist ein Ponyhof",
+                "Das Leben ist Ponyhof"
+            ],
+            "correctText": {
+                "text": "Das Leben ist kein Ponyhof"
+            },
+            "clues": [
+                {
+                    "text": "Es ist nicht immer alles einfach..."
+                },
+                {
+                    "text": "...und man kann sich nicht immer aussuchen, was man will."
+                },
+                {
+                    "text": "Wir reiten hier nicht alle auf kleinen Pferden rum!"
+                }
+            ]
+        },
+        {
+            "id": "11234",
+            "category": {
+                "text": "Gruppensex & Sadomaso-Spielchen"
+            },
+            "gibberishText": {
+                "text": "Leide hart für zwei Erwürger."
+            },
+            "spellings": [
+                "Freie Fahrt freie Bürger",
+                "Freie Fahrt, freie Bürger",
+                "Freie Fahrt, für freie Bürger"
+            ],
+            "correctText": {
+                "text": "Freie Fahrt für freie Bürger"
+            },
+            "clues": [
+                {
+                    "text": "Wir suchen einen politischen Slogan..."
+                },
+                {
+                    "text": "...der eine einzigartige deutsche Freiheit bewahren soll."
+                },
+                {
+                    "text": "Freiheit bedeutet auch, schnell fahren zu dürfen!"
+                }
+            ]
+        },
+        {
+            "id": "11235",
+            "category": {
+                "text": "Sterneköche und ihre Prothesen"
+            },
+            "gibberishText": {
+                "text": "Ruhrkoch Kurts Knie hält, wetten?"
+            },
+            "spellings": [
+                "Muss nur noch kurz die Welt retten",
+                "Muss nur kurz die Welt retten",
+                "Nur kurz die Welt retten",
+                "Nur noch kurz Welt retten",
+                "Nur noch kurz die Welt retten"
+            ],
+            "correctText": {
+                "text": "<i>Nur noch kurz die Welt retten<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Wir suchen einen deutschen Song aus dem Jahre 2011..."
+                },
+                {
+                    "text": "...der von einer sehr beschäftigten Person handelt."
+                },
+                {
+                    "text": "Diese Person verhindert zwischendurch das Ende der Welt."
+                }
+            ]
+        },
+        {
+            "id": "11236",
+            "category": {
+                "text": "Morgenrituale auf dem Bau"
+            },
+            "gibberishText": {
+                "text": "Früh und sacht Lehm schmeißt er."
+            },
+            "spellings": [
+                "Übung macht Meister",
+                "Übung macht zum Meister",
+                "Die Übung macht den Meister"
+            ],
+            "correctText": {
+                "text": "Übung macht den Meister"
+            },
+            "clues": [
+                {
+                    "text": "Wer gut werden will..."
+                },
+                {
+                    "text": "...muss erstmal viel lernen."
+                },
+                {
+                    "text": "Nur Praxis kann einen zum Experten machen!"
+                }
+            ]
+        },
+        {
+            "id": "11237",
+            "category": {
+                "text": "Die Rache des Sandwichgeflügels"
+            },
+            "gibberishText": {
+                "text": "\u201cIiih! Die Pute kommt da! Renn!\u201d"
+            },
+            "spellings": [
+                "Tribute von Panem",
+                "Die Tribute Panem",
+                "Die Tribute von Panem"
+            ],
+            "correctText": {
+                "text": "<i>Die Tribute von Panem<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Es handelt sich um eine Romanreihe..."
+                },
+                {
+                    "text": "...die sehr, sehr erfolgreich verfilmt wurde."
+                },
+                {
+                    "text": "Sie handelt von den sogenannten \u201cHungerspielen\u201d."
+                }
+            ]
+        },
+        {
+            "id": "11238",
+            "category": {
+                "text": "Klaus und die Kakerlaken-Ka­p­ri­o­len"
+            },
+            "gibberishText": {
+                "text": "Klaus\u2019 Flair? Freie Wanzen!"
+            },
+            "spellings": [
+                "Aus Reihe tanzen",
+                "Aus der Reihe tanzn"
+            ],
+            "correctText": {
+                "text": "Aus der Reihe tanzen"
+            },
+            "clues": [
+                {
+                    "text": "Sie sind ein ganz besonderer Freigeist..."
+                },
+                {
+                    "text": "...und halten sich nicht an Abgemachtes..."
+                },
+                {
+                    "text": "...ob im Leben oder auf dem Parkett."
+                }
+            ]
+        },
+        {
+            "id": "11239",
+            "category": {
+                "text": "Von Iren & unersättlichen Eltern"
+            },
+            "gibberishText": {
+                "text": "\u201cMehr!\u201d, berief Kelte-Vater."
+            },
+            "spellings": [
+                "Gestiefelter Kater",
+                "Gestiefelte Kater",
+                "Der gestiefelte Kater"
+            ],
+            "correctText": {
+                "text": "<i>Der gestiefelte Kater<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Ein bekannter Held..."
+                },
+                {
+                    "text": "...erschaffen von den Gebrüdern Grimm."
+                },
+                {
+                    "text": "Er ist eine männliche Katze mit kuriosem Modesinn."
+                }
+            ]
+        },
+        {
+            "id": "11240",
+            "category": {
+                "text": "Knabberzeug & völlig verrückte Träume"
+            },
+            "gibberishText": {
+                "text": "Newton träumt, Ken schiebt dann sein Nüsschen."
+            },
+            "spellings": [
+                "Guten Freunden gibt man Küsschen",
+                "Guten Freunden man ein Küsschen",
+                "Freunden gibt man ein Küsschen",
+                "Guten Freunden gibt man einen Kuss",
+                "Guten Freunden gibt man ein Küsschen"
+            ],
+            "correctText": {
+                "text": "<i>Guten Freunden gibt man ein Küsschen<\/i>"
+            },
+            "clues": [
+                {
+                    "text": "Es handelt sich um einen Slogan für Schokolade..."
+                },
+                {
+                    "text": "...speziell, eine Schokolade von <i>Ferrero<\/i>."
+                },
+                {
+                    "text": "Sie ist nach einem Bussi benannt."
                 }
             ]
         }
