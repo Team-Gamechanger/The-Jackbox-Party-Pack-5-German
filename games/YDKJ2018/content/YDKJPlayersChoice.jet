@@ -2,20 +2,6 @@
     "content": [
         {
             "question": {
-                "text": "Möchten Sie eine Frage gestellt bekommen, die etwas Ruhe bereithält, oder eine Frage, die ständig unterbrochen wird?"
-            },
-            "id": "11600",
-            "choice1": {
-                "text": "eine Frage, die etwas Ruhe bereithält",
-                "id": "10700"
-            },
-            "choice2": {
-                "text": "eine Frage, die ständig unterbrochen wird",
-                "id": "10701"
-            }
-        },
-        {
-            "question": {
                 "text": "Möchten Sie eine Frage zum Raum oder eine Frage zur Zeit gestellt bekommen?"
             },
             "id": "11601",
@@ -166,48 +152,6 @@
             "choice2": {
                 "text": "eine Frage über Roboter",
                 "id": "10723"
-            }
-        },
-        {
-            "question": {
-                "text": "Möchten Sie eine Frage gestellt bekommen, die zwei Fliegen mit einer Klappe schlägt, oder eine Frage, die eine Fliege mit zwei Klappen schlägt?"
-            },
-            "id": "11612",
-            "choice1": {
-                "text": "eine Frage, die zwei Fliegen mit einer Klappe schlägt",
-                "id": "10724"
-            },
-            "choice2": {
-                "text": "eine Frage, die eine Fliege mit zwei Klappen schlägt",
-                "id": "10725"
-            }
-        },
-        {
-            "question": {
-                "text": "Möchten Sie eine Frage gestellt bekommen, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind, oder eine Frage, bei der Sie DOCH die Hühner mitzählen, bevor sie geschlüpft sind?"
-            },
-            "id": "11613",
-            "choice1": {
-                "text": "eine Frage, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind",
-                "id": "10726"
-            },
-            "choice2": {
-                "text": "eine Frage, bei der Sie DOCH die Hühner mitzählen, bevor sie geschlüpft sind",
-                "id": "10727"
-            }
-        },
-        {
-            "question": {
-                "text": "Möchten Sie eine Frage über tollen Sex oder eine Frage über die tolle Sechs gestellt bekommen?"
-            },
-            "id": "11614",
-            "choice1": {
-                "text": "eine Frage über tollen SEX",
-                "id": "10728"
-            },
-            "choice2": {
-                "text": "eine Frage über die tolle SECHS",
-                "id": "10729"
             }
         },
         {
