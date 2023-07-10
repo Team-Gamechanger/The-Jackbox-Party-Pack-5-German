@@ -169,14 +169,14 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": true,
+            "oneResponse": false,
             "questionText": [
                 {
                     "timing": "S + 0.00",
                     "text": "Wenn Sie jemand fragen würde, wo ich am 4. April 1968 war..."
                 },
                 {
-                    "timing": "S + 5.38",
+                    "timing": "S + 5.34",
                     "text": "was würden Sie sagen?"
                 }
             ]
@@ -205,7 +205,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 1.75",
@@ -241,11 +241,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Ich bin kurz davor, diesem Mädchen aus Österreich zu sagen, wie ich einmal so hart in den Hintern getreten wurde, dass ich zum Arzt musste."
+                    "text": "Ich muss meinem Freund aus Wien sagen, dass ich mich aufgrund seiner beschissenen Wegbeschreibung in eine üble Bikerbar verirrt habe und dort eine Schlägerei hatte."
                 },
                 {
-                    "timing": "S + 5.61",
-                    "text": "Wie könnte ich ihr das am besten sagen?"
+                    "timing": "S + 10.74",
+                    "text": "Wie könnte ich das am besten formulieren?"
                 }
             ]
         },
@@ -385,7 +385,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -421,7 +421,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen Ihre Freundin lädt Sie ins Dormitorium ein. In welchem Raum werden Sie von Ihrer Freundin erwartet?"
+                    "text": "Angenommen Ihre Freundin lädt Sie ins Dormitorium ein."
+                },
+                {
+                    "timing": "S + 3.55",
+                    "text": "In welchem Raum werden Sie von Ihrer Freundin erwartet?"
                 }
             ]
         },
@@ -578,7 +582,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": true,
+            "oneResponse": false,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -966,7 +970,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -1227,7 +1231,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -1452,11 +1456,15 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Ich möchte versuchen, auch politisch neutral zu bleiben, bin aber kein sonderlich großer Fan der Schweiz. Welcher Nation könnte ich mich bedenkenlos anschließen?"
+                    "text": "Ich möchte versuchen, auch politisch neutral zu bleiben, bin aber kein sonderlich großer Fan der Schweiz."
+                },
+                {
+                    "timing": "S + 5.97",
+                    "text": "Welcher Nation könnte ich mich bedenkenlos anschließen?"
                 }
             ]
         },
@@ -1753,7 +1761,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": true,
+            "oneResponse": false,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2463,7 +2471,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": true,
+            "oneResponse": false,
             "questionText": [
                 {
                     "timing": "S + 0.00",
