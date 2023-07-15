@@ -4802,6 +4802,522 @@
                     "text": "Was könnte passieren, wenn er sich dabei an die Erzählung von David und Goliath hält?"
                 }
             ]
+        },
+        {
+            "id": "10145",
+            "category": {
+                "text": "Okia Dokia"
+            },
+            "choices": [
+                {
+                    "text": "<i>IKEA<\/i> bis <i>Kia<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Kia<\/i> bis <i>Nokia<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Nokia<\/i> bis <i>IKEA<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>IKEA<\/i>, <i>Nokia<\/i> und <i>Kia<\/i> sind exakt gleich weit voneinander entfernt",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche Fahrt zwischen den folgenden Firmensitzen ist die KÜRZESTE?"
+                }
+            ]
+        },
+        {
+            "id": "10146",
+            "category": {
+                "text": "Hör mal, wer da apfelt"
+            },
+            "choices": [
+                {
+                    "text": "8 PS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "10 PS",
+                    "isCorrect": false
+                },
+                {
+                    "text": "16 PS",
+                    "isCorrect": false
+                },
+                {
+                    "text": "110 PS",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn man von den Schiedsrichtern absieht, wie viel PS hat ein reguläres Polospiel?"
+                }
+            ]
+        },
+        {
+            "id": "10147",
+            "category": {
+                "text": "Schnöde Brettspiele & knallharte Geschäfte"
+            },
+            "choices": [
+                {
+                    "text": "Gar keinen Gewinner",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nur einen Gewinner",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mehr als einen Gewinner, aber nicht zu viele",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Hunderttausende Gewinner",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Hasbro bringt eine alternative Version des Spiels Monopoly raus, das den Namen \u201cOligopoly\u201d trägt."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Wie viele Gewinner würde es bei diesem Spiel geben?"
+                }
+            ]
+        },
+        {
+            "id": "10148",
+            "category": {
+                "text": "Mach's mir auf Deutsch, Baby"
+            },
+            "choices": [
+                {
+                    "text": "Laufhaus -",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Laufhaus —",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Laufhaus - - - -",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Laufhaus /",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Salome Balthus würde nicht auf den Strich, sondern auf den Geviertstrich gehen. Wo würde sie sich wiederfinden?"
+                }
+            ]
+        },
+        {
+            "id": "10149",
+            "category": {
+                "text": "Verdammt tragische Songtexte"
+            },
+            "choices": [
+                {
+                    "text": "Guido Westerwelle",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Willy Brandt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Rosi Mittermaier",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Stephen Hawking",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn laut Udo Jürgens das Leben wirklich erst mit 66 Jahren anfängt,"
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "wer hat dann theoretisch nie gelebt?"
+                }
+            ]
+        },
+        {
+            "id": "10150",
+            "category": {
+                "text": "How much is the Fish?"
+            },
+            "choices": [
+                {
+                    "text": "Knapp 2000 Forint",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Knapp 300 Denar",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Knapp 40 Kronen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Auch 5 Euro",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, der Fisch kostet bei uns 5 Euro."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Was müssten Sie dann in Ungarn hinblättern?"
+                }
+            ]
+        },
+        {
+            "id": "10151",
+            "category": {
+                "text": "Sauf an einem anderen Tag"
+            },
+            "choices": [
+                {
+                    "text": "\u201cMarmor, Stein und Eisen bricht\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDicht im Flieger\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDer Zug hat keine Bremse\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cGeh mal Bier hol'n\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher Ballermann-Hit beschreibt die wahre Geschichte aus dem Film <i>Unstoppable<\/i> am besten?"
+                }
+            ]
+        },
+        {
+            "id": "10152",
+            "category": {
+                "text": "Modern Striking"
+            },
+            "choices": [
+                {
+                    "text": "Dieter 10 Mal bowlen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dieter 11 Mal bowlen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dieter 12 Mal bowlen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Dieter 15 Mal bowlen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn er in seiner Partie nur Strikes werfen würde, müsste..."
+                }
+            ]
+        },
+        {
+            "id": "10153",
+            "category": {
+                "text": "Klafittchen und die <i>ProSieben<\/i> Zwerge"
+            },
+            "choices": [
+                {
+                    "text": "Joko und Klaas werden von einem Proktologen behandelt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Joko und Klaas werden von einem Dinosaurier zerissen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Joko und Klaas rennen wiederholt gegen eine schulterhohe Mauer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Joko und Klaas verprügeln einen alten Greis",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Statt <i>Joko und Klaas gegen ProSieben<\/i> flimmert plötzlich <i>Joko und Klaas gegen PROAVUS<\/i> über den Bildschirm."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Worum wird es in dieser Show wohl gehen?"
+                }
+            ]
+        },
+        {
+            "id": "10154",
+            "category": {
+                "text": "Der Mann mit der Kamera ist da"
+            },
+            "choices": [
+                {
+                    "text": "Sebastian Pufpaffs Augen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eltons Gesicht",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Stefan Raab vom Kopf bis zur Hüfte",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die <i>Heavytones<\/i> vollständig im Bild",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, <i>ProSieben<\/i> setzt <i>TV Total<\/i> ab und sendet stattdessen fortan <i>TV Halbtotal<\/i>."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Was wird man dort wohl sehen?"
+                }
+            ]
+        },
+        {
+            "id": "10155",
+            "category": {
+                "text": "Vati-kann auch unchristlich"
+            },
+            "choices": [
+                {
+                    "text": "Kotsma",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Schisma",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Pisma",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Furzma",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, Papst Franziskus und der Rest der katholischen Kirche kriegen sich faustdick in die Haare."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Man entschließt sich daraufhin, ohne Franziskus eine neue Kirche zu gründen."
+                },
+                {
+                    "timing": "S + 2.00",
+                    "text": "Wie würde sich dieser Vorgang nennen?"
+                }
+            ]
+        },
+        {
+            "id": "10156",
+            "category": {
+                "text": "Wenn der Leopard Leo-hart wird"
+            },
+            "choices": [
+                {
+                    "text": "Ein Lepuar",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Jaguleo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Leogar",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Jagulep",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was entsteht, wenn Jaguar und Leopardin sich paaren?"
+                }
+            ]
+        },
+        {
+            "id": "10157",
+            "category": {
+                "text": "Klimafreundlicher Rock"
+            },
+            "choices": [
+                {
+                    "text": "AC/",
+                    "isCorrect": false
+                },
+                {
+                    "text": "/DC",
+                    "isCorrect": true
+                },
+                {
+                    "text": "C/C",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A/D",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, <i>AC/DC<\/i> startet eine solarbetriebene Wiedervereinigungs-Tournee."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Bedenkt man, in welcher Form Solarstrom üblicherweise produziert wird, wie sollte die Band sich passenderweise umbenennen?"
+                }
+            ]
+        },
+        {
+            "id": "10158",
+            "category": {
+                "text": "Deutschrap & ungewöhnlich voluminöse Körperflüssigkeiten"
+            },
+            "choices": [
+                {
+                    "text": "\u201cBlut, Schweiß & übermäßige Tränen\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cBlut, übermäßiger Schweiß & Tränen\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cÜbermäßiges Blut, Schweiß & Tränen\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cÜbermäßiges Blut, übermäßiger Schweiß & übermäßige Tränen\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn der Rapper <i>Kontra K<\/i> an Hyperhidrose leiden würde, wie würde seine neue Single dann am ehesten heißen?"
+                }
+            ]
+        },
+        {
+            "id": "10159",
+            "category": {
+                "text": "Zahl, bitte!"
+            },
+            "choices": [
+                {
+                    "text": "Eine Bazillion",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Gazillion",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Vigintillion",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine Fantastillion",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Denken Sie sich eine Zahl aus."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Irgendeine reelle Zahl."
+                }
+            ]
         }
     ]
 }
