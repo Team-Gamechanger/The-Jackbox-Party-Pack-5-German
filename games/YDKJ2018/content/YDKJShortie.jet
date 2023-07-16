@@ -428,7 +428,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": true,
+            "oneResponse": false,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -676,7 +676,7 @@
             },
             "choices": [
                 {
-                    "text": "...es wird sich langweilgen und wegschwimmen.",
+                    "text": "...es wird sich langweilen und wegschwimmen.",
                     "isCorrect": false
                 },
                 {
