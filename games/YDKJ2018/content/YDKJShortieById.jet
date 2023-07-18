@@ -1776,19 +1776,19 @@
             },
             "choices": [
                 {
-                    "text": "eine Grassteppe in Südamerika",
+                    "text": "Eine Grassteppe in Südamerika",
                     "isCorrect": true
                 },
                 {
-                    "text": "ein Moor in Schleswig-Holstein",
+                    "text": "Ein Moor in Schleswig-Holstein",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein Dschungel in China",
+                    "text": "Ein Dschungel in China",
                     "isCorrect": false
                 },
                 {
-                    "text": "eine Savanne in der Toskana",
+                    "text": "Eine Savanne in der Toskana",
                     "isCorrect": false
                 }
             ],
@@ -1868,7 +1868,7 @@
         {
             "id": "10783",
             "category": {
-                "text": "Abgekartete Falten & Abgefaltete Karten"
+                "text": "Abgekartete Falten & abgefaltete Karten"
             },
             "choices": [
                 {
@@ -1893,7 +1893,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Hakan der Türsteher sich ähnlich verhalten würde, wie eine Diode in einem elektrischen Schaltkreis, was würde er dann am wahrscheinlichsten sagen?"
+                    "text": "Wenn Hakan der Türsteher sich ähnlich verhalten würde wie eine Diode in einem elektrischen Schaltkreis, was würde er dann am wahrscheinlichsten sagen?"
                 }
             ]
         },
@@ -1925,7 +1925,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn meine Zahnwurzeln so tief schlagen, wie die Wurzeln einer ausgewachsenen Eiche, wie tief wird mein Zahnarzt dann in mein Zahnfleisch bohren müssen?"
+                    "text": "Wenn meine Zahnwurzeln so tief schlagen, wie die Wurzeln einer ausgewachsenen Eiche, wie tief wird mein Zahnarzt dann in meinem Zahnfleisch bohren müssen?"
                 }
             ]
         },
@@ -2017,7 +2017,7 @@
             },
             "choices": [
                 {
-                    "text": "Frankfurt a.M.",
+                    "text": "Frankfurt am Main",
                     "isCorrect": true
                 },
                 {
@@ -2082,7 +2082,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn das \u201cL\u201d im Google-Logo aus Süßigkeiten gemacht wäre, welchen Geschmack hätte es vermutlich, wenn man seine Farbe bedenkt?"
+                    "text": "Wenn das \u201cL\u201d im <i>Google<\/i>-Logo aus Süßigkeiten gemacht wäre, welchen Geschmack hätte es vermutlich, wenn man seine Farbe bedenkt?"
                 }
             ]
         },
@@ -2253,15 +2253,15 @@
             },
             "choices": [
                 {
-                    "text": "etwa 44 Mal",
+                    "text": "Etwa 44 Mal",
                     "isCorrect": false
                 },
                 {
-                    "text": "etwa 34 Mal",
+                    "text": "Etwa 34 Mal",
                     "isCorrect": true
                 },
                 {
-                    "text": "etwa 24 Mal",
+                    "text": "Etwa 24 Mal",
                     "isCorrect": false
                 },
                 {
@@ -2274,7 +2274,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wie oft war \u201cLudwig\u201d auf dem Bildschirm zu sehen während dieser \u201cIch hab keine Ahnung, wie man französische Namen ausspricht\u201d-Frage?"
+                    "text": "Wie oft war \u201cLudwig\u201d auf dem Bildschirm zu sehen, während dieser \u201cIch hab keine Ahnung, wie man französische Namen ausspricht\u201d-Frage?"
                 }
             ]
         },
@@ -2307,7 +2307,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wer sagte, \u201cWiederholung ist die Mutter der Studien\u201d?"
+                    "text": "Wer sagte \u201cWiederholung ist die Mutter der Studien\u201d?"
                 }
             ]
         },

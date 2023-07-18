@@ -28,7 +28,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, die Nationen der Erde könnten den <i>Star Wars<\/i>-Bösewicht Kylo Ren dazu überzeugen, den echten \u201cWeltraumvertrag\u201d zu unterzeichnen, welche dieser Schandtaten dürfte er dann trotzdem noch begehen?"
+                    "text": "Angenommen, die Nationen der Erde könnten den <i>Star Wars<\/i>-Bösewicht Kylo Ren dazu überzeugen, den echten \u201cWeltraumvertrag\u201d zu unterzeichnen. Welche dieser Schandtaten dürfte er dann trotzdem noch begehen?"
                 }
             ]
         },
@@ -103,7 +103,7 @@
         {
             "id": "10003",
             "category": {
-                "text": "Belgischer Königsklatsch & Total Tolle Tasten"
+                "text": "Belgischer Königsklatsch & total tolle Tasten"
             },
             "choices": [
                 {
@@ -167,7 +167,7 @@
         {
             "id": "10005",
             "category": {
-                "text": "Schnurstracks Stromaufwärts"
+                "text": "Schnurstracks stromaufwärts"
             },
             "choices": [
                 {
@@ -239,7 +239,7 @@
         {
             "id": "10007",
             "category": {
-                "text": "Grundschulpienzeleien & Die geballte Macht der Welt"
+                "text": "Grundschulpienzeleien & die geballte Macht der Welt"
             },
             "choices": [
                 {
@@ -303,7 +303,7 @@
         {
             "id": "10009",
             "category": {
-                "text": "Gute Seiten, Schlechte Seiten"
+                "text": "Gute Seiten, schlechte Seiten"
             },
             "choices": [
                 {
@@ -407,7 +407,7 @@
         {
             "id": "10012",
             "category": {
-                "text": "Lautere Wissenschaft & Noch lautere Blähungen"
+                "text": "Lautere Wissenschaft & noch lautere Blähungen"
             },
             "choices": [
                 {
@@ -475,11 +475,12 @@
             },
             "choices": [
                 {
-                    "text": "Die AIDAS-Formel",
+                    "text": "Die AIDA-Formel",
                     "isCorrect": false
                 },
                 {
-                    "text": "Das Ad Hominem-Argument",
+                    "best": true,
+                    "text": "Das Ad-Hominem-Argument",
                     "isCorrect": false
                 },
                 {
@@ -1609,7 +1610,7 @@
         {
             "id": "10047",
             "category": {
-                "text": "Emoji Dating"
+                "text": "Emoji-Dating"
             },
             "choices": [
                 {
@@ -1645,7 +1646,7 @@
         {
             "id": "10048",
             "category": {
-                "text": "Eine Oliver Welke-Frage"
+                "text": "Eine Oliver-Welke-Frage"
             },
             "choices": [
                 {
@@ -1901,7 +1902,7 @@
         {
             "id": "10056",
             "category": {
-                "text": "So \u201cSmart\u201d ist mein Zuhause jetzt auch nicht"
+                "text": "So \u201csmart\u201d ist mein Zuhause jetzt auch nicht"
             },
             "choices": [
                 {
@@ -2129,19 +2130,19 @@
             },
             "choices": [
                 {
-                    "text": "ein Bild von mir, wie ich Ihnen mit meinem zusätzlichen Finger den Mittelfinger zeige",
+                    "text": "Ein Bild von mir, wie ich Ihnen mit meinem zusätzlichen Finger den Mittelfinger zeige",
                     "isCorrect": true
                 },
                 {
-                    "text": "eine Audioaufnahme, in der ich Ihnen in 5 Sprachen sage, dass Sie sich verpissen sollen",
+                    "text": "Eine Audioaufnahme, in der ich Ihnen in 5 Sprachen sage, dass Sie sich verpissen sollen",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein GIF von mir, wie ich meine verschiedenen Partner küsse",
+                    "text": "Ein GIF von mir, wie ich meine verschiedenen Partner küsse",
                     "isCorrect": false
                 },
                 {
-                    "text": "eine Liste aller Götter, an die ich glaube und die sagen, dass Sie dem Untergang geweiht sind",
+                    "text": "Eine Liste aller Götter, an die ich glaube und die sagen, dass Sie dem Untergang geweiht sind",
                     "isCorrect": false
                 }
             ],
@@ -2261,7 +2262,7 @@
         {
             "id": "10067",
             "category": {
-                "text": "Fridays For Italien"
+                "text": "Fridays for Italien"
             },
             "choices": [
                 {
@@ -2593,7 +2594,7 @@
         {
             "id": "10077",
             "category": {
-                "text": "Schlagersänger & Die Liebe zum Meer"
+                "text": "Schlagersänger & die Liebe zum Meer"
             },
             "choices": [
                 {
@@ -2625,7 +2626,7 @@
         {
             "id": "10078",
             "category": {
-                "text": "Ein Thron um sie zu knechten"
+                "text": "Ein Thron, um sie zu knechten"
             },
             "choices": [
                 {
@@ -2906,7 +2907,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen Sie planen einen Männerabend mit nur einem Ziel: Den ganzen Tag nur SAUFEN."
+                    "text": "Angenommen, Sie planen einen Männerabend mit nur einem Ziel: Den ganzen Tag nur SAUFEN."
                 },
                 {
                     "timing": "S + 5.39",
@@ -2917,7 +2918,7 @@
         {
             "id": "10087",
             "category": {
-                "text": "Absurde Phobien & Richtig gruselige Fragen"
+                "text": "Absurde Phobien & richtig gruselige Fragen"
             },
             "choices": [
                 {
@@ -2985,19 +2986,19 @@
             },
             "choices": [
                 {
-                    "text": "LEGO Frankenstein",
+                    "text": "<i>LEGO<\/i> Frankenstein",
                     "isCorrect": false
                 },
                 {
-                    "text": "LEGO Captain Ahab",
+                    "text": "<i>LEGO<\/i> Captain Ahab",
                     "isCorrect": false
                 },
                 {
-                    "text": "LEGO Hamlet",
+                    "text": "<i>LEGO<\/i> Hamlet",
                     "isCorrect": true
                 },
                 {
-                    "text": "LEGO Gregor Samsa",
+                    "text": "<i>LEGO<\/i> Gregor Samsa",
                     "isCorrect": false
                 }
             ],
@@ -3573,7 +3574,7 @@
         {
             "id": "10107",
             "category": {
-                "text": "Unoriginelle Freunde & Noch weniger originelle Filmideen"
+                "text": "Unoriginelle Freunde & noch weniger originelle Filmideen"
             },
             "choices": [
                 {
@@ -3642,7 +3643,7 @@
         {
             "id": "10109",
             "category": {
-                "text": "Spülen bis der Arzt kommt"
+                "text": "Spülen, bis der Arzt kommt"
             },
             "choices": [
                 {
@@ -3934,7 +3935,7 @@
         {
             "id": "10118",
             "category": {
-                "text": "Kleine Babys & Große Kunstepochen"
+                "text": "Kleine Babys & große Kunstepochen"
             },
             "choices": [
                 {
@@ -4974,7 +4975,7 @@
         {
             "id": "10150",
             "category": {
-                "text": "How much is the Fish?"
+                "text": "How Much Is The Fish?"
             },
             "choices": [
                 {

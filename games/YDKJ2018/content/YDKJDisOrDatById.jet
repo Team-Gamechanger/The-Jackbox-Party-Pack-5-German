@@ -32,11 +32,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein beliebter Podcast in den Apple Podcast-Charts",
+                "longText": "Ein beliebter Podcast in den Apple Podcast-Charts",
                 "shortText": "EIN PODCAST"
             },
             "datChoice": {
-                "longText": "ein Inkontinenzprodukt für Erwachsene",
+                "longText": "Ein Inkontinenzprodukt für Erwachsene",
                 "shortText": "EINE KACKE-LÖSUNG"
             },
             "id": "11080",
@@ -76,11 +76,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein ZDF-Fernsehfilm",
+                "longText": "Ein ZDF-Fernsehfilm",
                 "shortText": "ZDF"
             },
             "datChoice": {
-                "longText": "ein Bühnenprogramm von Kaya Yanar",
+                "longText": "Ein Bühnenprogramm von Kaya Yanar",
                 "shortText": "KAYA YANAR"
             },
             "id": "11081",
