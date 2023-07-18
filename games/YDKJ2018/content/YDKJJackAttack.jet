@@ -16,7 +16,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Wut (Alles steht Kopf)",
+							"text": "Wut (<i>Alles steht Kopf</i>)",
 							"isCorrect": true
 						},
 						{
@@ -455,7 +455,7 @@
 					"title": "Jede Sekunde (mehr oder weniger)",
 					"choices": [
 						{
-							"text": "60.000 “Gefällt mir”-Klicks auf Facebook",
+							"text": "60.000 “Gefällt mir”-Klicks auf <i>Facebook</i>",
 							"isCorrect": true
 						},
 						{
@@ -934,7 +934,7 @@
 					]
 				},
 				{
-					"title": "GEMA",
+					"title": "<i>GEMA</i>",
 					"choices": [
 						{
 							"text": "Elektronische",
@@ -1175,27 +1175,27 @@
 					"title": "Lieder von <i>Linkin Park</i>",
 					"choices": [
 						{
-							"text": "Numb",
+							"text": "“Numb“",
 							"isCorrect": true
 						},
 						{
-							"text": "Castle of Sand",
+							"text": "“Castle of Sand“",
 							"isCorrect": false
 						},
 						{
-							"text": "Final Masquerade",
+							"text": "“Final Masquerade“",
 							"isCorrect": true
 						},
 						{
-							"text": "Found in the Echo",
+							"text": "“Found in the Echo“",
 							"isCorrect": false
 						},
 						{
-							"text": "Burn It Down",
+							"text": "“Burn It Down“",
 							"isCorrect": true
 						},
 						{
-							"text": "One More Light",
+							"text": "“One More Light“",
 							"isCorrect": true
 						}
 					]
@@ -1268,27 +1268,27 @@
 					"title": "Oscar für \"Bester Film\"",
 					"choices": [
 						{
-							"text": "Toy Story 3",
+							"text": "<i>Toy Story 3</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Gravity",
+							"text": "<i>Gravity</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Gladiator",
+							"text": "<i>Gladiator</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Rain Man",
+							"text": "<i>Rain Man</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Inception",
+							"text": "<i>Inception</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Schindlers Liste",
+							"text": "<i>Schindlers Liste</i>",
 							"isCorrect": true
 						}
 					]
@@ -1297,27 +1297,27 @@
 					"title": "Game Award für \"Spiel des Jahres\"",
 					"choices": [
 						{
-							"text": "Sekiro: Shadows Die Twice",
+							"text": "<i>Sekiro: Shadows Die Twice</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "The Witcher 3: Wild Hunt",
+							"text": "<i>The Witcher 3: Wild Hunt</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "The Jackbox Party Pack 5",
+							"text": "<i>The Jackbox Party Pack 5</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "It Takes Two",
+							"text": "<i>It Takes Two</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Dragon Age: Inquisition",
+							"text": "<i>Dragon Age: Inquisition</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Red Dead Redemption 2",
+							"text": "<i>Red Dead Redemption 2</i>",
 							"isCorrect": false
 						}
 					]
@@ -1764,7 +1764,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Christian Solmecke eröffnet seinen YouTube-Kanal",
+							"text": "Christian Solmecke eröffnet seinen <i>YouTube</i>-Kanal",
 							"isCorrect": false
 						}
 					]
@@ -1837,27 +1837,27 @@
 					"title": "Die Trauerphasen (nach V. Kast)",
 					"choices": [
 						{
-							"text": "<i>Neuerfindungs</i>-Phase",
+							"text": "“Neuerfindungs“-Phase",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Suchen und Sich-Trennen</i>-Phase",
+							"text": "“Suchen und Sich-Trennen“-Phase",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Aufbrechende Emotionen</i>-Phase",
+							"text": "“Aufbrechende Emotionen“-Phase",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Träumer</i>-Phase",
+							"text": "“Träumer“-Phase",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Nicht-Wahrhaben-Wollen</i>-Phase",
+							"text": "“Nicht-Wahrhaben-Wollen“-Phase",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Verweigerungs</i>-Phase",
+							"text": "“Verweigerungs“-Phase",
 							"isCorrect": false
 						}
 					]
@@ -2133,27 +2133,27 @@
 					"title": "Polarkreis 18",
 					"choices": [
 						{
-							"text": "<i>Allein Allein</i>",
+							"text": "“Allein Allein“",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Spinner</i>",
+							"text": "“Spinner“",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>The Colour Of Snow</i>",
+							"text": "“The Colour Of Snow“",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Prisoner</i>",
+							"text": "“Prisoner“",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Tourist</i>",
+							"text": "“Tourist“",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Lass uns gehen</i>",
+							"text": "“Lass uns gehen“",
 							"isCorrect": false
 						}
 					]
@@ -3457,27 +3457,27 @@
 					"title": "Joko & Klaas",
 					"choices": [
 						{
-							"text": "Wer stiehlt mir die Show?",
+							"text": "<i>Wer stiehlt mir die Show?</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Das Duell um die Welt",
+							"text": "<i>Das Duell um die Welt</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "17 Meter",
+							"text": "<i>17 Meter</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Late Night Berlin",
+							"text": "<i>Late Night Berlin</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "LOL: Last One Laughing",
+							"text": "<i>LOL: Last One Laughing</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Circus HalliGalli",
+							"text": "<i>Circus HalliGalli</i>",
 							"isCorrect": true
 						}
 					]
@@ -3605,7 +3605,7 @@
 			"title": "Hier könnte Ihre Werbung stehen",
 			"prompts": [
 				{
-					"title": "McDonald’s",
+					"title": "<i>McDonald’s</i>",
 					"choices": [
 						{
 							"text": "“Gut, daß es McDonald’s gibt.”",
@@ -3634,7 +3634,7 @@
 					]
 				},
 				{
-					"title": "Saturn",
+					"title": "<i>Saturn</i>",
 					"choices": [
 						{
 							"text": "“Ich bin doch nicht blöd!”",
@@ -3663,7 +3663,7 @@
 					]
 				},
 				{
-					"title": "IKEA",
+					"title": "<i>IKEA</i>",
 					"choices": [
 						{
 							"text": "“Wohnst du noch oder lebst du schon?”",
@@ -3692,7 +3692,7 @@
 					]
 				},
 				{
-					"title": "McDonald’s (Österreich)",
+					"title": "<i>McDonald’s</i> (Österreich)",
 					"choices": [
 						{
 							"text": "“Ich liebe es.”",
@@ -3721,7 +3721,7 @@
 					]
 				},
 				{
-					"title": "Red Bull",
+					"title": "<i>Red Bull</i>",
 					"choices": [
 						{
 							"text": "“Red Bullet verleiht Flüüügel.”",
@@ -3750,7 +3750,7 @@
 					]
 				},
 				{
-					"title": "Ritter Sport",
+					"title": "<i>Ritter Sport</i>",
 					"choices": [
 						{
 							"text": "“Der große Genuß mit Naturenergie.”",
@@ -3785,7 +3785,7 @@
 			"title": "Iss das NICHT",
 			"prompts": [
 				{
-					"title": "Wenn du dich <i>glutenfrei</i> ernähren willst",
+					"title": "Wenn du dich glutenfrei ernähren willst",
 					"choices": [
 						{
 							"text": "Reis",
@@ -3814,7 +3814,7 @@
 					]
 				},
 				{
-					"title": "Wenn du eine <i>Paleo-Diät</i> machst",
+					"title": "Wenn du eine Paleo-Diät machst",
 					"choices": [
 						{
 							"text": "Eier",
@@ -3843,7 +3843,7 @@
 					]
 				},
 				{
-					"title": "Wenn du <i>koscher</i> leben willst",
+					"title": "Wenn du koscher leben willst",
 					"choices": [
 						{
 							"text": "Garnelen",
@@ -3872,7 +3872,7 @@
 					]
 				},
 				{
-					"title": "Wenn du <i>Pescetarier</i> bist",
+					"title": "Wenn du Pescetarier bist",
 					"choices": [
 						{
 							"text": "Zanderfilet",
@@ -3901,7 +3901,7 @@
 					]
 				},
 				{
-					"title": "Wenn du es hasst, <i>vergiftet</i> zu werden",
+					"title": "Wenn du es hasst, vergiftet zu werden",
 					"choices": [
 						{
 							"text": "Kugelfisch",
@@ -3930,7 +3930,7 @@
 					]
 				},
 				{
-					"title": "Wenn du ein <i>Hund</i> bist",
+					"title": "Wenn du ein Hund bist",
 					"choices": [
 						{
 							"text": "Zwiebeln",
@@ -3994,7 +3994,7 @@
 					]
 				},
 				{
-					"title": "Sprachen mit Kyrillischem Alphabet",
+					"title": "Sprachen mit kyrillischem Alphabet",
 					"choices": [
 						{
 							"text": "Hindi",
@@ -4473,11 +4473,11 @@
 					"title": "Ein Whopper",
 					"choices": [
 						{
-							"text": "eine Viertelpfund Rinderhackbulette",
+							"text": "Eine Viertelpfund Rinderhackbulette",
 							"isCorrect": true
 						},
 						{
-							"text": "saure Gurken",
+							"text": "Saure Gurken",
 							"isCorrect": true
 						},
 						{
@@ -4489,7 +4489,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "geheime Whopper-Burgersauce",
+							"text": "Geheime Whopper-Burgersauce",
 							"isCorrect": false
 						},
 						{
@@ -4592,30 +4592,30 @@
 					]
 				},
 				{
-					"title": "Enthält ein Lied der <i>Neuen Deutschen Welle</i>",
+					"title": "Enthält ein Lied der “Neuen Deutschen Welle“",
 					"choices": [
 						{
-							"text": "Major Tom",
+							"text": "“Major Tom“",
 							"isCorrect": true
 						},
 						{
-							"text": "Bruttosozialprodukt",
+							"text": "“Bruttosozialprodukt“",
 							"isCorrect": true
 						},
 						{
-							"text": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+							"text": "“Ohne Dich (schlaf' ich heut Nacht nicht ein)“",
 							"isCorrect": true
 						},
 						{
-							"text": "Sternenhimmel",
+							"text": "“Sternenhimmel“",
 							"isCorrect": true
 						},
 						{
-							"text": "Eisbär",
+							"text": "“Eisbär“",
 							"isCorrect": true
 						},
 						{
-							"text": "Mensch",
+							"text": "“Mensch“",
 							"isCorrect": false
 						}
 					]
@@ -4868,27 +4868,27 @@
 					"title": "1",
 					"choices": [
 						{
-							"text": "_____,5 Ritter",
+							"text": "<i>_____ 1/2 Ritter</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Am _____. Tag",
+							"text": "<i>Am _____. Tag</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Freitag der _____.",
+							"text": "<i>Freitag der _____.</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Staatsfeind Nr. _____",
+							"text": "<i>Staatsfeind Nr. _____</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "2_____",
+							"text": "<i>2_____</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "The Witcher _____: Wild Hunt",
+							"text": "<i>The Witcher _____: Wild Hunt</i>",
 							"isCorrect": false
 						}
 					]
@@ -4897,27 +4897,27 @@
 					"title": "2",
 					"choices": [
 						{
-							"text": "_____ - Nichts ist so wie es scheint",
+							"text": "<i>_____ - Nichts ist so wie es scheint</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Der Herr der Ringe: Die _____ Türme",
+							"text": "<i>Der Herr der Ringe: Die _____ Türme</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Die nackte Kanone _____1/2",
+							"text": "<i>Die nackte Kanone _____1/2</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Die _____ Gebote",
+							"text": "<i>Die _____ Gebote</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "H_____O - Plötzlich Meerjungfrau",
+							"text": "<i>H_____O - Plötzlich Meerjungfrau</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "_____ Minuten Ruhm",
+							"text": "<i>_____ Minuten Ruhm</i>",
 							"isCorrect": false
 						}
 					]
@@ -4926,27 +4926,27 @@
 					"title": "4",
 					"choices": [
 						{
-							"text": "1 Mord für _____",
+							"text": "<i>1 Mord für _____</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "_____ Fäuste für ein Halleluja",
+							"text": "<i>_____ Fäuste für ein Halleluja</i>",
 							"isCorrect": true
 						},
 						{
-							"text": " _____ Blocks",
+							"text": "<i> _____ Blocks</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Die _____ Musketiere - Die Rache der Mylady",
+							"text": "<i>Die _____ Musketiere - Die Rache der Mylady</i>",
 							"isCorrect": true
 						},
 						{
-							"text": " _____7 Ronin",
+							"text": "<i> _____7 Ronin</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "(T)Raumschiff Surprise - Periode _____",
+							"text": "<i>(T)Raumschiff Surprise - Periode _____</i>",
 							"isCorrect": false
 						}
 					]
@@ -5254,7 +5254,7 @@
 					]
 				},
 				{
-					"title": "Monopoly-Straßen",
+					"title": "<i>Monopoly</i>-Straßen",
 					"choices": [
 						{
 							"text": "Südbahnhof",
@@ -5341,7 +5341,7 @@
 					]
 				},
 				{
-					"title": "Formel 1-Strecken",
+					"title": "Formel-1-Strecken",
 					"choices": [
 						{
 							"text": "Pinehills-Rennbahn",
@@ -5424,11 +5424,11 @@
 							"isCorrect": false
 						},
 						{
-							"text": "ein Schlag in die Leistengegend",
+							"text": "Einen Schlag in die Leistengegend",
 							"isCorrect": true
 						},
 						{
-							"text": "über zwei Stunden Laufzeit",
+							"text": "Über zwei Stunden Laufzeit",
 							"isCorrect": false
 						}
 					]
@@ -5482,11 +5482,11 @@
 							"isCorrect": false
 						},
 						{
-							"text": "ein Clown",
+							"text": "Einen Clown",
 							"isCorrect": false
 						},
 						{
-							"text": "ein Hund wird verletzt",
+							"text": "Einen verletzten Hund",
 							"isCorrect": true
 						}
 					]
@@ -5495,7 +5495,7 @@
 					"title": "<i>Es</i> (2017)",
 					"choices": [
 						{
-							"text": "ein Clown",
+							"text": "Einen Clown",
 							"isCorrect": true
 						},
 						{
@@ -5515,7 +5515,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "über zwei Stunden Laufzeit",
+							"text": "Über zwei Stunden Laufzeit",
 							"isCorrect": true
 						}
 					]
@@ -5540,7 +5540,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "die Matrix",
+							"text": "Die Matrix",
 							"isCorrect": false
 						},
 						{
@@ -5600,7 +5600,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "vier",
+							"text": "Vier",
 							"isCorrect": true
 						},
 						{
@@ -5625,7 +5625,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "daddeln",
+							"text": "Daddeln",
 							"isCorrect": true
 						},
 						{
@@ -5658,11 +5658,11 @@
 							"isCorrect": true
 						},
 						{
-							"text": "gerade Zahl von Buchstaben",
+							"text": "Gerade Zahl von Buchstaben",
 							"isCorrect": false
 						},
 						{
-							"text": "ungerade Anzahl von Buchstaben",
+							"text": "Ungerade Anzahl von Buchstaben",
 							"isCorrect": false
 						},
 						{
@@ -5672,7 +5672,7 @@
 					]
 				},
 				{
-					"title": "Drei E’s",
+					"title": "Drei E",
 					"choices": [
 						{
 							"text": "Seeigel",
@@ -5683,7 +5683,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Drei E’s",
+							"text": "Drei E",
 							"isCorrect": false
 						},
 						{
@@ -5730,7 +5730,7 @@
 					]
 				},
 				{
-					"title": "eine ungerade Anzahl von Konsonanten",
+					"title": "Eine ungerade Anzahl von Konsonanten",
 					"choices": [
 						{
 							"text": "Buchstaben",
@@ -5910,7 +5910,7 @@
 					]
 				},
 				{
-					"title": "Team von Bob der Baumeister",
+					"title": "Team von “Bob der Baumeister“",
 					"choices": [
 						{
 							"text": "Wendy",
@@ -5948,7 +5948,7 @@
 					"title": "Präsens",
 					"choices": [
 						{
-							"text": "spielen",
+							"text": "Spielen",
 							"isCorrect": true
 						},
 						{
@@ -5956,7 +5956,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "spitze",
+							"text": "Spitze",
 							"isCorrect": false
 						},
 						{
@@ -5977,7 +5977,7 @@
 					"title": "Präteritum",
 					"choices": [
 						{
-							"text": "spitze",
+							"text": "Spitze",
 							"isCorrect": false
 						},
 						{
@@ -5993,7 +5993,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "stoppen",
+							"text": "Stoppen",
 							"isCorrect": false
 						},
 						{
@@ -6018,7 +6018,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "spitze",
+							"text": "Spitze",
 							"isCorrect": false
 						},
 						{
@@ -6305,7 +6305,7 @@
 			"title": "Die Form des Einzelnen",
 			"prompts": [
 				{
-					"title": "Haribo Tropifrutti",
+					"title": "<i>Haribo Tropifrutti</i>",
 					"choices": [
 						{
 							"text": "Ananas",
@@ -6334,7 +6334,7 @@
 					]
 				},
 				{
-					"title": "Monopoly-Spielfiguren",
+					"title": "<i>Monopoly</i>-Spielfiguren",
 					"choices": [
 						{
 							"text": "Fingerhut",
@@ -6366,7 +6366,7 @@
 					"title": "Trapeze",
 					"choices": [
 						{
-							"text": "geradschenklig",
+							"text": "Geradschenklig",
 							"isCorrect": false
 						},
 						{
@@ -6386,7 +6386,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "gleichschenklig",
+							"text": "Gleichschenklig",
 							"isCorrect": true
 						}
 					]
@@ -6649,7 +6649,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Statue der Freiheit",
+							"text": "Freiheitsstatue",
 							"isCorrect": true
 						},
 						{
@@ -6848,27 +6848,27 @@
 					"title": "Hasen",
 					"choices": [
 						{
-							"text": "Nesquik",
+							"text": "<i>Nesquik</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Vaillant",
+							"text": "<i>Vaillant</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Zalando",
+							"text": "<i>Zalando</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "myToys.de",
+							"text": "<i>MyToys.de</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Duracell",
+							"text": "<i>Duracell</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Playboy",
+							"text": "<i>Playboy</i>",
 							"isCorrect": true
 						}
 					]
@@ -6877,27 +6877,27 @@
 					"title": "Vögel",
 					"choices": [
 						{
-							"text": "Hollister",
+							"text": "<i>Hollister</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Twitch",
+							"text": "<i>Twitch</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Reddit",
+							"text": "<i>Reddit</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Froot Loops",
+							"text": "<i>Froot Loops</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Swift",
+							"text": "<i>Swift</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Playboy",
+							"text": "<i>Playboy</i>",
 							"isCorrect": false
 						}
 					]
@@ -6906,27 +6906,27 @@
 					"title": "Männer mit Schnurrbart",
 					"choices": [
 						{
-							"text": "MAN",
+							"text": "<i>MAN</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Pringles",
+							"text": "<i>Pringles</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Jackbox Games",
+							"text": "<i>Jackbox Games</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "KFC",
+							"text": "<i>KFC</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Starbucks",
+							"text": "<i>Starbucks</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Monopoly",
+							"text": "<i>Monopoly</i>",
 							"isCorrect": true
 						}
 					]
@@ -6935,27 +6935,27 @@
 					"title": "Mit Hüten",
 					"choices": [
 						{
-							"text": "Nougat Bits",
+							"text": "<i>Nougat Bits</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Pizza Hut",
+							"text": "<i>Pizza Hut</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Chefkoch",
+							"text": "<i>Chefkoch</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Nesquik",
+							"text": "<i>Nesquik</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Starbucks",
+							"text": "<i>Starbucks</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Chiquita",
+							"text": "<i>Chiquita</i>",
 							"isCorrect": true
 						}
 					]
@@ -6964,27 +6964,27 @@
 					"title": "Mit Brille",
 					"choices": [
 						{
-							"text": "Mister Spex",
+							"text": "<i>Mister Spex</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Fielmann",
+							"text": "<i>Fielmann</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "KFC",
+							"text": "<i>KFC</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Starbucks",
+							"text": "<i>Starbucks</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Chefkoch",
+							"text": "<i>Chefkoch</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Zalando",
+							"text": "<i>Zalando</i>",
 							"isCorrect": false
 						}
 					]
@@ -6993,27 +6993,27 @@
 					"title": "Ohne Hosen",
 					"choices": [
 						{
-							"text": "Pixar",
+							"text": "<i>Pixar</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "WWF",
+							"text": "<i>WWF</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Duracell",
+							"text": "<i>Duracell</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Kellogg’s Cornflakes",
+							"text": "<i>Kellogg’s Cornflakes</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Froot Loops",
+							"text": "<i>Froot Loops</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Nesquik",
+							"text": "<i>Nesquik</i>",
 							"isCorrect": false
 						}
 					]
@@ -7025,7 +7025,7 @@
 			"title": "Chronik der Musik",
 			"prompts": [
 				{
-					"title": "2000er Jahre",
+					"title": "2000er-Jahre",
 					"choices": [
 						{
 							"text": "<i>Pompeii</i> von Bastille",
@@ -7054,7 +7054,7 @@
 					]
 				},
 				{
-					"title": "1990er Jahre",
+					"title": "1990er-Jahre",
 					"choices": [
 						{
 							"text": "<i>Zombie</i> von Bad Wolves",
@@ -7083,7 +7083,7 @@
 					]
 				},
 				{
-					"title": "1980er Jahre",
+					"title": "1980er-Jahre",
 					"choices": [
 						{
 							"text": "<i>Take On Me</i> von A-ha",
@@ -7112,7 +7112,7 @@
 					]
 				},
 				{
-					"title": "1940er Jahre",
+					"title": "1940er-Jahre",
 					"choices": [
 						{
 							"text": "<i>Paper Doll</i> von The Mills Brothers",
@@ -7208,7 +7208,7 @@
 					"title": "Begriffe aus der Küche",
 					"choices": [
 						{
-							"text": "al dente",
+							"text": "Al dente",
 							"isCorrect": true
 						},
 						{
@@ -7652,7 +7652,7 @@
 					]
 				},
 				{
-					"title": "wenn man sich gerade in die Hose gekackt hat",
+					"title": "Wenn man sich gerade in die Hose gekackt hat",
 					"choices": [
 						{
 							"text": "“Eres mi abuela?”",
@@ -8012,7 +8012,7 @@
 					]
 				},
 				{
-					"title": "Themenbereiche im Disneyland Paris",
+					"title": "Themenbereiche im <i>Disneyland Paris</i>",
 					"choices": [
 						{
 							"text": "Frontier",
@@ -8494,7 +8494,7 @@
 					]
 				},
 				{
-					"title": "DHL-Portostufen",
+					"title": "<i>DHL</i>-Portostufen",
 					"choices": [
 						{
 							"text": "2 kg - Päckchen XL",
@@ -8526,27 +8526,27 @@
 					"title": "Lebensmittelhändler mit eigenem Lieferdienst",
 					"choices": [
 						{
-							"text": "REWE",
+							"text": "<i>REWE</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "dm",
+							"text": "<i>dm</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Kaiser’s Tengelmann",
+							"text": "<i>Kaiser’s Tengelmann</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Netto",
+							"text": "<i>Netto</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Edeka",
+							"text": "<i>Edeka</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Rossmann",
+							"text": "<i>Rossmann</i>",
 							"isCorrect": false
 						}
 					]
@@ -8584,33 +8584,33 @@
 					"title": "Spiel eines <i>Jackbox Party Packs</i> mit gerader Nummer",
 					"choices": [
 						{
-							"text": "“Weapons Drawn”",
+							"text": "<i>Weapons Drawn</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "“You Don’t Know Jack: Full Stream”",
+							"text": "<i>You Don’t Know Jack: Full Stream</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "“Survive the Internet”",
+							"text": "<i>Survive the Internet</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "“Role Models”",
+							"text": "<i>Role Models</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "“Monster Seeking Monster”",
+							"text": "<i>Monster Seeking Monster</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "“Nonsensory”",
+							"text": "<i>Nonsensory</i>",
 							"isCorrect": false
 						}
 					]
 				},
 				{
-					"title": "Paketgrößen bei Amazon",
+					"title": "Paketgrößen bei <i>Amazon</i>",
 					"choices": [
 						{
 							"text": "A1",
@@ -8703,7 +8703,7 @@
 					]
 				},
 				{
-					"title": "Mehr als Monaco Einwohner hat",
+					"title": "Mehr Einwohner als Monaco",
 					"choices": [
 						{
 							"text": "Wuppertal",
@@ -8732,7 +8732,7 @@
 					]
 				},
 				{
-					"title": "Weniger als der Umsatz von Apple im Q2 2023",
+					"title": "Weniger als der Umsatz von <i>Apple</i> im Q2 2023",
 					"choices": [
 						{
 							"text": "Zellen in einem menschlichen Körper",
@@ -8743,11 +8743,11 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Suchergebnisse bei Google zu “iPhone”",
+							"text": "Suchergebnisse bei <i>Google</i> zu “iPhone”",
 							"isCorrect": true
 						},
 						{
-							"text": "Verkaufszahlen von Tetris bis 2023",
+							"text": "Verkaufszahlen von <i>Tetris</i> bis 2023",
 							"isCorrect": true
 						},
 						{
@@ -8813,7 +8813,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Xbox Series X",
+							"text": "<i>Xbox Series X</i>",
 							"isCorrect": true
 						}
 					]
@@ -9008,11 +9008,11 @@
 					"title": "Fräulein",
 					"choices": [
 						{
-							"text": "_____ im Nebel",
+							"text": "<i>_____ im Nebel</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Gold: Schatten und Lichten",
+							"text": "<i>Gold: Schatten und Lichten</i>",
 							"isCorrect": true
 						},
 						{
@@ -9024,11 +9024,11 @@
 							"isCorrect": true
 						},
 						{
-							"text": "_____ ohne Gewissen",
+							"text": "<i>_____ ohne Gewissen</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Smillas Gespür für Schnee",
+							"text": "<i>Smillas Gespür für Schnee</i>",
 							"isCorrect": true
 						}
 					]
@@ -9045,7 +9045,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Die _____ in Schwarz",
+							"text": "<i>Die _____ in Schwarz</i>",
 							"isCorrect": true
 						},
 						{
@@ -9066,7 +9066,7 @@
 					"title": "Herr",
 					"choices": [
 						{
-							"text": "der Ringe",
+							"text": "<i>Der _____ der Ringe</i>",
 							"isCorrect": true
 						},
 						{
@@ -9074,7 +9074,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "der Elemente",
+							"text": "<i>Der _____ der Elemente</i>",
 							"isCorrect": true
 						},
 						{
@@ -9082,7 +9082,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "der Fliegen",
+							"text": "<i>_____ der Fliegen</i>",
 							"isCorrect": true
 						},
 						{
@@ -9380,7 +9380,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "der Tafelrunde",
+							"text": "_____ der Tafelrunde",
 							"isCorrect": true
 						},
 						{
@@ -9413,7 +9413,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "...inkartoffeln",
+							"text": "_____inkartoffeln",
 							"isCorrect": true
 						},
 						{
@@ -9459,7 +9459,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "...ikkarte",
+							"text": "_____ikkarte",
 							"isCorrect": true
 						},
 						{
@@ -9467,11 +9467,11 @@
 							"isCorrect": true
 						},
 						{
-							"text": "...ometrie",
+							"text": "_____ometrie",
 							"isCorrect": false
 						},
 						{
-							"text": "...fiti",
+							"text": "_____fiti",
 							"isCorrect": true
 						},
 						{
@@ -9496,7 +9496,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "der Löwen",
+							"text": "<i>_____ der Löwen</i>",
 							"isCorrect": true
 						},
 						{
@@ -9581,23 +9581,23 @@
 							"isCorrect": true
 						},
 						{
-							"text": "adidas Madulani",
+							"text": "<i>adidas</i> Madulani",
 							"isCorrect": false
 						},
 						{
-							"text": "adidas +Teamgeist",
+							"text": "<i>adidas</i> +Teamgeist",
 							"isCorrect": true
 						},
 						{
-							"text": "adidas +Egoismus",
+							"text": "<i>adidas</i> +Egoismus",
 							"isCorrect": false
 						},
 						{
-							"text": "adidas Brazuca",
+							"text": "<i>adidas</i> Brazuca",
 							"isCorrect": true
 						},
 						{
-							"text": "adidas al-Rihla",
+							"text": "<i>adidas</i> al-Rihla",
 							"isCorrect": true
 						}
 					]
@@ -9690,7 +9690,7 @@
 					]
 				},
 				{
-					"title": "Pokémonbälle",
+					"title": "Pokébälle",
 					"choices": [
 						{
 							"text": "Hyperball",
@@ -9937,28 +9937,28 @@
 					"title": "Börsennotierte Unternehmen aus Deutschland",
 					"choices": [
 						{
-							"text": "Infineon",
+							"text": "<i>Infineon</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Ritter Sport",
+							"text": "<i>Ritter Sport</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Siemens",
+							"text": "<i>Siemens</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Robert Bosch",
+							"text": "<i>Robert Bosch</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Bayer",
+							"text": "<i>Bayer</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "E.ON",
-							"isCorrect": true
+							"text": "<i>E.ON</i>",
+							"isCorrect": false
 						}
 					]
 				},
@@ -9966,27 +9966,27 @@
 					"title": "Organisationen",
 					"choices": [
 						{
-							"text": "Lufthansa",
+							"text": "<i>Lufthansa</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Telekom",
+							"text": "<i>Telekom</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Wikimedia",
+							"text": "<i>Wikimedia</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Anonymous",
+							"text": "<i>Anonymous</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "UNESCO",
+							"text": "<i>UNESCO</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "WWF",
+							"text": "<i>WWF</i>",
 							"isCorrect": true
 						}
 					]
@@ -9995,27 +9995,27 @@
 					"title": "Private Unternehmen",
 					"choices": [
 						{
-							"text": "Robert Bosch",
+							"text": "<i>Robert Bosch</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "BMW",
+							"text": "<i>BMW</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Alfred Ritter",
+							"text": "<i>Alfred Ritter</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Philips",
+							"text": "<i>Philips</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Deck13",
+							"text": "<i>Deck13</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Deutsche Post",
+							"text": "<i>Deutsche Post</i>",
 							"isCorrect": false
 						}
 					]
@@ -10628,27 +10628,27 @@
 					"title": "20. Jahrhundert",
 					"choices": [
 						{
-							"text": "<i>E-Mail & [at]-Zeichen</i> von Raymond Tamlinson",
+							"text": "“E-Mail & [at]-Zeichen“ von Raymond Tamlinson",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Saxophon</i> von Adolphe Sax",
+							"text": "“Saxophon“ von Adolphe Sax",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Zauberwürfel</i> von Erno Rubik",
+							"text": "“Zauberwürfel“ von Erno Rubik",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Laser</i> von Theodore Maiman",
+							"text": "“Laser“ von Theodore Maiman",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Viertakt-Motor</i> von Christian Reithmann",
+							"text": "“Viertakt-Motor“ von Christian Reithmann",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Entschlüsselung der DNA-Struktur</i> von Crick & Watson",
+							"text": "“Entschlüsselung der DNA-Struktur“ von Crick & Watson",
 							"isCorrect": true
 						}
 					]
@@ -10657,27 +10657,27 @@
 					"title": "19. Jahrhundert",
 					"choices": [
 						{
-							"text": "<i>Teddybär</i> von Richard Steiff",
+							"text": "“Teddybär“ von Richard Steiff",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Elektromagnet</i> von William Sturgeon",
+							"text": "“Elektromagnet“ von William Sturgeon",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Thermosflasche</i> von Reinhold Burger",
+							"text": "“Thermosflasche“ von Reinhold Burger",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Dynamo</i> von Sören Hjorth",
+							"text": "“Dynamo“ von Sören Hjorth",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Moderner Kühlschrank</i> von Alexander Twinning",
+							"text": "“Moderner Kühlschrank“ von Alexander Twinning",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Radar</i> von Christian Hülsmeyer",
+							"text": "“Radar“ von Christian Hülsmeyer",
 							"isCorrect": false
 						}
 					]
@@ -10686,27 +10686,27 @@
 					"title": "18. Jahrhundert",
 					"choices": [
 						{
-							"text": "<i>Batterie</i> von Alessandro Volta",
+							"text": "“Batterie“ von Alessandro Volta",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Dampf-Lokomotive</i> von Richard Trevithick",
+							"text": "“Dampf-Lokomotive“ von Richard Trevithick",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Konservendose</i> von Nicolas Appert",
+							"text": "“Konservendose“ von Nicolas Appert",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Ventilator</i> von Stephen Hales",
+							"text": "“Ventilator“ von Stephen Hales",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Feuerzeug</i> von Johann Wolfgang Döbereiner",
+							"text": "“Feuerzeug“ von Johann Wolfgang Döbereiner",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Heißluftballon</i> von den Gebrüder Montgolfier",
+							"text": "“Heißluftballon“ von den Gebrüder Montgolfier",
 							"isCorrect": true
 						}
 					]
@@ -10715,27 +10715,27 @@
 					"title": "17. Jahrhundert",
 					"choices": [
 						{
-							"text": "<i>Blitzableiter</i> von Benjamin Franklin",
+							"text": "“Blitzableiter“ von Benjamin Franklin",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>U-Boot</i> von Cornelius Drebbel",
+							"text": "“U-Boot“ von Cornelius Drebbel",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Quecksilber-Barometer</i> von Evangelista Torricelli",
+							"text": "“Quecksilber-Barometer“ von Evangelista Torricelli",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Rollstuhl</i> von Stephan Farftler",
+							"text": "“Rollstuhl“ von Stephan Farftler",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Champagner</i> von Mönch Dom Pérignon",
+							"text": "“Champagner“ von Mönch Dom Pérignon",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Binärsystem</i> von Gottfried Wilhelm von Leibniz",
+							"text": "“Binärsystem“ von Gottfried Wilhelm von Leibniz",
 							"isCorrect": true
 						}
 					]
@@ -10744,27 +10744,27 @@
 					"title": "16. Jahrhundert",
 					"choices": [
 						{
-							"text": "<i>Rechenmaschine</i> von Wilhelm Schickard",
+							"text": "“Rechenmaschine“ von Wilhelm Schickard",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Thermometer</i> von Galileo Galilei",
+							"text": "“Thermometer“ von Galileo Galilei",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Taschenuhr</i> von Peter Henlein",
+							"text": "“Taschenuhr“ von Peter Henlein",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Luftpumpe</i> von Otto von Guericke",
+							"text": "“Luftpumpe“ von Otto von Guericke",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Toilette mit Wasserspülung</i> von John Harington",
+							"text": "“Toilette mit Wasserspülung“ von John Harington",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Klavier</i> von Bartolomeo Cristofori",
+							"text": "“Klavier“ von Bartolomeo Cristofori",
 							"isCorrect": false
 						}
 					]
@@ -10773,27 +10773,27 @@
 					"title": "15. Jahrhundert",
 					"choices": [
 						{
-							"text": "<i>Dosenöffner</i> von Robert Yeates",
+							"text": "“Dosenöffner“ von Robert Yeates",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Buchdruck</i> von Johannes Gutenberg",
+							"text": "“Buchdruck“ von Johannes Gutenberg",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Baby(fertig)-Nahrung</i> von Justus von Liebig",
+							"text": "“Baby(fertig)-Nahrung“ von Justus von Liebig",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Fallschirm</i> von Leonardo da Vinci",
+							"text": "“Fallschirm“ von Leonardo da Vinci",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Dynamit</i> von Alfred Nobel",
+							"text": "“Dynamit“ von Alfred Nobel",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Globus</i> von Martin Behaim",
+							"text": "“Globus“ von Martin Behaim",
 							"isCorrect": true
 						}
 					]
