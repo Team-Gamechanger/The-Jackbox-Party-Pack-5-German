@@ -76,55 +76,55 @@
                 }
             ],
             "disChoice": {
-                "longText": "hat einen Ring",
+                "longText": "Hat einen Ring",
                 "shortText": "RING"
             },
             "datChoice": {
-                "longText": "hat keinen Ring",
+                "longText": "Hat keinen Ring",
                 "shortText": "KEIN RING"
             },
             "id": "11001",
             "category": {
-                "text": "Gutes All, Schlechtes All"
+                "text": "Gutes All, schlechtes All"
             }
         },
         {
             "questions": [
                 {
-                    "text": "ist in Hamburg geboren",
+                    "text": "Ist in Hamburg geboren",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "ist bei Tante Lucy aufgewachsen",
+                    "text": "Ist bei Tante Lucy aufgewachsen",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "hat als Fensterputzer gearbeitet",
+                    "text": "Hat als Fensterputzer gearbeitet",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "musste ins Gefängnis",
+                    "text": "Musste ins Gefängnis",
                     "correctChoiceString": "both"
                 },
                 {
-                    "text": "sang ein Lied über Sitzheizungen",
+                    "text": "Sang ein Lied über Sitzheizungen",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "fuhr mit der Bahn, um einen Schauspieler zu erwischen",
+                    "text": "Fuhr mit der Bahn, um einen Schauspieler zu erwischen",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "lag im Koma",
+                    "text": "Lag im Koma",
                     "correctChoiceString": "both"
                 }
             ],
             "disChoice": {
-                "longText": "etwas, das Paddington Bär in <i>Paddington 2<\/i> passiert ist",
+                "longText": "Etwas, das Paddington Bär in <i>Paddington 2<\/i> passiert ist",
                 "shortText": "PADDINGTON BÄR"
             },
             "datChoice": {
-                "longText": "etwas, das dem Rapper GZUZ im echten Leben passiert ist",
+                "longText": "Etwas, das dem Rapper GZUZ im echten Leben passiert ist",
                 "shortText": "GZUZ"
             },
             "id": "11002",
@@ -164,11 +164,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Lied der schwedischen Popgruppe ABBA",
+                "longText": "Ein Lied der schwedischen Popgruppe ABBA",
                 "shortText": "ABBA"
             },
             "datChoice": {
-                "longText": "etwas, das Mario in einem Videospiel sagt",
+                "longText": "Etwas, das Mario in einem Videospiel sagt",
                 "shortText": "Super Mario"
             },
             "id": "11003",
@@ -223,11 +223,11 @@
         {
             "questions": [
                 {
-                    "text": "hat eine Figur namens Branch",
+                    "text": "Hat eine Figur namens Branch",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "beinhaltet den Lionel Richie Song \u201cHello\u201d",
+                    "text": "Beinhaltet den Lionel Richie Song \u201cHello\u201d",
                     "correctChoiceString": "dis"
                 },
                 {
@@ -239,7 +239,7 @@
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "hat eine Botschaft über Vegetarismus",
+                    "text": "Hat eine Botschaft über Vegetarismus",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -247,16 +247,16 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "beinhaltet Trolle",
+                    "text": "Beinhaltet Trolle",
                     "correctChoiceString": "dis"
                 }
             ],
             "disChoice": {
-                "longText": "der 2016 erschnienene Animationsfilm für Kinder <i>Trolls<\/i>",
+                "longText": "Der 2016 erschienene Animationsfilm für Kinder <i>Trolls<\/i>",
                 "shortText": "TROLLS (FÜR KINDER)"
             },
             "datChoice": {
-                "longText": "der 1990 erschienene Horrorfilm <i>Troll 2<\/i>",
+                "longText": "Der 1990 erschienene Horrorfilm <i>Troll 2<\/i>",
                 "shortText": "TROLL 2 (HORROR)"
             },
             "id": "11005",
@@ -267,19 +267,19 @@
         {
             "questions": [
                 {
-                    "text": "gebürtiger Franzose",
+                    "text": "Gebürtiger Franzose",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "taucht in <i>Keinohrhasen<\/i> auf",
+                    "text": "Taucht in <i>Keinohrhasen<\/i> auf",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "hat weiße Haut",
+                    "text": "Hat weiße Haut",
                     "correctChoiceString": "both"
                 },
                 {
-                    "text": "nicht vegan",
+                    "text": "Nicht vegan",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -287,21 +287,21 @@
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "von einer Frau geschaffen",
+                    "text": "Von einer Frau geschaffen",
                     "correctChoiceString": "both"
                 },
                 {
-                    "text": "weich und geschmeidig",
+                    "text": "Weich und geschmeidig",
                     "correctChoiceString": "both"
                 }
             ],
             "disChoice": {
-                "longText": "etwas Wahres über den Schauspieler Jürgen Vogel",
+                "longText": "Etwas Wahres über den Schauspieler Jürgen Vogel",
                 "shortText": "JÜRGEN VOGEL"
             },
             "datChoice": {
-                "longText": "etwas Wahres über den Käse Camembert",
-                "shortText": "CAMEMBERT KÄSE"
+                "longText": "Etwas Wahres über den Käse Camembert",
+                "shortText": "CAMEMBERT"
             },
             "id": "11006",
             "category": {
@@ -311,40 +311,40 @@
         {
             "questions": [
                 {
-                    "text": "ein kleiner stacheliger Drache",
+                    "text": "Ein kleiner stacheliger Drache",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "ein Vogel, der Strom leitet",
+                    "text": "Ein Vogel, der Strom leitet",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "ein lähmender Tintenfisch, der mit Ringen bedeckt ist",
+                    "text": "Ein lähmender Tintenfisch, der mit Ringen bedeckt ist",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "ein gleitendes Nagetier mit Daumen",
+                    "text": "Ein gleitendes Nagetier mit Daumen",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "ein 1,90 m großer Hund, auf dem man reiten kann",
+                    "text": "Ein 1,90 m großer Hund, auf dem man reiten kann",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "eine entenschnabelartige Kreatur mit giftigen Füßen",
+                    "text": "Eine entenschnabelartige Kreatur mit giftigen Füßen",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "eine Katze, die die menschliche Sprache nachahmt",
+                    "text": "Eine Katze, die die menschliche Sprache nachahmt",
                     "correctChoiceString": "dis"
                 }
             ],
             "disChoice": {
-                "longText": "ein Pokémon",
+                "longText": "Ein Pokémon",
                 "shortText": "POKÉMON"
             },
             "datChoice": {
-                "longText": "ein echtes Tier, das man heute in Australien finden könnte",
+                "longText": "Ein echtes Tier, das man heute in Australien finden könnte",
                 "shortText": "AUSTRALIEN"
             },
             "id": "11007",
@@ -384,11 +384,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Zitat von William Shakespeare",
+                "longText": "Ein Zitat von William Shakespeare",
                 "shortText": "SHAKESPEARE"
             },
             "datChoice": {
-                "longText": "eine Rapzeile von Moneyboy",
+                "longText": "Eine Rapzeile von Moneyboy",
                 "shortText": "MONEYBOY"
             },
             "id": "11008",
@@ -428,11 +428,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "eine Figur aus <i>Adventure Time<\/i>",
+                "longText": "Eine Figur aus <i>Adventure Time<\/i>",
                 "shortText": "ADVENTURE TIME"
             },
             "datChoice": {
-                "longText": "ein Gewinner von <i>The Masked Singer<\/i>",
+                "longText": "Ein Gewinner von <i>The Masked Singer<\/i>",
                 "shortText": "MASKED SINGER"
             },
             "id": "11009",
@@ -472,7 +472,7 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Modestück aus der viktorianischen Ära",
+                "longText": "Ein Modestück aus der viktorianischen Ära",
                 "shortText": "VIKTORIANISCHE MODE"
             },
             "datChoice": {
@@ -516,11 +516,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "eine Geschmacksrichtung von Fanta auf dem deutschen Markt",
+                "longText": "Eine Geschmacksrichtung von Fanta auf dem deutschen Markt",
                 "shortText": "FANTA"
             },
             "datChoice": {
-                "longText": "eine Frucht im originalen Pacman Spiel",
+                "longText": "Eine Frucht im originalen Pacman Spiel",
                 "shortText": "PACMAN"
             },
             "id": "11011",
@@ -560,11 +560,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "eine Folge von <i>Die Schwarzwaldklinik<\/i>",
+                "longText": "Eine Folge von <i>Die Schwarzwaldklinik<\/i>",
                 "shortText": "SCHWARZWALDKLINIK"
             },
             "datChoice": {
-                "longText": "ein alter Film für Fahrschulen",
+                "longText": "Ein alter Film für Fahrschulen",
                 "shortText": "FAHRSCHULE"
             },
             "id": "11012",
@@ -604,16 +604,16 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein ägyptischer Gott",
+                "longText": "Ein ägyptischer Gott",
                 "shortText": "ÄGYPTISCHER GOTT"
             },
             "datChoice": {
-                "longText": "eine Art von Getreide",
+                "longText": "Eine Art von Getreide",
                 "shortText": "GETREIDE"
             },
             "id": "11013",
             "category": {
-                "text": "Oh heiliges Korn"
+                "text": "Oh, heiliges Korn"
             }
         },
         {
@@ -648,11 +648,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Song von Beyoncé",
+                "longText": "Ein Song von Beyoncé",
                 "shortText": "Beyoncé"
             },
             "datChoice": {
-                "longText": "ein Videospiel",
+                "longText": "Ein Videospiel",
                 "shortText": "Videospiel"
             },
             "id": "11014",
@@ -692,11 +692,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Banksy zugeschriebenes Kunstwerk",
+                "longText": "Ein Banksy zugeschriebenes Kunstwerk",
                 "shortText": "BANKSY"
             },
             "datChoice": {
-                "longText": "ein Emoji auf meinem Handy",
+                "longText": "Ein Emoji auf meinem Handy",
                 "shortText": "EMOJI"
             },
             "id": "11015",
@@ -780,11 +780,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "eine Kryptowährung",
+                "longText": "Eine Kryptowährung",
                 "shortText": "KRYPTOWÄHRUNG"
             },
             "datChoice": {
-                "longText": "eine Achterbahn im Phantasialand",
+                "longText": "Eine Achterbahn im Phantasialand",
                 "shortText": "ACHTERBAHN"
             },
             "id": "11017",
@@ -828,7 +828,7 @@
                 "shortText": "FUSSBALL"
             },
             "datChoice": {
-                "longText": "eine Bildkalibrierungseinstellung auf meinem Fernseher",
+                "longText": "Eine Bildkalibrierungseinstellung auf meinem Fernseher",
                 "shortText": "TV-EINSTELLUNG"
             },
             "id": "11018",
@@ -872,7 +872,7 @@
                 "shortText": "DAUMEN IST LINKS"
             },
             "datChoice": {
-                "longText": "wo der Daumen rechts ist",
+                "longText": "Wo der Daumen rechts ist",
                 "shortText": "DAUMEN IST RECHTS"
             },
             "id": "11019",
@@ -912,11 +912,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein geläufiger Name einer Droge",
+                "longText": "Ein geläufiger Name einer Droge",
                 "shortText": "DROGE"
             },
             "datChoice": {
-                "longText": "deutsche Heavy-Metal-Band",
+                "longText": "Deutsche Heavy-Metal-Band",
                 "shortText": "HEAVY-METAL-BAND"
             },
             "id": "11020",
@@ -956,11 +956,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "kleiner als das Papiermaß DIN A5",
+                "longText": "Kleiner als das Papiermaß DIN A5",
                 "shortText": "KLEINER ALS A5"
             },
             "datChoice": {
-                "longText": "größer als das Papiermaß DIN A5",
+                "longText": "Größer als das Papiermaß DIN A5",
                 "shortText": "GRÖSSER ALS A5"
             },
             "id": "11021",
@@ -1044,11 +1044,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "eine Käsesorte",
+                "longText": "Eine Käsesorte",
                 "shortText": "KÄSESORTE"
             },
             "datChoice": {
-                "longText": "eine Sexualpraktik",
+                "longText": "Eine Sexualpraktik",
                 "shortText": "SEXUALPRAKTIK"
             },
             "id": "11023",
@@ -1088,11 +1088,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Buch vom Comedian Dieter Nuhr",
+                "longText": "Ein Buch vom Comedian Dieter Nuhr",
                 "shortText": "BUCH VON NUHR"
             },
             "datChoice": {
-                "longText": "ein Fortnite-Tanz",
+                "longText": "Ein Fortnite-Tanz",
                 "shortText": "FORTNITE TANZ"
             },
             "id": "11024",
@@ -1176,11 +1176,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "stellt Frühstücksflocken her",
+                "longText": "Stellt Frühstücksflocken her",
                 "shortText": "FRÜHSTÜCK"
             },
             "datChoice": {
-                "longText": "stellt Toilettenpapier her",
+                "longText": "Stellt Toilettenpapier her",
                 "shortText": "TOILETTE"
             },
             "id": "11026",
@@ -1220,11 +1220,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "eine Lektion aus dem Buch <i>Alles, was du wirklich wissen mußt, hast du schon als Kind gelernt<\/i>",
-                "shortText": "KINDERGARTEN LEKTION"
+                "longText": "Eine Lektion aus dem Buch <i>Alles, was du wirklich wissen mußt, hast du schon als Kind gelernt<\/i>",
+                "shortText": "KINDERGARTEN-LEKTION"
             },
             "datChoice": {
-                "longText": "eines der 100 besten Filmzitate aller Zeiten",
+                "longText": "Eines der 100 besten Filmzitate aller Zeiten",
                 "shortText": "FILMZITAT"
             },
             "id": "11027",
@@ -1264,11 +1264,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Schlagersänger",
+                "longText": "Ein Schlagersänger",
                 "shortText": "SCHLAGERSÄNGER"
             },
             "datChoice": {
-                "longText": "ein Serienmörder",
+                "longText": "Ein Serienmörder",
                 "shortText": "SERIENMÖRDER"
             },
             "id": "11028",
@@ -1308,11 +1308,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Sternbild",
+                "longText": "Ein Sternbild",
                 "shortText": "STERNBILD"
             },
             "datChoice": {
-                "longText": "ein Erotikversand",
+                "longText": "Ein Erotikversand",
                 "shortText": "EROTIKVERSAND"
             },
             "id": "11029",
@@ -1352,11 +1352,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "eine Figur aus einem Film von Loriot",
+                "longText": "Eine Figur aus einem Film von Loriot",
                 "shortText": "LORIOT"
             },
             "datChoice": {
-                "longText": "eine bedrohte Baumart",
+                "longText": "Eine bedrohte Baumart",
                 "shortText": "BEDROHTER BAUM"
             },
             "id": "11031",
@@ -1396,11 +1396,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "eine Form eines Videospiels ist",
+                "longText": "Eine Form eines Videospiels ist",
                 "shortText": "VIDEOSPIEL"
             },
             "datChoice": {
-                "longText": "ein deutscher Verkehrsverbund",
+                "longText": "Ein deutscher Verkehrsverbund",
                 "shortText": "VERKEHRSVERBUND"
             },
             "id": "11030",
@@ -1440,11 +1440,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Charakter in <i>World of Warcraft<\/i>",
+                "longText": "Ein Charakter in <i>World of Warcraft<\/i>",
                 "shortText": "WORLD OF WARCRAFT"
             },
             "datChoice": {
-                "longText": "eine Tankstelle in Deutschland",
+                "longText": "Eine Tankstelle in Deutschland",
                 "shortText": "TANKSTELLE"
             },
             "id": "11032",
@@ -1484,11 +1484,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein bekanntes mathematisches Problem",
+                "longText": "Ein bekanntes mathematisches Problem",
                 "shortText": "MATHE-PROBLEM"
             },
             "datChoice": {
-                "longText": "eine Folge <i>The Big Bang Theory<\/i>",
+                "longText": "Eine Folge <i>The Big Bang Theory<\/i>",
                 "shortText": "BIG BANG THEORY"
             },
             "id": "11033",
@@ -1528,11 +1528,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "man gewinnt mit den meisten Punkten",
+                "longText": "Man gewinnt mit den meisten Punkten",
                 "shortText": "MEISTE PUNKTE GEWINNT"
             },
             "datChoice": {
-                "longText": "man gewinnt mit den wenigsten Punkten",
+                "longText": "Man gewinnt mit den wenigsten Punkten",
                 "shortText": "WENIGSTE PUNKTE GEWINNT"
             },
             "id": "11034",
@@ -1572,11 +1572,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "etwas, was Elton John gesagt hat",
+                "longText": "Etwas, was Elton John gesagt hat",
                 "shortText": "ELTON JOHN"
             },
             "datChoice": {
-                "longText": "etwas, was Vladimir Putin gesagt hat",
+                "longText": "Etwas, was Vladimir Putin gesagt hat",
                 "shortText": "PUTIN"
             },
             "id": "11035",
@@ -1616,11 +1616,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "etwas, das im Museum of Modern Art ausgestellt wird",
+                "longText": "Etwas, das im Museum of Modern Art ausgestellt wird",
                 "shortText": "MUSEUM OF MODERN ART"
             },
             "datChoice": {
-                "longText": "ein Titel einer <i>South Park<\/i> Folge",
+                "longText": "Ein Titel einer <i>South Park<\/i> Folge",
                 "shortText": "SOUTH PARK"
             },
             "id": "11036",
@@ -1660,11 +1660,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "der Nachname einer bekannten Sarah mit H",
+                "longText": "Der Nachname einer bekannten Sarah mit H",
                 "shortText": "SARAH"
             },
             "datChoice": {
-                "longText": "der Nachname einer bekannten Sara ohne H",
+                "longText": "Der Nachname einer bekannten Sara ohne H",
                 "shortText": "SARA"
             },
             "id": "11037",
@@ -1748,11 +1748,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Teil des menschlichen Ohres",
+                "longText": "Ein Teil des menschlichen Ohres",
                 "shortText": "OHR"
             },
             "datChoice": {
-                "longText": "ein Musikinstrument, welches von der Blue Man Group benutzt wurde",
+                "longText": "Ein Musikinstrument, welches von der Blue Man Group benutzt wurde",
                 "shortText": "BLUE MAN GROUP"
             },
             "id": "11039",
@@ -1792,11 +1792,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Navigationsgerät für Ihr Auto",
+                "longText": "Ein Navigationsgerät für Ihr Auto",
                 "shortText": "GPS"
             },
             "datChoice": {
-                "longText": "eine Figur aus <i>My Little Pony<\/i>",
+                "longText": "Eine Figur aus <i>My Little Pony<\/i>",
                 "shortText": "MY LITTLE PONY"
             },
             "id": "11040",
@@ -1836,11 +1836,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "der Name eines Solo-Künstlers",
+                "longText": "Der Name eines Solo-Künstlers",
                 "shortText": "SOLO"
             },
             "datChoice": {
-                "longText": "der Name einer Band",
+                "longText": "Der Name einer Band",
                 "shortText": "BAND"
             },
             "id": "11041",
@@ -1880,11 +1880,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Kinderlied",
+                "longText": "Ein Kinderlied",
                 "shortText": "KINDERLIED"
             },
             "datChoice": {
-                "longText": "ein Trinkspiel",
+                "longText": "Ein Trinkspiel",
                 "shortText": "TRINKSPIEL"
             },
             "id": "11042",
@@ -1924,11 +1924,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein berühmter Computervirus",
-                "shortText": "COMPUTER-VIRUS"
+                "longText": "Ein berühmter Computervirus",
+                "shortText": "COMPUTERVIRUS"
             },
             "datChoice": {
-                "longText": "eine Geschmacksrichtung der Kaugummimarke 5Gum",
+                "longText": "Eine Geschmacksrichtung der Kaugummimarke 5Gum",
                 "shortText": "KAUGUMMI"
             },
             "id": "11043",
@@ -1968,16 +1968,16 @@
                 }
             ],
             "disChoice": {
-                "longText": "einer der laut IMDb <i>besten 50 Filme aller Zeiten<\/i>",
+                "longText": "Einer der laut IMDb <i>besten 50 Filme aller Zeiten<\/i>",
                 "shortText": "BESTER FILM"
             },
             "datChoice": {
-                "longText": "einer der laut IMDb <i>schlechtesten 50 Filme aller Zeiten<\/i>",
+                "longText": "Einer der laut IMDb <i>schlechtesten 50 Filme aller Zeiten<\/i>",
                 "shortText": "SCHLECHTESTER FILM"
             },
             "id": "11044",
             "category": {
-                "text": "Schnieke Schinken & Miese Müllstreifen"
+                "text": "Schnieke Schinken & miese Müllstreifen"
             }
         },
         {
@@ -2012,11 +2012,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "eine Pferderasse",
+                "longText": "Eine Pferderasse",
                 "shortText": "PFERDERASSE"
             },
             "datChoice": {
-                "longText": "eine bei Windows vorinstallierte Schriftart",
+                "longText": "Eine bei Windows vorinstallierte Schriftart",
                 "shortText": "SCHRIFTART"
             },
             "id": "11045",
@@ -2056,11 +2056,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Werk von Franz Kafka",
+                "longText": "Ein Werk von Franz Kafka",
                 "shortText": "KAFKA"
             },
             "datChoice": {
-                "longText": "eine Folge des Tatorts",
+                "longText": "Eine Folge des Tatorts",
                 "shortText": "TATORT"
             },
             "id": "11046",
@@ -2100,11 +2100,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Lied der deutschen Metal-Band <i>Subway to Sally<\/i>",
+                "longText": "Ein Lied der deutschen Metal-Band <i>Subway to Sally<\/i>",
                 "shortText": "SUBWAY TO SALLY"
             },
             "datChoice": {
-                "longText": "der Name einer Yu-Gi-Oh-Kindersammelkarte",
+                "longText": "Der Name einer Yu-Gi-Oh-Kindersammelkarte",
                 "shortText": "YU-GI-OH"
             },
             "id": "11047",
@@ -2144,11 +2144,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "eine antike griechische Stadt",
+                "longText": "Eine antike griechische Stadt",
                 "shortText": "ANTIKE GRIECHISCHE STADT"
             },
             "datChoice": {
-                "longText": "ein Antidepressivum",
+                "longText": "Ein Antidepressivum",
                 "shortText": "ANTIDEPRESSIVUM"
             },
             "id": "11048",
@@ -2188,11 +2188,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "ein Lied von Herbert Grönemeyer",
+                "longText": "Ein Lied von Herbert Grönemeyer",
                 "shortText": "GRÖNEMEYER"
             },
             "datChoice": {
-                "longText": "ein Gegenstand, der laut Bundespolizei nicht im Handgepäck in einem Flugzeug mitgenommen werden darf",
+                "longText": "Ein Gegenstand, der laut Bundespolizei nicht im Handgepäck in einem Flugzeug mitgenommen werden darf",
                 "shortText": "HANDGEPÄCK-VERBOT"
             },
             "id": "11049",

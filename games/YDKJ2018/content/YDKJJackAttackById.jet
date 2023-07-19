@@ -5,7 +5,7 @@
             "title": "Der hier ist für Roboter",
             "prompts": [
                 {
-                    "title": "mehr Einsen als Nullen",
+                    "title": "Mehr Einsen als Nullen",
                     "choices": [
                         {
                             "text": "1111111110",
@@ -34,7 +34,7 @@
                     ]
                 },
                 {
-                    "title": "hat 6 Nullen",
+                    "title": "Hat 6 Nullen",
                     "choices": [
                         {
                             "text": "1001100001",
@@ -63,7 +63,7 @@
                     ]
                 },
                 {
-                    "title": "ergibt eine Primzahl",
+                    "title": "Ergibt eine Primzahl",
                     "choices": [
                         {
                             "text": "1101100000",
@@ -92,7 +92,7 @@
                     ]
                 },
                 {
-                    "title": "enthält \u201c00101\u201d",
+                    "title": "Enthält \u201c00101\u201d",
                     "choices": [
                         {
                             "text": "1000101001",
@@ -150,7 +150,7 @@
                     ]
                 },
                 {
-                    "title": "ist symmetrisch",
+                    "title": "Ist symmetrisch",
                     "choices": [
                         {
                             "text": "110011",
@@ -188,27 +188,27 @@
                     "title": "Hilfe!",
                     "choices": [
                         {
-                            "text": "ein Lied der Antilopen Gang",
+                            "text": "Ein Lied der Antilopen Gang",
                             "isCorrect": true
                         },
                         {
-                            "text": "eine Zeitschrift aus den Neunzigern",
+                            "text": "Eine Zeitschrift aus den Neunzigern",
                             "isCorrect": true
                         },
                         {
-                            "text": "eine Müslimarke",
+                            "text": "Eine Müslimarke",
                             "isCorrect": false
                         },
                         {
-                            "text": "ein Album der Antilopen Gang",
+                            "text": "Ein Album der Antilopen Gang",
                             "isCorrect": false
                         },
                         {
-                            "text": "eine Zeichentrickserie auf Super RTL",
+                            "text": "Eine Zeichentrickserie auf Super RTL",
                             "isCorrect": false
                         },
                         {
-                            "text": "eine Serie der <i>Zeit<\/i>",
+                            "text": "Eine Serie der <i>Zeit<\/i>",
                             "isCorrect": true
                         }
                     ]
@@ -333,11 +333,11 @@
                     "title": "Hier kommt die Wahrheit über You Don\u2019t Know Jack: Full Stream",
                     "choices": [
                         {
-                            "text": "es ist nur ein lustiges Party-Spiel",
+                            "text": "Es ist nur ein lustiges Party-Spiel",
                             "isCorrect": false
                         },
                         {
-                            "text": "es hat ein schreckliches Geheimnis",
+                            "text": "Es hat ein schreckliches Geheimnis",
                             "isCorrect": true
                         },
                         {
@@ -365,7 +365,7 @@
             "title": "Und WIE Sie in Gefahr sind!<br>(Ja, SIE!)",
             "prompts": [
                 {
-                    "title": "wird <RANDOM_PLAYER> fressen",
+                    "title": "Wird <RANDOM_PLAYER> fressen",
                     "choices": [
                         {
                             "text": "Norman Bates",
@@ -394,7 +394,7 @@
                     ]
                 },
                 {
-                    "title": "trinkt das Blut von <RANDOM_PLAYER>",
+                    "title": "Trinkt das Blut von <RANDOM_PLAYER>",
                     "choices": [
                         {
                             "text": "Graf Dracula",
@@ -423,7 +423,7 @@
                     ]
                 },
                 {
-                    "title": "zertrampelt <RANDOM_PLAYER>",
+                    "title": "Zertrampelt <RANDOM_PLAYER>",
                     "choices": [
                         {
                             "text": "Godzilla",
@@ -481,7 +481,7 @@
                     ]
                 },
                 {
-                    "title": "wird <RANDOM_PLAYER> umbringen und ersetzen",
+                    "title": "Wird <RANDOM_PLAYER> umbringen und ersetzen",
                     "choices": [
                         {
                             "text": "Hulk",
@@ -510,7 +510,7 @@
                     ]
                 },
                 {
-                    "title": "schreibt einen vernichtenden Artikel über <RANDOM_PLAYER>",
+                    "title": "Schreibt einen vernichtenden Artikel über <RANDOM_PLAYER>",
                     "choices": [
                         {
                             "text": "Thomas Fischer",
@@ -632,7 +632,7 @@
                     ]
                 },
                 {
-                    "title": "bisherige richtige Antworten in dieser Jack Attack",
+                    "title": "Bisherige richtige Antworten in dieser Jack Attack",
                     "choices": [
                         {
                             "text": "A",
