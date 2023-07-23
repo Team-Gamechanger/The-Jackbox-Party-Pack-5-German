@@ -1245,23 +1245,23 @@
         {
             "id": "10036",
             "category": {
-                "text": "Sich Be-Verben"
+                "text": "Große Geschichte & kleine Malheurs"
             },
             "choices": [
                 {
-                    "text": "Ist mir egal.",
+                    "text": "Sein Zugpferd würde zertrampelt werden",
                     "isCorrect": false
                 },
                 {
-                    "text": "Im Ernst, wen juckt\u2019s?",
+                    "text": "Ein Knochen in seinem Ohr würde zerschmettert werden",
                     "isCorrect": false
                 },
                 {
-                    "text": "Denken Sie, das ist lustig?",
+                    "text": "Er würde sein Wahlrecht verlieren",
                     "isCorrect": true
                 },
                 {
-                    "text": "Ist es nämlich nicht.",
+                    "text": "Sein kleiner Zeh würde abgeschnitten werden",
                     "isCorrect": false
                 }
             ],
@@ -1270,7 +1270,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher dieser Sätze enthält ein transitives Verb?"
+                    "text": "Was würde passieren, wenn General Maximus im Kolosseum seinen "Minimus" verliert?"
                 }
             ]
         },
