@@ -1270,7 +1270,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was würde passieren, wenn General Maximus im Kolosseum seinen "Minimus" verliert?"
+                    "text": "Was würde passieren, wenn General Maximus im Kolosseum seinen \u201cMinimus\u201d verliert?"
                 }
             ]
         },
@@ -6669,6 +6669,406 @@
                 {
                     "timing": "S + 1.00",
                     "text": "Was setzt man Ihnen vor?"
+                }
+            ]
+        },
+        {
+            "id": "10199",
+            "category": {
+                "text": "Nosferatu im Rampenlicht"
+            },
+            "choices": [
+                {
+                    "text": "\u201cNehmt all mein Geld, das Produkt kaufe ich sofort!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cHatten die nicht mal ein anderes Werbegesicht?\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cIch kann den Werbeslogan nicht mehr hören.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cFür was hat der noch mal Werbung gemacht?\u201d",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bedenkt man die Wirkung des Vampir-Effekts,"
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "was würden die Zuschauer über die Werbung sagen?"
+                }
+            ]
+        },
+        {
+            "id": "10200",
+            "category": {
+                "text": "Gottlos göttliche Namenswahl"
+            },
+            "choices": [
+                {
+                    "text": "Petrus, Petrus, Petrus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Johannes, Johannes, Johannes",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Markus, Markus, Markus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Matthäus, Matthäus, Matthäus",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche dieser Antworten listet, in dieser Reihenfolge, einen Euphemismus für das männliche Geschlechtsorgan, ein Evangelium der Bibel und den Vornamen eines Papstes auf?"
+                }
+            ]
+        },
+        {
+            "id": "10201",
+            "category": {
+                "text": "Kleine Gehirne & der große Schreck"
+            },
+            "choices": [
+                {
+                    "text": "Mein Gyrus Cinguli hat mich zu Tode erschreckt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Toaster hat meinen Pons böse erwischt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Gepolter löste einen Reflex in meinem Hippocampus aus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Toaster löste in meiner Amygdala eine Schreckreaktion aus",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was ist mir gerade passiert?"
+                }
+            ]
+        },
+        {
+            "id": "10202",
+            "category": {
+                "text": "Starköche und ihre Sterne"
+            },
+            "choices": [
+                {
+                    "text": "Er ist frei von jeglichen Mikroorganismen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Seine Oberfläche ist vollkommen glatt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er ist völlig ausgeknockt",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Er hat einen massiven Hirnschaden",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn ich Gordon Ramsay auf der \u201cRamsay-Skala\u201d solide 6 von 6 Punkten geben würde, was würde Ihnen das über ihn sagen?"
+                }
+            ]
+        },
+        {
+            "id": "10203",
+            "category": {
+                "text": "Einmal nicht bei <i>Amazon<\/i> bestellt..."
+            },
+            "choices": [
+                {
+                    "text": "Ihre Angreifer kielholen lassen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ihre Angreifer pulverisieren",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ihre Angreifer an die Sowjets ausliefern",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zusehen, wie Ihre Angreifer in Stücke zerfetzt werden",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Sie wollen einen Taser zur Selbstverteidigung kaufen. Doch als Ihr Paket ankommt, stellen Sie fest, dass Sie stattdessen einen TASAR erhalten haben."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Was können Sie damit tun?"
+                }
+            ]
+        },
+        {
+            "id": "10204",
+            "category": {
+                "text": "Die sechsundfünfzigste Regel des Fight Club lautet..."
+            },
+            "choices": [
+                {
+                    "text": "\u201cKeine Hemden, keine Schuhe\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDie Kämpfe dauern genau solange, wie sie dauern müssen\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cWenn jemand \u2019Stop\u2019 ruft, ist der Kampf vorbei\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cNur ein Kampf auf einmal\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie lautet die DRITTE Regel des <i>Fight Club<\/i>?"
+                }
+            ]
+        },
+        {
+            "id": "10205",
+            "category": {
+                "text": "Euer Ehren, die Verteidigung plädiert auf frei von Sünde"
+            },
+            "choices": [
+                {
+                    "text": "Der indische Jesus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der kanadische Jesus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der ghanaische Jesus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der chinesische Jesus",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher dieser Jesusse wäre ein Gauner, da Reinkarnation in seinem Heimatland ausdrücklich ein Verbrechen ist?"
+                }
+            ]
+        },
+        {
+            "id": "10206",
+            "category": {
+                "text": "Der Diva-Duellant"
+            },
+            "choices": [
+                {
+                    "text": "Ihr Smartphone",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Bundesrichter",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Tennisspieler",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Küchenchef",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher dieser Widersacher würde Sie in einem geistigen Wettstreit am ehesten beschuldigen, ein \u201cillegales Argument\u201d verwendet zu haben?"
+                }
+            ]
+        },
+        {
+            "id": "10207",
+            "category": {
+                "text": "Butter bei die Fische"
+            },
+            "choices": [
+                {
+                    "text": "Er entfernt ihm die Gräten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er veredelt ihn mit Blattgold",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er lässt ihn in der Sonne dörren",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er spritzt ihm Marinade ein",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, <i>Käpt\u2019n Iglo<\/i> würde für seine Fischstäbchen seine Fischreste nicht panieren, sondern pikieren."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Was tut er mit dem Fisch?"
+                }
+            ]
+        },
+        {
+            "id": "10208",
+            "category": {
+                "text": "Einmal so sein wie <i>Superman<\/i>"
+            },
+            "choices": [
+                {
+                    "text": "YYY",
+                    "isCorrect": false
+                },
+                {
+                    "text": "XXY",
+                    "isCorrect": false
+                },
+                {
+                    "text": "XXX",
+                    "isCorrect": false
+                },
+                {
+                    "text": "XYY",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Sie ein Mann mit dem sogenannten Supermann-Syndrom wären, wie würde dann Ihre Geschlechtschromosomen-Reihung lauten?"
+                }
+            ]
+        },
+        {
+            "id": "10209",
+            "category": {
+                "text": "Insekten im Kriegseinsatz"
+            },
+            "choices": [
+                {
+                    "text": "Korporal Korporal",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Maat Maat",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fähnrich Fähnrich",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Admiral Admiral",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welchen militärischen Rang könnte eine Schmetterlingsart seinem Namen nach in der Bundeswehr inne halten?"
+                }
+            ]
+        },
+        {
+            "id": "10210",
+            "category": {
+                "text": "Echte <i>Micky-Maus<\/i>-Politik"
+            },
+            "choices": [
+                {
+                    "text": "Minnie Maus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Onkel Dagobert",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die 101 Dalmatiner",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pluto",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Nehmen wir an, Pluto gewinnt die Bürgermeisterwahl in Entenhausen."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Wenn er sich dazu entscheidet, Entenhausen zu einer \u201cPlutokratie\u201d zu machen, wer wäre dann <i>tatsächlich<\/i> an der Macht?"
                 }
             ]
         }
