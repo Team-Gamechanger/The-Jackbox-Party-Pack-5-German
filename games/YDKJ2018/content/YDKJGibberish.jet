@@ -749,10 +749,10 @@
             },
             "clues": [
                 {
-                    "text": "Es handelt sich um eine Reihe an Büchern..."
+                    "text": "Es handelt sich um eine Reihe an Comicbüchern..."
                 },
                 {
-                    "text": "...die sich um Comics für Kinder drehen."
+                    "text": "...aus dem Disney-Universum."
                 },
                 {
                     "text": "Sie sind urkomisch und im kompakten Format."
@@ -1152,7 +1152,7 @@
             },
             "clues": [
                 {
-                    "text": "Ein bekannter Held..."
+                    "text": "Es ist ein bekannter tierischer Held..."
                 },
                 {
                     "text": "...erschaffen von den Gebrüdern Grimm."

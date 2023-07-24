@@ -806,7 +806,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn ein Bild mehr als tausend Worte sagt, wie viele Bilder sind dann ein einziges Wort wert?"
+                    "text": "Wenn ein Bild mehr als tausend Worte sagt, wie viele Bilder ist dann ein einziges Wort wert?"
                 }
             ]
         },
@@ -905,7 +905,7 @@
                     "text": "Gretchen stirbt am Ende."
                 },
                 {
-                    "timing": "S + 8.22",
+                    "timing": "S + 10.83",
                     "text": "Welches klassische Werk habe ich soeben ruiniert?"
                 }
             ]
@@ -941,7 +941,7 @@
                     "text": "Wir haben kein Pepps mehr."
                 },
                 {
-                    "timing": "S + 1.94",
+                    "timing": "S + 1.69",
                     "text": "Ist Pepsin okay?"
                 }
             ]
@@ -997,7 +997,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Cousine dritten Grades mit Verbrennung zweiten Grades",
+                    "text": "Cousine dritten Grades mit Verbrennung dritten Grades",
                     "isCorrect": false
                 }
             ],
@@ -1017,19 +1017,19 @@
             },
             "choices": [
                 {
-                    "text": "Merkur",
+                    "text": "den steroidgepumpten Merkur",
                     "isCorrect": false
                 },
                 {
-                    "text": "Jupiter",
+                    "text": "den aufgeblasenen Jupiter",
                     "isCorrect": true
                 },
                 {
-                    "text": "Uranus",
+                    "text": "den meterbreiten Uranus",
                     "isCorrect": false
                 },
                 {
-                    "text": "Saturn",
+                    "text": "den imposanten Saturn",
                     "isCorrect": false
                 }
             ],
@@ -1038,10 +1038,10 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Man sagt, dass man an seinem ersten Tag im Sonnensystem den größten Planeten finden und ihm ins Gesicht schlagen sollte."
+                    "text": "Sie werden in der JVA Sonnensystem eingesperrt, und wollen sich dort schnell etablieren."
                 },
                 {
-                    "timing": "S + 5.01",
+                    "timing": "S + 5.00",
                     "text": "Wenn Sie nach dem Volumen gehen, wen sollten Sie schlagen?"
                 }
             ]
@@ -1074,7 +1074,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Dort angekommen spricht Sie gleich ein Mönch an und fragt Sie, ob Sie an einer \u201cSext\u201d teilnehmen möchten. Wie könnten Sie diese Frage am taktvollsten verneinen?"
+                    "text": "Dort angekommen spricht Sie gleich ein Mönch an und fragt Sie, ob Sie an einer \u201cSext\u201d teilnehmen wollen. Wie könnten Sie diese Frage am taktvollsten verneinen?"
                 }
             ]
         },
@@ -1085,19 +1085,19 @@
             },
             "choices": [
                 {
-                    "text": "Eine 212 Grad Fahrenheit heiße Wärmflasche",
+                    "text": "Ein 212°F heißer Leckerbissen",
                     "isCorrect": true
                 },
                 {
-                    "text": "Ein 265 Grad Fahrenheit heißer Wasserkocher",
+                    "text": "Ein 265°F heißer Adonis",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ein 335 Grad Fahrenheit heißer Kochtopf",
+                    "text": "Ein 335°F heißes Renngestell",
                     "isCorrect": false
                 },
                 {
-                    "text": "Eine 400 Grad Fahrenheit heiße Mikrowelle",
+                    "text": "Ein 400°F heißer Hengst",
                     "isCorrect": false
                 }
             ],
@@ -1106,7 +1106,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Olaf Scholz ein so heißer Deutscher wäre, dass er Wasser bei 100 Grad Celsius kocht, was wäre er dann in den Vereinigten Staaten?"
+                    "text": "Wenn Olaf Scholz ein so heißer Deutscher wäre, dass er Wasser zum Kochen bringt, was wäre er dann in den Vereinigten Staaten?"
                 }
             ]
         },
@@ -1117,7 +1117,7 @@
             },
             "choices": [
                 {
-                    "text": "2,4 Dosen SuperSours Green Apple",
+                    "text": "2,4 Dosen Super Sours Green Apple",
                     "isCorrect": true
                 },
                 {
@@ -1149,19 +1149,19 @@
             },
             "choices": [
                 {
-                    "text": "Sie springt mit einem Bein voran und zerstört dabei sowohl die Tür als auch Ihre Freundschaft",
+                    "text": "Sie springt mit einem Bein voran",
                     "isCorrect": true
                 },
                 {
-                    "text": "Sie dreht sich auf einem Bein, bis sie sich durch den Boden bohrt",
+                    "text": "Sie dreht sich auf einem Bein",
                     "isCorrect": false
                 },
                 {
-                    "text": "Sie tippt schnell mit einem Fuß auf den Boden und beschwört Mäuse, die sie hinfort tragen",
+                    "text": "Sie tippt schnell mit einem Fuß auf den Boden",
                     "isCorrect": false
                 },
                 {
-                    "text": "Sie wird von ihrem Partner hochgehalten, der keine Miete zahlt, aber so tut, als gehöre ihm die Wohnung",
+                    "text": "Sie wird von ihrem Partner hochgehalten",
                     "isCorrect": false
                 }
             ],
@@ -1170,7 +1170,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Ihre Mitbewohnerin, welche eine Ballerina ist, sagt, sie sei spät dran und müsse sich schnell im \u201cjette\u201d wegbewegen."
+                    "text": "Ihre Mitbewohnerin, welche eine Ballerina ist, sagt, sie sei spät dran und müsse sich schnell im \u201cJeté\u201d wegbewegen."
                 },
                 {
                     "timing": "S + 5.45",
@@ -1193,7 +1193,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "!!Rembrandt_JudasGemaelde!!.jpeg",
+                    "text": "!Rembrandt_JudasGemaelde!.jpeg",
                     "isCorrect": false
                 },
                 {
@@ -1281,15 +1281,15 @@
             },
             "choices": [
                 {
-                    "text": "Das Schicksal vom HUMMER",
+                    "text": "Das Schicksal des HUMMERS",
                     "isCorrect": false
                 },
                 {
-                    "text": "Das Schicksal vom CHAMÄLEON",
+                    "text": "Das Schicksal des CHAMÄLEONS",
                     "isCorrect": false
                 },
                 {
-                    "text": "Das Schicksal vom SEESTERN",
+                    "text": "Das Schicksal des SEESTERNS",
                     "isCorrect": false
                 },
                 {
@@ -1302,7 +1302,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Ihre Augen sind nun auf der gleichen Seite Ihres Gesichts. Welchem Tier könnte ein ähnliches Schicksal zugestoßen sein?"
+                    "text": "Beide Ihre Augen sind nun auf der gleichen Seite Ihres Gesichts. Das Schicksal welchen Tieres haben Sie geteilt?"
                 }
             ]
         },
