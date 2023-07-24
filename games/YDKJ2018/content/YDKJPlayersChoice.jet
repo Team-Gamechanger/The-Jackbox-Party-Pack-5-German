@@ -184,20 +184,6 @@
         },
         {
             "question": {
-                "text": "Möchten Sie eine Frage gestellt bekommen, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind, oder eine Frage, bei der Sie DOCH die Hühner mitzählen, bevor sie geschlüpft sind?"
-            },
-            "id": "11613",
-            "choice1": {
-                "text": "eine Frage, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind",
-                "id": "10726"
-            },
-            "choice2": {
-                "text": "eine Frage, bei der Sie DOCH die Hühner mitzählen, bevor sie geschlüpft sind",
-                "id": "10727"
-            }
-        },
-        {
-            "question": {
                 "text": "Möchten Sie eine Frage über tollen Sex oder eine Frage über die tolle Sechs gestellt bekommen?"
             },
             "id": "11614",
