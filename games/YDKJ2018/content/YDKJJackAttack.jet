@@ -8509,8 +8509,8 @@
 							"isCorrect": true
 						},
 						{
-							"text": "10 kg - Paket",
-							"isCorrect": true
+							"text": "100 kg - Paket",
+							"isCorrect": false
 						},
 						{
 							"text": "2 kg - Paket",
@@ -8581,14 +8581,14 @@
 					]
 				},
 				{
-					"title": "Spiel eines <i>Jackbox Party Packs</i> mit gerader Nummer",
+					"title": "Spiel eines <i>Jackbox Party Packs</i>",
 					"choices": [
 						{
 							"text": "<i>Weapons Drawn</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>You Don’t Know Jack: Full Stream</i>",
+							"text": "<i>You Don’t Know Jack: Full Mute</i>",
 							"isCorrect": false
 						},
 						{
@@ -8596,15 +8596,15 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Role Models</i>",
-							"isCorrect": true
+							"text": "<i>Word Spud 3</i>",
+							"isCorrect": false
 						},
 						{
 							"text": "<i>Monster Seeking Monster</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Nonsensory</i>",
+							"text": "<i>Trivial Mystery Party</i>",
 							"isCorrect": false
 						}
 					]
