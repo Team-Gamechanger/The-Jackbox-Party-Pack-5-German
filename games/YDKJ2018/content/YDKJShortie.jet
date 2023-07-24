@@ -464,7 +464,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, das unschuldige G klettert auf der Tonleiter. Welche Note würde sich am ehesten hinter ihr anschleichen?"
+                    "text": "Angenommen, das unschuldige G klettert auf der Tonleiter. Welche Note würde sich am ehesten hinter ihm anschleichen?"
                 }
             ]
         },
@@ -949,7 +949,7 @@
         {
             "id": "10027",
             "category": {
-                "text": "In Entwicklung"
+                "text": "Ein Star wird (irgendwann) geboren"
             },
             "choices": [
                 {
