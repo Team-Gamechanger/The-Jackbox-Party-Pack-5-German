@@ -1396,7 +1396,7 @@
                 }
             ],
             "disChoice": {
-                "longText": "Eine Form eines Videospiels ist",
+                "longText": "Eine Form eines Videospiels",
                 "shortText": "VIDEOSPIEL"
             },
             "datChoice": {
@@ -1551,7 +1551,7 @@
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "\u201cIch selbst kenne einige Menschen, die schwul sind.\u201d",
+                    "text": "\u201cIch kenne selbst einige Menschen, die schwul sind.\u201d",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -1576,7 +1576,7 @@
                 "shortText": "ELTON JOHN"
             },
             "datChoice": {
-                "longText": "Etwas, was Vladimir Putin gesagt hat",
+                "longText": "Etwas, was Wladimir Putin gesagt hat",
                 "shortText": "PUTIN"
             },
             "id": "11035",

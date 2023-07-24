@@ -143,7 +143,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Jedes Wort in seinem Wortschatz durch \u201cBallermann\" zu ersetzen",
+                    "text": "Jedes Wort in seinem Wortschatz durch \u201cBallermann\u201d zu ersetzen",
                     "isCorrect": false
                 },
                 {
@@ -160,7 +160,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was wäre ein Beispiel für \u201csemantische Sättigung\u201d unter Verwendung des Wortes \u201cBallermann\"?"
+                    "text": "Was wäre ein Beispiel für \u201csemantische Sättigung\u201d unter Verwendung des Wortes \u201cBallermann\u201d?"
                 }
             ]
         },
@@ -419,7 +419,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Der Druck Ihres Furzes",
+                    "text": "Den Druck Ihres Furzes",
                     "isCorrect": true
                 },
                 {
@@ -917,19 +917,19 @@
             },
             "choices": [
                 {
-                    "text": "Nein, ich trinke keine Gehirnflüssigkeit.",
+                    "text": "\u201cNein, ich trinke keine Gehirnflüssigkeit.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Nein, ich trinke keinen Speichel.",
+                    "text": "\u201cNein, ich trinke keinen Speichel.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Nein, ich trinke kein Blut.",
+                    "text": "\u201cNein, ich trinke kein Blut.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Nein, ich trinke keinen Magensaft.",
+                    "text": "\u201cNein, ich trinke keinen Magensaft.\u201d",
                     "isCorrect": true
                 }
             ],
@@ -1017,19 +1017,19 @@
             },
             "choices": [
                 {
-                    "text": "den steroidgepumpten Merkur",
+                    "text": "Den steroidgepumpten Merkur",
                     "isCorrect": false
                 },
                 {
-                    "text": "den aufgeblasenen Jupiter",
+                    "text": "Den aufgeblasenen Jupiter",
                     "isCorrect": true
                 },
                 {
-                    "text": "den meterbreiten Uranus",
+                    "text": "Den meterbreiten Uranus",
                     "isCorrect": false
                 },
                 {
-                    "text": "den imposanten Saturn",
+                    "text": "Den imposanten Saturn",
                     "isCorrect": false
                 }
             ],
@@ -1038,7 +1038,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Sie werden in der JVA Sonnensystem eingesperrt, und wollen sich dort schnell etablieren."
+                    "text": "Sie werden in der JVA Sonnensystem eingesperrt und wollen sich dort schnell etablieren."
                 },
                 {
                     "timing": "S + 5.00",
