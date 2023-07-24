@@ -575,6 +575,1365 @@
                     "text": "Wird von Ilja Richter gespielt."
                 }
             ]
+        },
+        {
+            "id": "10925",
+            "category": {
+                "text": "Typ = { Männlich, Komiker }"
+            },
+            "choices": [
+                {
+                    "text": "Atze Schröder",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Faisal Kawusi",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Michael Mittermeier",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Luke Mockridge",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201ctrends aus den neunzigern\u201d<br>"
+                },
+                {
+                    "timing": "S + 1.79",
+                    "text": "\u201cnightwash moderator werden\u201d<br>"
+                },
+                {
+                    "timing": "S + 3.62",
+                    "text": "\u201cwie shitstorm verhindern\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.57",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10926",
+            "category": {
+                "text": "Typ = { Schriftsteller, Archaisch }"
+            },
+            "choices": [
+                {
+                    "text": "Aristoteles",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nora Bossong",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sappho",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Theodor Fontane",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cgesucht: leierbegleitung für poesie\u201d<br>"
+                },
+                {
+                    "timing": "S + 3.25",
+                    "text": "\u201cgesucht: aktivitäten fürs exil\u201d<br>"
+                },
+                {
+                    "timing": "S + 6.51",
+                    "text": "\u201cgesucht: frauen für sex\u201d<br>"
+                },
+                {
+                    "timing": "S + 9.12",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10927",
+            "category": {
+                "text": "Typ = { Männlich, Entertainer }"
+            },
+            "choices": [
+                {
+                    "text": "Oliver Welke",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bernhard Ho\u00ebcker",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bastian Pastewka",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Christoph Maria Herbst",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cbrisko schneider\u201d<br>"
+                },
+                {
+                    "timing": "S + 1.33",
+                    "text": "\u201cdeutscher fernsehpreis moderieren wie\u201d<br>"
+                },
+                {
+                    "timing": "S + 3.66",
+                    "text": "\u201ceigene sitcom starten\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.47",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10928",
+            "category": {
+                "text": "Typ = { Männlich, Regisseur }"
+            },
+            "choices": [
+                {
+                    "text": "Steven Spielberg",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Roland Emmerich",
+                    "isCorrect": true
+                },
+                {
+                    "text": "M. Night Shyamalan",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Matti Geschonneck",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cmikrowellen strahlung gefährlich\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.27",
+                    "text": "\u201csind aliens echt?\u201d<br>"
+                },
+                {
+                    "timing": "S + 4.00",
+                    "text": "\u201cmaya weltuntergang jahr\u201d<br>"
+                },
+                {
+                    "timing": "S + 6.10",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10929",
+            "category": {
+                "text": "Typ = { Weiblich, Comedian }"
+            },
+            "choices": [
+                {
+                    "text": "Maren Kroymann",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Carolin Kebekus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Martina Hill",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Anke Engelke",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cheißen jugendliche noch larissa\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.53",
+                    "text": "\u201cpersonen parodieren kurs\u201d<br>"
+                },
+                {
+                    "timing": "S + 4.56",
+                    "text": "\u201cwie eigene show bei sat.1 bekommen\u201d<br>"
+                },
+                {
+                    "timing": "S + 7.59",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10930",
+            "category": {
+                "text": "Typ = { Männlich, Schauspieler }"
+            },
+            "choices": [
+                {
+                    "text": "Michael Fassbender",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Christoph Waltz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Arnold Schwarzenegger",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Christian Berkel",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cösterreichische staatsbürgerschaft erlangen\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.71",
+                    "text": "\u201cwie quentin tarantino beeindrucken\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.50",
+                    "text": "\u201cjames bond bösewicht werden\u201d<br>"
+                },
+                {
+                    "timing": "S + 7.51",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10931",
+            "category": {
+                "text": "Typ = { Weiblich, Schauspieler }"
+            },
+            "choices": [
+                {
+                    "text": "Maria Furtwängler",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Liv Lisa Fries",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Franka Potente",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karoline Herfurth",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cverkaufsstrategien mirabellen\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.13",
+                    "text": "\u201cworauf stehen Bundeskanzler\u201d<br>"
+                },
+                {
+                    "timing": "S + 4.23",
+                    "text": "\u201cwie bändigt man eine 10. klasse?\u201d<br>"
+                },
+                {
+                    "timing": "S + 6.91",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10932",
+            "category": {
+                "text": "Typ = { Männlich, Schauspieler }"
+            },
+            "choices": [
+                {
+                    "text": "Ulrich Tukur",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Moritz Bleibtreu",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Jan Josef Liefers",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jannis Niewöhner",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cstarb teilnehmer 77 beim stanford-prison-experiment?\u201d<br>"
+                },
+                {
+                    "timing": "S + 4.80",
+                    "text": "\u201cdefinition von schuld\u201d<br>"
+                },
+                {
+                    "timing": "S + 6.75",
+                    "text": "\u201cverursachen safrangelbe samthäubchen einen drogentrip\u201d<br>"
+                },
+                {
+                    "timing": "S + 10.76",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10933",
+            "category": {
+                "text": "Typ = { Männlich, Politiker }"
+            },
+            "choices": [
+                {
+                    "text": "Erich Honecker",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Jens Stoltenberg",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Michail Gorbatschow",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fidel Castro",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201caus einem frauengefängnis fliehen\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.21",
+                    "text": "\u201cwie den lenin-orden erhalten\u201d<br>"
+                },
+                {
+                    "timing": "S + 4.55",
+                    "text": "\u201cist leonid breschnew ein guter küsser?\u201d<br>"
+                },
+                {
+                    "timing": "S + 7.39",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10934",
+            "category": {
+                "text": "Typ = { Weiblich, Historisch }"
+            },
+            "choices": [
+                {
+                    "text": "Marie Curie",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jeanne d\u2019Arc",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Simone de Beauvoir",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Edith Piaf",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cC\u2019est la vie\u201d<br>"
+                },
+                {
+                    "timing": "S + 0.96",
+                    "text": "\u201cIch glaube\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.00",
+                    "text": "\u201cMein Herz brennt\u201d<br>"
+                },
+                {
+                    "timing": "S + 3.62",
+                    "text": "Wessen Playlist haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10935",
+            "category": {
+                "text": "Typ = { Männlich, Musiker }"
+            },
+            "choices": [
+                {
+                    "text": "Mickie Krause",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jürgen Drews",
+                    "isCorrect": true
+                },
+                {
+                    "text": "G. G. Anderson",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Matthias Reim",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cdarf man in kornfeldern schlafen\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.33",
+                    "text": "\u201cbaugenehmigung für ein schloss\u201d<br>"
+                },
+                {
+                    "timing": "S + 4.41",
+                    "text": "\u201cwie der könig von mallorca werden\u201d<br>"
+                },
+                {
+                    "timing": "S + 7.10",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10936",
+            "category": {
+                "text": "Typ = { Männlich, Entertainer }"
+            },
+            "choices": [
+                {
+                    "text": "Jan Böhmermann",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Thomas Gottschalk",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Klaas Heufer-Umlauf",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Daniel Aminati",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201ctürkischer präsident beleidigungen\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.33",
+                    "text": "\u201cvorsitzender einer volkspartei werden\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.02",
+                    "text": "\u201cwie ins hauptprogramm kommen\u201d<br>"
+                },
+                {
+                    "timing": "S + 7.00",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10937",
+            "category": {
+                "text": "Typ = { Weiblich, Promi }"
+            },
+            "choices": [
+                {
+                    "text": "Uschi Glas",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Michelle Hunziker",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Barbara Schöneberger",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ilka Bessin",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cdiadem mit blonder perücke kaufen\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.77",
+                    "text": "\u201cwie von der new york times porträtiert werden\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.86",
+                    "text": "\u201cwo bewerben für wetten dass co-moderation\u201d<br>"
+                },
+                {
+                    "timing": "S + 9.00",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10938",
+            "category": {
+                "text": "Typ = { Weiblich, Sänger }"
+            },
+            "choices": [
+                {
+                    "text": "Juliane Werding",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nina Hagen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sandra",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nena",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cgoogle übersetzer kleines mädchen katalanisch\u201d<br>"
+                },
+                {
+                    "timing": "S + 3.33",
+                    "text": "\u201camazon rote luftballons\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.63",
+                    "text": "\u201cvegane rezepte\u201d<br>"
+                },
+                {
+                    "timing": "S + 7.28",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10939",
+            "category": {
+                "text": "Typ = { Weiblich, D-Prominenz }"
+            },
+            "choices": [
+                {
+                    "text": "Carmen Geiss",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Daniela Katzenberger",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gina-Lisa Lohfink",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Verona Pooth",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cbewerbung germany\u2019s next topmodel\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.83",
+                    "text": "\u201cvon adelsfamilie adoptieren lassen\u201d<br>"
+                },
+                {
+                    "timing": "S + 5.82",
+                    "text": "\u201cgibt es mengenrabatt beim schönheitschirurg\u201d<br>"
+                },
+                {
+                    "timing": "S + 8.85",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10940",
+            "category": {
+                "text": "Typ = { Männlich, Rapper }"
+            },
+            "choices": [
+                {
+                    "text": "Bushido",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Shindy",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kollegah",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sido",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cJulian\u201d<br>"
+                },
+                {
+                    "timing": "S + 1.14",
+                    "text": "\u201cPaul\u201d<br>"
+                },
+                {
+                    "timing": "S + 1.99",
+                    "text": "\u201cSiggi\u201d<br>"
+                },
+                {
+                    "timing": "S + 3.01",
+                    "text": "Wer hat sich selbst gegoogelt?"
+                }
+            ]
+        },
+        {
+            "id": "10941",
+            "category": {
+                "text": "Typ = { Männlich, Sportler }"
+            },
+            "choices": [
+                {
+                    "text": "Dirk Nowitzki",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Boris Becker",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jan Ullrich",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Oliver Kahn",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "DATAMINING",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cachterbahn maximalgröße\u201d<br>"
+                },
+                {
+                    "timing": "S + 2.23",
+                    "text": "\u201cwie millionen in amerika machen\u201d<br>"
+                },
+                {
+                    "timing": "S + 4.80",
+                    "text": "\u201cwelcher song dibadibadu\u201d<br>"
+                },
+                {
+                    "timing": "S + 7.30",
+                    "text": "Wessen Suchverlauf haben wir erfasst?"
+                }
+            ]
+        },
+        {
+            "id": "10950",
+            "category": {
+                "text": "Wir haben immer ein offenes Ohr"
+            },
+            "choices": [
+                {
+                    "text": "<i>Die Verschwörung der Idioten<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Bridget Jones - Schokolade zum Frühstück<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Per Anhalter durch die Galaxis<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Der Vorleser<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie vor Kurzem \u201c42 Handtücher\u201d gekauft haben, interessieren Sie sich vielleicht für:"
+                }
+            ]
+        },
+        {
+            "id": "10951",
+            "category": {
+                "text": "Der Streamingdienst für Überflieger"
+            },
+            "choices": [
+                {
+                    "text": "<i>Shaun das Schaf<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Inspector Barnaby<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>The Office<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Sherlock<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie vor Kurzem nach einer Wegbeschreibung von Bristol nach Köln gesucht haben, spricht Sie vielleicht diese Sendung an:"
+                }
+            ]
+        },
+        {
+            "id": "10952",
+            "category": {
+                "text": "Krank vor Konsumentenzufriedenheit"
+            },
+            "choices": [
+                {
+                    "text": "<i>Auf der Reise ins Licht<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Ich will immer wieder … dieses Fieber spür\u2019n<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Herzbeben<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Das Karussell in meinem Bauch<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie vor Kurzem großes Interesse an dem Cotard-Syndrom gezeigt haben, könnte Sie vielleicht dieses Lied von Helene Fischer interessieren:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10953",
+            "category": {
+                "text": "Binjpipe bietet für jeden etwas"
+            },
+            "choices": [
+                {
+                    "text": "<i>Die Legende der Wächter<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Das Schweigen der Lämmer<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Pakt der Wölfe<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Gretel & Hänsel<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie familienfreundliche Filme ab 6 Jahren mögen, könnte Ihnen vielleicht dieser Film gefallen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10954",
+            "category": {
+                "text": "Märchenhaftes Preis-Leistungs-Verhältnis"
+            },
+            "choices": [
+                {
+                    "text": "Die Gründung eines Wasserballteams",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Gründung eines Volleyballteams",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Gründung eines Handballteams",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Gründung eines Basketballteams",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie die Märchen <i>Sechse kommen durch die ganze Welt<\/i>"
+                },
+                {
+                    "timing": "S + 3.25",
+                    "text": "und <i>Die sechs Schwäne<\/i> der Gebrüder Grimm mögen, könnte Ihnen vielleicht folgendes gefallen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10955",
+            "category": {
+                "text": "Wir wissen, was Sie am dringendsten brauchen"
+            },
+            "choices": [
+                {
+                    "text": "<i>Game of Thrones<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>The Walking Dead<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Westworld<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Breaking Bad<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie Serien genießen, die auf Filmen basieren, könnte Ihnen vielleicht diese Serie gefallen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10956",
+            "category": {
+                "text": "Sagenhafter Kundenservice"
+            },
+            "choices": [
+                {
+                    "text": "Die Sage des König Artus",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Sage des Germanen Arminius",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Sage des König Krösus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Nibelungensage",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Weil Sie <i>Die Ritter der Kokosnuß<\/i> gesehen haben, könnte Ihnen vielleicht diese Erzählung gefallen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10957",
+            "category": {
+                "text": "Wir kennen Sie"
+            },
+            "choices": [
+                {
+                    "text": "Seppl aus <i>Der Räuber Hotzenplotz<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karlsson aus <i>Karlsson vom Dach<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Emil Tischbein aus <i>Emil und die Detektive<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kleiner Bär aus <i>Oh wie schön ist Panama<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie in allen erdenklichen Situationen \u201cDas stört keinen großen Geist\u201d sagen, haben Sie viel mit dieser Kinderbuchfigur zusammen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10958",
+            "category": {
+                "text": "Grenzenloses Entertainmentangebot"
+            },
+            "choices": [
+                {
+                    "text": "Das Leben des Günter Schabowski",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das Leben des Karl Heinz Rummenigge",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Leben des Egon Krenz",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Leben des Pietro Lombardi",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Weil Sie Inhalte mögen, die nach meiner Kenntnis sofort - unverzüglich - erscheinen, empfehlen wir Ihnen folgende Sendung:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10959",
+            "category": {
+                "text": "Der Strom neuer Serien wird nie aufhören"
+            },
+            "choices": [
+                {
+                    "text": "Belastendes Braunschweig",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Peinliches Paderborn",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Erbärmliches Eisenach",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Wehmütiges Wernigerode",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie sich"
+                },
+                {
+                    "timing": "S + 0.99",
+                    "text": "- warum auch immer"
+                },
+                {
+                    "timing": "S + 2.83",
+                    "text": "- Dokumentationen über Sachsen-Anhalt angesehen haben, empfehlen wir Ihnen folgendes Buch:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10960",
+            "category": {
+                "text": "Haarsträubendes Actionfilm-Angebot"
+            },
+            "choices": [
+                {
+                    "text": "Alf",
+                    "isCorrect": true
+                },
+                {
+                    "text": "CHiPs",
+                    "isCorrect": false
+                },
+                {
+                    "text": "MacGyver",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Knight Rider",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie sich Sendungen angesehen haben, in denen Haartrockner das Leben eines Charakters nachhaltig beeinflussen, empfehlen wir Ihnen folgende Serie:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10961",
+            "category": {
+                "text": "Außergewöhnliche Raabatte"
+            },
+            "choices": [
+                {
+                    "text": "Gesangs-Castingshows",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Rhönrad-Sportsendungen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Promi-Pferderennen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Krimi-Improvisationssendungen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Weil Sie Sendungen von Stefan Raab lieben, könnten Ihnen auch diese Raab-Sendungen gefallen:"
+                },
+                {
+                    "timing": "S + 6.01",
+                    "text": "SSDSGPS & SSDSDSSWEMUGABRTLAD."
+                },
+                {
+                    "timing": "S + 15.71",
+                    "text": "Es sind..."
+                }
+            ]
+        },
+        {
+            
+            "id": "10962",
+            "category": {
+                "text": "Für (fast) jeden Geldbeutel das richtige Angebot"
+            },
+            "choices": [
+                {
+                    "text": "Geiziger Georgier",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Knausriger Kanadier",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sparsamer Serbe",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bankrotter Brasilianer",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Weil Sie für Binjpipe nicht mehr als 10 Real pro Monat bezahlen wollen, sind Sie vermutlich ein:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10963",
+            "category": {
+                "text": "Blockbuster am laufenden Band"
+            },
+            "choices": [
+                {
+                    "text": "<i>Die Geissens - Eine schrecklich glamouröse Familie<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Die Ludolfs - 4 Brüder auf'm Schrottplatz<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Die Reimanns - Ein außergewöhnliches Leben<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Die Wollnys - Eine schrecklich große Familie<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie fast jeden Tag Nudeln essen, empfehlen wir Ihnen folgende Doku-Soap:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10964",
+            "category": {
+                "text": "Der Streamingdienst, der Sie erfüllt"
+            },
+            "choices": [
+                {
+                    "text": "<i>Jurassic Park<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>The Last of Us<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Train to Busan<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>The Stand<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie gerne Pilze essen, schauen Sie doch eines dieser Programme, in dem Pilze Menschen essen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10965",
+            "category": {
+                "text": "Wir wissen, was Sie brauchen"
+            },
+            "choices": [
+                {
+                    "text": "<i>Sportschau<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Polizeiruf 110<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Das Sandmännchen<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Tagesschau<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Weil diese Sendung seit 1959 erfolgreich im ost- und westdeutschen Fernsehen läuft, könnte sie auch Ihnen gefallen:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10966",
+            "category": {
+                "text": "Unbegrenztes Streaming-Vergnügen auf Knopfdruck"
+            },
+            "choices": [
+                {
+                    "text": "<i>Dalli Dalli</i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Das Glücksrad</i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Wer wird Millionär?</i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Familien-Duell</i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Ihnen Spielshows gefallen, die im Jahr 1999 erstmals auftauchten, gefällt Ihnen vielleicht auch:"
+                }
+            ]
+        },
+        {
+            
+            "id": "10967",
+            "category": {
+                "text": "Ein atemberaubendes Angebot für atemberaubende Inhalte"
+            },
+            "choices": [
+                {
+                    "text": "Brokkoli",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Spargel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tomaten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Blumenkohl",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "BINJPIPE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da Sie Asparagusinsäure mögen, empfehlen wir Ihnen folgendes Gemüse:"
+                }
+            ]
         }
     ]
 }

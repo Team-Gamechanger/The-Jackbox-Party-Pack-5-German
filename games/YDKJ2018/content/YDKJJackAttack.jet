@@ -1305,7 +1305,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>The Jackbox Party Pack 5</i>",
+							"text": "<i>For Honor</i>",
 							"isCorrect": false
 						},
 						{
@@ -10802,7 +10802,7 @@
 		},
 		{
 			"id": "11460",
-			"title": "Die Vielschichtigkeit von Arealen",
+			"title": "Schicht im Schacht",
 			"prompts": [
 				{
 					"title": "Schichten der Erdatmosphäre",
@@ -10961,7 +10961,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Pizza",
+							"text": "Schweinshaxe",
 							"isCorrect": false
 						},
 						{

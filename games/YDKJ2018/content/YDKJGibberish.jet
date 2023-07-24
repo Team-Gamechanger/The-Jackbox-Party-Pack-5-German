@@ -309,7 +309,7 @@
                     "text": "In diesem Film dreht es sich um einen Bösewicht..."
                 },
                 {
-                    "text": "...der sein Herz an drei adoptierte Weisenkinder verliert."
+                    "text": "...der sein Herz an drei adoptierte Waisenkinder verliert."
                 },
                 {
                     "text": "<i>Facebook<\/i>-Gruppen lieben die gelben <i>Minions<\/i>, die in diesem Film debütierten."
@@ -425,7 +425,7 @@
                     "text": "Es handelt sich um eine Warnung..."
                 },
                 {
-                    "text": "...dass man nicht pausenlos Pausieren darf..."
+                    "text": "...dass man nicht pausenlos pausieren darf..."
                 },
                 {
                     "text": "...da man ansonsten körperlichen Schaden davontragen könnte."
@@ -749,10 +749,10 @@
             },
             "clues": [
                 {
-                    "text": "Es handelt sich um eine Reihe an Büchern..."
+                    "text": "Es handelt sich um eine Reihe an Comicbüchern..."
                 },
                 {
-                    "text": "...die sich um Comics für Kinder drehen."
+                    "text": "...aus dem Disney-Universum."
                 },
                 {
                     "text": "Sie sind urkomisch und im kompakten Format."
@@ -1152,7 +1152,7 @@
             },
             "clues": [
                 {
-                    "text": "Ein bekannter Held..."
+                    "text": "Es ist ein bekannter tierischer Held..."
                 },
                 {
                     "text": "...erschaffen von den Gebrüdern Grimm."

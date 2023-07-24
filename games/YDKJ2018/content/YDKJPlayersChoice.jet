@@ -2,6 +2,20 @@
     "content": [
         {
             "question": {
+                "text": "Möchten Sie eine Frage gestellt bekommen, die etwas Ruhe bereithält, oder eine Frage, die ständig unterbrochen wird?"
+            },
+            "id": "11600",
+            "choice1": {
+                "text": "eine Frage, die etwas Ruhe bereithält",
+                "id": "10700"
+            },
+            "choice2": {
+                "text": "eine Frage, die ständig unterbrochen wird",
+                "id": "10701"
+            }
+        },
+        {
+            "question": {
                 "text": "Möchten Sie eine Frage zum Raum oder eine Frage zur Zeit gestellt bekommen?"
             },
             "id": "11601",

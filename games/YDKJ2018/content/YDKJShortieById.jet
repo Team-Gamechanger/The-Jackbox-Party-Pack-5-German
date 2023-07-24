@@ -15,7 +15,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "die Vereinigten Staaten",
+                    "text": "Die Vereinigten Staaten",
                     "isCorrect": false
                 },
                 {
@@ -31,19 +31,19 @@
                     "text": "Wenn ich"
                 },
                 {
-                    "timing": "S + 4.97",
+                    "timing": "S + 5.51",
                     "text": "es satt hätte, dass"
                 },
                 {
-                    "timing": "S + 18.02",
+                    "timing": "S + 24.55",
                     "text": "Leute mich andauernd unterbrechen und"
                 },
                 {
-                    "timing": "S + 36.92",
+                    "timing": "S + 53.85",
                     "text": "ich in das Land mit der geringsten Bevölkerungsdichte der Welt ziehen wollen würde,"
                 },
                 {
-                    "timing": "S + 43.17",
+                    "timing": "S + 62.53",
                     "text": "wo müsste ich hingehen?"
                 }
             ]
@@ -55,7 +55,7 @@
             },
             "choices": [
                 {
-                    "text": "Till Lindemann",
+                    "text": "Campino",
                     "isCorrect": false
                 },
                 {
@@ -72,7 +72,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
