@@ -1475,19 +1475,19 @@
             },
             "choices": [
                 {
-                    "text": "Ein Fischbrötchen im Nordsee",
+                    "text": "Ein Fischbrötchen im <i>Nordsee<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "Chicken Wings bei KFC",
+                    "text": "Chicken Wings bei <i>KFC<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Einen Hamburger im McDonald\u2019s",
+                    "text": "Einen Hamburger im <i>McDonald\u2019s<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ein Sandwich bei Subway",
+                    "text": "Ein Sandwich bei <i>Subway<\/i>",
                     "isCorrect": false
                 }
             ],

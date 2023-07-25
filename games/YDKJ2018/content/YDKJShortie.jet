@@ -143,7 +143,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Jedes Wort in seinem Wortschatz durch \u201cBallermann\" zu ersetzen",
+                    "text": "Jedes Wort in seinem Wortschatz durch \u201cBallermann\u201d zu ersetzen",
                     "isCorrect": false
                 },
                 {
@@ -160,7 +160,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was wäre ein Beispiel für \u201csemantische Sättigung\u201d unter Verwendung des Wortes \u201cBallermann\"?"
+                    "text": "Was wäre ein Beispiel für \u201csemantische Sättigung\u201d unter Verwendung des Wortes \u201cBallermann\u201d?"
                 }
             ]
         },
@@ -419,7 +419,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Der Druck Ihres Furzes",
+                    "text": "Den Druck Ihres Furzes",
                     "isCorrect": true
                 },
                 {
@@ -464,7 +464,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, das unschuldige G klettert auf der Tonleiter. Welche Note würde sich am ehesten hinter ihr anschleichen?"
+                    "text": "Angenommen, das unschuldige G klettert auf der Tonleiter. Welche Note würde sich am ehesten hinter ihm anschleichen?"
                 }
             ]
         },
@@ -640,7 +640,6 @@
                     "isCorrect": false
                 },
                 {
-                    "best": true,
                     "text": "Nur eins",
                     "isCorrect": false
                 },
@@ -917,19 +916,19 @@
             },
             "choices": [
                 {
-                    "text": "Nein, ich trinke keine Gehirnflüssigkeit.",
+                    "text": "\u201cNein, ich trinke keine Gehirnflüssigkeit.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Nein, ich trinke keinen Speichel.",
+                    "text": "\u201cNein, ich trinke keinen Speichel.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Nein, ich trinke kein Blut.",
+                    "text": "\u201cNein, ich trinke kein Blut.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Nein, ich trinke keinen Magensaft.",
+                    "text": "\u201cNein, ich trinke keinen Magensaft.\u201d",
                     "isCorrect": true
                 }
             ],
@@ -949,7 +948,7 @@
         {
             "id": "10027",
             "category": {
-                "text": "In Entwicklung"
+                "text": "Ein Star wird (irgendwann) geboren"
             },
             "choices": [
                 {
@@ -1017,19 +1016,19 @@
             },
             "choices": [
                 {
-                    "text": "den steroidgepumpten Merkur",
+                    "text": "Den steroidgepumpten Merkur",
                     "isCorrect": false
                 },
                 {
-                    "text": "den aufgeblasenen Jupiter",
+                    "text": "Den aufgeblasenen Jupiter",
                     "isCorrect": true
                 },
                 {
-                    "text": "den meterbreiten Uranus",
+                    "text": "Den meterbreiten Uranus",
                     "isCorrect": false
                 },
                 {
-                    "text": "den imposanten Saturn",
+                    "text": "Den imposanten Saturn",
                     "isCorrect": false
                 }
             ],
@@ -1038,11 +1037,409 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Sie werden in der JVA Sonnensystem eingesperrt, und wollen sich dort schnell etablieren."
+                    "text": "Sie werden in der JVA Sonnensystem eingesperrt und wollen sich dort schnell etablieren."
                 },
                 {
                     "timing": "S + 5.00",
                     "text": "Wenn Sie nach dem Volumen gehen, wen sollten Sie schlagen?"
+                }
+            ]
+        },
+        {
+            "id": "10030",
+            "category": {
+                "text": "Zählt das noch als Zölibat?"
+            },
+            "choices": [
+                {
+                    "text": "\u201cNunja, ich kriege bestimmt schon lange vor dem Sonnenuntergang Hunger...\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cSechs Stunden Stille? Das könnte ich niemals durchhalten, tut mir Leid!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cNein, danke, ich habe heute früh schon gebetet.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cAlso bitte! Meine Kinder sind in der Nähe!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Dort angekommen spricht Sie gleich ein Mönch an und fragt Sie, ob Sie an einer \u201cSext\u201d teilnehmen wollen."
+                },
+                {
+                    "timing": "S + 5.47",
+                    "text": "Wie könnten Sie diese Frage am taktvollsten verneinen?"
+                }
+            ]
+        },
+        {
+            "id": "10032",
+            "category": {
+                "text": "Urin mit Kohlensäure"
+            },
+            "choices": [
+                {
+                    "text": "2,4 Dosen Super Sours Green Apple",
+                    "isCorrect": true
+                },
+                {
+                    "text": "5,8 Dosen Punched Guava",
+                    "isCorrect": false
+                },
+                {
+                    "text": "8,6 Dosen Ultra Fiesta",
+                    "isCorrect": false
+                },
+                {
+                    "text": "11 Dosen Organic Strawberry",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie viele 250 ml Dosen Rockstar Energy könnte meine Blase ungefähr auf einmal aufnehmen?"
+                }
+            ]
+        },
+        {
+            "id": "10033",
+            "category": {
+                "text": "Theaterreifer Abgang"
+            },
+            "choices": [
+                {
+                    "text": "Sie springt mit einem Bein voran",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sie dreht sich auf einem Bein",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie tippt schnell mit einem Fuß auf den Boden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie wird von ihrem Partner hochgehalten",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Ihre Mitbewohnerin, welche eine Ballerina ist, sagt, sie sei spät dran und müsse sich schnell im \u201cJeté\u201d wegbewegen."
+                },
+                {
+                    "timing": "S + 6.36",
+                    "text": "Wie verlässt sie die Wohnung?"
+                }
+            ]
+        },
+        {
+            "id": "10034",
+            "category": {
+                "text": "Wo kein Papst, da kein Richter"
+            },
+            "choices": [
+                {
+                    "text": "Hamlet_NichtVergessen.pdf",
+                    "isCorrect": false
+                },
+                {
+                    "text": "DieWAHRHEIT_UeberDieSonne_Galileo.doc",
+                    "isCorrect": true
+                },
+                {
+                    "text": "!Rembrandt_JudasGemaelde!.jpeg",
+                    "isCorrect": false
+                },
+                {
+                    "text": "LutherBibel_RohUnzensiert.wav",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn es um 1600 schon Computer gegeben hätte, welche dieser Dateien würde in den Büros der katholischen Kirche wohl schnell zur fristlosen Kündigung geführt haben?"
+                }
+            ]
+        },
+        {
+            "id": "10035",
+            "category": {
+                "text": "Mein Lieblingsinstrument ist der Laptop"
+            },
+            "choices": [
+                {
+                    "text": "Diplo droppt den Beat aus der Mesosphäre",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Marshmello droppt den Beat aus der Stratosphäre",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Calvin Harris droppt den Beat aus der Troposphäre",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zedd droppt den Beat aus der Thermosphäre",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher EDM-DJ macht, gemessen an der Höhe, den höchsten Beat-Drop?"
+                }
+            ]
+        },
+        {
+            "id": "10036",
+            "category": {
+                "text": "Große Geschichte & kleine Malheurs"
+            },
+            "choices": [
+                {
+                    "text": "Sein Zugpferd würde zertrampelt werden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Knochen in seinem Ohr würde zerschmettert werden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er würde sein Wahlrecht verlieren",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sein kleiner Zeh würde abgeschnitten werden",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was würde passieren, wenn General Maximus im Kolosseum seinen \u201cMinimus\u201d verliert?"
+                }
+            ]
+        },
+        {
+            "id": "10037",
+            "category": {
+                "text": "Schau mir in all meine Augen gleichzeitig, Kleines"
+            },
+            "choices": [
+                {
+                    "text": "Das Schicksal des HUMMERS",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Schicksal des CHAMÄLEONS",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Schicksal des SEESTERNS",
+                    "isCorrect": false,
+                    "best": true
+                },
+                {
+                    "text": "Das Schicksal der FLUNDER",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Beide Ihre Augen sind nun auf der gleichen Seite Ihres Gesichts. Das Schicksal welchen Tieres haben Sie geteilt?"
+                }
+            ]
+        },
+        {
+            "id": "10038",
+            "category": {
+                "text": "Protestieren, bis der Elektriker kommt"
+            },
+            "choices": [
+                {
+                    "text": "\u201cWas wollen wir? Volt! Wann wollen wir es? Jetzt!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cWas wollen wir? Ohm! Wann wollen wir es? Jetzt!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cWas wollen wir? Coulomb! Wann wollen wir es? Jetzt!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cWas wollen wir? Ampere! Wann wollen wir es? Jetzt!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn eine Gruppe von Klima-Demonstranten möglichst viel Widerstand ausüben möchte, was sollte sie auf ihren Märschen am ehesten lauthals ausrufen?"
+                }
+            ]
+        },
+        {
+            "id": "10039",
+            "category": {
+                "text": "Tiergeräusche mit Interpretationsspielraum"
+            },
+            "choices": [
+                {
+                    "text": "Erdnuss! Erdnuss!",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Vorhaut! Vorhaut!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Drehbuch! Drehbuch!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Küss mich! Küss mich!",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Hört ein Bosnier einen solchen Hahn in dieser Art krähen, wonach würde es sich für ihn in seiner Sprache anhören?"
+                }
+            ]
+        },
+        {
+            "id": "10040",
+            "category": {
+                "text": "Halb-Nacktbilder"
+            },
+            "choices": [
+                {
+                    "text": "\u201cVenus von Milo\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cMona Lisa\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDas Mädchen mit dem Perlenohrgehänge\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDie Büste der Nofretete\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welches Kunstwerk braucht am dringendsten ein T-Shirt von Zara?"
+                }
+            ]
+        },
+        {
+            "id": "10042",
+            "category": {
+                "text": "Zeitgleiche Beliebtheit"
+            },
+            "choices": [
+                {
+                    "text": "1972 und 1972",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1988 und 1988",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1996 und 1996",
+                    "isCorrect": true
+                },
+                {
+                    "best": true,
+                    "text": "2004 und ich schaue die Olympischen Spiele nicht, weil sie langweilig sind",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Teil 1: In welchem Jahr wurde Beachvolleyball eine offizielle olympische Sportart?<br>"
+                },
+                {
+                    "timing": "S + 5.77",
+                    "text": "Teil 2: In welchem Jahr habe ich angefangen, regelmäßig die Olympischen Spiele zu verfolgen?"
+                }
+            ]
+        },
+        {
+            "id": "10119",
+            "category": {
+                "text": "Et tu, mysteriöses, schwebendes Messer?"
+            },
+            "choices": [
+                {
+                    "text": "\u201cVeni, Vici.\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cVeni, Vidi.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cVidi, Vici.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cVeni, Vidi, Vici.\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was könnte Julius Cäsar nach seinem Sieg über die Armee des unsichtbaren Mannes richtigerweise sagen?"
                 }
             ]
         }
