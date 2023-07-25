@@ -5817,7 +5817,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Dr. Jonathan Cran",
+							"text": "Dr. Jonathan Crane",
 							"isCorrect": true
 						}
 					]
@@ -5910,7 +5910,7 @@
 					]
 				},
 				{
-					"title": "Team von “Bob der Baumeister“",
+					"title": "Team von <i>Bob der Baumeister<\/i>",
 					"choices": [
 						{
 							"text": "Wendy",
