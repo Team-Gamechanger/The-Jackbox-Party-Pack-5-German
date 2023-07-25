@@ -1671,19 +1671,19 @@
             },
             "choices": [
                 {
-                    "text": "<i>Alf</i>",
+                    "text": "<i>Alf<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>CHiPs</i>",
+                    "text": "<i>CHiPs<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>MacGyver</i>",
+                    "text": "<i>MacGyver<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Knight Rider</i>",
+                    "text": "<i>Knight Rider<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -1877,19 +1877,19 @@
             },
             "choices": [
                 {
-                    "text": "<i>Dalli Dalli</i>",
+                    "text": "<i>Dalli Dalli<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Das Glücksrad</i>",
+                    "text": "<i>Das Glücksrad<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Wer wird Millionär?</i>",
+                    "text": "<i>Wer wird Millionär?<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>Familien-Duell</i>",
+                    "text": "<i>Familien-Duell<\/i>",
                     "isCorrect": false
                 }
             ],
