@@ -1395,19 +1395,19 @@
             },
             "choices": [
                 {
-                    "text": "<i>Auf der Reise ins Licht<\/i>",
+                    "text": "\u201cAuf der Reise ins Licht\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>Ich will immer wieder … dieses Fieber spür\u2019n<\/i>",
+                    "text": "\u201cIch will immer wieder … dieses Fieber spür\u2019n\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Herzbeben<\/i>",
+                    "text": "\u201cHerzbeben\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Das Karussell in meinem Bauch<\/i>",
+                    "text": "\u201cDas Karussell in meinem Bauch\u201d",
                     "isCorrect": false
                 }
             ],
@@ -1655,11 +1655,11 @@
                 },
                 {
                     "timing": "S + 0.99",
-                    "text": "- warum auch immer"
+                    "text": "- warum auch immer -"
                 },
                 {
                     "timing": "S + 2.83",
-                    "text": "- Dokumentationen über Sachsen-Anhalt angesehen haben, empfehlen wir Ihnen folgendes Buch:"
+                    "text": "Dokumentationen über Sachsen-Anhalt angesehen haben, empfehlen wir Ihnen folgendes Buch:"
                 }
             ]
         },
@@ -1671,19 +1671,19 @@
             },
             "choices": [
                 {
-                    "text": "Alf",
+                    "text": "<i>Alf<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "CHiPs",
+                    "text": "<i>CHiPs<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "MacGyver",
+                    "text": "<i>MacGyver<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Knight Rider",
+                    "text": "<i>Knight Rider<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -1849,11 +1849,11 @@
                 },
                 {
                     "text": "<i>Polizeiruf 110<\/i>",
-                    "isCorrect": true
+                    "isCorrect": false
                 },
                 {
                     "text": "<i>Das Sandmännchen<\/i>",
-                    "isCorrect": false
+                    "isCorrect": true
                 },
                 {
                     "text": "<i>Tagesschau<\/i>",
@@ -1877,19 +1877,19 @@
             },
             "choices": [
                 {
-                    "text": "<i>Dalli Dalli</i>",
+                    "text": "<i>Dalli Dalli<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Das Glücksrad</i>",
+                    "text": "<i>Das Glücksrad<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Wer wird Millionär?</i>",
+                    "text": "<i>Wer wird Millionär?<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>Familien-Duell</i>",
+                    "text": "<i>Familien-Duell<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -1915,11 +1915,11 @@
                 },
                 {
                     "text": "Spargel",
-                    "isCorrect": false
+                    "isCorrect": true
                 },
                 {
                     "text": "Tomaten",
-                    "isCorrect": true
+                    "isCorrect": false
                 },
                 {
                     "text": "Blumenkohl",
