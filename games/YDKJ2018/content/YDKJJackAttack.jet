@@ -4060,10 +4060,10 @@
 						},
 						{
 							"text": "TypeScript",
-							"isCorrect": true
+							"isCorrect": false
 						},
 						{
-							"text": "HTML",
+							"text": "CSS",
 							"isCorrect": false
 						},
 						{
