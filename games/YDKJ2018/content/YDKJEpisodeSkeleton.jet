@@ -931,7 +931,7 @@
             "minEpisodes": 0
         },
         {
-            "commercialImage": "None",
+            "commercialImage": "",
             "questions": [
                 {
                     "num": 0,
@@ -3101,7 +3101,7 @@
             "minEpisodes": 6
         },
         {
-            "commercialImage": "None",
+            "commercialImage": "",
             "questions": [
                 {
                     "num": 0,
@@ -3159,7 +3159,7 @@
                     "type": "JackAttack"
                 }
             ],
-            "id": "52340",
+            "id": "12050",
             "minEpisodes": 0
         },
         {

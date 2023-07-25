@@ -640,7 +640,6 @@
                     "isCorrect": false
                 },
                 {
-                    "best": true,
                     "text": "Nur eins",
                     "isCorrect": false
                 },
@@ -1074,7 +1073,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Dort angekommen spricht Sie gleich ein Mönch an und fragt Sie, ob Sie an einer \u201cSext\u201d teilnehmen wollen. Wie könnten Sie diese Frage am taktvollsten verneinen?"
+                    "text": "Dort angekommen spricht Sie gleich ein Mönch an und fragt Sie, ob Sie an einer \u201cSext\u201d teilnehmen wollen."
+                },
+                {
+                    "timing": "S + 5.47",
+                    "text": "Wie könnten Sie diese Frage am taktvollsten verneinen?"
                 }
             ]
         },
@@ -1173,7 +1176,7 @@
                     "text": "Ihre Mitbewohnerin, welche eine Ballerina ist, sagt, sie sei spät dran und müsse sich schnell im \u201cJeté\u201d wegbewegen."
                 },
                 {
-                    "timing": "S + 5.45",
+                    "timing": "S + 6.36",
                     "text": "Wie verlässt sie die Wohnung?"
                 }
             ]
@@ -1234,7 +1237,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -1290,7 +1293,8 @@
                 },
                 {
                     "text": "Das Schicksal des SEESTERNS",
-                    "isCorrect": false
+                    "isCorrect": false,
+                    "best": true
                 },
                 {
                     "text": "Das Schicksal der FLUNDER",
@@ -1298,7 +1302,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -1330,7 +1334,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
