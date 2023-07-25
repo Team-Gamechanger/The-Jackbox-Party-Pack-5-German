@@ -364,7 +364,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Hätte Dan Brown eine Fortsetzung zu \u201cThe Da Vinci Code\u201d geschrieben, die den Namen \u201cThe Da MLINCI Code\u201d trägt, worum ginge es dann in diesem Buch?"
+                    "text": "Hätte Dan Brown eine Fortsetzung zu <i>The Da Vinci Code<\/i> geschrieben, die den Namen <i>The Da MLINCI Code<\/i> trägt, worum ginge es dann in diesem Buch?"
                 }
             ]
         },
@@ -744,7 +744,7 @@
         {
             "id": "10021",
             "category": {
-                "text": "Hochfliegende Räusche & Abstürzende Zahlen"
+                "text": "Hochfliegende Räusche & abstürzende Zahlen"
             },
             "choices": [
                 {
@@ -1173,7 +1173,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Ihre Mitbewohnerin, welche eine Ballerina ist, sagt, sie sei spät dran und müsse sich schnell im \u201cJeté\u201d wegbewegen."
+                    "text": "Ihre Mitbewohnerin, die eine Ballerina ist, sagt, sie sei spät dran und müsse sich schnell im \u201cJeté\u201d wegbewegen."
                 },
                 {
                     "timing": "S + 6.36",
@@ -1241,14 +1241,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher EDM-DJ macht, gemessen an der Höhe, den höchsten Beat-Drop?"
+                    "text": "Welcher EDM-DJ droppt, gemessen an der Höhe, den höchsten Beat-Drop?"
                 }
             ]
         },
         {
             "id": "10036",
             "category": {
-                "text": "Große Geschichte & kleine Malheurs"
+                "text": "Große Geschichten & kleine Malheurs"
             },
             "choices": [
                 {
@@ -1261,11 +1261,11 @@
                 },
                 {
                     "text": "Er würde sein Wahlrecht verlieren",
-                    "isCorrect": true
+                    "isCorrect": false
                 },
                 {
                     "text": "Sein kleiner Zeh würde abgeschnitten werden",
-                    "isCorrect": false
+                    "isCorrect": true
                 }
             ],
             "bumper": "NONE",

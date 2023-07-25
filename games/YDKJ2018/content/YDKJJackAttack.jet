@@ -4766,7 +4766,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Assassin's Creed</i>",
+							"text": "<i>Assassin\2019s Creed</i>",
 							"isCorrect": true
 						}
 					]
@@ -4808,7 +4808,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Die nackte Kanone 33 ⅓</i>",
+							"text": "<i>Die nackte Kanone 33 1/3</i>",
 							"isCorrect": true
 						},
 						{
