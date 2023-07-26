@@ -1430,7 +1430,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -1506,11 +1506,11 @@
                     "text": "Ein mit einer Axt bewaffneter Verrückter zerhackt meine Tür"
                 },
                 {
-                    "timing": "S + 4.13",
+                    "timing": "S + 420.69",
                     "text": "Genau wie in dem Film <i>Shining<\/i>."
                 },
                 {
-                    "timing": "S + 5.88",
+                    "timing": "S + 420.69",
                     "text": "Nur dort war es..."
                 }
             ]
@@ -1642,7 +1642,7 @@
                     "text": "Beim Durchsuchen Ihrer iPhone-Emojis werden Sie von der \u201cSymbole\u201d-Kategorie so richtig abgetan und wischen schnell nach links, bis es nicht mehr geht."
                 },
                 {
-                    "timing": "S + 7.40",
+                    "timing": "S + 420.69",
                     "text": "Welche sexy Emoji-Gruppe sehen Sie sich jetzt an?"
                 }
             ]
@@ -1782,19 +1782,19 @@
             },
             "choices": [
                 {
-                    "text": "Ich bin tot",
+                    "text": "\u201cbringt mich bitte einer um <_<\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ich schreie",
+                    "text": "\u201cAAAAAA ICH SCHREIEEE\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "Ich weine",
+                    "text": "\u201ckann nur noch weinen ;_;\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ich bin schockiert",
+                    "text": "\u201cbin so verliebt *ü*\u201d",
                     "isCorrect": false
                 }
             ],
@@ -1910,28 +1910,28 @@
             },
             "choices": [
                 {
-                    "text": "\u201cSiri, sag Cortana, sie soll das Licht ausschalten.\u201d",
+                    "text": "\u201cSiri, sag Cortana, sie soll Eliza ausschalten.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cAlexa, sag Siri, sie soll die Musik leiser machen.\u201d",
+                    "text": "\u201cAlexa, sag Siri, sie soll Cortana herunterfahren.\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cCortana, sag Alexa, sie soll das Radio einschalten.\u201d",
+                    "text": "\u201cCortana, sag Alexa, sie soll Siri abknipsen.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cAlexa, sag Google Assistant, dass er sich mal mehr anstrengen soll.\u201d",
+                    "text": "\u201cAlexa, sag Google, dass er Cortana loswerden soll.\u201d",
                     "isCorrect": false
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was muss ich sagen, wenn ich möchte, dass mein Amazon Echo meinem iPhone sagt, dass es etwas tun soll?"
+                    "text": "Was muss ich sagen, wenn ich möchte, dass mein Amazon Echo meinem iPhone sagt, dass es meinen Windows-10-Computer ausschalten soll?"
                 }
             ]
         },
@@ -2023,7 +2023,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2055,7 +2055,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2087,7 +2087,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2158,7 +2158,7 @@
                     "text": "Ich: Klar bin ich polydaktyl, aber das macht mich nicht aus.<br>"
                 },
                 {
-                    "timing": "S + 3.48",
+                    "timing": "S + 420.69",
                     "text": "Auch ich:"
                 }
             ]
@@ -2247,7 +2247,8 @@
                 },
                 {
                     "text": "\u201cDrücken Sie A und B gleichzeitig, um die Nabelschnur zu durchtrennen\u201d",
-                    "isCorrect": false
+                    "isCorrect": false,
+                    "best": true
                 }
             ],
             "bumper": "NONE",
@@ -2258,7 +2259,7 @@
                     "text": "Angenommen, es gäbe ein Videospiel, bei dem das Ziel des Spielers darin besteht, die Wehen erfolgreich zu überstehen."
                 },
                 {
-                    "timing": "S + 5.10",
+                    "timing": "S + 420.69",
                     "text": "Welche Anweisungen würden im DRITTEN LEVEL des Spiels angezeigt werden?"
                 }
             ]
@@ -2287,7 +2288,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2319,14 +2320,14 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
                     "text": "Angenommen, Sie hätten in einem Faustkampf gegen ein Baby verloren."
                 },
                 {
-                    "timing": "S + 5.50",
+                    "timing": "S + 420.69",
                     "text": "Mit welcher Ausrede könnten Sie versuchen, wenigstens noch einen Bruchteil Ihrer zertrümmerten Würde noch zu retten?"
                 }
             ]
@@ -2490,11 +2491,11 @@
                     "text": "Wenn. Sie. Mir. Nicht. Sagen. Können. Wie. Oft. Ich. Bei. Dieser. Frage. Geklatscht. Habe."
                 },
                 {
-                    "timing": "S + 7.92",
+                    "timing": "S + 420.69",
                     "text": "Bekommen. Sie. Kein. Geld."
                 },
                 {
-                    "timing": "S + 13.75",
+                    "timing": "S + 420.69",
                     "text": "Und?"
                 }
             ]
@@ -2555,7 +2556,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2651,7 +2652,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2683,7 +2684,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2715,7 +2716,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2747,7 +2748,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2822,7 +2823,7 @@
         {
             "id": "10084",
             "category": {
-                "text": "Er-BIER-mliche Mengen Bier"
+                "text": "Ein Fall für den Verbraucherschutz"
             },
             "choices": [
                 {
@@ -2843,7 +2844,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2914,7 +2915,7 @@
                     "text": "Angenommen, Sie planen einen Männerabend mit nur einem Ziel: Den ganzen Tag nur SAUFEN."
                 },
                 {
-                    "timing": "S + 5.39",
+                    "timing": "S + 420.69",
                     "text": "An welchem dieser Reiseziele können Sie, gemessen an der Länge der Tage, am längsten Alkohol konsumierern?"
                 }
             ]
@@ -2975,7 +2976,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -3022,19 +3023,19 @@
             },
             "choices": [
                 {
-                    "text": "Er/Sie singt nur bei Sonnenaufgang",
+                    "text": "Er singt nur bei Sonnenaufgang",
                     "isCorrect": false
                 },
                 {
-                    "text": "Er/Sie würde höchstens 25 Jahre alt werden",
+                    "text": "Er würde höchstens 25 Jahre alt werden",
                     "isCorrect": false
                 },
                 {
-                    "text": "Er/Sie hätte einen ungewöhnlich großen Schnabel",
+                    "text": "Er hätte einen ungewöhnlich großen Schnabel",
                     "isCorrect": false
                 },
                 {
-                    "text": "Er/Sie würde die Stimmen und Songs anderer Sänger imitieren",
+                    "text": "Er würde die Stimmen und Songs anderer Sänger imitieren",
                     "isCorrect": true
                 }
             ],
@@ -3046,7 +3047,7 @@
                     "text": "Angenommen, eine unglückliche Fehlinterpretation würde dafür sorgen, dass RTL nächstes Jahr <i>Deutschland sucht den Super-Star<\/i> produziert, bei der die Jury den besten Singvogel sucht."
                 },
                 {
-                    "timing": "S + 8.25",
+                    "timing": "S + 420.69",
                     "text": "Welches Merkmal würde den Sieger vermutlich auszeichnen?"
                 }
             ]
@@ -3082,7 +3083,7 @@
                     "text": "Was ist die höchste Sternebewertung, die ein Polizist im gehobenen Polizeivollzugsdienst bekommen kann"
                 },
                 {
-                    "timing": "S + 3.81",
+                    "timing": "S + 420.69",
                     "text": "\u2026 auf Yelp?"
                 }
             ]
@@ -3135,15 +3136,15 @@
                 },
                 {
                     "text": "Die Südspitze von Südtirol",
-                    "isCorrect": false
+                    "isCorrect": true
                 },
                 {
-                    "text": "Die Südspitze von Köln Süd",
-                    "isCorrect": true
+                    "text": "Die Südspitze von Südsudan",
+                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -3207,14 +3208,14 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
                     "text": "Wenn die Summe aus 6 köstlichen Frikadellen und 2 scharfen Klößen 8 Köstlichkeiten ergeben..."
                 },
                 {
-                    "timing": "S + 5.78",
+                    "timing": "S + 420.69",
                     "text": "was wäre das PRODUKT?"
                 }
             ]
@@ -3250,7 +3251,7 @@
                     "text": "Jemand hat die ikonischen Drehstühle sabotiert, die sich prompt so schnell drehen, wie die Erde. "
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Was würde bei der nächsten Ausgabe von <i>The Voice of Germany<\/i> über die deutschen Bildschirme flimmern?"
                 }
             ]
@@ -3279,7 +3280,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -3471,7 +3472,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -3578,7 +3579,7 @@
         {
             "id": "10107",
             "category": {
-                "text": "Unoriginelle Freunde & noch weniger originelle Filmideen"
+                "text": "Unoriginelle Freunde & Noch unoriginellere Filmideen"
             },
             "choices": [
                 {
@@ -3606,7 +3607,7 @@
                     "text": "Wie könnten Sie jemandem antworten, der mit folgender Idee für einen brandneuen Kinofilm auf Sie zukommt:"
                 },
                 {
-                    "timing": "S + 3.70",
+                    "timing": "S + 420.69",
                     "text": "\u201cDa gibt es diese Stadt, die perfekt zu sein scheint, aber alle Frauen sind Roboter!!!\u201d"
                 }
             ]
@@ -3619,19 +3620,19 @@
             "choices": [
                 {
                     "best": true,
-                    "text": "Rick und sein Großvater Morty",
+                    "text": "Rick und seinen Großvater Morty",
                     "isCorrect": false
                 },
                 {
-                    "text": "Rick und sein Onkel Morty",
+                    "text": "Rick und seinen Onkel Morty",
                     "isCorrect": false
                 },
                 {
-                    "text": "Rick und sein Vater Morty",
+                    "text": "Rick und seinen Vater Morty",
                     "isCorrect": false
                 },
                 {
-                    "text": "Morty und sein Großvater Rick",
+                    "text": "Morty und seinen Großvater Rick",
                     "isCorrect": true
                 }
             ],
@@ -3835,7 +3836,7 @@
                     "text": "Stellen Sie sich vor, Sie machen einen Filmabend mit Mathematikern und schlagen den Film <i>Matrix<\/i> vor."
                 },
                 {
-                    "timing": "S + 3.00",
+                    "timing": "S + 420.69",
                     "text": "Was würde jeder Ihrer Gäste gleichzeitig antworten?"
                 }
             ]
@@ -3896,7 +3897,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -3967,7 +3968,7 @@
                     "text": "Stellen Sie sich vor, das erste Wort ihres Babys wäre \u201ceine künstlerische und literarische Bewegung, die 1916 in Zürich begründet wurde und sich durch Ablehnung \u2019konventioneller\u2019 Kunst und Kunstformen und bürgerlicher Ideale auszeichnet.\u201d"
                 },
                 {
-                    "timing": "S + 3.00",
+                    "timing": "S + 420.69",
                     "text": "Was versucht ihr Baby wohl zu sagen?"
                 }
             ]
@@ -4476,7 +4477,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -4508,7 +4509,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -4803,7 +4804,7 @@
                     "text": "Angenommen, Bart Simpson beschließt, mit seiner Steinschleuder auf Autoritätspersonen loszugehen."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Was könnte passieren, wenn er sich dabei an die Erzählung von David und Goliath hält?"
                 }
             ]
@@ -4832,7 +4833,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -4903,7 +4904,7 @@
                     "text": "Angenommen, Hasbro bringt eine alternative Version des Spiels Monopoly raus, das den Namen \u201cOligopoly\u201d trägt."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Wie viele Gewinner würde es bei diesem Spiel geben?"
                 }
             ]
@@ -4971,7 +4972,7 @@
                     "text": "Wenn laut Udo Jürgens das Leben wirklich erst mit 66 Jahren anfängt,"
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "wer hat dann theoretisch nie gelebt?"
                 }
             ]
@@ -5007,7 +5008,7 @@
                     "text": "Angenommen, der Fisch kostet bei uns 5 Euro."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Was müssten Sie dann in Ungarn hinblättern?"
                 }
             ]
@@ -5107,7 +5108,7 @@
                     "text": "Statt <i>Joko und Klaas gegen ProSieben<\/i> flimmert plötzlich <i>Joko und Klaas gegen PROAVUS<\/i> über den Bildschirm."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Worum wird es in dieser Show wohl gehen?"
                 }
             ]
@@ -5143,7 +5144,7 @@
                     "text": "Angenommen, <i>ProSieben<\/i> setzt <i>TV Total<\/i> ab und sendet stattdessen fortan <i>TV Halbtotal<\/i>."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Was wird man dort wohl sehen?"
                 }
             ]
@@ -5179,11 +5180,11 @@
                     "text": "Stellen Sie sich vor, Papst Franziskus und der Rest der katholischen Kirche kriegen sich faustdick in die Haare."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Man entschließt sich daraufhin, ohne Franziskus eine neue Kirche zu gründen."
                 },
                 {
-                    "timing": "S + 2.00",
+                    "timing": "S + 420.69",
                     "text": "Wie würde sich dieser Vorgang nennen?"
                 }
             ]
@@ -5251,7 +5252,7 @@
                     "text": "Angenommen, <i>AC/DC<\/i> startet eine solarbetriebene Wiedervereinigungs-Tournee."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Bedenkt man, in welcher Form Solarstrom üblicherweise produziert wird, wie sollte die Band sich passenderweise umbenennen?"
                 }
             ]
@@ -5319,7 +5320,7 @@
                     "text": "Denken Sie sich eine Zahl aus."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Irgendeine reelle Zahl."
                 }
             ]
@@ -5355,7 +5356,7 @@
                     "text": "Angenommen, Dänemark würde in den Namen des Landes die Währung integrieren."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Wie hieße das Land dann?"
                 }
             ]
@@ -5455,7 +5456,7 @@
                     "text": "Aufgrund der Tatsache, dass sie ihren Arm andauernd hochhält,"
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "welche Achseln der Freiheitsstatue in New York könnten gut etwas Deo gebrauchen?"
                 }
             ]
@@ -5523,7 +5524,7 @@
                     "text": "Stellen Sie sich vor, statt Fluorid befände sich in Ihrer neuen Mode-Zahnpasta Fluorit."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Welcher Werbeslogan würde dann passen?"
                 }
             ]
@@ -5559,7 +5560,7 @@
                     "text": "Angenommen die <i>Village People<\/i> gestalten zu ihrem Hit-Song \u201cY.M.C.A.\u201d eine spezielle You Don\u2019t Know Jack-Deluxe-Box!"
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Wie könnte man diese Box dann zutreffend bezeichnen, wenn sie im Vier-Farb-Druck produziert werden wird?"
                 }
             ]
@@ -5627,8 +5628,8 @@
                     "text": "\u201cEs dreht sich nicht alles nur um dich!\u201d"
                 },
                 {
-                    "timing": "S + 1.00",
-                    "text": "- Welcher Astronom würde dieser Aussage NICHT zustimmen?"
+                    "timing": "S + 420.69",
+                    "text": "Welcher Astronom würde dieser Aussage NICHT zustimmen?"
                 }
             ]
         },
@@ -5855,7 +5856,7 @@
                     "text": "Judith Williams verkauft Ihnen auf <i>HSE24<\/i> ihre neuesten Slipper aus echter Angorawolle."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Die Haare welchen Tieres schleppen Sie in Ihrer Intimregion mit sich herum?"
                 }
             ]
@@ -5955,7 +5956,7 @@
                     "text": "Angenommen die Schöpfer von <i>Crocs<\/i> veröffentlichten \u201cKroko-<i>Crocs<\/i>\u201d, eine Reihe gemütlicher Schuhe für Krokodile."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Würden diese Schuhe Platz für Zehen benötigen?"
                 }
             ]
@@ -5991,7 +5992,7 @@
                     "text": "Sie sind bei den Passionsspielen in Oberammergau und werfen vor Wut und Langeweile Passionsfrüchte auf die Schauspieler."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Wie würde der Hauptcharakter reagieren, wenn er in seiner Rolle bleiben würde?"
                 }
             ]
@@ -6027,11 +6028,11 @@
                     "text": "Sie entscheidet den Partner des Lebens mittels der höchst-wissenschaftlichen Untersuchung:"
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Wer hat den längeren"
                 },
                 {
-                    "timing": "S + 2.00",
+                    "timing": "S + 420.69",
                     "text": "Kirchturm?"
                 }
             ]
@@ -6067,7 +6068,7 @@
                     "text": "Stellen Sie sich vor, Carsten Stahl begibt sich auf Ahnenforschung."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Aus der Ehe welcher beiden Familien ist er vermutlich entstanden?"
                 }
             ]
@@ -6135,11 +6136,11 @@
                     "text": "Stellen Sie sich vor, die Band <i>Tokio Hotel<\/i> benennt sich nach der Hauptstadt Vietnams,"
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "und nächtigt in einem thailändisch dekorierten Zimmer einer indonesischen Hotelkette."
                 },
                 {
-                    "timing": "S + 2.00",
+                    "timing": "S + 420.69",
                     "text": "Wie könnte man dieses Szenario treffend beschreiben?"
                 }
             ]
@@ -6175,7 +6176,7 @@
                     "text": "Stellen Sie sich vor, dass Felix Baumgartner nach seinem Fallschirmsprung aus der Stratosphäre gedenkt, das noch einmal zu toppen und aus der nächsthöheren Erdsphäre springt."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Wie könnte dieses Unterfangen heißen?"
                 }
             ]
@@ -6211,7 +6212,7 @@
                     "text": "Beim Auftragen der Aloe-Vera-Creme stellen Sie sich dann aber die Frage:"
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "\u201cWomit reibe ich mich da eigentlich ein?\u201d"
                 }
             ]
@@ -6247,7 +6248,7 @@
                     "text": "Sie möchten während des exzessiven Genusses von <i>Ferrero Rocher<\/i> die Roche-Grenze überwinden."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Was müssen Sie dafür tun?"
                 }
             ]
@@ -6283,7 +6284,7 @@
                     "text": "Kurz vor seiner Ernennung als Gott der deutschen Fernsehmoderatoren wird Thomas Gottschalk auch noch zum Gott der Schalken ernannt."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Was ist er jetzt?"
                 }
             ]
@@ -6319,7 +6320,7 @@
                     "text": "Zur Feier dieses einmaligen Anlasses gönnen Sie sich einen echten Champagner."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Welche Steuer zahlen Sie dabei nicht?"
                 }
             ]
@@ -6355,7 +6356,7 @@
                     "text": "\u201cSind wir bald da?\u201d"
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "- Was könnte Charon, der die Familie aus der Unterwelt fährt, zutreffend antworten?"
                 }
             ]
@@ -6391,7 +6392,7 @@
                     "text": "Angenommen, Til Schweiger dreht ein Sequel zu <i>Keinohrhasen<\/i> und <i>Zweiohrküken<\/i>, bezeichnet den Film aber biologisch korrekt."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Wie könnte dieser heißen?"
                 }
             ]
@@ -6427,7 +6428,7 @@
                     "text": "Angenommen, in der <i>Bild der Frau<\/i> wären nur noch von Frauen erschaffene Kunstwerke zu sehen."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Welches dieser Kunstwerke wäre in der neuesten Ausgabe nicht zu finden?"
                 }
             ]
@@ -6463,7 +6464,7 @@
                     "text": "Stellen Sie sich vor, Nintendo serviert bei der nächsten Firmenfeier nur noch Speisen mit Bezug zu ihren Spielen."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Was sucht man vergebens auf dem Buffet?"
                 }
             ]
@@ -6563,7 +6564,7 @@
                     "text": "Angenommen, Florian Silbereisen veröffentlicht zur Abwechslung ein Metal-Album."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Wie könnte er seinen Namen korrekt abkürzen?"
                 }
             ]
@@ -6599,7 +6600,7 @@
                     "text": "Stellen Sie sich vor, die Frankfurter Börse wäre ein Zoo."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Was könnten sie am Bärengehege beobachten?"
                 }
             ]
@@ -6635,7 +6636,7 @@
                     "text": "Sie erheben Sich zu Wort und fordern lautstark die nach babylonischem Recht übliche Strafe für den Lügner."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Was rufen Sie?"
                 }
             ]
@@ -6671,7 +6672,7 @@
                     "text": "Statt eines normalen Steaks vom Bullen bietet man Ihnen dort eines von der goldenen Bulle an."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Was setzt man Ihnen vor?"
                 }
             ]
@@ -6707,7 +6708,7 @@
                     "text": "Bedenkt man die Wirkung des Vampir-Effekts,"
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "was würden die Zuschauer über die Werbung sagen?"
                 }
             ]
@@ -6839,7 +6840,7 @@
                     "text": "Angenommen, Sie wollen einen Taser zur Selbstverteidigung kaufen. Doch als Ihr Paket ankommt, stellen Sie fest, dass Sie stattdessen einen TASAR erhalten haben."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Was können Sie damit tun?"
                 }
             ]
@@ -6971,7 +6972,7 @@
                     "text": "Stellen Sie sich vor, <i>Käpt\u2019n Iglo<\/i> würde für seine Fischstäbchen seine Fischreste nicht panieren, sondern pikieren."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Was tut er mit dem Fisch?"
                 }
             ]
@@ -7071,7 +7072,7 @@
                     "text": "Nehmen wir an, Pluto gewinnt die Bürgermeisterwahl in Entenhausen."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 420.69",
                     "text": "Wenn er sich dazu entscheidet, Entenhausen zu einer \u201cPlutokratie\u201d zu machen, wer wäre dann <i>tatsächlich<\/i> an der Macht?"
                 }
             ]
