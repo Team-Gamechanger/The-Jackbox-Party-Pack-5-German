@@ -1682,32 +1682,32 @@
         {
             "id": "10049",
             "category": {
-                "text": "Das Wasser hat keine Form, THOMAS!"
+                "text": "Süße Tierchen und kalorienreiche Götter"
             },
             "choices": [
                 {
-                    "text": "Die Dichte des Wassers",
+                    "text": "<i>kinder Pingui<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Die Temperatur des Wassers",
+                    "text": "<i>kinder bueno<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Das Volumen des Wassers",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Die Masse des Wassers",
+                    "text": "<i>kinder Happy Hippo<\/i>",
                     "isCorrect": true
+                },
+                {
+                    "text": "<i>kinder Schoko-Bons<\/i>",
+                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": true,
+            "oneResponse": false,
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Sie ein sexy Monster hätten, das den ganzen Tag in Ihrer Badewanne sitzt, welche Eigenschaft könnte sich NICHT ändern?"
+                    "text": "Welches Produkt hätte der Süßwarenhersteller nach dem Wasserpferd von Poseidon benannt?"
                 }
             ]
         },
@@ -2535,32 +2535,36 @@
         {
             "id": "10075",
             "category": {
-                "text": "Na dann: Prost!"
+                "text": "Abakus Skywalker"
             },
             "choices": [
                 {
-                    "text": "Alkoholische Gärung",
+                    "text": "X = 0",
+                    "isCorrect": false
+                },
+                {
+                    "text": "X = 28",
                     "isCorrect": true
                 },
                 {
-                    "text": "Flüssigkeitskondensation",
+                    "text": "X = 42",
                     "isCorrect": false
                 },
                 {
-                    "text": "Schock-Kühlung",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Atmosphärischer Druck",
+                    "text": "X = C-3PO",
                     "isCorrect": false
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": true,
+            "oneResponse": false,
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Warum ist das denn eigentlich passiert?"
+                    "text": "Nehmen wir an, R2-D2 = X."
+                },
+                {
+                    "timing": "S + 1.00",
+                    "text": "Wenn \u201cR\u201d und \u201cD\u201d der Position des jeweiligen Buchstabens im Alphabet entsprechen, wie lautet die Lösung dieser Gleichung?"
                 }
             ]
         },

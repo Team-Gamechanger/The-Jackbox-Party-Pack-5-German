@@ -2787,6 +2787,38 @@
                     "text": "Was sind \u201cNomen\u201d, \u201cVerb\u201d, \u201cAdjektiv\u201d und \u201cAdverb\u201d?"
                 }
             ]
+        },
+        {
+            "id": "10792",
+            "category": {
+                "text": "Na dann: Prost!"
+            },
+            "choices": [
+                {
+                    "text": "Alkoholische Gärung",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Flüssigkeitskondensation",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Schock-Kühlung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Atmosphärischer Druck",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Warum ist das denn eigentlich passiert?"
+                }
+            ]
         }
     ]
 }
