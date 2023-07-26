@@ -1409,7 +1409,7 @@
         {
             "id": "10041",
             "category": {
-                "text": "Verblüffend schnelle Igel & Die geballte Last des Lebens"
+                "text": "Verblüffend schnelle Igel & die geballte Last des Lebens"
             },
             "choices": [
                 {
@@ -1639,7 +1639,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Beim Durchsuchen Ihrer iPhone-Emojis werden Sie von der \u201cSymbole\u201d-Kategorie so richtig abgetan und wischen schnell nach links, bis es nicht mehr geht."
+                    "text": "Beim Durchsuchen Ihrer <i>iPhone<\/i>-Emojis werden Sie von der \u201cSymbole\u201d-Kategorie so richtig abgetan und wischen schnell nach links, bis es nicht mehr geht."
                 },
                 {
                     "timing": "S + 420.69",
@@ -1682,7 +1682,7 @@
         {
             "id": "10049",
             "category": {
-                "text": "Süße Tierchen und kalorienreiche Götter"
+                "text": "Süße Tierchen & kalorienreiche Götter"
             },
             "choices": [
                 {
@@ -1739,7 +1739,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, Albert Campus würde auf Clickbait zurückgreifen, um sein Werk <i>Der Fremde<\/i> zu vermarkten. Wie würde vermutlich die Schlagzeile lauten?"
+                    "text": "Angenommen, Albert Camus würde auf Clickbait zurückgreifen, um sein Werk <i>Der Fremde<\/i> zu vermarkten. Wie würde vermutlich die Schlagzeile lauten?"
                 }
             ]
         },
@@ -1874,7 +1874,7 @@
         {
             "id": "10055",
             "category": {
-                "text": "Redewendungen und kulinarische Genüsse"
+                "text": "Redewendungen & kulinarische Genüsse"
             },
             "choices": [
                 {
@@ -1931,7 +1931,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was muss ich sagen, wenn ich möchte, dass mein Amazon Echo meinem iPhone sagt, dass es meinen Windows-10-Computer ausschalten soll?"
+                    "text": "Was muss ich sagen, wenn ich möchte, dass mein <i>Amazon Echo<\/i> meinem <i>iPhone<\/i> sagt, dass es meinen <i>Windows-10<\/i>-Computer ausschalten soll?"
                 }
             ]
         },
@@ -1942,24 +1942,24 @@
             },
             "choices": [
                 {
-                    "text": "Coca Cola",
+                    "text": "<i>Coca Cola<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "eBay",
+                    "text": "<i>eBay<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Subway",
+                    "text": "<i>Subway<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Google",
+                    "text": "<i>Google<\/i>",
                     "isCorrect": false
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": true,
+            "oneResponse": false,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -1995,7 +1995,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welche M&M-Figur trägt eine Brille?"
+                    "text": "Welche <i>M&M<\/i>-Figur trägt eine Brille?"
                 }
             ]
         },
@@ -2138,7 +2138,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Eine Audioaufnahme, in der ich Ihnen in 5 Sprachen sage, dass Sie sich verpissen sollen",
+                    "text": "Eine Sprachnachricht, in der ich Ihnen in 5 Sprachen sage, dass Sie sich verpissen sollen",
                     "isCorrect": false
                 },
                 {
@@ -2214,7 +2214,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Kopf der Chimäre, Körper des Pegasus",
+                    "text": "Kopf der Chimära, Körper des Pegasus",
                     "isCorrect": false
                 }
             ],
@@ -2230,7 +2230,7 @@
         {
             "id": "10066",
             "category": {
-                "text": "The Legend of Zelda: Partus 3"
+                "text": "<i>The Last of Us: Partus 3<\/i>"
             },
             "choices": [
                 {
@@ -2311,7 +2311,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cDie Muskeln von dem Viech sind doch auch viel dichter als meine!\u201d",
+                    "text": "\u201cDessen Muskeln sind doch auch viel dichter als meine!\u201d",
                     "isCorrect": false
                 },
                 {
@@ -2328,7 +2328,7 @@
                 },
                 {
                     "timing": "S + 420.69",
-                    "text": "Mit welcher Ausrede könnten Sie versuchen, wenigstens noch einen Bruchteil Ihrer zertrümmerten Würde noch zu retten?"
+                    "text": "Mit welcher Ausrede könnten Sie versuchen, wenigstens noch einen Bruchteil Ihrer zertrümmerten Würde zu retten?"
                 }
             ]
         },
@@ -2360,7 +2360,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Michelangelo eine Patreon-Seite hätte, welcher Benutzer würde sie abonnieren?"
+                    "text": "Wenn Michelangelo eine <i>Patreon<\/i>-Seite hätte, welcher Benutzer würde sie abonnieren?"
                 }
             ]
         },
@@ -2399,23 +2399,23 @@
         {
             "id": "10071",
             "category": {
-                "text": "Ich frag mal bei H&M"
+                "text": "Philosopipi"
             },
             "choices": [
                 {
-                    "text": "\u201cLeggings sind einfach nur Leggings.\u201d",
+                    "text": "\u201cNur, wenn Gott tot ist.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cLeggings sind Hosen, aber nicht im Büro.\u201d",
+                    "text": "\u201cDu musst pinkeln; ergo, pinkle.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cAber sind alle Hosen Leggings?\u201d",
+                    "text": "\u201cUnd was wäre, wenn du es könntest?\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cLeggings? Hosen? Es spielt keine Rolle.\u201d",
+                    "text": "\u201cEs ist alles erlaubt, was nicht verboten ist.\u201d",
                     "isCorrect": false
                 }
             ],
@@ -2424,7 +2424,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wie würde Sokrates auf meine Behauptung reagieren, dass Leggings Hosen sind?"
+                    "text": "Sie fragen Ihren Lehrer Sokrates, ob Sie mal auf\u2019s Klo können. Wie könnte er Ihnen im Sinne der \u201csokratischen Methode\u201d antworten?"
                 }
             ]
         },
@@ -2592,11 +2592,11 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": true,
+            "oneResponse": false,
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welche Getränkebestellung steht am besten für das Land, das die meisten Fußballweltmeisterschaften der Männer gewonnen hat?"
+                    "text": "Welche Getränkebestellung steht für das Land, das die meisten Fußballweltmeisterschaften der Männer gewonnen hat?"
                 }
             ]
         },
@@ -2619,7 +2619,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Helene Forellenfischer",
+                    "text": "Helene Karpfenfischer",
                     "isCorrect": true
                 }
             ],
@@ -2692,7 +2692,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, Sie verwandeln sich des nächtens in einen Werwolf, der einen NACHTSCHATTEN wirft. Welches Emoji könnten Schaulustige unter die Bilder posten, die von Ihnen zweifellos ohne große Verzögerung im Social-Media-Kosmos auftauchen?"
+                    "text": "Angenommen, Sie verwandeln sich nachts in einen Werwolf, der einen NACHTSCHATTEN wirft. Welches Emoji könnten Schaulustige unter die Bilder posten, die von Ihnen zweifellos ohne große Verzögerung im Social-Media-Kosmos auftauchen?"
                 }
             ]
         },
@@ -2724,7 +2724,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welches dieser Smileys ähnelt am meisten dem Wiederholungszeichen auf einem Notenblatt?"
+                    "text": "Welcher dieser Smileys ähnelt am meisten dem Wiederholungszeichen auf einem Notenblatt?"
                 }
             ]
         },
@@ -2756,7 +2756,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "In welcher dieser schlechten, selbst zusammengebauten Antworten wird der Gründer von IKEA erwähnt?"
+                    "text": "In welcher dieser schlechten, selbst zusammengebauten Antworten wird der Gründer von <i>IKEA<\/i> erwähnt?"
                 }
             ]
         },
@@ -2788,7 +2788,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn sich K auf die Maßeinheit Kelvin bezieht, was befindet sich dann in einer 1 K-Tasse?"
+                    "text": "Wenn sich K auf die Maßeinheit Kelvin bezieht, was befindet sich dann in einer 1-K-Tasse?"
                 }
             ]
         },
@@ -2871,7 +2871,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cEin wütendes Kind will Unreal Tournament spielen und bekommt stattdessen MUMPS\u201d",
+                    "text": "\u201cEin wütendes Kind will <i>Unreal Tournament<\/i> spielen und bekommt stattdessen MUMPS\u201d",
                     "isCorrect": false
                 },
                 {
@@ -2916,11 +2916,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, Sie planen einen Männerabend mit nur einem Ziel: Den ganzen Tag nur SAUFEN."
-                },
-                {
-                    "timing": "S + 420.69",
-                    "text": "An welchem dieser Reiseziele können Sie, gemessen an der Länge der Tage, am längsten Alkohol konsumierern?"
+                    "text": "An welchem dieser Reiseziele können Sie, gemessen an der Länge der Tage, am längsten Alkohol konsumieren?"
                 }
             ]
         },
@@ -3088,14 +3084,14 @@
                 },
                 {
                     "timing": "S + 420.69",
-                    "text": "\u2026 auf Yelp?"
+                    "text": "...auf <i>Yelp<\/i>?"
                 }
             ]
         },
         {
             "id": "10092",
             "category": {
-                "text": "Ist Facebook denn privatversichert?"
+                "text": "Ist <i>Facebook<\/i> denn privatversichert?"
             },
             "choices": [
                 {
@@ -3120,7 +3116,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn mein Hämatologe sich einen Instagram-Account erstellen würde, was wäre ein passender Nutzername für ihn?"
+                    "text": "Wenn mein Hämatologe sich einen <i>Instagram<\/i>-Account erstellen würde, was wäre ein passender Nutzername für ihn?"
                 }
             ]
         },
@@ -3180,7 +3176,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -3231,19 +3227,19 @@
             },
             "choices": [
                 {
-                    "text": "Stefanie Kloß dreht sich mit 100 km\u002fh",
+                    "text": "Stefanie Kloß dreht sich mit 100 km/h",
                     "isCorrect": false
                 },
                 {
-                    "text": "Mark Forster dreht sich mit 1.000 km\u002fh",
+                    "text": "Mark Forster dreht sich mit 1.000 km/h",
                     "isCorrect": true
                 },
                 {
-                    "text": "Peter Maffay dreht sich mit 10.000 km\u002fh",
+                    "text": "Peter Maffay dreht sich mit 10.000 km/h",
                     "isCorrect": false
                 },
                 {
-                    "text": "Rea Garvey dreht sich mit 100.000 km\u002fh",
+                    "text": "Rea Garvey dreht sich mit 100.000 km/h",
                     "isCorrect": false
                 }
             ],
@@ -3252,7 +3248,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Jemand hat die ikonischen Drehstühle sabotiert, die sich prompt so schnell drehen, wie die Erde. "
+                    "text": "Jemand hat die ikonischen Drehstühle sabotiert, die sich prompt so schnell drehen wie die Erde."
                 },
                 {
                     "timing": "S + 420.69",
@@ -3295,7 +3291,7 @@
         {
             "id": "10098",
             "category": {
-                "text": "Woher hat Papa meine E-Mail-Adresse?"
+                "text": "Seit wann hat Opa <i>WhatsApp<\/i>?"
             },
             "choices": [
                 {
@@ -3320,7 +3316,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Nach Godwins Law wird die endlose Reihe von Gruppen-E-Mails von meiner gesamten Familie irgendwann zu welcher Nachricht führen?"
+                    "text": "Zu welcher Nachricht wird die endlose Reihe von <i>WhatsApp<\/i>-Gruppennachrichten von meiner gesamten Familie nach Godwin\u2019s Law irgendwann führen?"
                 }
             ]
         },
@@ -3380,11 +3376,11 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wie lautet das richtige Namensformat für einen Subreddit über Piraten auf Reddit?"
+                    "text": "Wie lautet das richtige Namensformat für einen Subreddit über Piraten auf <i>Reddit<\/i>?"
                 }
             ]
         },
