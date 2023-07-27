@@ -2496,11 +2496,75 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn. Sie. Mir. Nicht. Sagen. Können. Wie. Oft. Ich. Bei. Dieser. Frage. Geklatscht. Habe."
+                    "text": "Wenn."
                 },
                 {
                     "timing": "S + 420.69",
-                    "text": "Bekommen. Sie. Kein. Geld."
+                    "text": "Sie."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Mir."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Nicht."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Sagen."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Können."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Wie."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Oft."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Ich."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Bei."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Dieser."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Frage."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Geklatscht."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Habe."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Bekommen."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Sie."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Kein."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Geld."
                 },
                 {
                     "timing": "S + 420.69",
