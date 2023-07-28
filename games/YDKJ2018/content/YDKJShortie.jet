@@ -780,7 +780,7 @@
         {
             "id": "10022",
             "category": {
-                "text": "Alte Binsenweisheiten & Diskrete Mathematik"
+                "text": "Alte Binsenweisheiten & diskrete Mathematik"
             },
             "choices": [
                 {
@@ -1503,14 +1503,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Ein mit einer Axt bewaffneter Verrückter zerhackt meine Tür"
+                    "text": "Ein mit einer Axt bewaffneter Verrückter zerhackt meine Tür."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 4.85",
                     "text": "Genau wie in dem Film <i>Shining<\/i>."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 6.53",
                     "text": "Nur dort war es..."
                 }
             ]
@@ -1642,7 +1642,7 @@
                     "text": "Beim Durchsuchen Ihrer <i>iPhone<\/i>-Emojis werden Sie von der \u201cSymbole\u201d-Kategorie so richtig abgeturnt und wischen schnell nach links, bis es nicht mehr geht."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 8.18",
                     "text": "Welche sexy Emoji-Gruppe sehen Sie sich jetzt an?"
                 }
             ]
@@ -1742,7 +1742,7 @@
                     "text": "Angenommen, Albert Camus würde auf Clickbait zurückgreifen, um sein Werk <i>Der Fremde<\/i> zu vermarkten."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 5.62",
                     "text": "Wie würde vermutlich die Schlagzeile lauten?"
                 }
             ]
@@ -1775,7 +1775,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, Sie würden sich dazu entschließen, ab sofort nur noch geometrische Formen zu daten. Bei welcher hätten Sie die größten Chancen auf eine STABILE Beziehung?"
+                    "text": "Angenommen, Sie würden sich dazu entschließen, ab sofort nur noch geometrische Formen zu daten."
+                },
+                {
+                    "timing": "S + 5.27",
+                    "text": "Bei welcher hätten Sie die größten Chancen auf eine STABILE Beziehung?"
                 }
             ]
         },
