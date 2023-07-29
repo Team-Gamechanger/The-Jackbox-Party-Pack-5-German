@@ -4766,7 +4766,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Assassin\2019s Creed</i>",
+							"text": "<i>Assassin\u2019s Creed</i>",
 							"isCorrect": true
 						}
 					]
