@@ -7156,6 +7156,498 @@
                     "text": "Wenn er sich dazu entscheidet, Entenhausen zu einer \u201cPlutokratie\u201d zu machen, wer wäre dann <i>tatsächlich<\/i> an der Macht?"
                 }
             ]
+        },
+        {
+            "id": "10211",
+            "category": {
+                "text": "Einspruch!"
+            },
+            "choices": [
+                {
+                    "text": "Ein Zimmermann probiert seine neue Nagelpistole an seinem Kollegen aus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Koch kocht so heißes Chilli con Carne, das es einem Gast den Magen wegbrennt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Lichter eines Konzertes strahlen stärker als die Brennstäbe eines Kernkraftwerks",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Lehrer haut so hart auf den Tisch, dass er dabei ein Erdbeben auslöst",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Über welchen dieser Kriminalfälle würde Richter Skala vermutlich präsidieren?"
+                }
+            ]
+        },
+        {
+            "id": "10212",
+            "category": {
+                "text": "Mit dem Herz am unrechten Fleck"
+            },
+            "choices": [
+                {
+                    "text": "Ihr Herz bricht",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ihr Herz geht auf",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ihr Herz blutet",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ihr Herz erweicht",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Sie sind beim Arzt und bei Ihnen wird eine Kardiomegalie festgestellt."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Wie macht sich diese bemerkbar?"
+                }
+            ]
+        },
+        {
+            "id": "10213",
+            "category": {
+                "text": "Die etwas andere Spritztour"
+            },
+            "choices": [
+                {
+                    "text": "Rohre verlegen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Braten in die Röhre schieben",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Auf Bergbau gehen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Furche ackern",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was könnten Sie mit einem \u201cSpritzbüffel\u201d anfangen?"
+                }
+            ]
+        },
+        {
+            "id": "10214",
+            "category": {
+                "text": "Die Formel des perfekten Rezepts"
+            },
+            "choices": [
+                {
+                    "text": "Mineralien-Soufflé",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Primzahlen-Suppe",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mousse au Ottomotor",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gedichtsanalyse mit Pommes Rot-Weiß",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Für welches Gericht wird Eratosthenes sein Sieb benötigen?"
+                }
+            ]
+        },
+        {
+            "id": "10215",
+            "category": {
+                "text": "Alt trifft jung"
+            },
+            "choices": [
+                {
+                    "text": "Alice <i>XING<\/i> Chains",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Reddit<\/i>nex",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>LinkedIn<\/i> Park",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Modern <i>TikTok<\/i>ing",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche dieser Fusionen zwischen sozialen Medien und Musikbands verbindet die älteste Band mit der neuesten Social-Media-Plattform?"
+                }
+            ]
+        },
+        {
+            "id": "10216",
+            "category": {
+                "text": "Spieglein, Spieglein an der Zellwand"
+            },
+            "choices": [
+                {
+                    "text": "Ihr Spiegelbild treibt Sie an, auf der Stelle Yoga zu machen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie beobachten Ihr Spiegelbild beim Lachen und müssen plötzlich mitlachen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ihr Spiegelbild erlebt ein Déjà-vu",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie sehen, wie Ihr Spiegelbild hinfällt und sind schadenfroh",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bei welchem dieser Szenarien würden sich die Spiegelneuronen in Ihrem Gehirn aktivieren?"
+                }
+            ]
+        },
+        {
+            "id": "10217",
+            "category": {
+                "text": "Eins auf die Nuss, zwei auf die Nüsse"
+            },
+            "choices": [
+                {
+                    "text": "In seine Kokosnüsse",
+                    "isCorrect": false
+                },
+                {
+                    "text": "In seine Walnüsse",
+                    "isCorrect": true
+                },
+                {
+                    "text": "In seine Erdnüsse",
+                    "isCorrect": false
+                },
+                {
+                    "text": "In seine Mandeln",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "In welche dieser \u201cNüsse\u201d müssten Sie Ihren Chef treten, wenn Sie ihn - botanisch gesehen - tatsächlich in die NÜSSE treten wollten?"
+                }
+            ]
+        },
+        {
+            "id": "10218",
+            "category": {
+                "text": "Eingestaubte Festplattenfreunde"
+            },
+            "choices": [
+                {
+                    "text": "52 Jahre alt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "102 Jahre alt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1002 Jahre alt",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1.000.002 Jahre alt",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn mein <i>Mii<\/i> mittlerweile MII Jahre alt ist, wie alt ist es dann?"
+                }
+            ]
+        },
+        {
+            "id": "10219",
+            "category": {
+                "text": "Des Kaiserschnitts neue Kleider"
+            },
+            "choices": [
+                {
+                    "text": "Einen Hut aus Trommelfell",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Hose aus Rippenfell",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Mantel aus Zwerchfell",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Hemd aus Bauchfell",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Sie bestellen bei einem Schneider ein Kleidungsstück, das aus einem Muskel des menschlichen Körpers hergestellt worden ist."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Welches dieser Kleidungsstücke hätten Sie dann bestellt?"
+                }
+            ]
+        },
+        {
+            "id": "10220",
+            "category": {
+                "text": "Der neue <i>Super Mario<\/i>"
+            },
+            "choices": [
+                {
+                    "text": "Die Auftriebskraft",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Trägheitskraft",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Bodenreaktionskraft",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Gewichtskraft",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche der folgenden physikalischen Kräfte wirkt beim Sprung und der darauffolgenden Kollision NICHT auf Ihren Körper?"
+                }
+            ]
+        },
+        {
+            "id": "10221",
+            "category": {
+                "text": "Dit is Sterneküche, wa?"
+            },
+            "choices": [
+                {
+                    "text": "Panierten Ochsenschwanz",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Panierten Kuheuter",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Panierten Pferdepenis",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Panierten Schafsmagen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was erhalten Sie, wenn Sie in einem Restaurant ein \u201cBerliner Schnitzel\u201d bestellen?"
+                }
+            ]
+        },
+        {
+            "id": "10222",
+            "category": {
+                "text": "Was machst Duden da?"
+            },
+            "choices": [
+                {
+                    "text": "Was",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ist",
+                    "isCorrect": false
+                },
+                {
+                    "text": "ein",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pronomen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was ist ein Pronomen?"
+                }
+            ]
+        },
+        {
+            "id": "10223",
+            "category": {
+                "text": "Tropische Steinfrüchte & erschlagende Hilfsbereitschaft"
+            },
+            "choices": [
+                {
+                    "text": "Tiperbomber",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tupanbomber",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bonopobomber",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Koprabomber",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn die Rosinenbomber über Westberlin anstatt getrockneter Weintrauben, getrocknete Kokosnüsse abgeworfen hätten, wie würde man sie dann nennen?"
+                }
+            ]
+        },
+        {
+            "id": "10224",
+            "category": {
+                "text": "Horkruzifix nochmal!"
+            },
+            "choices": [
+                {
+                    "text": "Ein Kreuz, das in der Lage ist die Magie anderer zu überwinden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Gehstock, der schwarze Magie kanalisiert",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Stern-Medallion, das den Besitzer wiederbeleben kann",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Kreuz, das einen Teil Ihrer Seele beinhaltet",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Sie erschaffen ein Horkrux in Form eines Kruzifix. Was erhalten Sie dann?"
+                }
+            ]
+        },
+        {
+            "id": "10225",
+            "category": {
+                "text": "Olympische Computerspiele"
+            },
+            "choices": [
+                {
+                    "text": "<i>Death Stranding<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>theHunter: Call of the Wild<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Battlefield 4<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>New Super Mario Bros. U<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, die griechischen Götter veranstalten eine LAN-Party im Olymp."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Welches Videospiel würde der griechische Gott Ares spielen?"
+                }
+            ]
         }
     ]
 }
