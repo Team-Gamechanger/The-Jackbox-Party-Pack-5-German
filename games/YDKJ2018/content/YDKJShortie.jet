@@ -1109,7 +1109,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Olaf Scholz ein so heißer Deutscher wäre, dass er Wasser zum Kochen bringt, was wäre er dann in den Vereinigten Staaten?"
+                    "text": "Wenn Olaf Scholz ein so heißer Deutscher wäre, dass er Wasser zum Kochen bringt, was wäre er dann MINDESTENS in den Vereinigten Staaten?"
                 }
             ]
         },
@@ -1850,7 +1850,7 @@
         {
             "id": "10054",
             "category": {
-                "text": "Sport ist zu 90% Motivation"
+                "text": "Ein Dutzend Kilo mehr auf der Waage"
             },
             "choices": [
                 {
@@ -1887,11 +1887,11 @@
             "choices": [
                 {
                     "text": "Die Hornhaut",
-                    "isCorrect": false
+                    "isCorrect": true
                 },
                 {
                     "text": "Die Pupille",
-                    "isCorrect": true
+                    "isCorrect": false
                 },
                 {
                     "text": "Die Makula",
