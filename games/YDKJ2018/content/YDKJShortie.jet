@@ -2711,7 +2711,7 @@
         {
             "id": "10078",
             "category": {
-                "text": "Ein Thron, um sie zu knechten"
+                "text": "Ein Thron, sie zu knechten"
             },
             "choices": [
                 {
@@ -2832,30 +2832,30 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "In welcher dieser schlechten, selbst zusammengebauten Antworten wird der Gründer von <i>IKEA<\/i> erwähnt?"
+                    "text": "In welcher dieser schludrig selbst zusammengebauten Antworten wird der Gründer von <i>IKEA<\/i> erwähnt?"
                 }
             ]
         },
         {
             "id": "10082",
             "category": {
-                "text": "Eine Portion Wissenschaft"
+                "text": "Die Penaissance"
             },
             "choices": [
                 {
-                    "text": "Gefrorener Kaffee",
+                    "text": "\u201cDas ist der größte BRONZINO, den ich je gesehen habe!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDas ist ja mal ein mächtiger GIAMBOLOGNA!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cSchau sich mal einer die Größe von diesem BUONARROTI an!\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "Kaffee mit Überdruck",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Mikroskopisch kleiner Kaffee",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Kaffee aus der Zukunft",
+                    "text": "\u201cAAAH! Ein gigantischer MASACCIO!\u201d",
                     "isCorrect": false
                 }
             ],
@@ -2864,7 +2864,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn sich K auf die Maßeinheit Kelvin bezieht, was befindet sich dann in einer 1-K-Tasse?"
+                    "text": "Was könnten die ersten Betrachter Michelangelos berühmter Statue <i>David<\/i> ausgerufen haben, als sie sie das erste Mal sahen?"
                 }
             ]
         },
@@ -3086,8 +3086,12 @@
             "bumper": "NONE",
             "oneResponse": false,
             "questionText": [
-                {
+                { 
                     "timing": "S + 0.00",
+                    "text": "Angenommen, das dänische Unternehmen <i>LEGO<\/i> möchte, dass der nächste <i>LEGO<\/i>-Film in seinem Heimatland spielt."
+                },
+                {
+                    "timing": "S + 420.69",
                     "text": "Welcher klassischen Figur würden wir beim Untergang zuschauen?"
                 }
             ]
@@ -3120,7 +3124,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, eine unglückliche Fehlinterpretation würde dafür sorgen, dass RTL nächstes Jahr <i>Deutschland sucht den Super-Star<\/i> produziert, bei der die Jury den besten Singvogel sucht."
+                    "text": "Angenommen, eine unglückliche Fehlinterpretation sorgt dafür, dass RTL nächstes Jahr <i>Deutschland sucht den Super-Star<\/i> produziert, bei der die Jury den besten Singvogel sucht."
                 },
                 {
                     "timing": "S + 420.69",
@@ -3288,7 +3292,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn die Summe aus 6 köstlichen Frikadellen und 2 scharfen Klößen 8 Köstlichkeiten ergeben..."
+                    "text": "Wenn die Summe aus 6 köstlichen Frikadellen und 2 scharfen Klößen 8 Köstlichkeiten ergibt..."
                 },
                 {
                     "timing": "S + 420.69",
@@ -3360,7 +3364,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn jemand eine Fermate auf sein Lachen legen würde, wie würde sie klingen?"
+                    "text": "Wenn jemand eine Fermate auf sein Lachen legen würde, wie würde es klingen?"
                 }
             ]
         },
@@ -3392,7 +3396,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Zu welcher Nachricht wird die endlose Reihe von <i>WhatsApp<\/i>-Gruppennachrichten von meiner gesamten Familie nach Godwin\u2019s Law irgendwann führen?"
+                    "text": "Zu welcher Nachricht wird die endlose Reihe von <i>WhatsApp<\/i>-Gruppennachrichten meiner gesamten Familie nach Godwin\u2019s Law irgendwann führen?"
                 }
             ]
         },
@@ -3552,7 +3556,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welche dieser Lieferando-Suchen ist frei von Tippfehlern?"
+                    "text": "Welche dieser <i>Lieferando<\/i>-Suchen ist frei von Tippfehlern?"
                 }
             ]
         },
@@ -3659,19 +3663,19 @@
             },
             "choices": [
                 {
-                    "text": "Das ist <i>I, Robot<\/i>, Schwachkopf.",
+                    "text": "\u201cDas ist <i>I, Robot<\/i>, Schwachkopf.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Das ist <i>Das Tal der Puppen<\/i>, Trottel.",
+                    "text": "\u201cDas ist <i>Das Tal der Puppen<\/i>, Trottel.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Das ist <i>Schöne neue Welt<\/i>, Depp.",
+                    "text": "\u201cDas ist <i>Schöne neue Welt<\/i>, Depp.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Das ist <i>Die Frauen von Stepford<\/i>, Idiot.",
+                    "text": "\u201cDas ist <i>Die Frauen von Stepford<\/i>, Idiot.\u201d",
                     "isCorrect": true
                 }
             ],
@@ -3860,11 +3864,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Hi, ich habe einen Faible für Planeten, deren Atmosphäre hauptsächlich aus Kohlenstoffdioxid besteht.",
+                    "text": "Hi, ich habe ein Faible für Planeten, deren Atmosphäre hauptsächlich aus Kohlenstoffdioxid besteht.",
                     "isCorrect": true
                 },
                 {
-                    "text": "Hi, ich stehe ja auf Planeten, deren Atmosphäre zum meisten Teil aus Helium besteht.",
+                    "text": "Hi, ich stehe ja auf Planeten, deren Atmosphäre zum größten Teil aus Helium besteht.",
                     "isCorrect": false
                 },
                 {
@@ -3905,7 +3909,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -3924,7 +3928,7 @@
             },
             "choices": [
                 {
-                    "text": "Ein Insel vor Japan",
+                    "text": "Eine Insel vor Japan",
                     "isCorrect": false
                 },
                 {
