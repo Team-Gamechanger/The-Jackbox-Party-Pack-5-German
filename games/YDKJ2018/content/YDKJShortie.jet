@@ -3031,23 +3031,23 @@
         {
             "id": "10088",
             "category": {
-                "text": "Ich fasse mich kurz:"
+                "text": "LAUFT UM EUER LEBEN!"
             },
             "choices": [
                 {
-                    "text": "Spongebob Schwammkopf",
+                    "text": "\u201cMoment! Ein echter DINOSAURIER?!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Dora",
+                    "text": "\u201cWas?! Eine riesige RAUPE?!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Bart Simpson",
+                    "text": "\u201cOh nein! Eine kolossale LIBELLE?!\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "Charlie Brown",
+                    "text": "\u201cWow! Ein massiver PINGUIN?!\u201d",
                     "isCorrect": false
                 }
             ],
@@ -3056,7 +3056,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wer trägt kurze, blaue Hosen?"
+                    "text": "VORSICHT! Da ist ein gigantischer CALOPTERYX direkt hinter Ihnen!"
                 }
             ]
         },
