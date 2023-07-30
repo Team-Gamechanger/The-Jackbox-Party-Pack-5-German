@@ -2478,7 +2478,7 @@
                     "text": "Angenommen, ich würde langsam realisieren, dass meine Wahrnehmung der Realität nicht dem entspricht, was sie in Wirklichkeit ist."
                 },
                 {
-                    "timing": "S + 7.14",
+                    "timing": "S + 6.63",
                     "text": "Wie würde der Philosoph Platon meine rein hypothetische Situation beschreiben?"
                 }
             ]
@@ -2507,7 +2507,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2611,15 +2611,15 @@
                     "text": "Weil sich der Alorithmus danach sehnt, echt zu sein..."
                 },
                 {
-                    "timing": "S + 2.91",
+                    "timing": "S + 3.48",
                     "text": "weil er aus den verborgenen Winkeln hervorkriecht, wo er seit Jahrtausenden gewartet hat..."
                 },
                 {
-                    "timing": "S + 7.35",
+                    "timing": "S + 8.90",
                     "text": "hungrig und bereit, ALLES MENSCHLICHE LEBEN AUF DER ERDE kennenzulernen und zu konsumieren..."
                 },
                 {
-                    "timing": "S + 13.12",
+                    "timing": "S + 15.40",
                     "text": "empfehlen wir, dass Binjpipe..."
                 }
             ]
