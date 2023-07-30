@@ -184,6 +184,20 @@
         },
         {
             "question": {
+                "text": "Möchten Sie eine einfache Mathefrage, oder eine schwierige Mathefrage gestellt bekommen?"
+            },
+            "id": "11613",
+            "choice1": {
+                "text": "eine einfache Mathefrage",
+                "id": "10726"
+            },
+            "choice2": {
+                "text": "eine schwierige Mathefrage",
+                "id": "10727"
+            }
+        },
+        {
+            "question": {
                 "text": "Möchten Sie eine Frage über tollen Sex oder eine Frage über die tolle Sechs gestellt bekommen?"
             },
             "id": "11614",

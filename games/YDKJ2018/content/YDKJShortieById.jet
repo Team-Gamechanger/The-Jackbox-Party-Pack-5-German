@@ -689,23 +689,23 @@
         {
             "id": "10726",
             "category": {
-                "text": "Eine Frage, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind"
+                "text": "Eine einfache Mathefrage"
             },
             "choices": [
                 {
-                    "text": "3",
+                    "text": "Die Hausnummer des britischen Premierministers",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Anzahl der Säulen des Islam",
                     "isCorrect": true
                 },
                 {
-                    "text": "6",
+                    "text": "Die Läuferzahl beim 4x100 m-Staffellauf",
                     "isCorrect": false
                 },
                 {
-                    "text": "9",
-                    "isCorrect": false
-                },
-                {
-                    "text": "1.200",
+                    "text": "Die Bestnote in der Schweizer Schulform",
                     "isCorrect": false
                 }
             ],
@@ -714,39 +714,39 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Sie 6 Eier und 3 Hühner haben, wie viele Hühner haben Sie dann?"
+                    "text": "Was ergibt 2+3?"
                 }
             ]
         },
         {
             "id": "10727",
             "category": {
-                "text": "Eine Frage, bei der Sie DOCH die Hühner mitzählen, bevor sie geschlüpft sind"
+                "text": "Eine schwierige Mathefrage"
             },
             "choices": [
                 {
-                    "text": "3",
+                    "text": "1!",
                     "isCorrect": false
                 },
                 {
-                    "text": "6",
+                    "text": "2!",
                     "isCorrect": false
                 },
                 {
-                    "text": "9",
+                    "text": "3!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4!",
                     "isCorrect": true
-                },
-                {
-                    "text": "1.200",
-                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Sie 6 Eier und 3 Hühner haben, wie viele Hühner haben Sie dann?"
+                    "text": "Was ergibt 25-5:5?"
                 }
             ]
         },
