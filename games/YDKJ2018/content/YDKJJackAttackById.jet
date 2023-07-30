@@ -267,7 +267,7 @@
                         },
                         {
                             "text": "<i>Tony Hawk<\/i>",
-                            "isCorrect": false
+                            "isCorrect": true
                         }
                     ]
                 },
