@@ -364,7 +364,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Hätte Dan Brown eine Fortsetzung zu \u201cThe Da Vinci Code\u201d geschrieben, die den Namen \u201cThe Da MLINCI Code\u201d trägt, worum ginge es dann in diesem Buch?"
+                    "text": "Hätte Dan Brown eine Fortsetzung zu <i>The Da Vinci Code<\/i> geschrieben, die den Namen <i>The Da MLINCI Code<\/i> trägt, worum ginge es dann in diesem Buch?"
                 }
             ]
         },
@@ -744,7 +744,7 @@
         {
             "id": "10021",
             "category": {
-                "text": "Hochfliegende Räusche & Abstürzende Zahlen"
+                "text": "Hochfliegende Räusche & abstürzende Zahlen"
             },
             "choices": [
                 {
@@ -780,7 +780,7 @@
         {
             "id": "10022",
             "category": {
-                "text": "Alte Binsenweisheiten & Diskrete Mathematik"
+                "text": "Alte Binsenweisheiten & diskrete Mathematik"
             },
             "choices": [
                 {
@@ -1082,6 +1082,38 @@
             ]
         },
         {
+            "id": "10031",
+            "category": {
+                "text": "Olaf Schmolz"
+            },
+            "choices": [
+                {
+                    "text": "Ein 212°F heißer Leckerbissen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein 265°F heißer Adonis",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein 335°F heißes Renngestell",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein 400°F heißer Hengst",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Olaf Scholz ein so heißer Deutscher wäre, dass er Wasser zum Kochen bringt, was wäre er dann MINDESTENS in den Vereinigten Staaten?"
+                }
+            ]
+        },
+        {
             "id": "10032",
             "category": {
                 "text": "Urin mit Kohlensäure"
@@ -1141,7 +1173,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Ihre Mitbewohnerin, welche eine Ballerina ist, sagt, sie sei spät dran und müsse sich schnell im \u201cJeté\u201d wegbewegen."
+                    "text": "Ihre Mitbewohnerin, die eine Ballerina ist, sagt, sie sei spät dran und müsse sich schnell im \u201cJeté\u201d wegbewegen."
                 },
                 {
                     "timing": "S + 6.36",
@@ -1209,14 +1241,14 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher EDM-DJ macht, gemessen an der Höhe, den höchsten Beat-Drop?"
+                    "text": "Welcher EDM-DJ droppt, gemessen an der Höhe, den höchsten Beat-Drop?"
                 }
             ]
         },
         {
             "id": "10036",
             "category": {
-                "text": "Große Geschichte & kleine Malheurs"
+                "text": "Große Geschichten & kleine Malheurs"
             },
             "choices": [
                 {
@@ -1229,11 +1261,11 @@
                 },
                 {
                     "text": "Er würde sein Wahlrecht verlieren",
-                    "isCorrect": true
+                    "isCorrect": false
                 },
                 {
                     "text": "Sein kleiner Zeh würde abgeschnitten werden",
-                    "isCorrect": false
+                    "isCorrect": true
                 }
             ],
             "bumper": "NONE",
@@ -1375,6 +1407,38 @@
             ]
         },
         {
+            "id": "10041",
+            "category": {
+                "text": "Verblüffend schnelle Igel & die geballte Last des Lebens"
+            },
+            "choices": [
+                {
+                    "text": "Seiner Vergangenheit... und Dr. Wily",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Seinen Verpflichtungen... und Dr. Eggman",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Seinen Ambitionen ... und Dr. Nefarious",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Seinen Gefühlen...  und Dr. Doom",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wovor rennt Sonic weg?"
+                }
+            ]
+        },
+        {
             "id": "10042",
             "category": {
                 "text": "Zeitgleiche Beliebtheit"
@@ -1408,6 +1472,907 @@
                 {
                     "timing": "S + 5.77",
                     "text": "Teil 2: In welchem Jahr habe ich angefangen, regelmäßig die Olympischen Spiele zu verfolgen?"
+                }
+            ]
+        },
+        {
+            "id": "10043",
+            "category": {
+                "text": "Ding Dong, DHL ist da"
+            },
+            "choices": [
+                {
+                    "text": "die Küchentür",
+                    "isCorrect": false
+                },
+                {
+                    "text": "die Wohnzimmertür",
+                    "isCorrect": false
+                },
+                {
+                    "text": "die Badezimmertür",
+                    "isCorrect": true
+                },
+                {
+                    "text": "die Tür der Hotellobby",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Ein mit einer Axt bewaffneter Verrückter zerhackt meine Tür."
+                },
+                {
+                    "timing": "S + 4.85",
+                    "text": "Genau wie in dem Film <i>Shining<\/i>."
+                },
+                {
+                    "timing": "S + 6.53",
+                    "text": "Nur dort war es..."
+                }
+            ]
+        },
+        {
+            "id": "10044",
+            "category": {
+                "text": "Simm-sala-bimm-bamm"
+            },
+            "choices": [
+                {
+                    "text": "Den Akt der KONDENSATION",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Den Akt der SUBLIMATION",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Den Akt der VERDUNSTUNG",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Den Akt des SCHMELZENS",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn man davon ausgeht, dass David Copperfield sich während seiner Zaubervorstellungen WIRKLICH in pure Luft auflöst, welchen chemischen Akt hätte er dann vollbracht?"
+                }
+            ]
+        },
+        {
+            "id": "10045",
+            "category": {
+                "text": "Das 1x1 der Sneaker"
+            },
+            "choices": [
+                {
+                    "text": "Nike",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Adidas",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Converse",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Vans",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Das Logo welcher Schuhmarke ist dem Quadratwurzel-Symbol sehr ähnlich?"
+                }
+            ]
+        },
+        {
+            "id": "10046",
+            "category": {
+                "text": "Explosive Fankurve"
+            },
+            "choices": [
+                {
+                    "text": "\u201cKomm schon, SCHWARZPULVER, du schaffst das!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cGib alles, TNT!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDu hast es fast geschafft, AMMONIUMNITRAT!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cFür dich ist das doch ein Klacks, NITROGLYCERIN!\u201d",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie würde es sich anhören, wenn man Dynamit anfeuern würde?"
+                }
+            ]
+        },
+        {
+            "id": "10047",
+            "category": {
+                "text": "Emoji-Dating"
+            },
+            "choices": [
+                {
+                    "text": "Smileys",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Liebenswerte Tiergesichter",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Obst",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Flaggen",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Beim Durchsuchen Ihrer <i>iPhone<\/i>-Emojis werden Sie von der \u201cSymbole\u201d-Kategorie so richtig abgeturnt und wischen schnell nach links, bis es nicht mehr geht."
+                },
+                {
+                    "timing": "S + 8.18",
+                    "text": "Welche sexy Emoji-Gruppe sehen Sie sich jetzt an?"
+                }
+            ]
+        },
+        {
+            "id": "10048",
+            "category": {
+                "text": "Eine Oliver-Welke-Frage"
+            },
+            "choices": [
+                {
+                    "text": "Barcelona",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mumbai",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Jerusalem",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Las Vegas",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, die Show wird live ausgestrahlt, welche Stadt würde sich technisch gesehen dann eher <i>Die Gestern Show<\/i> ansehen?"
+                }
+            ]
+        },
+        {
+            "id": "10049",
+            "category": {
+                "text": "Süße Tierchen & kalorienreiche Götter"
+            },
+            "choices": [
+                {
+                    "text": "<i>kinder Pingui<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>kinder bueno<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>kinder Happy Hippo<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>kinder Schoko-Bons<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welches Produkt hätte der Süßwarenhersteller nach dem Wasserpferd von Poseidon benannt?"
+                }
+            ]
+        },
+        {
+            "id": "10050",
+            "category": {
+                "text": "Für mich klingt das nach Abzocke"
+            },
+            "choices": [
+                {
+                    "text": "\u201c11 Dinge, von denen jeder mit dem Namen Ishmael weiß, dass sie wahr sind\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cWarum Selbstverbrennung mein Leben in 2 Wochen auf den Kopf gestellt hat\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cMama starb heute und die Reaktionen waren UNGLAUBLICH!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cKammerjäger hassen diesen Trick: Dieser Mann verwandelte sich über Nacht in ein riesiges Insekt\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Albert Camus würde auf Clickbait zurückgreifen, um sein Werk <i>Der Fremde<\/i> zu vermarkten."
+                },
+                {
+                    "timing": "S + 5.62",
+                    "text": "Wie würde vermutlich die Schlagzeile lauten?"
+                }
+            ]
+        },
+        {
+            "id": "10051",
+            "category": {
+                "text": "Du bist heute aber gut in Form, Baby!"
+            },
+            "choices": [
+                {
+                    "text": "Das geheimnisvolle Quadrat",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die charmante Raute",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der leidenschaftliche Kreis",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das geile Dreieck",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Sie würden sich dazu entschließen, ab sofort nur noch geometrische Formen zu daten."
+                },
+                {
+                    "timing": "S + 5.27",
+                    "text": "Bei welcher hätten Sie die größten Chancen auf eine STABILE Beziehung?"
+                }
+            ]
+        },
+        {
+            "id": "10052",
+            "category": {
+                "text": "Expression ist in"
+            },
+            "choices": [
+                {
+                    "text": "\u201cbringt mich bitte einer um <_<\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cAAAAAA ICH SCHREIEEE\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201ckann nur noch weinen ;_;\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cbin so verliebt *ü*\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn der Maler Edvard Munch sein beliebtestes Werk heute auf Instagram posten würde, was würde er dazu schreiben?"
+                }
+            ]
+        },
+        {
+            "id": "10053",
+            "category": {
+                "text": "Toten fallen immer neue Geschichten ein"
+            },
+            "choices": [
+                {
+                    "text": "Irgendwas mit der Quelle des Lebens?",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Irgendwas mit nem Dreizack?",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Irgendwas mit Atlantis?",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Irgendwas mit vollgekackten Betten?",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was ist in <i>Fluch der Karibik 5<\/i> passiert?"
+                }
+            ]
+        },
+        {
+            "id": "10054",
+            "category": {
+                "text": "Ein Dutzend Kilo mehr auf der Waage"
+            },
+            "choices": [
+                {
+                    "text": "Vier Bäckerdutzend Schokomuffins",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Neun Dutzend Schokomuffins",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Dutzend Bäckerdutzend Schokomuffins",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zwei Bäckerdutzend Dutzend Schokomuffins",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Ihnen jemand ein Dutzend Schokoladenmuffins für jeden gefahrenen Kilometer auf dem Nürburgring anbieten würde, wie viele Muffins würden Sie dann nach einer Runde auf der Gesamtstrecke verdienen?"
+                }
+            ]
+        },
+        {
+            "id": "10055",
+            "category": {
+                "text": "Redewendungen & kulinarische Genüsse"
+            },
+            "choices": [
+                {
+                    "text": "Die Hornhaut",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Pupille",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Makula",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Iris",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn das Auge WIRKLICH mitessen würde, welchen Teil des Auges würde das Essen zuerst erreichen?"
+                }
+            ]
+        },
+        {
+            "id": "10056",
+            "category": {
+                "text": "So \u201csmart\u201d ist mein Zuhause jetzt auch nicht"
+            },
+            "choices": [
+                {
+                    "text": "\u201cSiri, sag Cortana, sie soll Eliza ausschalten.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cAlexa, sag Siri, sie soll Cortana herunterfahren.\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cCortana, sag Alexa, sie soll Siri ausknipsen.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cAlexa, sag Google, dass er Cortana loswerden soll.\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was muss ich sagen, wenn ich möchte, dass mein <i>Amazon Echo<\/i> meinem <i>iPhone<\/i> sagt, dass es meinen <i>Windows-10<\/i>-Computer ausschalten soll?"
+                }
+            ]
+        },
+        {
+            "id": "10057",
+            "category": {
+                "text": "Die Marke im Fokus"
+            },
+            "choices": [
+                {
+                    "text": "<i>Coca Cola<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>eBay<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Subway<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Google<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bei welchem dieser Markennamen sind die Buchstaben im Logo traditionell monochromatisch?"
+                }
+            ]
+        },
+        {
+            "id": "10058",
+            "category": {
+                "text": "Zucker für die Augen"
+            },
+            "choices": [
+                {
+                    "text": "Grün",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Braun",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Blau",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gelb",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche <i>M&M<\/i>-Figur trägt eine Brille?"
+                }
+            ]
+        },
+        {
+            "id": "10059",
+            "category": {
+                "text": "Tiername + Tiername = Tiername"
+            },
+            "choices": [
+                {
+                    "text": "Die Turteltaube",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Kängururatte",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Schweinsnasenfledermaus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Elefantenschwein",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welches dieser Tiere habe ich gerade erfunden?"
+                }
+            ]
+        },
+        {
+            "id": "10060",
+            "category": {
+                "text": "Ein Name zum Vergeben, aber niemals zum Vergessen"
+            },
+            "choices": [
+                {
+                    "text": "Erzengelbert Strauss",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Cherubimbert Strauss",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Seraphimbert Strauss",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Elohimbert Strauss",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Nehmen wir an, Engelbert Strauss ist nach seinem Tod in den Himmel gekommen und hat sich dort in der christlichen Engelshierarchie hochgearbeitet."
+                },
+                {
+                    "timing": "S + 7.14",
+                    "text": "Wie müsste er sich nennen, sobald er die SPITZE der Hierarchie erreicht hat?"
+                }
+            ]
+        },
+        {
+            "id": "10061",
+            "category": {
+                "text": "Handfeste Antworten auf die Frage aller Fragen"
+            },
+            "choices": [
+                {
+                    "text": "Der Strauß",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Der Pfau",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Storch",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Kondor",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wer hat die dicksten Eier?"
+                }
+            ]
+        },
+        {
+            "id": "10062",
+            "category": {
+                "text": "Einer muss es ja mal ansprechen"
+            },
+            "choices": [
+                {
+                    "text": "Shift + 4",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Shift + 0",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Shift + #",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Shift + +",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher Tastaturbefehl auf meinem <i>Windows<\/i>-PC erzeugt ein Symbol, das wie das Arschloch einer Katze aussieht?"
+                }
+            ]
+        },
+        {
+            "id": "10063",
+            "category": {
+                "text": "Hat das was mit Polyester zu tun?"
+            },
+            "choices": [
+                {
+                    "text": "Ein Bild von mir, wie ich Ihnen mit meinem zusätzlichen Finger den Mittelfinger zeige",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine Sprachnachricht, in der ich Ihnen in 5 Sprachen sage, dass Sie sich verpissen sollen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein GIF von mir, wie ich meine verschiedenen Partner küsse",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Liste aller Götter, an die ich glaube und die sagen, dass Sie dem Untergang geweiht sind",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Ich: Klar bin ich polydaktyl, aber das macht mich nicht aus.<br>"
+                },
+                {
+                    "timing": "S + 3.82",
+                    "text": "Auch ich:"
+                }
+            ]
+        },
+        {
+            "id": "10064",
+            "category": {
+                "text": "Ich bin gerne Ihre Null"
+            },
+            "choices": [
+                {
+                    "text": "0",
+                    "isCorrect": false
+                },
+                {
+                    "text": "0 0",
+                    "isCorrect": false
+                },
+                {
+                    "text": "0 0 0",
+                    "isCorrect": true
+                },
+                {
+                    "text": "7",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn James Bond versuchen würde, Sie in Brisbane zu töten, welche Nummer müssten Sie wählen, um Hilfe vom Notdienst zu erhalten?"
+                }
+            ]
+        },
+        {
+            "id": "10065",
+            "category": {
+                "text": "Zeus\u2019 Menschenbau-Werkstatt"
+            },
+            "choices": [
+                {
+                    "text": "Kopf eines Greifs, Körper eines Zentauren",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kopf eines Wassermanns, Körper eines Fauns",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kopf einer Sphinx, Körper des Minotaurus",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Kopf der Chimära, Körper des Pegasus",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche Kombination dieser mythologischen Mischwesen würde einen normalen Menschen ergeben?"
+                }
+            ]
+        },
+        {
+            "id": "10066",
+            "category": {
+                "text": "<i>The Last of Us: Partus 3<\/i>"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDrücken Sie B, um den Kopf des Babys herauszupressen\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDrücken Sie wiederholt X, um den Gebärmutterhals zu weiten\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cHalten Sie die rechte Schultertaste gedrückt, um die Plazenta herauszudrücken\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cDrücken Sie A und B gleichzeitig, um die Nabelschnur zu durchtrennen\u201d",
+                    "isCorrect": false,
+                    "best": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, es gäbe ein Videospiel, bei dem das Ziel des Spielers darin besteht, die Wehen erfolgreich zu überstehen."
+                },
+                {
+                    "timing": "S + 6.10",
+                    "text": "Welche Anweisungen würden im DRITTEN LEVEL des Spiels angezeigt werden?"
+                }
+            ]
+        },
+        {
+            "id": "10067",
+            "category": {
+                "text": "Fridays for Italien"
+            },
+            "choices": [
+                {
+                    "text": "\u201cVereint für den Nachtisch!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cNehmt mir nicht auch noch meine Vorspeise!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cHallo, Hallo! Diese Nudeln sind nicht mein Niveau!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cIch + Salat = Liebe\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie könnte ein Protestschild aussehen, das PRO-Antipasto ist?"
+                }
+            ]
+        },
+        {
+            "id": "10068",
+            "category": {
+                "text": "Ich wusste nicht, dass der auch Karate kann!"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDem seine Haut war ja auch dicker als meine!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDas Ding kann ja auch doppelt so weit sehen wie ich!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDessen Muskeln sind doch auch viel dichter als meine!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDas Blag hat ja auch viel mehr Knochen als ich!\u201d",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Sie hätten in einem Faustkampf gegen ein Baby verloren."
+                },
+                {
+                    "timing": "S + 3.47",
+                    "text": "Mit welcher Ausrede könnten Sie versuchen, wenigstens noch einen Bruchteil Ihrer zertrümmerten Würde zu retten?"
+                }
+            ]
+        },
+        {
+            "id": "10069",
+            "category": {
+                "text": "Noch 4 Abos bis zur sixtinischen Kapelle!!"
+            },
+            "choices": [
+                {
+                    "text": "PapstJohannes23",
+                    "isCorrect": false
+                },
+                {
+                    "text": "leonardo_da_vinci_ist_der_besti",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Medici_Familie_Offiziell",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Der-echte-Vespucci",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Michelangelo eine <i>Patreon<\/i>-Seite hätte, welcher Benutzer würde sie vermutlich abonnieren?"
                 }
             ]
         },

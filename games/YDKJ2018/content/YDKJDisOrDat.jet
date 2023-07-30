@@ -824,7 +824,7 @@
                 }
             ],
             "disChoice": {
-                "longText": "Ein Fußball-Begriff",
+                "longText": "Ein Fußballbegriff",
                 "shortText": "FUSSBALL"
             },
             "datChoice": {
@@ -1620,7 +1620,7 @@
                 "shortText": "MUSEUM OF MODERN ART"
             },
             "datChoice": {
-                "longText": "Ein Titel einer <i>South Park<\/i> Folge",
+                "longText": "Ein Titel einer <i>South Park<\/i>-Folge",
                 "shortText": "SOUTH PARK"
             },
             "id": "11036",

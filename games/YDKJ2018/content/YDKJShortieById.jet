@@ -689,23 +689,23 @@
         {
             "id": "10726",
             "category": {
-                "text": "Eine Frage, bei der Sie NICHT die Hühner mitzählen, bevor sie geschlüpft sind"
+                "text": "Eine einfache Mathefrage"
             },
             "choices": [
                 {
-                    "text": "3",
+                    "text": "Die Hausnummer des britischen Premierministers",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Anzahl der Säulen des Islam",
                     "isCorrect": true
                 },
                 {
-                    "text": "6",
+                    "text": "Die Läuferzahl beim 4x100 m-Staffellauf",
                     "isCorrect": false
                 },
                 {
-                    "text": "9",
-                    "isCorrect": false
-                },
-                {
-                    "text": "1.200",
+                    "text": "Die Bestnote in der Schweizer Schulform",
                     "isCorrect": false
                 }
             ],
@@ -714,39 +714,39 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Sie 6 Eier und 3 Hühner haben, wie viele Hühner haben Sie dann?"
+                    "text": "Was ergibt 2+3?"
                 }
             ]
         },
         {
             "id": "10727",
             "category": {
-                "text": "Eine Frage, bei der Sie DOCH die Hühner mitzählen, bevor sie geschlüpft sind"
+                "text": "Eine schwierige Mathefrage"
             },
             "choices": [
                 {
-                    "text": "3",
+                    "text": "1!",
                     "isCorrect": false
                 },
                 {
-                    "text": "6",
+                    "text": "2!",
                     "isCorrect": false
                 },
                 {
-                    "text": "9",
+                    "text": "3!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4!",
                     "isCorrect": true
-                },
-                {
-                    "text": "1.200",
-                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Sie 6 Eier und 3 Hühner haben, wie viele Hühner haben Sie dann?"
+                    "text": "Was ergibt 25-5:5?"
                 }
             ]
         },
@@ -2478,7 +2478,7 @@
                     "text": "Angenommen, ich würde langsam realisieren, dass meine Wahrnehmung der Realität nicht dem entspricht, was sie in Wirklichkeit ist."
                 },
                 {
-                    "timing": "S + 7.14",
+                    "timing": "S + 6.63",
                     "text": "Wie würde der Philosoph Platon meine rein hypothetische Situation beschreiben?"
                 }
             ]
@@ -2507,7 +2507,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -2611,15 +2611,15 @@
                     "text": "Weil sich der Alorithmus danach sehnt, echt zu sein..."
                 },
                 {
-                    "timing": "S + 2.91",
+                    "timing": "S + 3.48",
                     "text": "weil er aus den verborgenen Winkeln hervorkriecht, wo er seit Jahrtausenden gewartet hat..."
                 },
                 {
-                    "timing": "S + 7.35",
+                    "timing": "S + 8.90",
                     "text": "hungrig und bereit, ALLES MENSCHLICHE LEBEN AUF DER ERDE kennenzulernen und zu konsumieren..."
                 },
                 {
-                    "timing": "S + 13.12",
+                    "timing": "S + 15.40",
                     "text": "empfehlen wir, dass Binjpipe..."
                 }
             ]
@@ -2785,6 +2785,38 @@
                 {
                     "timing": "S + 0.00",
                     "text": "Was sind \u201cNomen\u201d, \u201cVerb\u201d, \u201cAdjektiv\u201d und \u201cAdverb\u201d?"
+                }
+            ]
+        },
+        {
+            "id": "10792",
+            "category": {
+                "text": "Na dann: Prost!"
+            },
+            "choices": [
+                {
+                    "text": "Alkoholische Gärung",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Flüssigkeitskondensation",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Schock-Kühlung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Atmosphärischer Druck",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Warum ist das denn eigentlich passiert?"
                 }
             ]
         }

@@ -4060,7 +4060,7 @@
 						},
 						{
 							"text": "TypeScript",
-							"isCorrect": true
+							"isCorrect": false
 						},
 						{
 							"text": "HTML",
@@ -4766,7 +4766,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Assassin's Creed</i>",
+							"text": "<i>Assassin\u2019s Creed</i>",
 							"isCorrect": true
 						}
 					]
@@ -4808,7 +4808,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Die nackte Kanone 33 ⅓</i>",
+							"text": "<i>Die nackte Kanone 33 1/3</i>",
 							"isCorrect": true
 						},
 						{
@@ -5817,7 +5817,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Dr. Jonathan Cran",
+							"text": "Dr. Jonathan Crane",
 							"isCorrect": true
 						}
 					]
@@ -5910,7 +5910,7 @@
 					]
 				},
 				{
-					"title": "Team von “Bob der Baumeister“",
+					"title": "Team von <i>Bob der Baumeister<\/i>",
 					"choices": [
 						{
 							"text": "Wendy",
