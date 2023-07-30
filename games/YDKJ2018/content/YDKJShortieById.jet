@@ -1547,19 +1547,19 @@
             },
             "choices": [
                 {
-                    "text": "Schatz, du lässt mein Blut gefrieren",
+                    "text": "\u201cSchatz, du lässt mein Blut gefrieren\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Liebling, das Wasser ist mir zu süß",
+                    "text": "\u201cLiebling, das Wasser ist mir zu süß\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Baby, ich halt\u2019 den Druck nicht mehr aus",
+                    "text": "\u201cBaby, ich halt\u2019 den Druck nicht mehr aus\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "Engel, ich glaube dein Erbgut wird ionisiert",
+                    "text": "\u201cEngel, ich glaube dein Erbgut wird ionisiert\u201d",
                     "isCorrect": false
                 }
             ],

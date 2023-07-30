@@ -544,7 +544,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Auto auf 10 Zentimeter tieferlegen",
+                    "text": "Das Auto auf 10 Zentimeter tieferlegen",
                     "isCorrect": false
                 },
                 {
@@ -1811,7 +1811,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn der Maler Edvard Munch sein beliebtestes Werk heute auf Instagram posten würde, was würde er dazu schreiben?"
+                    "text": "Wenn der Maler Edvard Munch sein beliebtestes Werk heute auf <i>Instagram<\/i> posten würde, was würde er dazu schreiben?"
                 }
             ]
         },

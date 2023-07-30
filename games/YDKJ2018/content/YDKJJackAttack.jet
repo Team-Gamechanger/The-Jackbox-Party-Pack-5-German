@@ -9008,11 +9008,11 @@
 					"title": "Fräulein",
 					"choices": [
 						{
-							"text": "<i>_____ im Nebel</i>",
+							"text": "<i>im Nebel</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Gold: Schatten und Lichten</i>",
+							"text": "<i>Gold: Schatten und Licht</i>",
 							"isCorrect": true
 						},
 						{
@@ -9024,7 +9024,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>_____ ohne Gewissen</i>",
+							"text": "<i>ohne Gewissen</i>",
 							"isCorrect": false
 						},
 						{
@@ -9074,7 +9074,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Der _____ der Elemente</i>",
+							"text": "<i>Avatar - Der _____ der Elemente</i>",
 							"isCorrect": true
 						},
 						{
@@ -9082,7 +9082,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>_____ der Fliegen</i>",
+							"text": "<i>der Fliegen</i>",
 							"isCorrect": true
 						},
 						{
@@ -9161,7 +9161,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "_____ der Bergretter",
+							"text": "der Bergretter",
 							"isCorrect": false
 						},
 						{
