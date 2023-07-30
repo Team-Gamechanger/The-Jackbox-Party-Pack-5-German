@@ -7648,6 +7648,742 @@
                     "text": "Welches Videospiel würde der griechische Gott Ares spielen?"
                 }
             ]
+        },
+        {
+            "id": "10226",
+            "category": {
+                "text": "Brettspiele & Verbrechen gegen die Menschheit"
+            },
+            "choices": [
+                {
+                    "text": "Sie können Lösegeld für geschlagene Steine verlangen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie können geschlagene Steine für sich kämpfen lassen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sie können \u201cunschuldige\u201d Steine als Schutzschild verwenden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie können sich ergebende Steine trotzdem schlagen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "In welcher Art und Weise verstößt das Brettspiel Shogi gegen die Genfer Konvention von 1949?"
+                }
+            ]
+        },
+        {
+            "id": "10227",
+            "category": {
+                "text": "Kommissarische Intelligenz"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDir wisch\u2019 ich gleich eine!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cDu zählst gleich die Radieschen von unten!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDu wirst jetzt weichgekocht!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cIch muss nur kurz den Müll rausbringen!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn man die Produkte der Firma <i>IRobot<\/i> bedenkt:"
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Welcher der folgenden coolen Sprüche wäre für Detective Del Spooner am passendsten, während er Killerroboter in ihre Einzelteile zerlegt?"
+                }
+            ]
+        },
+        {
+            "id": "10228",
+            "category": {
+                "text": "Ab in die Haiii-yah!"
+            },
+            "choices": [
+                {
+                    "text": "Das Essen einer japanischen Speise",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das Fahren mit einem Einrad",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Spielen eines antiken Instruments",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Anbeten eines griechischen Gottes",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Ihnen wird nach der Prüfung nicht der schwarze Gürtel im Karate, sondern im KARAAGE verliehen."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Was haben Sie versehentlich trainiert?"
+                }
+            ]
+        },
+        {
+            "id": "10229",
+            "category": {
+                "text": "Rock Me wie auch immer du heißt"
+            },
+            "choices": [
+                {
+                    "text": "Wolfgang Xavier Thaddäus Amadeus Mozart",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Amadeo Wolfgang Lieblich Siegbert Friederich Mozart",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nikolaus Amade Köchel Heribert Braunbehrens Mozart",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Joannes Chrysostomus Wolfgangus Theophilus Mozart",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Auf welchen vollen Namen wurde Wolfgang Amadeus Mozart getauft?"
+                }
+            ]
+        },
+        {
+            "id": "10230",
+            "category": {
+                "text": "Druck und Versagen"
+            },
+            "choices": [
+                {
+                    "text": "Seine Arme werden schlaff wie Nudeln",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er rülpst seiner Freundin ständig ins Gesicht",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sein IQ fällt plötzlich um mehr als die Hälfte",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er hebt ab und fährt sein Fahrgestell ein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Statt einer Erektion erreicht der Mann jedoch nur eine \u201cERUKTATION\u201d."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Wie äußert sich das in seinem Liebesspielchen?"
+                }
+            ]
+        },
+        {
+            "id": "10231",
+            "category": {
+                "text": "Die Straßenverkehrsordnung & unschöne Gestiken"
+            },
+            "choices": [
+                {
+                    "text": "Mein Digitus Medius",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mein Digitus Minimus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mein Digitus Primus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mein Digitus Medicinalis",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn ich dem Kerl das nächsten Mal meinen Stinkefinger zeige, welcher Finger wäre das?"
+                }
+            ]
+        },
+        {
+            "id": "10232",
+            "category": {
+                "text": "Das Baby trägt kein Prada"
+            },
+            "choices": [
+                {
+                    "text": "\u201cGucci Godalucci Gu!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cGuccibella Gucci Gu!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cGucci Gucciani Gu!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cGuccio Gucci Gu!\u201d",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was haben die Eltern des erfolgreichsten italienischen Modedesigners der Welt vermutlich zu ihm gesagt, als er als Baby in der Wiege lag?"
+                }
+            ]
+        },
+        {
+            "id": "10233",
+            "category": {
+                "text": "Dinge, die in die Hose gehen"
+            },
+            "choices": [
+                {
+                    "text": "Er spielt Karten mit Ihren Jeans",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er schmeißt Dartpfeile auf Ihre Jeans",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Er stößt Billiardkugeln gegen Ihre Jeans",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er würfelt mit Ihren Jeans um die Wette",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Nehmen wir an, ein stockbesoffener Mann fängt in der Kneipe damit an, eine Runde \u201c501\u201d mit ihren 501-Jeans zu spielen."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Was stellt er mit Ihrer Hosen an?"
+                }
+            ]
+        },
+        {
+            "id": "10234",
+            "category": {
+                "text": "Dracula Schmacula"
+            },
+            "choices": [
+                {
+                    "text": "Macula",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Facula",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Gracula",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tenacula",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Vor welcher dieser \u201c-aculas\u201d hat Dracula vermutlich die meiste Angst?"
+                }
+            ]
+        },
+        {
+            "id": "10235",
+            "category": {
+                "text": "Gebären unter den Meeren"
+            },
+            "choices": [
+                {
+                    "text": "\u201cGlückwunsch! Es ist ein JUNGE!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cGlückwunsch! Es ist ein MÄDCHEN!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cGlückwunsch! Es ist weder ein JUNGE, noch ein MÄDCHEN!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cGlückwunsch! Es ist BEIDES GLEICHZEITIG!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Nemos Vater aus Findet Nemo heiratet neu und bekommt ein weiteres Kind."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Was wird er im Kreißsaal DEFINITIV hören?"
+                }
+            ]
+        },
+        {
+            "id": "10236",
+            "category": {
+                "text": "Jede Beerdigung ein Urlaubstag"
+            },
+            "choices": [
+                {
+                    "text": "Vier",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sechs",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Acht",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zehn",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Nehmen wir an, Ihre Mutter hat einmal neu geheiratet, und Ihr Vater zweimal."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Wie viele Sonderurlaubstage könnten Sie aus den Beerdigungen Ihrer Großeltern und Stiefgroßeltern rausholen?"
+                }
+            ]
+        },
+        {
+            "id": "10237",
+            "category": {
+                "text": "Sie dürfen den Irren jetzt küssen"
+            },
+            "choices": [
+                {
+                    "text": "\u201cUnd jetzt fasten wir für ein Jahr!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cNEIN! Schmeiß den armen Strauß bloß nicht!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cJa, ich will. Und jetzt malen wir!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cUnd die Flitterwochen verbringen wir im Keller!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Sie einen \u201cAnimisten\u201d heiraten, was könnte er nach der Trauung vermutlich sagen?"
+                }
+            ]
+        },
+        {
+            "id": "10238",
+            "category": {
+                "text": "Ab Urin den Urlaub"
+            },
+            "choices": [
+                {
+                    "text": "Eine 500ml-Dose Red Bull",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine 1-Liter-Flasche Asbach Uralt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine 2-Liter-Flasche <i>Mezzo Mix<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine 3-Liter-Flasche <i>Jack Daniels<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bedenkt man, wie viel Urin ein durchschnittlicher Erwachsener pro Tag produziert, welches Behältnis würde GERADE GENUG Volumen für die Dauer Ihres 24-Stunden-Fluges fassen?"
+                }
+            ]
+        },
+        {
+            "id": "10239",
+            "category": {
+                "text": "Ein kleiner Schritt für einen Mensch, ein großer Sprung in der Schüssel"
+            },
+            "choices": [
+                {
+                    "text": "Neil Armstrong rät richtigerweise Kopf statt Zahl",
+                    "isCorrect": true
+                },
+                {
+                    "text": "John Glenn brüllt laut \u201cIch bin der Älteste!\u201c",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Buzz Aldrin schlägt Schere mit Stein",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Michael Collins singt \u201cEne mene muh\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn die Astronauten im <i>Apollo-11<\/i>-Modul ähnlich darüber entschieden hätten, wer den ersten Schritt auf dem Mond machen darf, wie die Wright-Brüder darüber entschieden haben, wer ihr Flugzeug zuerst fliegen darf, was hätte geschehen können?"
+                }
+            ]
+        },
+        {
+            "id": "10240",
+            "category": {
+                "text": "Wo Hochkultur und Popkultur aufeinanderprallen"
+            },
+            "choices": [
+                {
+                    "text": "Einen Trojaner",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Paris",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Homer",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine Marge",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was haben die <i>Ilias<\/i>, <i>Die Simpsons<\/i> und Baseball gemeinsam?"
+                }
+            ]
+        },
+        {
+            "id": "10241",
+            "category": {
+                "text": "Doppelläufige Schokoladenriegel"
+            },
+            "choices": [
+                {
+                    "text": "Ein Eichhörnchen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Biber",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Hamster",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Hasen",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn ich nur die Hälfte meines <i>KitKat<\/i>-Riegels esse und die andere Hälfte für den Winter lagere, welches dieser Tiere hätte ich damit NICHT nachgeahmt?"
+                }
+            ]
+        },
+        {
+            "id": "10242",
+            "category": {
+                "text": "Bleifrei für eine gesunde Verdauung"
+            },
+            "choices": [
+                {
+                    "text": "Dortmund bis Aschaffenburg",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Göttingen bis Leipzig",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mainz bis Kaiserslautern",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Osnabrück bis Kassel",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Verdauungstrakt : Mund bis After ::"
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "A45 : ?"
+                }
+            ]
+        },
+        {
+            "id": "10243",
+            "category": {
+                "text": "Das alte Griechenland & ganz komische Lehrpläne"
+            },
+            "choices": [
+                {
+                    "text": "In der großen Pause MEDITIEREN",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Von LÖWEN von Klassenzimmer zu Klassenzimmer gejagt werden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Schule völlig NACKT besuchen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sich täglich in der Cafeteria ÜBERGEBEN",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bedenkt man den Ursprung des Wortes \u201cGymnasium\u201d, was müssten die darin eingeschriebenen Schüler, streng genommen, tun?"
+                }
+            ]
+        },
+        {
+            "id": "10244",
+            "category": {
+                "text": "Feiern wie die Tiere"
+            },
+            "choices": [
+                {
+                    "text": "Kleiner Onkel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Brian Griffin",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Flipper",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tweety das Küken",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher dieser Charaktere würde NIE wissen, wann er mit dem Trinken aufhören sollte, wenn man diese Wahrheit bedenkt?"
+                }
+            ]
+        },
+        {
+            "id": "10245",
+            "category": {
+                "text": "Schlecht Ding will Ende haben"
+            },
+            "choices": [
+                {
+                    "text": "Sonntag",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Montag",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Dienstag",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mittwoch",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wann endete der erste Weltkrieg?"
+                }
+            ]
+        },
+        {
+            "id": "10246",
+            "category": {
+                "text": "Klassische Videospiele & völlig unrealistische Machtverhältnisse"
+            },
+            "choices": [
+                {
+                    "text": "<i>MegaMan vs. GigaMan<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>MegaMan vs. UltraMan<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>MegaMan vs. PetaMan<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>MegaMan vs. YottaMan<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, im nächsten <i>Mega Man<\/i>-Spiel kämpft der Hauptcharakter gegen einen bösen Klon, der EINE MILLIARDE MAL so stark ist, wie er selbst."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Wie würde das Spiel am ehesten heißen?"
+                }
+            ]
+        },
+        {
+            "id": "10247",
+            "category": {
+                "text": "Rhetorische Antworten auf rhetorische Fragen"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDas Wasser in dieser Pfütze ist ziemlich nass!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cMenschen sind auch nur Menschen!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cDass der auf krankes Zeug steht ist doch ein offenes Geheimnis!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDieser Film ist eine riesige Drecks-Kack-Arsch-Mist-Scheiße!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche dieser Aussagen ist ein rhetorisches Beispiel für eine Tautologie?"
+                }
+            ]
         }
     ]
 }
