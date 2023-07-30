@@ -3143,7 +3143,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Ein Vier-Sterne Vier-Sterne Polizist",
+                    "text": "Ein Vier-Sterne Fünf-Sterne Polizist",
                     "isCorrect": false
                 },
                 {
@@ -3219,7 +3219,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Die Südspitze von Südsudan",
+                    "text": "Die Südspitze vom Südsudan",
                     "isCorrect": false
                 }
             ],
@@ -4113,7 +4113,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was liegt am nächsten bei 5 Dezibel?"
+                    "text": "Was liegt 5 Dezibel am nächsten?"
                 }
             ]
         },
@@ -4369,7 +4369,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn wir annehmen, dass er zunächst die Erdkruste schält, wie würde sich seine Mahlzeit durch den Erdmantel, den äußeren Erdkern, und den inneren Erdkern hindurch vermutlich anhören?"
+                    "text": "Wenn wir annehmen, dass er zunächst die Erdkruste abschält, wie würde sich seine Mahlzeit durch den Erdmantel, den äußeren Erdkern, und den inneren Erdkern hindurch vermutlich anhören?"
                 }
             ]
         },
@@ -4401,7 +4401,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Statt in eine Diskussion, wird Lanz aber plötzlich Teil einer Diffusion. Was passiert mit ihm?"
+                    "text": "Statt in eine Diskussion zu kommen, wird Lanz aber plötzlich Teil einer Diffusion. Was passiert mit ihm?"
                 }
             ]
         },
@@ -4433,7 +4433,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wer wird angesichts seines Namens wahrscheinlich als Mittlerer der neun Kegel stehen mussen?"
+                    "text": "Wer wird angesichts seines Namens wahrscheinlich als Mittlerer der neun Kegel stehen müssen?"
                 }
             ]
         },
@@ -4465,7 +4465,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Ihre Schwiegermutter begibt sich zum Polizeirevier und verlangt dort, sofort den Manager zu sprechen. Bedenkt man, welchen Namen die US-amerikanische Polizei üblicherweise verwendet, wenn die Identität einer männlichen Person unbekannt ist oder absichtlich geheimgehalten werden soll, wie könnte der Rezeptionist Ihrer Schwiegermutter vermutlich antworten?"
+                    "text": "Bedenkt man, welchen Namen die US-amerikanische Polizei üblicherweise verwendet, wenn die Identität einer männlichen Person unbekannt ist oder geheimgehalten werden soll, wie könnte der Rezeptionist vermutlich antworten?"
                 }
             ]
         },
@@ -4488,7 +4488,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cSEEHUNDE sind sogar noch süßer als ich, danke für das Kompliment!\u201d",
+                    "text": "\u201cSEEHUNDE sind sogar noch süßer als ich, danke!\u201d",
                     "isCorrect": false
                 }
             ],
@@ -4508,15 +4508,15 @@
             },
             "choices": [
                 {
-                    "text": "Der orangefarbene, der wie eine KUMQUAT riecht",
+                    "text": "Der orangene, der wie eine KUMQUAT riecht",
                     "isCorrect": false
                 },
                 {
-                    "text": "Der rosafarbene, der wie eine DRACHENFRUCHT riecht",
+                    "text": "Der rosane, der wie eine DRACHENFRUCHT riecht",
                     "isCorrect": false
                 },
                 {
-                    "text": "Der braune, der wie ein DURIAN riecht",
+                    "text": "Der braune, der wie eine DURIAN riecht",
                     "isCorrect": true
                 },
                 {
@@ -4529,7 +4529,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher fruchtig duftende Edding würde schrecklich riechen?"
+                    "text": "Welcher fruchtig riechende Edding würde schrecklich stinken?"
                 }
             ]
         },
@@ -4593,7 +4593,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Sortieren Sie diese Schreie für mich bitte in alphabetischer Reihenfolge: AAAAH, AAAAAAAAAAAAAAAAHH, AAAAAAAAAAA"
+                    "text": "Sortieren Sie diese Schreie in alphabetischer Reihenfolge: AAAAH, AAAAAAAAAAAAAAAAHH, AAAAAAAAAAA"
                 }
             ]
         },
@@ -4817,7 +4817,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Sortieren Sie die Charaktere der Sesamstraße in der Reihenfolge von WENIGSTEN bis MEISTEN Augenbrauen: Bert, Ernie, Graf Zahl"
+                    "text": "Sortieren Sie diese Charaktere der Sesamstraße in der Reihenfolge von WENIGSTE bis MEISTE Augenbrauen: Bert, Ernie, Graf Zahl"
                 }
             ]
         },
