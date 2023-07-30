@@ -7877,7 +7877,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
