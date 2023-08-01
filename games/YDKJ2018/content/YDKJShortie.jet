@@ -2436,7 +2436,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Sie fragen Ihren Lehrer Sokrates, ob Sie mal auf\u2019s Klo können. Wie könnte er Ihnen im Sinne der \u201csokratischen Methode\u201d antworten?"
+                    "text": "Sie fragen Ihren Lehrer Sokrates, ob Sie mal aufs Klo können."
+                },
+                {
+                    "timing": "S + 3.20",
+                    "text": "Wie könnte er Ihnen im Sinne der \u201csokratischen Methode\u201d antworten?"
                 }
             ]
         },
@@ -2468,7 +2472,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Kermit der Frosch so viel Tee trinken würde, dass er in das Land ziehen müsste, das in der Teeproduktion weltweit führend ist, wohin würde er ziehen?"
+                    "text": "Wenn Kermit der Frosch so viel Tee trinken würde, dass er in das Land ziehen müsste, das in der Teeproduktion weltweit führend ist, wohin würde er dann ziehen?"
                 }
             ]
         },
@@ -2503,76 +2507,76 @@
                     "text": "Wenn."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 0.73",
                     "text": "Sie."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 1.35",
                     "text": "Mir."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 2.02",
                     "text": "Nicht."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 2.67",
                     "text": "Sagen."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 3.34",
                     "text": "Können."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 3.95",
                     "text": "Wie."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 4.59",
                     "text": "Oft."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 5.18",
                     "text": "Ich."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 5.91",
                     "text": "Bei."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 6.64",
                     "text": "Dieser."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 7.30",
                     "text": "Frage."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 8.02",
                     "text": "Geklatscht."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 8.76",
                     "text": "Habe."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 9.64",
                     "text": "Bekommen."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 10.45",
                     "text": "Sie."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 11.18",
                     "text": "Kein."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 12.08",
                     "text": "Geld."
                 },
                 {
-                    "timing": "S + 420.69",
-                    "text": "Und?"
+                    "timing": "S + 13.74",
+                    "text": "...und?"
                 }
             ]
         },
@@ -2639,7 +2643,7 @@
                     "text": "Nehmen wir an, R2-D2 = X."
                 },
                 {
-                    "timing": "S + 1.00",
+                    "timing": "S + 3.53",
                     "text": "Wenn \u201cR\u201d und \u201cD\u201d der Position des jeweiligen Buchstabens im Alphabet entsprechen, wie lautet die Lösung dieser Gleichung?"
                 }
             ]
