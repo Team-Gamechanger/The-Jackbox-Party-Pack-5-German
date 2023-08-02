@@ -5261,7 +5261,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Stellen Sie sich vor, Papst Franziskus und der Rest der katholischen Kirche kriegen sich faustdick in die Haare."
+                    "text": "Stellen Sie sich vor, Papst Franziskus und der Rest der katholischen Kirche kriegen sich mächtig in die Haare."
                 },
                 {
                     "timing": "S + 420.69",
@@ -5516,11 +5516,11 @@
             },
             "choices": [
                 {
-                    "text": "Ihre linken Achseln",
+                    "text": "Ihre linken Achsel",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ihre rechten Achseln",
+                    "text": "Ihre rechten Achsel",
                     "isCorrect": true
                 },
                 {
@@ -5541,7 +5541,7 @@
                 },
                 {
                     "timing": "S + 420.69",
-                    "text": "welche Achseln der Freiheitsstatue in New York könnten gut etwas Deo gebrauchen?"
+                    "text": "welche Achsel der Freiheitsstatue in New York könnten gut etwas Deo gebrauchen?"
                 }
             ]
         },
@@ -5645,7 +5645,7 @@
                 },
                 {
                     "timing": "S + 420.69",
-                    "text": "Wie könnte man diese Box dann zutreffend bezeichnen, wenn sie im Vier-Farb-Druck produziert werden wird?"
+                    "text": "Wie könnte man diese Box dann zutreffend bezeichnen, wenn sie im Vier-Farb-Druck produziert wird?"
                 }
             ]
         },
@@ -6109,7 +6109,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Sie entscheidet den Partner des Lebens mittels der höchst-wissenschaftlichen Untersuchung:"
+                    "text": " Sie wählt den Partner ihres Lebens mittels der höchst-wissenschaftlichen Untersuchung:"
                 },
                 {
                     "timing": "S + 420.69",
@@ -6401,7 +6401,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Zur Feier dieses einmaligen Anlasses gönnen Sie sich einen echten Champagner."
+                    "text": "Zur Feier gönnen Sie sich einen echten Champagner."
                 },
                 {
                     "timing": "S + 420.69",
