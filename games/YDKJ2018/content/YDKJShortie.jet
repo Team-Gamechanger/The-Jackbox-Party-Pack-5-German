@@ -2708,7 +2708,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Stellen Sie sich vor, Helene Fischer sucht sich eine neue Karriere als Anglerin an der Ostsee. Was wäre für sie KEINE passende Namensergänzung, weil es diese Fische in der Ostsee nicht gibt?"
+                    "text": "Stellen Sie sich vor, Helene Fischer sucht sich eine neue Karriere als Anglerin an der Ostsee."
+                },
+                {
+                    "timing": "S + 5.05",
+                    "text": "Was wäre für sie KEINE passende Namensergänzung, weil es diese Fische in der Ostsee nicht gibt?"
                 }
             ]
         },
@@ -2772,7 +2776,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, Sie verwandeln sich nachts in einen Werwolf, der einen NACHTSCHATTEN wirft. Welches Emoji könnten Schaulustige unter die Bilder posten, die von Ihnen zweifellos ohne große Verzögerung im Social-Media-Kosmos auftauchen?"
+                    "text": "Angenommen, Sie verwandeln sich nachts in einen Werwolf, der einen NACHTSCHATTEN wirft."
+                },
+                {
+                    "timing": "S + 4.22",
+                    "text": "Welches Emoji könnten Schaulustige unter die Bilder posten, die von Ihnen zweifellos ohne große Verzögerung im Social-Media-Kosmos auftauchen?"
                 }
             ]
         },
@@ -3095,7 +3103,7 @@
                     "text": "Angenommen, das dänische Unternehmen <i>LEGO<\/i> möchte, dass der nächste <i>LEGO<\/i>-Film in seinem Heimatland spielt."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 5.75",
                     "text": "Welcher klassischen Figur würden wir beim Untergang zuschauen?"
                 }
             ]
@@ -3131,7 +3139,7 @@
                     "text": "Angenommen, eine unglückliche Fehlinterpretation sorgt dafür, dass RTL nächstes Jahr <i>Deutschland sucht den Super-Star<\/i> produziert, bei der die Jury den besten Singvogel sucht."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 11.89",
                     "text": "Welches Merkmal würde den Sieger vermutlich auszeichnen?"
                 }
             ]
@@ -3299,7 +3307,7 @@
                     "text": "Wenn die Summe aus 6 köstlichen Frikadellen und 2 scharfen Klößen 8 Köstlichkeiten ergibt..."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 5.17",
                     "text": "was wäre das PRODUKT?"
                 }
             ]
