@@ -7772,7 +7772,7 @@
             },
             "choices": [
                 {
-                    "text": "Wolfgang Xavier Thaddäus Amadeus Mozart",
+                    "text": "Wolfgang Xaver Thaddäus Amadeus Mozart",
                     "isCorrect": false
                 },
                 {
@@ -7808,7 +7808,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Er rülpst seiner Freundin ständig ins Gesicht",
+                    "text": "Er rülpst seiner Freundin ins Gesicht",
                     "isCorrect": true
                 },
                 {
@@ -7925,11 +7925,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Nehmen wir an, ein stockbesoffener Mann fängt in der Kneipe damit an, eine Runde \u201c501\u201d mit ihren 501-Jeans zu spielen."
+                    "text": "Nehmen wir an, ein stockbesoffener Mann fängt in der Kneipe damit an, eine Runde \u201c501\u201d mit Ihren 501-Jeans zu spielen."
                 },
                 {
                     "timing": "S + 420.69",
-                    "text": "Was stellt er mit Ihrer Hosen an?"
+                    "text": "Was stellt er mit Ihrer Hose an?"
                 }
             ]
         },
@@ -8052,11 +8052,11 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cJa, ich will. Und jetzt malen wir!\u201d",
+                    "text": "\u201cZeit für ein Gemälde! Man bringe mir den Pinsel!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cUnd die Flitterwochen verbringen wir im Keller!\u201d",
+                    "text": "\u201cDie Flitterwochen verbringen wir im Keller!\u201d",
                     "isCorrect": false
                 }
             ],
