@@ -8396,6 +8396,402 @@
                     "text": "Welche dieser Aussagen ist ein rhetorisches Beispiel für eine Tautologie?"
                 }
             ]
+        },
+        {
+            "id": "10248",
+            "category": {
+                "text": "Vögel mit Vielflieger-Meilen"
+            },
+            "choices": [
+                {
+                    "text": "Die Piloten würden sich asexuell fortpflanzen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Flugzeug würde nie abheben",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Flugbegleiter würden sich von Aas ernähren",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Arbeitsuniformen wären knallrot",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn die Airline <i>Condor<\/i> die gleichen Eigenschaften hätte, wie der Kondor, was könnten Sie dann auf einem Flug üblicherweise beobachten?"
+                }
+            ]
+        },
+        {
+            "id": "10249",
+            "category": {
+                "text": "Darmatische Minuten"
+            },
+            "choices": [
+                {
+                    "text": "Gekröse-Mast-Grimm-Blind-Zwölffingerdarm",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Grimm-Zwölffinger-Mast-Blind-Gekrösedarm",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zwölffinger-Blind-Gekröse-Grimm-Mastdarm",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Blind-Gekröse-Zwölffinger-Mast-Grimmdarm",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, Sie hätten einen gigantischen Stock im Arsch."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Wenn man nun versuchen würde, diesen zu entfernen, in welcher Reihenfolge durch die Därme würde er Ihre Organe verlassen?"
+                }
+            ]
+        },
+        {
+            "id": "10250",
+            "category": {
+                "text": "Unterhaltung für Magen und Hirn"
+            },
+            "choices": [
+                {
+                    "text": "\u201cScharf angebratene Amygdala mit Ingwer\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cInselrinde mit Zitronenhollandaise\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cThalamus-Taler mit geriebenem Meerrettich\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cPanierte Pharynx mit Kartoffelspalten\u201d",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, Johann Lafer würde seine Kochshows von der Zielgruppe von \u201cFast-Tote\u201d auf \u201cUntote\u201d umstellen."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Welches seiner neuen Hirn-Rezepte würde er seinen Zuschauern NICHT präsentieren?"
+                }
+            ]
+        },
+        {
+            "id": "10251",
+            "category": {
+                "text": "Schlechte Vorbereitung & beeindruckende Dinger"
+            },
+            "choices": [
+                {
+                    "text": "\u201cOh Junge, schau sich mal einer all die PENI an!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cUiuiuiui, schau sich mal einer all die PENISSI an!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cWoah, schau sich mal einer all die PENES an!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cUlalala, schau sich mal einer all die PENIA an!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": " Wie könnten Sie Ihre Verwunderung über die ganzen männlichen Geschlechtsorgane korrekt ausdrücken?"
+                }
+            ]
+        },
+        {
+            "id": "10252",
+            "category": {
+                "text": "Eine bombastische Geburtstagsparty"
+            },
+            "choices": [
+                {
+                    "text": "<i>Spanische Thronfolge, wechsel dich!<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reise nach Polen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Die-Katholiken-aus-dem-Fenster-Wettschmeißen<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Triff-den-Österreichischen-Erzherzog<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Sie Ihren 30. Geburtstag begehen möchten, in dem Sie den Dreißigjährigen Krieg nachstellen, mit welchem der folgenden Spiele müssten Sie dann die Festlichkeiten starten?"
+                }
+            ]
+        },
+        {
+            "id": "10253",
+            "category": {
+                "text": "Eine elementare Macht"
+            },
+            "choices": [
+                {
+                    "text": "Der Niger",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Donau",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Wolga",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Der Rhein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher der folgenden ist der stärkste Wasserbändiger, weil er das MEISTE Wasser bändigt?"
+                }
+            ]
+        },
+        {
+            "id": "10254",
+            "category": {
+                "text": "Erfolg auf ganzer Linie"
+            },
+            "choices": [
+                {
+                    "text": "\u201cHier entsteht mein eigenes Land.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDer Ozean ist hier dunkler als eine Black Box.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cAuf Wiedersehen, Planet Erde.\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cIch sehe Gott!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was könnten Sie passenderweise sagen, wenn Sie die Kármán-Linie erreichen?"
+                }
+            ]
+        },
+        {
+            "id": "10255",
+            "category": {
+                "text": "Romeo & Julia sitzen in \u2019nem Baum"
+            },
+            "choices": [
+                {
+                    "text": "R.M. + J.C. = Herz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "R.T. + J.C. = Herz",
+                    "isCorrect": false
+                },
+                {
+                    "text": "R.C. + J.M. = Herz",
+                    "isCorrect": false
+                },
+                {
+                    "text": "R.H. + J.T.T. = Herz",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie hätte es ausgesehen, wenn Romeo und Julia ihre Initialen in einen Baumstamm geschnitzt hätten?"
+                }
+            ]
+        },
+        {
+            "id": "10256",
+            "category": {
+                "text": "Mathe mit Kurven"
+            },
+            "choices": [
+                {
+                    "text": "Pi x die Hälfte ihres Hinterns",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pi x Ihr Hintern",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Pi x Ihr Hintern zum Quadrat",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ihr Hintern x 2",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Ihr Hintern so breit wäre, wie der Durchmesser Ihres Hula Hoop, was wäre dann der UMFANG Ihres Hula Hoop?"
+                }
+            ]
+        },
+        {
+            "id": "10257",
+            "category": {
+                "text": "Kinderserien & das Reich der wilden Tiere"
+            },
+            "choices": [
+                {
+                    "text": "Brummbärchis Atem hält an",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sonnenscheinbärchis Körpertemperatur fällt stark",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Wunderherzbärchis Herz schlägt extrem langsam",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Schmusebärchi steht auf und geht spazieren",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Leider fällt Ihr Besuch mitten in den Winter, und die <i>Glücksbärchis<\/i> halten gerade ihren Winterschlaf."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Welches dieser Dinge werden Sie während Ihres Besuchs NICHT sehen?"
+                }
+            ]
+        },
+        {
+            "id": "10258",
+            "category": {
+                "text": "Klingeling Klingeling, hier kommt die Frage, man"
+            },
+            "choices": [
+                {
+                    "text": "Durch den Kauf eines Carillons in Vietnam",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Durch den Kauf eines Chivitos in Thailand",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Durch den Kauf eines Baritons in Singapur",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Durch den Kauf eines Pleuels in China",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie könnten Sie ein Dingdong-Ding mit Dong kaufen?"
+                }
+            ]
+        },
+        {
+            "id": "10259",
+            "category": {
+                "text": "Schweizer sind schwer reizbar"
+            },
+            "choices": [
+                {
+                    "text": "Zum Stochern in CHURCHILLS Zähnen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zum Schneiden von NAPOLEONS Zehennägel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Zum Öffnen von HITLERS Weinflasche",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zum Zupfen von SADDAM HUSSEINS Nasenhaar",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn man bedenkt, wann die Schweizer zuletzt gegen eine fremde Armee gekämpft haben, wofür haben sie vermutlich zuletzt ihre <i>Schweizer Taschenmesser<\/i> benutzt?"
+                }
+            ]
         }
     ]
 }
