@@ -184,7 +184,7 @@
         },
         {
             "question": {
-                "text": "Möchten Sie eine einfache Mathefrage, oder eine schwierige Mathefrage gestellt bekommen?"
+                "text": "Möchten Sie eine einfache Mathefrage, oder eine schwierige Mathefrage?"
             },
             "id": "11613",
             "choice1": {
