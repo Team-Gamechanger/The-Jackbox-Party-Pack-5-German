@@ -544,7 +544,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Auto auf 10 Zentimeter tieferlegen",
+                    "text": "Das Auto auf 10 Zentimeter tieferlegen",
                     "isCorrect": false
                 },
                 {
@@ -1811,7 +1811,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn der Maler Edvard Munch sein beliebtestes Werk heute auf Instagram posten würde, was würde er dazu schreiben?"
+                    "text": "Wenn der Maler Edvard Munch sein beliebtestes Werk heute auf <i>Instagram<\/i> posten würde, was würde er dazu schreiben?"
                 }
             ]
         },
@@ -2377,6 +2377,1679 @@
             ]
         },
         {
+            "id": "10070",
+            "category": {
+                "text": "Peinliche Momente der Medizingeschichte"
+            },
+            "choices": [
+                {
+                    "text": "Jonas Salk wird durch den Pockenimpfstoff krank",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Edward Jenner wird von Insulin veräppelt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Frederick Banting wird durch den Polio-Impfstoff in die Mangel genommen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Alexander Fleming wird durch Penicillin bloßgestellt",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wer bekommt hier seine eigene Medizin zu schmecken?"
+                }
+            ]
+        },
+        {
+            "id": "10071",
+            "category": {
+                "text": "Philosopipi"
+            },
+            "choices": [
+                {
+                    "text": "\u201cNur, wenn Gott tot ist.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDu musst pinkeln; ergo, pinkle.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cUnd was wäre, wenn du es könntest?\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cEs ist alles erlaubt, was nicht verboten ist.\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Sie fragen Ihren Lehrer Sokrates, ob Sie mal aufs Klo können."
+                },
+                {
+                    "timing": "S + 3.20",
+                    "text": "Wie könnte er Ihnen im Sinne der \u201csokratischen Methode\u201d antworten?"
+                }
+            ]
+        },
+        {
+            "id": "10072",
+            "category": {
+                "text": "Das muss ich erstmal ziehen lassen"
+            },
+            "choices": [
+                {
+                    "text": "Indien, aber das geht mich eigentlich nichts an",
+                    "isCorrect": false
+                },
+                {
+                    "text": "China, aber das geht mich eigentlich nichts an",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Argentinien, aber das geht mich eigentlich nichts an",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kenia, aber das geht mich eigentlich nichts an",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Kermit der Frosch so viel Tee trinken würde, dass er in das Land ziehen müsste, das in der Teeproduktion weltweit führend ist, wohin würde er dann ziehen?"
+                }
+            ]
+        },
+        {
+            "id": "10073",
+            "category": {
+                "text": "Applaus, Applaus!"
+            },
+            "choices": [
+                {
+                    "text": "18 Mal",
+                    "isCorrect": true
+                },
+                {
+                    "text": "22 Mal",
+                    "isCorrect": false
+                },
+                {
+                    "text": "27 Mal",
+                    "isCorrect": false
+                },
+                {
+                    "text": "30 Mal",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn."
+                },
+                {
+                    "timing": "S + 0.73",
+                    "text": "Sie."
+                },
+                {
+                    "timing": "S + 1.35",
+                    "text": "Mir."
+                },
+                {
+                    "timing": "S + 2.02",
+                    "text": "Nicht."
+                },
+                {
+                    "timing": "S + 2.67",
+                    "text": "Sagen."
+                },
+                {
+                    "timing": "S + 3.34",
+                    "text": "Können."
+                },
+                {
+                    "timing": "S + 3.95",
+                    "text": "Wie."
+                },
+                {
+                    "timing": "S + 4.59",
+                    "text": "Oft."
+                },
+                {
+                    "timing": "S + 5.18",
+                    "text": "Ich."
+                },
+                {
+                    "timing": "S + 5.91",
+                    "text": "Bei."
+                },
+                {
+                    "timing": "S + 6.64",
+                    "text": "Dieser."
+                },
+                {
+                    "timing": "S + 7.30",
+                    "text": "Frage."
+                },
+                {
+                    "timing": "S + 8.02",
+                    "text": "Geklatscht."
+                },
+                {
+                    "timing": "S + 8.76",
+                    "text": "Habe."
+                },
+                {
+                    "timing": "S + 9.64",
+                    "text": "Bekommen."
+                },
+                {
+                    "timing": "S + 10.45",
+                    "text": "Sie."
+                },
+                {
+                    "timing": "S + 11.18",
+                    "text": "Kein."
+                },
+                {
+                    "timing": "S + 12.08",
+                    "text": "Geld."
+                },
+                {
+                    "timing": "S + 13.74",
+                    "text": "...und?"
+                }
+            ]
+        },
+        {
+            "id": "10074",
+            "category": {
+                "text": "Hat Aquaman eine See-Schwäche?"
+            },
+            "choices": [
+                {
+                    "text": "Während er im Kaspischen Meer derbe verprügelt wird",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Während er im Hebridensee richtig vermöbelt wird",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Während er im Gelben Meer brutal verkloppt wird",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Während er im Meer der Ruhe böse zusammengeschlagen wird",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wann könnte Aquaman NICHT von Meeresbewohnern gerettet werden?"
+                }
+            ]
+        },
+        {
+            "id": "10075",
+            "category": {
+                "text": "Abakus Skywalker"
+            },
+            "choices": [
+                {
+                    "text": "X = 0",
+                    "isCorrect": false
+                },
+                {
+                    "text": "X = 28",
+                    "isCorrect": true
+                },
+                {
+                    "text": "X = 42",
+                    "isCorrect": false
+                },
+                {
+                    "text": "X = C-3PO",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Nehmen wir an, R2-D2 = X."
+                },
+                {
+                    "timing": "S + 3.53",
+                    "text": "Wenn \u201cR\u201d und \u201cD\u201d der Position des jeweiligen Buchstabens im Alphabet entsprechen, wie lautet die Lösung dieser Gleichung?"
+                }
+            ]
+        },
+        {
+            "id": "10076",
+            "category": {
+                "text": "Alles steht auf TOOOOOR!"
+            },
+            "choices": [
+                {
+                    "text": "Drei Tassen Mate aus Argentinien",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Vier Tassen kalte spanische Gazpacho-Suppe",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fünf Gläser brasilianischer Caipirinha",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Zehn Gläser König Pilsener",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche Getränkebestellung steht für das Land, das die meisten Fußballweltmeisterschaften der Männer gewonnen hat?"
+                }
+            ]
+        },
+        {
+            "id": "10077",
+            "category": {
+                "text": "Schlagersänger & die Liebe zum Meer"
+            },
+            "choices": [
+                {
+                    "text": "Helene Lachsfischer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Helene Dorschfischer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Helene Makrelenfischer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Helene Karpfenfischer",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, Helene Fischer sucht sich eine neue Karriere als Anglerin an der Ostsee."
+                },
+                {
+                    "timing": "S + 5.05",
+                    "text": "Was wäre für sie KEINE passende Namensergänzung, weil es diese Fische in der Ostsee nicht gibt?"
+                }
+            ]
+        },
+        {
+            "id": "10078",
+            "category": {
+                "text": "Ein Thron, sie zu knechten"
+            },
+            "choices": [
+                {
+                    "text": "George Roland Richmond Martin",
+                    "isCorrect": false
+                },
+                {
+                    "text": "George Raymond Richard Martin",
+                    "isCorrect": true
+                },
+                {
+                    "text": "George Richford Robert Martin",
+                    "isCorrect": false
+                },
+                {
+                    "text": "George Rocheford Ryder Martin",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wer schrieb <i>Game of Thrones<\/i> und die anderen Bücher der <i>Das Lied von Eis und Feuer<\/i>-Serie?"
+                }
+            ]
+        },
+        {
+            "id": "10079",
+            "category": {
+                "text": "Im Schatten der Hater"
+            },
+            "choices": [
+                {
+                    "text": "Avocado-Emoji",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Erdnuss-Emoji",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Pfirsich-Emoji",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Auberginen-Emoji",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Sie verwandeln sich nachts in einen Werwolf, der einen NACHTSCHATTEN wirft."
+                },
+                {
+                    "timing": "S + 4.22",
+                    "text": "Welches Emoji könnten Schaulustige unter die Bilder posten, die von Ihnen zweifellos ohne große Verzögerung im Social-Media-Kosmos auftauchen?"
+                }
+            ]
+        },
+        {
+            "id": "10080",
+            "category": {
+                "text": "Haste Bock, Beethoven?"
+            },
+            "choices": [
+                {
+                    "text": ":>|",
+                    "isCorrect": false
+                },
+                {
+                    "text": ":)",
+                    "isCorrect": false
+                },
+                {
+                    "text": ":o|",
+                    "isCorrect": false
+                },
+                {
+                    "text": ":|",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher dieser Smileys ähnelt am meisten dem Wiederholungszeichen auf einem Notenblatt?"
+                }
+            ]
+        },
+        {
+            "id": "10081",
+            "category": {
+                "text": "Billy und sein Boy"
+            },
+            "choices": [
+                {
+                    "text": "Stieg Larsson die Antwort lautet natürlich.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Stefan Edberg im 20. Jahrhundert es tat.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ingvar Kamprad damit hat angefangen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Dolph Lundgren davon Gründer der ist.",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "In welcher dieser schludrig selbst zusammengebauten Antworten wird der Gründer von <i>IKEA<\/i> erwähnt?"
+                }
+            ]
+        },
+        {
+            "id": "10082",
+            "category": {
+                "text": "Die Penaissance"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDas ist der größte BRONZINO, den ich je gesehen habe!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDas ist ja mal ein mächtiger GIAMBOLOGNA!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cSchau sich mal einer die Größe von diesem BUONARROTI an!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cAAAH! Ein gigantischer MASACCIO!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was könnten die ersten Betrachter Michelangelos berühmter Statue <i>David<\/i> ausgerufen haben, als sie sie das erste Mal sahen?"
+                }
+            ]
+        },
+        {
+            "id": "10083",
+            "category": {
+                "text": "Das Periodensystem von Elyas M\u2019Barek"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDiesen Winter, Elyas M\u2019Barek als KOHLENSTOFF!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDiesen Sommer, Elyas M\u2019Barek als WASSERSTOFF!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cDiesen Herbst, Elyas M\u2019Barek als SAUERSTOFF!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cNächstes Jahr, Elyas M\u2019Barek als HELIUM!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Elyas M\u2019Barek in seinem nächsten Film das Element spielen würde, das im Universum am häufigsten vorkommt, was würde dann im Trailer gesagt werden?"
+                }
+            ]
+        },
+        {
+            "id": "10084",
+            "category": {
+                "text": "Ein Fall für den Verbraucherschutz"
+            },
+            "choices": [
+                {
+                    "text": "Ein MIKROgebräu",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein MILLIgebräu",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein PIKOgebräu",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein ZENTIgebräu",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welches dieser furchteinflößend hippen Getränke ist das KLEINSTE Bier in der Reihe?"
+                }
+            ]
+        },
+        {
+            "id": "10085",
+            "category": {
+                "text": "Das Internet ist krank"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDie Keyboard Cat bekommt TOLLWUT\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cCharlie hat mir in den Finger gebissen und jetzt habe ich TUBERKULOSE\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cEin wütendes Kind will <i>Unreal Tournament<\/i> spielen und bekommt stattdessen MUMPS\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDer niesende Panda hat vielleicht HEPATITIS C\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche dieser Online-Sensationen würde NICHT zu den \u201cviralen\u201d Videos gehören?"
+                }
+            ]
+        },
+        {
+            "id": "10086",
+            "category": {
+                "text": "Apollo ist nur einmal im Jahr"
+            },
+            "choices": [
+                {
+                    "text": "Venus",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Jupiter",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Merkur",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Uranus",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "An welchem dieser Reiseziele können Sie, gemessen an der Länge der Tage, am längsten Alkohol konsumieren?"
+                }
+            ]
+        },
+        {
+            "id": "10087",
+            "category": {
+                "text": "Absurde Phobien & richtig gruselige Fragen"
+            },
+            "choices": [
+                {
+                    "text": "...wenn Sie diese Frage falsch beantworten!",
+                    "isCorrect": true
+                },
+                {
+                    "text": "...wenn Sie diese Frage richtig beantworten!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "...wenn wir Ihnen nicht die richtige Antwort auf diese Frage verraten!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "...wenn diese Frage bis zum Rand mit Bienen gefüllt wäre!",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Sie an Atychiophobie leiden werden Sie panisch aufschreien, ..."
+                }
+            ]
+        },
+        {
+            "id": "10089",
+            "category": {
+                "text": "Da fehlen ein paar Steine in meinem Set"
+            },
+            "choices": [
+                {
+                    "text": "<i>LEGO<\/i> Frankenstein",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>LEGO<\/i> Captain Ahab",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>LEGO<\/i> Hamlet",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>LEGO<\/i> Gregor Samsa",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                { 
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, das dänische Unternehmen <i>LEGO<\/i> möchte, dass der nächste <i>LEGO<\/i>-Film in seinem Heimatland spielt."
+                },
+                {
+                    "timing": "S + 5.75",
+                    "text": "Welcher klassischen Figur würden wir beim Untergang zuschauen?"
+                }
+            ]
+        },
+        {
+            "id": "10090",
+            "category": {
+                "text": "Und das nennst du Musik?"
+            },
+            "choices": [
+                {
+                    "text": "Er singt nur bei Sonnenaufgang",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er würde höchstens 25 Jahre alt werden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er hätte einen ungewöhnlich großen Schnabel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er würde die Stimmen und Songs anderer Sänger imitieren",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, eine unglückliche Fehlinterpretation sorgt dafür, dass RTL nächstes Jahr <i>Deutschland sucht den Super-Star<\/i> produziert, bei der die Jury den besten Singvogel sucht."
+                },
+                {
+                    "timing": "S + 11.89",
+                    "text": "Welches Merkmal würde den Sieger vermutlich auszeichnen?"
+                }
+            ]
+        },
+        {
+            "id": "10091",
+            "category": {
+                "text": "Heiße Beamte in Ihrer Umgebung"
+            },
+            "choices": [
+                {
+                    "text": "Ein Drei-Sterne Vier-Sterne Polizist",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Vier-Sterne Fünf-Sterne Polizist",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Fünf-Sterne Fünf-Sterne Polizist",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Sechs-Sterne Sechs-Sterne Polizist",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was ist die höchste Sternebewertung, die ein Polizist im gehobenen Polizeivollzugsdienst bekommen kann"
+                },
+                {
+                    "timing": "S + 5.62",
+                    "text": "...auf <i>Yelp<\/i>?"
+                }
+            ]
+        },
+        {
+            "id": "10092",
+            "category": {
+                "text": "Ist <i>Facebook<\/i> denn privatversichert?"
+            },
+            "choices": [
+                {
+                    "text": "@MachKeinAuge",
+                    "isCorrect": false
+                },
+                {
+                    "text": "@DerBlutTyp",
+                    "isCorrect": true
+                },
+                {
+                    "text": "@DeineBlaseMeinePhase",
+                    "isCorrect": false
+                },
+                {
+                    "text": "@DrSeniorenBetreuung",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn mein Hämatologe sich einen <i>Instagram<\/i>-Account erstellen würde, was wäre ein passender Nutzername für ihn?"
+                }
+            ]
+        },
+        {
+            "id": "10093",
+            "category": {
+                "text": "Kompass mal auf!"
+            },
+            "choices": [
+                {
+                    "text": "Die Südspitze von Südkorea",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Südspitze von Südafrika",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Südspitze von Südtirol",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Südspitze vom Südsudan",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher dieser südlichen Punkte ist am weitesten nördlich?"
+                }
+            ]
+        },
+        {
+            "id": "10094",
+            "category": {
+                "text": "Super Dumm-bledore"
+            },
+            "choices": [
+                {
+                    "text": "<i>Phantastische Rüben und wo sie zu finden sind<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Phantastische Gänse und wo sie zu finden sind<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Phantastische Bienen und wo sie zu finden sind<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Phantastische Sternsysteme und wo sie zu finden sind<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was wäre der beste Titel für ein <i>Harry Potter<\/i> Spin-Off, bei welchem der Zauberspruch \u201cBeta Vulgaris\u201d gerufen wird?"
+                }
+            ]
+        },
+        {
+            "id": "10095",
+            "category": {
+                "text": "Heute gibt es lecker Mathe"
+            },
+            "choices": [
+                {
+                    "text": "0,33 Köstlichkeiten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "3 Köstlichkeiten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4 Köstlichkeiten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "12 Köstlichkeiten",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn die Summe aus 6 köstlichen Frikadellen und 2 scharfen Klößen 8 Köstlichkeiten ergibt..."
+                },
+                {
+                    "timing": "S + 5.17",
+                    "text": "was wäre das PRODUKT?"
+                }
+            ]
+        },
+        {
+            "id": "10096",
+            "category": {
+                "text": "Ich bin der beste SängerrrrRRRRrrrrRRRR"
+            },
+            "choices": [
+                {
+                    "text": "Stefanie Kloß dreht sich mit 100 km/h",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mark Forster dreht sich mit 1.000 km/h",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Peter Maffay dreht sich mit 10.000 km/h",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Rea Garvey dreht sich mit 100.000 km/h",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Jemand hat die ikonischen Drehstühle sabotiert, die sich prompt so schnell drehen wie die Erde."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Was würde bei der nächsten Ausgabe von <i>The Voice of Germany<\/i> über die deutschen Bildschirme flimmern?"
+                }
+            ]
+        },
+        {
+            "id": "10097",
+            "category": {
+                "text": "Musik zum Lachen"
+            },
+            "choices": [
+                {
+                    "text": "Ha!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "haaaaaaaAAAAAA!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Haaaaaaaaaaaaaaa",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ha Ha Ha",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn jemand eine Fermate auf sein Lachen legen würde, wie würde es klingen?"
+                }
+            ]
+        },
+        {
+            "id": "10098",
+            "category": {
+                "text": "Seit wann hat Opa <i>WhatsApp<\/i>?"
+            },
+            "choices": [
+                {
+                    "text": "MAMA: \u201cEs gibt keinen Gott!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "PAPA: \u201cHör auf, dich wie Hitler zu verhalten!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "OMA: \u201cIch wünschte, ihr wärt alle tot!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "OPA: \u201cIch hab eure Nummern nicht mehr. Wer ist da?\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Zu welcher Nachricht wird die endlose Reihe von <i>WhatsApp<\/i>-Gruppennachrichten meiner gesamten Familie nach Godwin\u2019s Law irgendwann führen?"
+                }
+            ]
+        },
+        {
+            "id": "10099",
+            "category": {
+                "text": "Gesundheit."
+            },
+            "choices": [
+                {
+                    "text": "Der Dougie",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Popping & Locking",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Humpty-Tanz",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Dab",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher Hip-Hop-Move veranschaulicht am besten die korrekte hygienische Art und Weise, in der Öffentlichkeit zu niesen, wie sie von der BZgA empfohlen wird?"
+                }
+            ]
+        },
+        {
+            "id": "10100",
+            "category": {
+                "text": "Im Netz gelandet"
+            },
+            "choices": [
+                {
+                    "text": ":r:matrosen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "/r/matrosen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cr\u201dmatrosen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "(r)matrosen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie lautet das richtige Namensformat für einen Subreddit über Piraten auf <i>Reddit<\/i>?"
+                }
+            ]
+        },
+        {
+            "id": "10101",
+            "category": {
+                "text": "Hola, mi nombre es Jack"
+            },
+            "choices": [
+                {
+                    "text": "el comienzo de la Guerra de la Independencia Mexicana",
+                    "isCorrect": false
+                },
+                {
+                    "text": "la derrota de los franceses en la batalla de puebla",
+                    "isCorrect": true
+                },
+                {
+                    "text": "el final de la revolución mexicana",
+                    "isCorrect": false
+                },
+                {
+                    "text": "el nacimiento de la Virgen María",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "¿Qué estás celebrando el cinco de mayo?"
+                }
+            ]
+        },
+        {
+            "id": "10102",
+            "category": {
+                "text": "Dieser ist kein Musik-Streamingdienst."
+            },
+            "choices": [
+                {
+                    "text": "Ein maskulines Demonstrativpronomen im Nominativ",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein feminines Possessivpronomen im Genitiv",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein maskulines Indefinitpronomen im Dativ",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein neutrales Reflexivpronomen im Akkusativ",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "WAS IST DIESER?!?!?!"
+                }
+            ]
+        },
+        {
+            "id": "10103",
+            "category": {
+                "text": "Libe Froinde bite schikt miir Essenn"
+            },
+            "choices": [
+                {
+                    "text": "\u201cFallafel vom mediterranen Restaurant\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cFalafel vom mediteranen Restaurant\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cFalafel vom mediterranen Restaurant\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cFalaffel vom mediteranen Restaurant\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche dieser <i>Lieferando<\/i>-Suchen ist frei von Tippfehlern?"
+                }
+            ]
+        },
+        {
+            "id": "10104",
+            "category": {
+                "text": "HEIRATE MICH!!!"
+            },
+            "choices": [
+                {
+                    "text": "Eine Stadionwerbung im Finale der FIFA-Weltmeisterschaft",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine Ankündigung eines Prominenten während der Oscar-Verleihung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine 30-Sekunden Super Bowl Werbung",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Tweet vom US-Präsidenten",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Sie wollen, dass möglichst viele Leute wissen, wie süß Sie sind, wenn Sie diese Frage stellen, wie könnten Sie dann die MEISTEN Leute erreichen?"
+                }
+            ]
+        },
+        {
+            "id": "10105",
+            "category": {
+                "text": "Bitte Hintern anstellen"
+            },
+            "choices": [
+                {
+                    "text": "Der Ozipital-Muskel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Piriformis-Muskel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Der Teresmajor-Muskel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Jochbeinmuskel",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was ist in Ihrem Arsch?"
+                }
+            ]
+        },
+        {
+            "id": "10106",
+            "category": {
+                "text": "Was ist ein Walter?"
+            },
+            "choices": [
+                {
+                    "text": "Ein mysteriöser Eigenbrötler, erfunden von Beatrix Potter",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein wanderndes Engima, erfunden von Maurice Sendak",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein komplizierter Mann, erfunden von P.D. Eastman",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine verlorene Seele, erfunden von Martin Handford",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "WER ist Walter?"
+                }
+            ]
+        },
+        {
+            "id": "10107",
+            "category": {
+                "text": "Unoriginelle Freunde & Noch unoriginellere Filmideen"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDas ist <i>I, Robot<\/i>, Schwachkopf.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDas ist <i>Das Tal der Puppen<\/i>, Trottel.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDas ist <i>Schöne neue Welt<\/i>, Depp.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDas ist <i>Die Frauen von Stepford<\/i>, Idiot.\u201d",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie könnten Sie jemandem antworten, der mit folgender Idee für einen brandneuen Kinofilm auf Sie zukommt:"
+                },
+                {
+                    "timing": "S + 5.78",
+                    "text": "\u201cDa gibt es diese Stadt, die perfekt zu sein scheint, aber alle Frauen sind Roboter!!!\u201d"
+                }
+            ]
+        },
+        {
+            "id": "10108",
+            "category": {
+                "text": "Unterhaltung wie aus dem Bilderbuch"
+            },
+            "choices": [
+                {
+                    "best": true,
+                    "text": "Rick und seinen Großvater Morty",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Rick und seinen Onkel Morty",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Rick und seinen Vater Morty",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Morty und seinen Großvater Rick",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Worum geht\u2019s da?"
+                }
+            ]
+        },
+        {
+            "id": "10109",
+            "category": {
+                "text": "Spülen, bis der Arzt kommt"
+            },
+            "choices": [
+                {
+                    "text": "Sie haben zu wenig Galle im Stuhlgang",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sie haben innere Blutungen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie essen zu viel fettiges Essen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie verwandeln sich gerade in einen Vogel",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was bedeutet es, wenn Ihre Kacke weiß ist?"
+                }
+            ]
+        },
+        {
+            "id": "10110",
+            "category": {
+                "text": "Aus die Maus"
+            },
+            "choices": [
+                {
+                    "text": "1982",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1988",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1993",
+                    "isCorrect": true
+                },
+                {
+                    "text": "2000",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wann hätte Garfield, ausgehend von der durchschnittlichen Lebenserwartung von Katzen, sterben müssen?"
+                }
+            ]
+        },
+        {
+            "id": "10111",
+            "category": {
+                "text": "Blumen im Garten, für die ganz harten"
+            },
+            "choices": [
+                {
+                    "text": "Nasenbrech",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Genickbrech",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Armbrech",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Beinbrech",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was war 2011 die Blume des Jahres?"
+                }
+            ]
+        },
+        {
+            "id": "10112",
+            "category": {
+                "text": "Baby, du machst mich so exotherm!"
+            },
+            "choices": [
+                {
+                    "text": "Hey Süßer, ich hoffe deine kinetische Energie nimmt auch im Bett zu",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Naaaa, darf ich auch mal deine Aridität durch Polyvinylchlorid erzwingen?",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Öfters hier? Ich kann dir helfen, deine Gleitreibung in komprimierte Subsidenz umzuwandeln.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Na du, reagiert dein Phosphor auch so stark auf Kaliumchlorat?",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher Anmachspruch könnte bei einem Streichholz wirklich zünden?"
+                }
+            ]
+        },
+        {
+            "id": "10113",
+            "category": {
+                "text": "Heiße Singles & noch heißere Planeten"
+            },
+            "choices": [
+                {
+                    "text": "Hi, ich habe eine Vorliebe für Planeten, deren Atmosphäre größtenteils aus Wasserstoff besteht.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hi, ich habe ein Faible für Planeten, deren Atmosphäre hauptsächlich aus Kohlenstoffdioxid besteht.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Hi, ich stehe ja auf Planeten, deren Atmosphäre zum größten Teil aus Helium besteht.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hi, ich liebe Planeten, die keine Atmosphäre besitzen.",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Die Venus macht sich auf Partnersuche und erhält von verschiedenen Interessenten Nachrichten."
+                },
+                {
+                    "timing": "S + 4.96",
+                    "text": "Welcher Interessent schwärmt wirklich von ihr?"
+                }
+            ]
+        },
+        {
+            "id": "10114",
+            "category": {
+                "text": "Ganz spannende Abende mit ganz langweiligen Menschen"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDas ist doch ein Pfeil im Koordinatensystem!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDamit beschreibt man die Steigung von Funktionen!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cWarum heißt der Film wie ein Mathematiker?\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cGeht es um eine Tabelle von Elementen?\u201d",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, Sie machen einen Filmabend mit Mathematikern und schlagen den Film <i>Matrix<\/i> vor."
+                },
+                {
+                    "timing": "S + 4.99",
+                    "text": "Was würde jeder Ihrer Gäste gleichzeitig antworten?"
+                }
+            ]
+        },
+        {
+            "id": "10115",
+            "category": {
+                "text": "Greise auf Reise"
+            },
+            "choices": [
+                {
+                    "text": "Eine Insel vor Japan",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine mexikanische Cocktailbar-Kette",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Vulkan auf Island",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Land in Afrika",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Anscheinend besuchen Ludwig und Maria gerade Eswatini."
+                },
+                {
+                    "timing": "S + 3.37",
+                    "text": "Was ist das?"
+                }
+            ]
+        },
+        {
+            "id": "10116",
+            "category": {
+                "text": "Göttlicher Gesang"
+            },
+            "choices": [
+                {
+                    "text": "Du sollst nicht stehlen.",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Du sollst deinen Vater und deine Mutter ehren.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Du sollst nicht töten.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Du sollst den Feiertag heiligen.",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, DJ Ötzi hätte in seinem Lied \u201c7 Sünden\u201d stattdessen über die 10 Gebote Gottes gesungen."
+                },
+                {
+                    "timing": "S + 6.70",
+                    "text": "Über welches Gebot würde DJ Ötzi anstelle der 7. Sünde singen?"
+                }
+            ]
+        },
+        {
+            "id": "10117",
+            "category": {
+                "text": "Krieg der Gendersternchen"
+            },
+            "choices": [
+                {
+                    "text": "Sehr geehrte Sicherheitsdroid*Innen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Liebe Astromechdroid*Innen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "An alle Cortosisdroid*Innen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hoch geachtete Taktikdroid*Innen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie müsste man einen Brief an R2D2 und seine Familie, gemäß den neuen Gesetzen der politischen Korrektheit, angemessen betiteln?"
+                }
+            ]
+        },
+        {
+            "id": "10118",
+            "category": {
+                "text": "Kleine Babys & große Kunstepochen"
+            },
+            "choices": [
+                {
+                    "text": "\u201cCaca!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cBaba!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDada!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cMama!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, das erste Wort ihres Babys wäre"
+                },
+                {
+                    "timing": "S + 3.38",
+                    "text": "\u201ceine künstlerische und literarische Bewegung, die 1916 in Zürich begründet wurde und sich durch Ablehnung \u2019konventioneller\u2019 Kunst und Kunstformen und bürgerlicher Ideale auszeichnet.\u201d"
+                },
+                {
+                    "timing": "S + 13.92",
+                    "text": "Was versucht ihr Baby wohl zu sagen?"
+                }
+            ]
+        },
+        {
             "id": "10119",
             "category": {
                 "text": "Et tu, mysteriöses, schwebendes Messer?"
@@ -2405,6 +4078,546 @@
                 {
                     "timing": "S + 0.00",
                     "text": "Was könnte Julius Cäsar nach seinem Sieg über die Armee des unsichtbaren Mannes richtigerweise sagen?"
+                }
+            ]
+        },
+        {
+            "id": "10120",
+            "category": {
+                "text": "Test, Test, Test"
+            },
+            "choices": [
+                {
+                    "text": "TEST TEST, 1-2, 1-2!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Test, Test, 1-2, 1-2.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "test, test, 1-2, 1-2.",
+                    "isCorrect": false
+                },
+                {
+                    "text": "...",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was liegt 5 Dezibel am nächsten?"
+                }
+            ]
+        },
+        {
+            "id": "10121",
+            "category": {
+                "text": "Biologie! Kennste? Kennste? Kennste?"
+            },
+            "choices": [
+                {
+                    "text": "Tiere sind Schuld, sagen die Pflanzen!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Osmose filtert die Luft, die Meiose manchmal auch!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Stickstoffoxid ist geil, sagen die Bäume!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Aus Licht wird Zucker, Sauerstoff aber auch!",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, das Hauptthema der nächsten Live-Show von Mario Barth wäre die Photosynthese."
+                },
+                {
+                    "timing": "S + 5.33",
+                    "text": "Wie würde das Programm vermutlich heißen?"
+                }
+            ]
+        },
+        {
+            "id": "10122",
+            "category": {
+                "text": "DelinquEnten"
+            },
+            "choices": [
+                {
+                    "text": "Die Werbung \u201cNeues Entenfutter erhältlich!\u201d auf der ersten Seite",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Artikel \u201cAlle Enten sind weiblich\u201d auf der zweiten Seite",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Der Schreibfehler \u201cEtnen voll im Trend\u201d auf der dritten Seite",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Thema \u201cEnten-Promis\u201d auf der letzten Seite",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was ist ein Beispiel für eine Zeitungsente?"
+                }
+            ]
+        },
+        {
+            "id": "10123",
+            "category": {
+                "text": "TV Surreal"
+            },
+            "choices": [
+                {
+                    "text": "Einen israelischen Politiker",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein arabisches Streichinstrument",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein beliebtes Konfitürengemüse",
+                    "isCorrect": false
+                },
+                {
+                    "text": "eine US-amerikanische Westküstenstadt",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, ProSieben stellt als große Nachfolgesendung von \u201cSchlag den Raab\u201d die Sendung \u201cSchlag den Rabab\u201d vor."
+                },
+                {
+                    "timing": "S + 6.24",
+                    "text": "Gegen wen oder was würden glückliche Kandidaten in dieser großen Samstagabendshow wohl antreten?"
+                }
+            ]
+        },
+        {
+            "id": "10124",
+            "category": {
+                "text": "Und nun, eine Nachricht von unseren Sponsoren"
+            },
+            "choices": [
+                {
+                    "text": "1 Jahr",
+                    "isCorrect": false
+                },
+                {
+                    "text": "5 Jahre",
+                    "isCorrect": false
+                },
+                {
+                    "text": "10 Jahre",
+                    "isCorrect": false
+                },
+                {
+                    "text": "15 Jahre",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Sie sich weigern, auf Toilette zu gehen, bis die erste Fernsehwerbung aller Zeiten über Ihren Bildschirm flimmert, wie lange müssten Sie dann einhalten?"
+                }
+            ]
+        },
+        {
+            "id": "10125",
+            "category": {
+                "text": "Die Mathombombe"
+            },
+            "choices": [
+                {
+                    "text": "Atomzweikilometerer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Atomsiebenhundertfünfzigfüßler",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Atomeintausendsechshundertundneunmeterer",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Atomdreikommavierhektarer",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Rechnet man den Begriff vom englischen Maßsystem ordnungsgemäß um, wie könnte man einen \u201cAtommeiler\u201d richtigerweise auch nennen?"
+                }
+            ]
+        },
+        {
+            "id": "10126",
+            "category": {
+                "text": "Der böse Schmerze aus deiner Poperze"
+            },
+            "choices": [
+                {
+                    "text": "\u201cHämmorrhiden\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cHämhoirriden\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cHämorrhoiden\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cHämorrhioden\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "...wie schreibt man eigentlich dieses Wort?"
+                }
+            ]
+        },
+        {
+            "id": "10127",
+            "category": {
+                "text": "Was ist denn mit Carsten los?"
+            },
+            "choices": [
+                {
+                    "text": "Zehnfache Körpertemperatur",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Circa 1500°C",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Circa 2100°C",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Hälfte der Oberflächentemperatur der Sonne",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Auf welche Temperatur müsste Carsten Stahl mindestens erhitzt werden, damit er wie industrieller Stahl einfach dahinfließt?"
+                }
+            ]
+        },
+        {
+            "id": "10128",
+            "category": {
+                "text": "Große Planeten & noch größere Portionen"
+            },
+            "choices": [
+                {
+                    "text": "KNUSPER! SCHLÜRF! KNUSPER!",
+                    "isCorrect": true
+                },
+                {
+                    "text": "KNUSPER! KNUSPER! SCHLÜRF!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "KNUSPER! SCHLÜRF! SCHLÜRF!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "SCHLÜRF! KNUSPER! KNUSPER!",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn wir annehmen, dass er zunächst die Erdkruste abschält, wie würde sich seine Mahlzeit durch den Erdmantel, den äußeren Erdkern, und den inneren Erdkern hindurch vermutlich anhören?"
+                }
+            ]
+        },
+        {
+            "id": "10129",
+            "category": {
+                "text": "Der Mann, der mit niemandem Chemie hat"
+            },
+            "choices": [
+                {
+                    "text": "Er vermischt sich mit allen Anwesenden",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Er schwebt an die Decke und heizt sich auf",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er verlässt die Show durch die Wand in einen leereren Raum",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sein Kopf explodiert wegen eines starken Überdrucks",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Statt in eine Diskussion zu kommen, wird Lanz aber plötzlich Teil einer Diffusion."
+                },
+                {
+                    "timing": "S + 4.63",
+                    "text": "Was passiert mit ihm?"
+                }
+            ]
+        },
+        {
+            "id": "10130",
+            "category": {
+                "text": "Belanglose Events & noch belanglosere Menschen"
+            },
+            "choices": [
+                {
+                    "text": "Ralf BAUER",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eckart von HIRSCHhausen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Stefan RAAB",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Johann KÖNIG",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wer wird angesichts seines Namens wahrscheinlich als Mittlerer der neun Kegel stehen müssen?"
+                }
+            ]
+        },
+        {
+            "id": "10131",
+            "category": {
+                "text": "Max Mustermann goes Hollywood"
+            },
+            "choices": [
+                {
+                    "text": "\u201cMr. MARTIN SMITH? Den kennen wir hier nicht, tut mir Leid.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cMr. STEPHEN MOORE ist leider gerade nicht im Haus.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cMr. DAVID MILLER wird Ihnen auch nichts anderes sagen können, als ich.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cMr. JOHN DOE ist gerade leider verhindert.\u201d",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bedenkt man, welchen Namen die US-amerikanische Polizei üblicherweise verwendet, wenn die Identität einer männlichen Person unbekannt ist oder geheimgehalten werden soll, wie könnte der Rezeptionist vermutlich antworten?"
+                }
+            ]
+        },
+        {
+            "id": "10132",
+            "category": {
+                "text": "Mau Zoo Tung"
+            },
+            "choices": [
+                {
+                    "text": "\u201cEin VOGEL? Auf dass ich mich in die Lüfte erhebe!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cIch identifiziere mich in der Tat mit REGENWÜRMERN!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cAls JAGUAR wäre ich sogar ein Tier und ein Auto gleichzeitig!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cSEEHUNDE sind sogar noch süßer als ich, danke!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, ein Zoologe übernimmt in seinem Land die Macht und wird als \u201cTyrann\u201d beschimpft."
+                },
+                {
+                    "timing": "S + 5.35",
+                    "text": "Wie könnte er fachlich korrekt antworten?"
+                }
+            ]
+        },
+        {
+            "id": "10133",
+            "category": {
+                "text": "Wenn dir vom Schnüffeln nicht high, sondern übel wird"
+            },
+            "choices": [
+                {
+                    "text": "Der orangene, der wie eine KUMQUAT riecht",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der rosane, der wie eine DRACHENFRUCHT riecht",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der braune, der wie eine DURIAN riecht",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Der gelbe, der wie eine STERNFRUCHT riecht",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher fruchtig riechende Edding würde schrecklich stinken?"
+                }
+            ]
+        },
+        {
+            "id": "10134",
+            "category": {
+                "text": "Reim-Time, aber ohne Schnickschnack"
+            },
+            "choices": [
+                {
+                    "text": "Haiku, Limerick, Sonett",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sonett, Limerick, Haiku",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Limerick, Haiku, Sonett",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Limerick, Sonett, Haiku",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Sortieren Sie diese Gedichtsformen von KURZ bis LANG: Haiku, Sonett, Limerick"
+                }
+            ]
+        },
+        {
+            "id": "10135",
+            "category": {
+                "text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHH!!!"
+            },
+            "choices": [
+                {
+                    "text": "AAAAAAAAA, AAAAH, AAAAAAAAAAAAAAHH",
+                    "isCorrect": false
+                },
+                {
+                    "text": "AAAAH, AAAAAAAAA, AAAAAAAAAAAAAAHH",
+                    "isCorrect": false
+                },
+                {
+                    "text": "AAAAAAAAA, AAAAAAAAAAAAAAHH, AAAAH",
+                    "isCorrect": true
+                },
+                {
+                    "text": "AAAAH, AAAAAAAAAAAAAAHH, AAAAAAAAA",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Sortieren Sie diese Schreie in alphabetischer Reihenfolge:"
+                },
+                {
+                    "timing": "S + 3.50",
+                    "text": "AAAAH,"
+                },
+                {
+                    "timing": "S + 4.42",
+                    "text": "AAAAAAAAAAAAAAAAHH,"
+                },
+                {
+                    "timing": "S + 5.97",
+                    "text": "AAAAAAAAAAA"
                 }
             ]
         }
