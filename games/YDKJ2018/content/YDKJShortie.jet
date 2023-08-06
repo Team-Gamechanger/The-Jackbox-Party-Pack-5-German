@@ -4781,7 +4781,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, die NSA würde mal wieder Ihre Kreditkarteninformationen auslesen, um herauszufinden, welchen Schmuddelkram Sie sich so kaufen. Welche dieser Kreditkartennummern könnte Ihre VISA-Karte sein?"
+                    "text": "Angenommen, die NSA würde mal wieder Ihre Kreditkarteninformationen auslesen, um herauszufinden, welchen Schmuddelkram Sie sich so kaufen."
+                },
+                {
+                    "timing": "S + 7.24",
+                    "text": "Welche dieser Kreditkartennummern könnte Ihre VISA-Karte sein?"
                 }
             ]
         },
@@ -4877,7 +4881,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Sortieren Sie diese Charaktere der Sesamstraße in der Reihenfolge von WENIGSTE bis MEISTE Augenbrauen: Bert, Ernie, Graf Zahl"
+                    "text": "Sortieren Sie diese Charaktere der Sesamstraße in der Reihenfolge von WENIGSTE bis MEISTE Augenbrauen:"
+                },
+                {
+                    "timing": "S + 6.05",
+                    "text": "Bert, Ernie, Graf Zahl"
                 }
             ]
         },
@@ -4944,7 +4952,7 @@
                     "text": "Angenommen, Bart Simpson beschließt, mit seiner Steinschleuder auf Autoritätspersonen loszugehen."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 5.16",
                     "text": "Was könnte passieren, wenn er sich dabei an die Erzählung von David und Goliath hält?"
                 }
             ]
@@ -5044,7 +5052,7 @@
                     "text": "Angenommen, Hasbro bringt eine alternative Version des Spiels Monopoly raus, das den Namen \u201cOligopoly\u201d trägt."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 6.34",
                     "text": "Wie viele Gewinner würde es bei diesem Spiel geben?"
                 }
             ]
@@ -5248,7 +5256,7 @@
                     "text": "Statt <i>Joko und Klaas gegen ProSieben<\/i> flimmert plötzlich <i>Joko und Klaas gegen PROAVUS<\/i> über den Bildschirm."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 6.37",
                     "text": "Worum wird es in dieser Show wohl gehen?"
                 }
             ]
@@ -5284,7 +5292,7 @@
                     "text": "Angenommen, <i>ProSieben<\/i> setzt <i>TV Total<\/i> ab und sendet stattdessen fortan <i>TV Halbtotal<\/i>."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 5.81",
                     "text": "Was wird man dort wohl sehen?"
                 }
             ]
@@ -5320,11 +5328,11 @@
                     "text": "Stellen Sie sich vor, Papst Franziskus und der Rest der katholischen Kirche kriegen sich mächtig in die Haare."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 5.91",
                     "text": "Man entschließt sich daraufhin, ohne Franziskus eine neue Kirche zu gründen."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 10.19",
                     "text": "Wie würde sich dieser Vorgang nennen?"
                 }
             ]
@@ -5389,10 +5397,10 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, <i>AC/DC<\/i> startet eine solarbetriebene Wiedervereinigungs-Tournee."
+                    "text": "Angenommen, <i>AC/DC<\/i> starten eine solarbetriebene Wiedervereinigungs-Tournee."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 4.64",
                     "text": "Bedenkt man, in welcher Form Solarstrom üblicherweise produziert wird, wie sollte die Band sich passenderweise umbenennen?"
                 }
             ]
@@ -5496,7 +5504,7 @@
                     "text": "Angenommen, Dänemark würde in den Namen des Landes die Währung integrieren."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 4.16",
                     "text": "Wie hieße das Land dann?"
                 }
             ]
@@ -5664,7 +5672,7 @@
                     "text": "Stellen Sie sich vor, statt Fluorid befände sich in Ihrer neuen Mode-Zahnpasta Fluorit."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 4.95",
                     "text": "Welcher Werbeslogan würde dann passen?"
                 }
             ]
@@ -5700,7 +5708,7 @@
                     "text": "Angenommen die <i>Village People<\/i> gestalten zu ihrem Hit-Song \u201cY.M.C.A.\u201d eine spezielle You Don\u2019t Know Jack-Deluxe-Box!"
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 6.54",
                     "text": "Wie könnte man diese Box dann zutreffend bezeichnen, wenn sie im Vier-Farb-Druck produziert wird?"
                 }
             ]
