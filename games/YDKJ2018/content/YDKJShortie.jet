@@ -28,7 +28,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, die Nationen der Erde könnten den <i>Star Wars<\/i>-Bösewicht Kylo Ren dazu überzeugen, den echten \u201cWeltraumvertrag\u201d zu unterzeichnen. Welche dieser Schandtaten dürfte er dann trotzdem noch begehen?"
+                    "text": "Angenommen, die Nationen der Erde könnten den <i>Star-Wars<\/i>-Bösewicht Kylo Ren dazu überzeugen, den echten \u201cWeltraumvertrag\u201d zu unterzeichnen."
+                },
+                {
+                    "timing": "S + 7.54",
+                    "text": "Welche dieser Schandtaten dürfte er dann trotzdem noch begehen?"
                 }
             ]
         },

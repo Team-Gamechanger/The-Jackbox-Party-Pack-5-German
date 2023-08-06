@@ -227,7 +227,7 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Beinhaltet den Lionel Richie Song \u201cHello\u201d",
+                    "text": "Beinhaltet den Lionel-Richie-Song \u201cHello\u201d",
                     "correctChoiceString": "dis"
                 },
                 {
@@ -1968,11 +1968,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "Einer der laut IMDb <i>besten 50 Filme aller Zeiten<\/i>",
+                "longText": "Einer der laut <i>IMDb<\/i> <i>besten 50 Filme aller Zeiten<\/i>",
                 "shortText": "BESTER FILM"
             },
             "datChoice": {
-                "longText": "Einer der laut IMDb <i>schlechtesten 50 Filme aller Zeiten<\/i>",
+                "longText": "Einer der laut <i>IMDb<\/i> <i>schlechtesten 50 Filme aller Zeiten<\/i>",
                 "shortText": "SCHLECHTESTER FILM"
             },
             "id": "11044",
