@@ -7797,7 +7797,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Octagon",
+							"text": "Oktagon",
 							"isCorrect": false
 						}
 					]
@@ -9758,7 +9758,7 @@
 					"choices": [
 						{
 							"text": "Petaliter",
-							"isCorrect": false
+							"isCorrect": true
 						},
 						{
 							"text": "Hektoliter",
@@ -9802,7 +9802,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Picogramm",
+							"text": "Pikogramm",
 							"isCorrect": true
 						},
 						{

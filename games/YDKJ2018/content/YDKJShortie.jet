@@ -3272,7 +3272,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was wäre der beste Titel für ein <i>Harry Potter<\/i> Spin-Off, bei welchem der Zauberspruch \u201cBeta Vulgaris\u201d gerufen wird?"
+                    "text": "Was wäre der beste Titel für ein <i>Harry<\/i>-<i>Potter<\/i>-Spin-Off, bei welchem der Zauberspruch \u201cBeta Vulgaris\u201d gerufen wird?"
                 }
             ]
         },
@@ -3483,19 +3483,19 @@
             },
             "choices": [
                 {
-                    "text": "el comienzo de la Guerra de la Independencia Mexicana",
+                    "text": "El comienzo de la Guerra de la Independencia Mexicana",
                     "isCorrect": false
                 },
                 {
-                    "text": "la derrota de los franceses en la batalla de puebla",
+                    "text": "La derrota de los franceses en la batalla de puebla",
                     "isCorrect": true
                 },
                 {
-                    "text": "el final de la revolución mexicana",
+                    "text": "El final de la revolución mexicana",
                     "isCorrect": false
                 },
                 {
-                    "text": "el nacimiento de la Virgen María",
+                    "text": "El nacimiento de la Virgen María",
                     "isCorrect": false
                 }
             ],
