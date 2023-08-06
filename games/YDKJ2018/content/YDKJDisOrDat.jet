@@ -355,31 +355,31 @@
         {
             "questions": [
                 {
-                    "text": "Jede Million fängt mit einer Eins an.",
+                    "text": "\u201cJede Million fängt mit einer Eins an.\u201d",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Wer hastig läuft, der fällt.",
+                    "text": "\u201cWer hastig läuft, der fällt.\u201d",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Keine Ahnung, wo ich bin, ich bin planlos.",
+                    "text": "\u201cKeine Ahnung, wo ich bin, ich bin planlos.\u201d",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "In der Kürze liegt die Würze.",
+                    "text": "\u201cIn der Kürze liegt die Würze.\u201d",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Bereitschaft ist alles.",
+                    "text": "\u201cBereitschaft ist alles.\u201d",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Eine Stunde lang, bis zu meinem Samenerguss.",
+                    "text": "\u201cEine Stunde lang, bis zu meinem Samenerguss.\u201d",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Ich war eine Memme aus Instinkt.",
+                    "text": "\u201cIch war eine Memme aus Instinkt.\u201d",
                     "correctChoiceString": "dis"
                 }
             ],

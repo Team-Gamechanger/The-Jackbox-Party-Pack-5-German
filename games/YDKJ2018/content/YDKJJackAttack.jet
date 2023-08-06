@@ -5643,7 +5643,7 @@
 					]
 				},
 				{
-					"title": "gerade Anzahl von Buchstaben",
+					"title": "Gerade Anzahl von Buchstaben",
 					"choices": [
 						{
 							"text": "Jack Attack",
@@ -8642,7 +8642,7 @@
 		},
 		{
 			"id": "11448",
-			"title": "Ein “Auf und Ab” wie auf einer Gartenschaukel",
+			"title": "Ein \u201cAuf und Ab\u201d wie auf einer Gartenschaukel",
 			"prompts": [
 				{
 					"title": "Höher als die Tower Bridge",
@@ -8726,7 +8726,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Los Santos in GTA V",
+							"text": "Los Santos in <i>GTA V</i>",
 							"isCorrect": true
 						}
 					]
@@ -8743,7 +8743,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Suchergebnisse bei <i>Google</i> zu “iPhone”",
+							"text": "Suchergebnisse bei <i>Google</i> zu \u201ciPhone\u201d",
 							"isCorrect": true
 						},
 						{
@@ -8761,7 +8761,7 @@
 					]
 				},
 				{
-					"title": "Schwerer als ein VW Golf 8",
+					"title": "Schwerer als ein <i>VW Golf 8</i>",
 					"choices": [
 						{
 							"text": "Pottwal",

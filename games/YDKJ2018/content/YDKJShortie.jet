@@ -1057,7 +1057,7 @@
             "choices": [
                 {
                     "text": "\u201cNunja, ich kriege bestimmt schon lange vor dem Sonnenuntergang Hunger...\u201d",
-                    "isCorrect": true
+                    "isCorrect": false
                 },
                 {
                     "text": "\u201cSechs Stunden Stille? Das könnte ich niemals durchhalten, tut mir Leid!\u201d",
@@ -1065,7 +1065,7 @@
                 },
                 {
                     "text": "\u201cNein, danke, ich habe heute früh schon gebetet.\u201d",
-                    "isCorrect": false
+                    "isCorrect": true
                 },
                 {
                     "text": "\u201cAlso bitte! Meine Kinder sind in der Nähe!\u201d",
@@ -1482,7 +1482,7 @@
         {
             "id": "10043",
             "category": {
-                "text": "Ding Dong, DHL ist da"
+                "text": "Ding Dong, <i>DHL<\/i> ist da"
             },
             "choices": [
                 {
@@ -1558,19 +1558,19 @@
             },
             "choices": [
                 {
-                    "text": "Nike",
+                    "text": "<i>Nike<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Adidas",
+                    "text": "<i>Adidas<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Converse",
+                    "text": "<i>Converse<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Vans",
+                    "text": "<i>Vans<\/i>",
                     "isCorrect": true
                 }
             ],
@@ -3876,19 +3876,19 @@
             },
             "choices": [
                 {
-                    "text": "Hi, ich habe eine Vorliebe für Planeten, deren Atmosphäre größtenteils aus Wasserstoff besteht.",
+                    "text": "\u201cHi, ich habe eine Vorliebe für Planeten, deren Atmosphäre größtenteils aus Wasserstoff besteht.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Hi, ich habe ein Faible für Planeten, deren Atmosphäre hauptsächlich aus Kohlenstoffdioxid besteht.",
+                    "text": "\u201cHi, ich habe ein Faible für Planeten, deren Atmosphäre hauptsächlich aus Kohlenstoffdioxid besteht.\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "Hi, ich stehe ja auf Planeten, deren Atmosphäre zum größten Teil aus Helium besteht.",
+                    "text": "\u201cHi, ich stehe ja auf Planeten, deren Atmosphäre zum größten Teil aus Helium besteht.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Hi, ich liebe Planeten, die keine Atmosphäre besitzen.",
+                    "text": "\u201cHi, ich liebe Planeten, die keine Atmosphäre besitzen.\u201d",
                     "isCorrect": false
                 }
             ],
