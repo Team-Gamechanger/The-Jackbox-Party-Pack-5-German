@@ -6712,7 +6712,7 @@
                     "text": "Angenommen, Florian Silbereisen veröffentlicht zur Abwechslung ein Metal-Album."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 4.34",
                     "text": "Wie könnte er seinen Namen korrekt abkürzen?"
                 }
             ]
@@ -6741,14 +6741,14 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
                     "text": "Stellen Sie sich vor, die Frankfurter Börse wäre ein Zoo."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 3.59",
                     "text": "Was könnten sie am Bärengehege beobachten?"
                 }
             ]
@@ -6784,7 +6784,7 @@
                     "text": "Sie erheben Sich zu Wort und fordern lautstark die nach babylonischem Recht übliche Strafe für den Lügner."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 5.66",
                     "text": "Was rufen Sie?"
                 }
             ]
@@ -6820,7 +6820,7 @@
                     "text": "Statt eines normalen Steaks vom Bullen bietet man Ihnen dort eines von der goldenen Bulle an."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 5.58",
                     "text": "Was setzt man Ihnen vor?"
                 }
             ]
@@ -6849,7 +6849,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
