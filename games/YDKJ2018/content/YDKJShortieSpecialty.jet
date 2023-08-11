@@ -1782,7 +1782,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Die Ludolfs - 4 Brüder auf'm Schrottplatz<\/i>",
+                    "text": "<i>Die Ludolfs - 4 Brüder auf\u2019m Schrottplatz<\/i>",
                     "isCorrect": true
                 },
                 {

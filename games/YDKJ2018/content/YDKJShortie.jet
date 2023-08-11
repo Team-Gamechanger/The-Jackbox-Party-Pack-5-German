@@ -1381,7 +1381,7 @@
         {
             "id": "10040",
             "category": {
-                "text": "Halb-Nacktbilder"
+                "text": "Alte Kunst mit alten Hupen"
             },
             "choices": [
                 {
@@ -1406,7 +1406,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welches Kunstwerk braucht am dringendsten ein T-Shirt von Zara?"
+                    "text": "Welches Kunstwerk braucht am dringendsten ein T-Shirt von <i>Primark<\/i>?"
                 }
             ]
         },
@@ -2230,7 +2230,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Kopf der Chimära, Körper des Pegasus",
+                    "text": "Kopf einer Chimära, Körper des Pegasus",
                     "isCorrect": false
                 }
             ],
@@ -3675,7 +3675,7 @@
         {
             "id": "10107",
             "category": {
-                "text": "Unoriginelle Freunde & Noch unoriginellere Filmideen"
+                "text": "Unoriginelle Freunde & noch unoriginellere Filmideen"
             },
             "choices": [
                 {
