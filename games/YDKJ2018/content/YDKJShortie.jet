@@ -8848,6 +8848,202 @@
                     "text": "Wenn man bedenkt, wann die Schweizer zuletzt gegen eine fremde Armee gekämpft haben, wofür haben sie vermutlich zuletzt ihre <i>Schweizer Taschenmesser<\/i> benutzt?"
                 }
             ]
+        },
+        {
+            "id": "10260",
+            "category": {
+                "text": "Die Rezession & außerirdisches Leben"
+            },
+            "choices": [
+                {
+                    "text": "Luke Skywalker",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mork vom Ork",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Alf",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Superman",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Weil sein Heimatplanet um einen riesigen roten Stern kreiste, welcher dieser Charaktere würde sich im Rotlichtmilieu vermutlich am wohlsten fühlen?"
+                }
+            ]
+        },
+        {
+            "id": "10261",
+            "category": {
+                "text": "Mythischer Alkoholgenuss"
+            },
+            "choices": [
+                {
+                    "text": "<i>König Pilsener<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Kleiner Feigling<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Kaiser-Kümmel<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Jägermeister<\/i>",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welches der folgenden alkoholischen Getränke könnte am ehesten nach Orion benannt worden sein?"
+                }
+            ]
+        },
+        {
+            "id": "10262",
+            "category": {
+                "text": "Eine lustvolle Periode"
+            },
+            "choices": [
+                {
+                    "text": "BeScHLaFeN",
+                    "isCorrect": false
+                },
+                {
+                    "text": "BeSTeIGeN",
+                    "isCorrect": false
+                },
+                {
+                    "text": "BeGaTTeN",
+                    "isCorrect": true
+                },
+                {
+                    "text": "BeFrUCHTeN",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welches dieser Wörter lässt sich NICHT mit den Elementsymbolen der Elemente im Periodensystem schreiben?"
+                }
+            ]
+        },
+        {
+            "id": "10263",
+            "category": {
+                "text": "Eine heiße Farbpalette"
+            },
+            "choices": [
+                {
+                    "text": "Der rote Ranger",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der gelbe Ranger",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der blaue Ranger",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der weiße Ranger",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn die <i>Power Ranger<\/i> aus Metall wären, welcher von Ihnen wäre am heißesten?"
+                }
+            ]
+        },
+        {
+            "id": "10264",
+            "category": {
+                "text": "<i>Bravo<\/i> Bravissimo"
+            },
+            "choices": [
+                {
+                    "text": "\u201cStylen, wie es der Führer mag\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cWelche deiner Stars in der brandneuen Bundeswehr dienen\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cDie süßesten Minister aus dem Kabinett von Willy Brandt\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDein passendes Outfit zum Mauerfall\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was hätte eine Titelstory für die erste Ausgabe des Magazins <i>Bravo<\/i> sein können?"
+                }
+            ]
+        },
+        {
+            "id": "10265",
+            "category": {
+                "text": "G\u2019schichten aus\u2019m Irish Pub"
+            },
+            "choices": [
+                {
+                    "text": "3 & 0",
+                    "isCorrect": false
+                },
+                {
+                    "text": "6 & 20",
+                    "isCorrect": true
+                },
+                {
+                    "text": "7 & 11",
+                    "isCorrect": false
+                },
+                {
+                    "text": "8 & 13",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Der Irish Pub hatte eine Uhr mit einem Dartbrett als Ziffernblatt."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Wenn ich um Punkt 3 Uhr die Bar verlassen habe, auf welche Zahlen haben die Zeiger dann gezeigt?"
+                }
+            ]
         }
     ]
 }
