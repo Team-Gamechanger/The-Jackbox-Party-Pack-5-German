@@ -28,7 +28,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, die Nationen der Erde könnten den <i>Star Wars<\/i>-Bösewicht Kylo Ren dazu überzeugen, den echten \u201cWeltraumvertrag\u201d zu unterzeichnen. Welche dieser Schandtaten dürfte er dann trotzdem noch begehen?"
+                    "text": "Angenommen, die Nationen der Erde könnten den <i>Star-Wars<\/i>-Bösewicht Kylo Ren dazu überzeugen, den echten \u201cWeltraumvertrag\u201d zu unterzeichnen."
+                },
+                {
+                    "timing": "S + 7.54",
+                    "text": "Welche dieser Schandtaten dürfte er dann trotzdem noch begehen?"
                 }
             ]
         },
@@ -465,39 +469,6 @@
                 {
                     "timing": "S + 0.00",
                     "text": "Angenommen, das unschuldige G klettert auf der Tonleiter. Welche Note würde sich am ehesten hinter ihm anschleichen?"
-                }
-            ]
-        },
-        {
-            "id": "10014",
-            "category": {
-                "text": "Die Gabe des Jack"
-            },
-            "choices": [
-                {
-                    "text": "Die AIDA-Formel",
-                    "isCorrect": false
-                },
-                {
-                    "best": true,
-                    "text": "Das Ad-Hominem-Argument",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Das Prinzip der Reziprozität",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Persuasive Kommunikation",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Welche Werbetechnik habe ich erfolgreich bei Ihnen angewandt?"
                 }
             ]
         },
@@ -1053,7 +1024,7 @@
             "choices": [
                 {
                     "text": "\u201cNunja, ich kriege bestimmt schon lange vor dem Sonnenuntergang Hunger...\u201d",
-                    "isCorrect": true
+                    "isCorrect": false
                 },
                 {
                     "text": "\u201cSechs Stunden Stille? Das könnte ich niemals durchhalten, tut mir Leid!\u201d",
@@ -1061,7 +1032,7 @@
                 },
                 {
                     "text": "\u201cNein, danke, ich habe heute früh schon gebetet.\u201d",
-                    "isCorrect": false
+                    "isCorrect": true
                 },
                 {
                     "text": "\u201cAlso bitte! Meine Kinder sind in der Nähe!\u201d",
@@ -1377,7 +1348,7 @@
         {
             "id": "10040",
             "category": {
-                "text": "Halb-Nacktbilder"
+                "text": "Alte Kunst mit alten Hupen"
             },
             "choices": [
                 {
@@ -1402,7 +1373,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welches Kunstwerk braucht am dringendsten ein T-Shirt von Zara?"
+                    "text": "Welches Kunstwerk braucht am dringendsten ein T-Shirt von <i>Primark<\/i>?"
                 }
             ]
         },
@@ -1478,7 +1449,7 @@
         {
             "id": "10043",
             "category": {
-                "text": "Ding Dong, DHL ist da"
+                "text": "Ding Dong, <i>DHL<\/i> ist da"
             },
             "choices": [
                 {
@@ -1554,19 +1525,19 @@
             },
             "choices": [
                 {
-                    "text": "Nike",
+                    "text": "<i>Nike<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Adidas",
+                    "text": "<i>Adidas<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Converse",
+                    "text": "<i>Converse<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Vans",
+                    "text": "<i>Vans<\/i>",
                     "isCorrect": true
                 }
             ],
@@ -2226,7 +2197,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Kopf der Chimära, Körper des Pegasus",
+                    "text": "Kopf einer Chimära, Körper des Pegasus",
                     "isCorrect": false
                 }
             ],
@@ -3240,7 +3211,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was wäre der beste Titel für ein <i>Harry Potter<\/i> Spin-Off, bei welchem der Zauberspruch \u201cBeta Vulgaris\u201d gerufen wird?"
+                    "text": "Was wäre der beste Titel für ein <i>Harry<\/i>-<i>Potter<\/i>-Spin-Off, bei welchem der Zauberspruch \u201cBeta Vulgaris\u201d gerufen wird?"
                 }
             ]
         },
@@ -3311,7 +3282,7 @@
                     "text": "Jemand hat die ikonischen Drehstühle sabotiert, die sich prompt so schnell drehen wie die Erde."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 5.03",
                     "text": "Was würde bei der nächsten Ausgabe von <i>The Voice of Germany<\/i> über die deutschen Bildschirme flimmern?"
                 }
             ]
@@ -3451,19 +3422,19 @@
             },
             "choices": [
                 {
-                    "text": "el comienzo de la Guerra de la Independencia Mexicana",
+                    "text": "El comienzo de la Guerra de la Independencia Mexicana",
                     "isCorrect": false
                 },
                 {
-                    "text": "la derrota de los franceses en la batalla de puebla",
+                    "text": "La derrota de los franceses en la batalla de puebla",
                     "isCorrect": true
                 },
                 {
-                    "text": "el final de la revolución mexicana",
+                    "text": "El final de la revolución mexicana",
                     "isCorrect": false
                 },
                 {
-                    "text": "el nacimiento de la Virgen María",
+                    "text": "El nacimiento de la Virgen María",
                     "isCorrect": false
                 }
             ],
@@ -3639,7 +3610,7 @@
         {
             "id": "10107",
             "category": {
-                "text": "Unoriginelle Freunde & Noch unoriginellere Filmideen"
+                "text": "Unoriginelle Freunde & noch unoriginellere Filmideen"
             },
             "choices": [
                 {
@@ -3840,19 +3811,19 @@
             },
             "choices": [
                 {
-                    "text": "Hi, ich habe eine Vorliebe für Planeten, deren Atmosphäre größtenteils aus Wasserstoff besteht.",
+                    "text": "\u201cHi, ich habe eine Vorliebe für Planeten, deren Atmosphäre größtenteils aus Wasserstoff besteht.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Hi, ich habe ein Faible für Planeten, deren Atmosphäre hauptsächlich aus Kohlenstoffdioxid besteht.",
+                    "text": "\u201cHi, ich habe ein Faible für Planeten, deren Atmosphäre hauptsächlich aus Kohlenstoffdioxid besteht.\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "Hi, ich stehe ja auf Planeten, deren Atmosphäre zum größten Teil aus Helium besteht.",
+                    "text": "\u201cHi, ich stehe ja auf Planeten, deren Atmosphäre zum größten Teil aus Helium besteht.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Hi, ich liebe Planeten, die keine Atmosphäre besitzen.",
+                    "text": "\u201cHi, ich liebe Planeten, die keine Atmosphäre besitzen.\u201d",
                     "isCorrect": false
                 }
             ],
@@ -4618,6 +4589,2166 @@
                 {
                     "timing": "S + 5.97",
                     "text": "AAAAAAAAAAA"
+                }
+            ]
+        },
+        {
+            "id": "10136",
+            "category": {
+                "text": "Genetik mit Gregor"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDer Mais fällt nicht weit vom Halm.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDie Blaubeere fällt nicht weit vom Strauch.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDie Erbse fällt nicht weit aus der Schote.\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cDie Traube fällt nicht weit von der Rebe.\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bedenkt man, für welche Art von genetischem Experiment Gregor Mendel berühmt wurde, wie würde er das bekannte Sprichwort \u201cDer Apfel fällt nicht weit vom Stamm\u201d vermutlich abändern?"
+                }
+            ]
+        },
+        {
+            "id": "10137",
+            "category": {
+                "text": "38537.37139"
+            },
+            "choices": [
+                {
+                    "text": "BIOLOGIE",
+                    "isCorrect": false
+                },
+                {
+                    "text": "HELLES",
+                    "isCorrect": false
+                },
+                {
+                    "text": "GLEICH",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SEEIGEL",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welches dieser Wörter kann ich NICHT auf einem Standard-Taschenrechner schreiben?"
+                }
+            ]
+        },
+        {
+            "id": "10138",
+            "category": {
+                "text": "Härter, Besser, Schneller, Stärker"
+            },
+            "choices": [
+                {
+                    "text": "Um ihre seltsamen kanadischen Gesichter zu verstecken",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um ihre seltsamen französischen Gesichter zu verstecken",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Um ihre seltsamen deutschen Gesichter zu verstecken",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Um ihre seltsamen irischen Gesichter zu verstecken",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Warum tragen die beiden Jungs der Band Daft Punk diese riesigen Helme?"
+                }
+            ]
+        },
+        {
+            "id": "10139",
+            "category": {
+                "text": "Von großen Brüdern und Schmuddelfilmchen"
+            },
+            "choices": [
+                {
+                    "text": "3000-****-****-8450",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4000-****-****-9010",
+                    "isCorrect": true
+                },
+                {
+                    "text": "5000-****-****-0666",
+                    "isCorrect": false
+                },
+                {
+                    "text": "6000-****-****-0336",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, die NSA würde mal wieder Ihre Kreditkarteninformationen auslesen, um herauszufinden, welchen Schmuddelkram Sie sich so kaufen."
+                },
+                {
+                    "timing": "S + 7.24",
+                    "text": "Welche dieser Kreditkartennummern könnte Ihre VISA-Karte sein?"
+                }
+            ]
+        },
+        {
+            "id": "10140",
+            "category": {
+                "text": "Ganz, ganz seltsame Tanzeinlagen"
+            },
+            "choices": [
+                {
+                    "text": "Sie drehen sich zehntausend Mal pro Sekunde um Ihre eigene Achse",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie teilen sich in gleichmäßigen Abständen entzwei",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie tanzen 24 Stunden am Stück",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sie werden im Takt abwechselnd fest, gasförmig, und flüssig",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Sie auf der Tanzfläche im ZIRKADIANEN RHYTHMUS tanzen, was würden Sie dem erstaunten Publikum bieten?"
+                }
+            ]
+        },
+        {
+            "id": "10141",
+            "category": {
+                "text": "Lippen, wie zum Blasen gemacht"
+            },
+            "choices": [
+                {
+                    "text": "Ein Klarinettist",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Piccolo-Spieler",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Oboenspieler",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Fagottist",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher dieser Musiker ist in Anbetracht der Größe seiner Instrumente am wenigsten dem Vorwurf ausgesetzt, \u201cetwas zu kompensieren\u201d?"
+                }
+            ]
+        },
+        {
+            "id": "10142",
+            "category": {
+                "text": "Seltsamstraße"
+            },
+            "choices": [
+                {
+                    "text": "Ernie, Bert, Graf Zahl",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Bert, Ernie, Graf Zahl",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Graf Zahl, Bert, Ernie",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ernie, Graf Zahl, Bert",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Sortieren Sie diese Charaktere der Sesamstraße in der Reihenfolge von WENIGSTE bis MEISTE Augenbrauen:"
+                },
+                {
+                    "timing": "S + 6.05",
+                    "text": "Bert, Ernie, Graf Zahl"
+                }
+            ]
+        },
+        {
+            "id": "10143",
+            "category": {
+                "text": "Bilderrahmen & große Namen"
+            },
+            "choices": [
+                {
+                    "text": "Irgendwas rechts von ihr",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Irgendwas links von ihr",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Irgendwas über ihr",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Irgendwas hinter ihr",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was zum Teufel schaut die Mona Lisa an?"
+                }
+            ]
+        },
+        {
+            "id": "10144",
+            "category": {
+                "text": "Friss meine Bibel!"
+            },
+            "choices": [
+                {
+                    "text": "Rektor Skinner kassiert einen KOPFschuss",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das Geschoss prallt am dicken BAUCH von Chief Wiggum ab",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mr. Burns wird mit einem Schuss durch die BRUST ermordet",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Homer rennt schreiend weg, während er sich die LEISTE hält",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Bart Simpson beschließt, mit seiner Steinschleuder auf Autoritätspersonen loszugehen."
+                },
+                {
+                    "timing": "S + 5.16",
+                    "text": "Was könnte passieren, wenn er sich dabei an die Erzählung von David und Goliath hält?"
+                }
+            ]
+        },
+        {
+            "id": "10145",
+            "category": {
+                "text": "Okia Dokia"
+            },
+            "choices": [
+                {
+                    "text": "<i>IKEA<\/i> bis <i>Kia<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Kia<\/i> bis <i>Nokia<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Nokia<\/i> bis <i>IKEA<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>IKEA<\/i>, <i>Nokia<\/i> und <i>Kia<\/i> sind exakt gleich weit voneinander entfernt",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche Fahrt zwischen den folgenden Firmensitzen ist die KÜRZESTE?"
+                }
+            ]
+        },
+        {
+            "id": "10146",
+            "category": {
+                "text": "Hör mal, wer da apfelt"
+            },
+            "choices": [
+                {
+                    "text": "8 PS",
+                    "isCorrect": true
+                },
+                {
+                    "text": "10 PS",
+                    "isCorrect": false
+                },
+                {
+                    "text": "16 PS",
+                    "isCorrect": false
+                },
+                {
+                    "text": "110 PS",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn man von den Schiedsrichtern absieht, wie viel PS hat ein reguläres Polospiel?"
+                }
+            ]
+        },
+        {
+            "id": "10147",
+            "category": {
+                "text": "Schnöde Brettspiele & knallharte Geschäfte"
+            },
+            "choices": [
+                {
+                    "text": "Gar keinen Gewinner",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nur einen Gewinner",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mehr als einen Gewinner, aber nicht zu viele",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Hunderttausende Gewinner",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Hasbro bringt eine alternative Version des Spiels Monopoly raus, das den Namen \u201cOligopoly\u201d trägt."
+                },
+                {
+                    "timing": "S + 6.34",
+                    "text": "Wie viele Gewinner würde es bei diesem Spiel geben?"
+                }
+            ]
+        },
+        {
+            "id": "10148",
+            "category": {
+                "text": "Mach\u2019s mir auf Deutsch, Baby"
+            },
+            "choices": [
+                {
+                    "text": "Laufhaus -",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Laufhaus —",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Laufhaus - - - -",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Laufhaus /",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Salome Balthus würde nicht auf den Strich, sondern auf den Geviertstrich gehen. Wo würde sie sich wiederfinden?"
+                }
+            ]
+        },
+        {
+            "id": "10149",
+            "category": {
+                "text": "Verdammt tragische Songtexte"
+            },
+            "choices": [
+                {
+                    "text": "Guido Westerwelle",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Willy Brandt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Rosi Mittermaier",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Stephen Hawking",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn laut Udo Jürgens das Leben wirklich erst mit 66 Jahren anfängt,"
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "wer hat dann theoretisch nie gelebt?"
+                }
+            ]
+        },
+        {
+            "id": "10150",
+            "category": {
+                "text": "How Much Is The Fish?"
+            },
+            "choices": [
+                {
+                    "text": "Knapp 2000 Forint",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Knapp 300 Denar",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Knapp 40 Kronen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Auch 5 Euro",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, der Fisch kostet bei uns 5 Euro."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Was müssten Sie dann in Ungarn hinblättern?"
+                }
+            ]
+        },
+        {
+            "id": "10151",
+            "category": {
+                "text": "Sauf an einem anderen Tag"
+            },
+            "choices": [
+                {
+                    "text": "\u201cMarmor, Stein und Eisen bricht\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDicht im Flieger\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDer Zug hat keine Bremse\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cGeh mal Bier hol\u2019n\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher Ballermann-Hit beschreibt die wahre Geschichte aus dem Film <i>Unstoppable<\/i> am besten?"
+                }
+            ]
+        },
+        {
+            "id": "10152",
+            "category": {
+                "text": "Modern Striking"
+            },
+            "choices": [
+                {
+                    "text": "Dieter 10 Mal bowlen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dieter 11 Mal bowlen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dieter 12 Mal bowlen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Dieter 15 Mal bowlen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn er in seiner Partie nur Strikes werfen würde, müsste..."
+                }
+            ]
+        },
+        {
+            "id": "10153",
+            "category": {
+                "text": "Klafittchen und die <i>ProSieben<\/i> Zwerge"
+            },
+            "choices": [
+                {
+                    "text": "Joko und Klaas werden von einem Proktologen behandelt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Joko und Klaas werden von einem Dinosaurier zerissen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Joko und Klaas rennen wiederholt gegen eine schulterhohe Mauer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Joko und Klaas verprügeln einen alten Greis",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Statt <i>Joko und Klaas gegen ProSieben<\/i> flimmert plötzlich <i>Joko und Klaas gegen PROAVUS<\/i> über den Bildschirm."
+                },
+                {
+                    "timing": "S + 6.37",
+                    "text": "Worum wird es in dieser Show wohl gehen?"
+                }
+            ]
+        },
+        {
+            "id": "10154",
+            "category": {
+                "text": "Der Mann mit der Kamera ist da"
+            },
+            "choices": [
+                {
+                    "text": "Sebastian Pufpaffs Augen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eltons Gesicht",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Stefan Raab vom Kopf bis zur Hüfte",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die <i>Heavytones<\/i> vollständig im Bild",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, <i>ProSieben<\/i> setzt <i>TV Total<\/i> ab und sendet stattdessen fortan <i>TV Halbtotal<\/i>."
+                },
+                {
+                    "timing": "S + 5.81",
+                    "text": "Was wird man dort wohl sehen?"
+                }
+            ]
+        },
+        {
+            "id": "10155",
+            "category": {
+                "text": "Vati-kann auch unchristlich"
+            },
+            "choices": [
+                {
+                    "text": "Kotsma",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Schisma",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Pisma",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Furzma",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, Papst Franziskus und der Rest der katholischen Kirche kriegen sich mächtig in die Haare."
+                },
+                {
+                    "timing": "S + 5.91",
+                    "text": "Man entschließt sich daraufhin, ohne Franziskus eine neue Kirche zu gründen."
+                },
+                {
+                    "timing": "S + 10.19",
+                    "text": "Wie würde sich dieser Vorgang nennen?"
+                }
+            ]
+        },
+        {
+            "id": "10156",
+            "category": {
+                "text": "Wenn der Leopard Leo-hart wird"
+            },
+            "choices": [
+                {
+                    "text": "Ein Lepuar",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Jaguleo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Leogar",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Jagulep",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was entsteht, wenn Jaguar und Leopardin sich paaren?"
+                }
+            ]
+        },
+        {
+            "id": "10157",
+            "category": {
+                "text": "Klimafreundlicher Rock"
+            },
+            "choices": [
+                {
+                    "text": "AC/",
+                    "isCorrect": false
+                },
+                {
+                    "text": "/DC",
+                    "isCorrect": true
+                },
+                {
+                    "text": "C/C",
+                    "isCorrect": false
+                },
+                {
+                    "text": "A/D",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, <i>AC/DC<\/i> starten eine solarbetriebene Wiedervereinigungs-Tournee."
+                },
+                {
+                    "timing": "S + 4.64",
+                    "text": "Bedenkt man, in welcher Form Solarstrom üblicherweise produziert wird, wie sollte die Band sich passenderweise umbenennen?"
+                }
+            ]
+        },
+        {
+            "id": "10158",
+            "category": {
+                "text": "Deutschrap & ungewöhnlich voluminöse Körperflüssigkeiten"
+            },
+            "choices": [
+                {
+                    "text": "\u201cBlut, Schweiß & übermäßige Tränen\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cBlut, übermäßiger Schweiß & Tränen\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cÜbermäßiges Blut, Schweiß & Tränen\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cÜbermäßiges Blut, übermäßiger Schweiß & übermäßige Tränen\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn der Rapper <i>Kontra K<\/i> an Hyperhidrose leiden würde, wie würde seine neue Single dann am ehesten heißen?"
+                }
+            ]
+        },
+        {
+            "id": "10160",
+            "category": {
+                "text": "Von Euro-pa und Ameri-dollar"
+            },
+            "choices": [
+                {
+                    "text": "Dänemark",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dänekronen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Däneeuro",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dänefranken",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Dänemark würde in den Namen des Landes die Währung integrieren."
+                },
+                {
+                    "timing": "S + 4.16",
+                    "text": "Wie hieße das Land dann?"
+                }
+            ]
+        },
+        {
+            "id": "10161",
+            "category": {
+                "text": "Mit den Rentenbeiträgen am Roulettetisch"
+            },
+            "choices": [
+                {
+                    "text": "CDU",
+                    "isCorrect": true
+                },
+                {
+                    "text": "SPD",
+                    "isCorrect": false
+                },
+                {
+                    "text": "FDP",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bündnis 90/Die Grünen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche dieser Parteien würde beim Roulette aufgrund ihrer Farbe immer auf die 7 setzen?"
+                }
+            ]
+        },
+        {
+            "id": "10162",
+            "category": {
+                "text": "Altertümliches Affentheater"
+            },
+            "choices": [
+                {
+                    "text": "Ich bin von Idioten umgeben!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nein, es ist Obst im Haus!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Stinken meine Füße?",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Zieh mal an meinem Finger!",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was wäre eine zutreffende, lustige Bildunterschrift für Michelangelos <i>Die Erschaffung Adams<\/i>?"
+                }
+            ]
+        },
+        {
+            "id": "10164",
+            "category": {
+                "text": "Politiker mit Bewegungsdrang"
+            },
+            "choices": [
+                {
+                    "text": "Friedrich Ebert beim Fußball",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Willy Brandt beim Basketball",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Helmut Kohl beim Handball",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Olaf Scholz beim Volleyball",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher dieser Politiker befindet sich in der SPD-Stellung?"
+                }
+            ]
+        },
+        {
+            "id": "10165",
+            "category": {
+                "text": "Zahnpasta und damit BASTA!"
+            },
+            "choices": [
+                {
+                    "text": "Strahlendes Lächeln durch Radioaktivität!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Antreibend wie die Treibhausgase!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fester Biss mit der Kraft von Mineralien!",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Zähne zäh wie Leder!",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, statt Fluorid befände sich in Ihrer neuen Mode-Zahnpasta Fluorit."
+                },
+                {
+                    "timing": "S + 4.95",
+                    "text": "Welcher Werbeslogan würde dann passen?"
+                }
+            ]
+        },
+        {
+            "id": "10166",
+            "category": {
+                "text": "Die Farbe der Siebziger"
+            },
+            "choices": [
+                {
+                    "text": "YMCA-YDKJ in KJNY",
+                    "isCorrect": false
+                },
+                {
+                    "text": "YMCA-YDNJ in CMYN",
+                    "isCorrect": false
+                },
+                {
+                    "text": "YMCA-YDKJ in DKMY",
+                    "isCorrect": false
+                },
+                {
+                    "text": "YMCA-YDKJ in CMYK",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen die <i>Village People<\/i> gestalten zu ihrem Hit-Song \u201cY.M.C.A.\u201d eine spezielle You Don\u2019t Know Jack-Deluxe-Box!"
+                },
+                {
+                    "timing": "S + 6.54",
+                    "text": "Wie könnte man diese Box dann zutreffend bezeichnen, wenn sie im Vier-Farb-Druck produziert wird?"
+                }
+            ]
+        },
+        {
+            "id": "10167",
+            "category": {
+                "text": "UPS, da geht die Post ab"
+            },
+            "choices": [
+                {
+                    "text": "Zeus",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Apollon",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ares",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Poseidon",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bei wem könnten Sie sich über die schlechte Erziehung von Hermes dem Götterboten beschweren?"
+                }
+            ]
+        },
+        {
+            "id": "10168",
+            "category": {
+                "text": "Das bunte Astronomen-Allerlei"
+            },
+            "choices": [
+                {
+                    "text": "Kopernikus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Galilei",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Claudius Ptolemäus",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Carl Sagan",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cEs dreht sich nicht alles nur um dich!\u201d"
+                },
+                {
+                    "timing": "S + 2.70",
+                    "text": "Welcher Astronom würde dieser Aussage NICHT zustimmen?"
+                }
+            ]
+        },
+        {
+            "id": "10169",
+            "category": {
+                "text": "Nahrungsketten & Fressattacken"
+            },
+            "choices": [
+                {
+                    "text": "Die Sexualpartner der Nashörner werden ausgerottet",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Affen verlieren ihren Lebensraum",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Population der Löwen geht stark zurück",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die besten Freunde der Elefanten werden abgemurkst",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Sie alle Zebras äßen, welche Auswirkungen hätte das auf die anderen Tierkekse?"
+                }
+            ]
+        },
+        {
+            "id": "10170",
+            "category": {
+                "text": "Sexualkunde in Entenhausen"
+            },
+            "choices": [
+                {
+                    "text": "Oma Knack",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Klarabella Kuh",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Minnie Maus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Daisy Duck",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher dieser Charaktere könnte seine Jungen nicht säugen?"
+                }
+            ]
+        },
+        {
+            "id": "10171",
+            "category": {
+                "text": "Verfolgungsjagden & der fruchtige Geschmack des Todes"
+            },
+            "choices": [
+                {
+                    "text": "Ein Parapsychologe",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Parachronologe",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Parasympathikologe",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Parasitologe",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher der folgenden Spezialisten wäre angesichts seiner lästigen Anhänger am besten geeignet, Pac-Man zu helfen?"
+                }
+            ]
+        },
+        {
+            "id": "10172",
+            "category": {
+                "text": "Ungarische Blutsaugerabwehr"
+            },
+            "choices": [
+                {
+                    "text": "Glutamin",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Adenosintriphosphat",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Allicin",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ibuprofen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Mit welchem dieser Stoffe kann man sich gegen einen Vampir schützen?"
+                }
+            ]
+        },
+        {
+            "id": "10173",
+            "category": {
+                "text": "Mit Anmachsprüchen zum One-Night-Stand"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDu bringst mein Herz zum Fliegen!\u201d auf Mazedonisch",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cGeiler Hintern\u201d auf Finnisch",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDu bist atemberaubend\u201d auf Portugiesisch",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cDu siehst scharf aus!\u201d auf Bulgarisch",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie können Sie gleichzeitig romanisch und romantisch Ihren One-Night-Stand sichern?"
+                }
+            ]
+        },
+        {
+            "id": "10174",
+            "category": {
+                "text": "Wenn die Buchstaben in die Suppe fallen"
+            },
+            "choices": [
+                {
+                    "text": "\u201c§ & §\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201c¿ & ¿\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201c@ & @\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201c& & &\u201d",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Unter welchem Namen könnte die Sendung <i>Et und Et<\/i> dort zu finden sein?"
+                }
+            ]
+        },
+        {
+            "id": "10175",
+            "category": {
+                "text": "Von Shoppingwut & Intimgut"
+            },
+            "choices": [
+                {
+                    "text": "Schaf",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ziege",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Katze",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Kaninchen",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Judith Williams verkauft Ihnen auf <i>HSE24<\/i> ihre neuesten Slipper aus echter Angorawolle."
+                },
+                {
+                    "timing": "S + 6.14",
+                    "text": "Die Haare welchen Tieres schleppen Sie in Ihrer Intimregion mit sich herum?"
+                }
+            ]
+        },
+        {
+            "id": "10176",
+            "category": {
+                "text": "Von Süßem und von Bitterem"
+            },
+            "choices": [
+                {
+                    "text": "Onomatopoesie",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Alliteration",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Assonanz",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Allusion",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was haben die beiden Marken <i>Fisherman\u2019s Friend<\/i> und <i>Tic Tac<\/i> gemein?"
+                }
+            ]
+        },
+        {
+            "id": "10177",
+            "category": {
+                "text": "Lücken im Netz"
+            },
+            "choices": [
+                {
+                    "text": "Den Artikel \u201cWikipedia\u201d auf <i>wikipedia.org<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Den Kanal \u201cYouTube\u201d auf <i>youtube.com<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Den Eintrag \u201cDuden\u201d auf <i>duden.de<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Den Eintrag \u201cUrban Dictionary\u201d auf <i>urbandictionary.com<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welches der folgenden Dinge werden Sie im Internet NICHT finden?"
+                }
+            ]
+        },
+        {
+            "id": "10178",
+            "category": {
+                "text": "Schuster, bleib bei deinen Leistenkrokodilen"
+            },
+            "choices": [
+                {
+                    "text": "Ja, für bis zu fünf Zehen pro Kroko-<i>Croc<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ja, für bis zu drei Zehen pro Kroko-<i>Croc<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ja, für eine große Zehe pro Kroko-<i>Croc<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Nein, es wird kein Platz für Zehen benötigt",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen die Schöpfer von <i>Crocs<\/i> veröffentlichten \u201cKroko-<i>Crocs<\/i>\u201d, eine Reihe gemütlicher Schuhe für Krokodile."
+                },
+                {
+                    "timing": "S + 6.28",
+                    "text": "Würden diese Schuhe Platz für Zehen benötigen?"
+                }
+            ]
+        },
+        {
+            "id": "10179",
+            "category": {
+                "text": "Schlechte Schauspieler & der große Wurf"
+            },
+            "choices": [
+                {
+                    "text": "\u201cWer von euch ohne Sünde ist, werfe die erste Frucht!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cWelch\u2019 Obst durchdringet jenes Fenster mein?\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDein Obst kriegt gleich auf die Fresse!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cHo Ho Ho, heute Abend wird Obstsalat aufgetischt!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Sie sind bei den Passionsspielen in Oberammergau und werfen vor Wut und Langeweile Passionsfrüchte auf die Schauspieler."
+                },
+                {
+                    "timing": "S + 6.47",
+                    "text": "Wie würde der Hauptcharakter reagieren, wenn er in seiner Rolle bleiben würde?"
+                }
+            ]
+        },
+        {
+            "id": "10180",
+            "category": {
+                "text": "\u201cUnzüchtige Uckermark sucht starke Schulter\u201d"
+            },
+            "choices": [
+                {
+                    "text": "Köln mit dem Kölner Dom",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dresden mit der Dresdner Frauenkirche",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ulm mit dem Ulmer Münster",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Hamburg mit dem Hamburger Michel",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": " Sie wählt den Partner ihres Lebens mittels der höchst-wissenschaftlichen Untersuchung:"
+                },
+                {
+                    "timing": "S + 4.33",
+                    "text": "Wer hat den längeren"
+                },
+                {
+                    "timing": "S + 6.12",
+                    "text": "Kirchturm?"
+                }
+            ]
+        },
+        {
+            "id": "10181",
+            "category": {
+                "text": "Hart wie Carsten Krupp-Stahl"
+            },
+            "choices": [
+                {
+                    "text": "Familie Zinn mit Familie Kohlenstoff",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Familie Eisen mit Familie Nickel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Familie Eisen mit Familie Kohlenstoff",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Familie Kupfer mit Familie Zinn",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, Carsten Stahl begibt sich auf Ahnenforschung."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Aus der Ehe welcher beiden Familien ist er vermutlich entstanden?"
+                }
+            ]
+        },
+        {
+            "id": "10182",
+            "category": {
+                "text": "Kann der mal weniger nuscheln?"
+            },
+            "choices": [
+                {
+                    "text": "Das Broca-Areal",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Der Hypothalamus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Unterzungenareal",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Medulla",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Til Schweiger tatsächlich die Fähigkeit verliert, deutlich zu reden, welcher Teil seines Gehirns wäre dann vermutlich beschädigt?"
+                }
+            ]
+        },
+        {
+            "id": "10183",
+            "category": {
+                "text": "\u201cStars\u201d und \u201cSternchen\u201d auf Weltreise"
+            },
+            "choices": [
+                {
+                    "text": "Hanoi Hotel in der Bangkok Suite des Jakarta Hotels",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Seoul Hotel in der Jakarta Suite des Dhaka Hotels",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Singapur Hotel in der Kathmandu Suite des Bangkok Hotels",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bangkok Hotel in der Hanoi Suite des Singapur Hotels",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, die Band <i>Tokio Hotel<\/i> benennt sich nach der Hauptstadt Vietnams,"
+                },
+                {
+                    "timing": "S + 4.43",
+                    "text": "und nächtigt in einem thailändisch dekorierten Zimmer einer indonesischen Hotelkette."
+                },
+                {
+                    "timing": "S + 8.81",
+                    "text": "Wie könnte man dieses Szenario treffend beschreiben?"
+                }
+            ]
+        },
+        {
+            "id": "10184",
+            "category": {
+                "text": "Von geschmolzenen Gummibären beflügelt"
+            },
+            "choices": [
+                {
+                    "text": "<i>Red Bull Exos<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Red Bull Mesos<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Red Bull Tropos<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Red Bull Lexus<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, dass Felix Baumgartner nach seinem Fallschirmsprung aus der Stratosphäre gedenkt, das noch einmal zu toppen und aus der nächsthöheren Erdsphäre springt."
+                },
+                {
+                    "timing": "S + 8.88",
+                    "text": "Wie könnte dieses Unterfangen heißen?"
+                }
+            ]
+        },
+        {
+            "id": "10186",
+            "category": {
+                "text": "Grenzenüberschreitende Namenspaten"
+            },
+            "choices": [
+                {
+                    "text": "Beim Überschreiten der Schallgeschwindigkeit <i>Ferrero Rocher<\/i> essen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Während des Grenzübertritts zwischen Frankreich und Andorra <i>Ferrero Rocher<\/i> essen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Während des Erdatmosphäreneintritts <i>Ferrero Rocher<\/i> essen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "So viel <i>Ferrero Rocher<\/i> essen, bis Sie mit 0,5 Promille nicht mehr fahrtüchtig sind",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Sie möchten während des exzessiven Genusses von <i>Ferrero Rocher<\/i> die Roche-Grenze überwinden."
+                },
+                {
+                    "timing": "S + 5.11",
+                    "text": "Was müssen Sie dafür tun?"
+                }
+            ]
+        },
+        {
+            "id": "10187",
+            "category": {
+                "text": "Greise Labertaschen & eine göttliche Beförderung"
+            },
+            "choices": [
+                {
+                    "text": "Der Gott der Streiche",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Der Gott der Schweizer Bundeskanzler",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Gott einer Fußballmannschaft",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Gott der Papageien",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Kurz vor seiner Ernennung als Gott der deutschen Fernsehmoderatoren wird Thomas Gottschalk auch noch zum Gott der Schalken ernannt."
+                },
+                {
+                    "timing": "S + 6.76",
+                    "text": "Was ist er jetzt?"
+                }
+            ]
+        },
+        {
+            "id": "10188",
+            "category": {
+                "text": "Saufen fürs Vaterland"
+            },
+            "choices": [
+                {
+                    "text": "Umsatzsteuer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Schaumweinsteuer",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Schenkungssteuer",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Alkoholsteuer",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Zur Feier gönnen Sie sich einen echten Champagner."
+                },
+                {
+                    "timing": "S + 3.16",
+                    "text": "Welche Steuer zahlen Sie dabei nicht?"
+                }
+            ]
+        },
+        {
+            "id": "10189",
+            "category": {
+                "text": "Auch Familie Hades braucht mal Urlaub"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDie Hälfte der Rhone liegt gerade hinter uns\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cAuf dem Odiel sind es noch 40 Minuten\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDreiviertel des Acheron haben wir doch schon\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cNoch zwei Stunden auf der Desna\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cSind wir bald da?\u201d"
+                },
+                {
+                    "timing": "S + 1.47",
+                    "text": "- Was könnte Charon, der die Familie aus der Unterwelt fährt, zutreffend antworten?"
+                }
+            ]
+        },
+        {
+            "id": "10190",
+            "category": {
+                "text": "Gute Miene zum schlechten Film"
+            },
+            "choices": [
+                {
+                    "text": "Keinohrspinnen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Zweiohrfrösche",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dreiohrelefanten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Vierohrfliegen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Til Schweiger dreht ein Sequel zu <i>Keinohrhasen<\/i> und <i>Zweiohrküken<\/i>, bezeichnet den Film aber biologisch korrekt."
+                },
+                {
+                    "timing": "S + 6.91",
+                    "text": "Wie könnte dieser heißen?"
+                }
+            ]
+        },
+        {
+            "id": "10191",
+            "category": {
+                "text": "Klatschpresse & die große Kunst"
+            },
+            "choices": [
+                {
+                    "text": "<i>Selbstporträt im konvexen Spiegel<\/i> auf der Titelseite",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Zwölf Sonnenblumen<\/i> in \u201cHaus und Garten\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Maman<\/i> in der Tierrubrik",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Mein Bett<\/i> unter \u201cLiebe und Sex\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, in der <i>Bild der Frau<\/i> wären nur noch von Frauen erschaffene Kunstwerke zu sehen."
+                },
+                {
+                    "timing": "S + 4.93",
+                    "text": "Welches dieser Kunstwerke wäre in der neuesten Ausgabe nicht zu finden?"
+                }
+            ]
+        },
+        {
+            "id": "10192",
+            "category": {
+                "text": "Von Gaming-Nahrung und feiernden Firmen"
+            },
+            "choices": [
+                {
+                    "text": "Sashimi vor Inkling",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sonic-Mettigel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Pilzsuppe mit Toads",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Yoshi-Eieromelette",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, Nintendo serviert bei der nächsten Firmenfeier nur noch Speisen mit Bezug zu ihren Spielen."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Was sucht man vergebens auf dem Buffet?"
+                }
+            ]
+        },
+        {
+            "id": "10193",
+            "category": {
+                "text": "Schatten und Finsternis deutscher Literatur"
+            },
+            "choices": [
+                {
+                    "text": "\u201cVerrückte Beziehungen: Mann verliebt sich in Roboter\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cSelbstopferung nach Kindstod\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cLebensgefährlich: Psychopath schießt Apfel vom Kopf\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cVegetarische Diät führt zu Mord\u201d",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie könnte eine passende <i>Bild<\/i>-Schlagzeile lauten, die die Handlungen in Georg Büchners <i>Woyzeck<\/i> zum Thema hat?"
+                }
+            ]
+        },
+        {
+            "id": "10194",
+            "category": {
+                "text": "Jugendsprache & Wunder der Natur"
+            },
+            "choices": [
+                {
+                    "text": "Der Flösselhecht",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die Würfelqualle",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Blindschleiche",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Blutegel",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was läuft?"
+                }
+            ]
+        },
+        {
+            "id": "10195",
+            "category": {
+                "text": "Schlager küsst Metal"
+            },
+            "choices": [
+                {
+                    "text": "Florian AgFe",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Florian SiEs",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Florian AnEs",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Florian HeFe",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Florian Silbereisen veröffentlicht zur Abwechslung ein Metal-Album."
+                },
+                {
+                    "timing": "S + 4.34",
+                    "text": "Wie könnte er seinen Namen korrekt abkürzen?"
+                }
+            ]
+        },
+        {
+            "id": "10196",
+            "category": {
+                "text": "Spekulation im Zoo"
+            },
+            "choices": [
+                {
+                    "text": "Steigende Kurse",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fallende Kurse",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Stagnierende Kurse",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Stark schwankende Kurse",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, die Frankfurter Börse wäre ein Zoo."
+                },
+                {
+                    "timing": "S + 3.59",
+                    "text": "Was könnten sie am Bärengehege beobachten?"
+                }
+            ]
+        },
+        {
+            "id": "10197",
+            "category": {
+                "text": "Alexander Hold in Babylonien"
+            },
+            "choices": [
+                {
+                    "text": "\u201cGebt dem Opfer sein Haus!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cSchneidet der Sau die Zunge ab!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cVersklavt den Lügner!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cHinrichten! Hinrichten!\u201d",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Sie erheben Sich zu Wort und fordern lautstark die nach babylonischem Recht übliche Strafe für den Lügner."
+                },
+                {
+                    "timing": "S + 5.66",
+                    "text": "Was rufen Sie?"
+                }
+            ]
+        },
+        {
+            "id": "10198",
+            "category": {
+                "text": "Edle Steaks & große Sünden"
+            },
+            "choices": [
+                {
+                    "text": "Ein jüdisches Heiligtum",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Dorf amerikanischer Ureinwohner",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Gesetzbuch",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine 200-Euro-Sonderbanknote",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Statt eines normalen Steaks vom Bullen bietet man Ihnen dort eines von der goldenen Bulle an."
+                },
+                {
+                    "timing": "S + 5.58",
+                    "text": "Was setzt man Ihnen vor?"
+                }
+            ]
+        },
+        {
+            "id": "10199",
+            "category": {
+                "text": "Nosferatu im Rampenlicht"
+            },
+            "choices": [
+                {
+                    "text": "\u201cNehmt all mein Geld, das Produkt kaufe ich sofort!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cHatten die nicht mal ein anderes Werbegesicht?\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cIch kann den Werbeslogan nicht mehr hören.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cFür was hat der noch mal Werbung gemacht?\u201d",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bedenkt man die Wirkung des Vampir-Effekts,"
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "was würden die Zuschauer über die Werbung sagen?"
+                }
+            ]
+        },
+        {
+            "id": "10200",
+            "category": {
+                "text": "Gottlos göttliche Namenswahl"
+            },
+            "choices": [
+                {
+                    "text": "Petrus, Petrus, Petrus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Johannes, Johannes, Johannes",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Markus, Markus, Markus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Matthäus, Matthäus, Matthäus",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche dieser Antworten listet, in dieser Reihenfolge, einen Euphemismus für das männliche Geschlechtsorgan, ein Evangelium der Bibel und den Vornamen eines Papstes auf?"
+                }
+            ]
+        },
+        {
+            "id": "10201",
+            "category": {
+                "text": "Kleine Gehirne & der große Schreck"
+            },
+            "choices": [
+                {
+                    "text": "Mein Gyrus Cinguli hat mich zu Tode erschreckt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Toaster hat meinen Pons böse erwischt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das Gepolter löste einen Reflex in meinem Hippocampus aus",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Toaster löste in meiner Amygdala eine Schreckreaktion aus",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was ist mir gerade passiert?"
                 }
             ]
         }

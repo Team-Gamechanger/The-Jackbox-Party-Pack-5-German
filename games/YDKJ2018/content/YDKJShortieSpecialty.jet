@@ -1478,7 +1478,7 @@
                 }
             ],
             "bumper": "BINJPIPE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -1576,7 +1576,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Kleiner Bär aus <i>Oh wie schön ist Panama<\/i>",
+                    "text": "Kleiner Bär aus <i>Oh, wie schön ist Panama<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -1688,7 +1688,7 @@
                 }
             ],
             "bumper": "BINJPIPE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -1782,7 +1782,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Die Ludolfs - 4 Brüder auf'm Schrottplatz<\/i>",
+                    "text": "<i>Die Ludolfs - 4 Brüder auf\u2019m Schrottplatz<\/i>",
                     "isCorrect": true
                 },
                 {
@@ -1828,7 +1828,7 @@
                 }
             ],
             "bumper": "BINJPIPE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -1861,7 +1861,7 @@
                 }
             ],
             "bumper": "BINJPIPE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
