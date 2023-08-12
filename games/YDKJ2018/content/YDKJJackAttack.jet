@@ -8229,7 +8229,7 @@
 						},
 						{
 							"text": "9e",
-							"isCorrect": false
+							"isCorrect": true
 						},
 						{
 							"text": "-3/4i",
@@ -8237,11 +8237,11 @@
 						},
 						{
 							"text": "4Pi",
-							"isCorrect": false
+							"isCorrect": true
 						},
 						{
 							"text": "67%",
-							"isCorrect": false
+							"isCorrect": true
 						},
 						{
 							"text": "100i",
