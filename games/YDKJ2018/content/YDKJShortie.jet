@@ -5236,7 +5236,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Joko und Klaas werden von einem Dinosaurier zerissen",
+                    "text": "Joko und Klaas werden von einem Dinosaurier zerrissen",
                     "isCorrect": false
                 },
                 {
@@ -5249,7 +5249,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -5517,11 +5517,11 @@
             "choices": [
                 {
                     "text": "CDU",
-                    "isCorrect": true
+                    "isCorrect": false
                 },
                 {
                     "text": "SPD",
-                    "isCorrect": false
+                    "isCorrect": true
                 },
                 {
                     "text": "FDP",

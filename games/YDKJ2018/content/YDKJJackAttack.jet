@@ -8375,11 +8375,11 @@
 					"title": "Geldstufen bei <i>Wer wird Millionär?</i>",
 					"choices": [
 						{
-							"text": "8000€",
+							"text": "8.000€",
 							"isCorrect": true
 						},
 						{
-							"text": "64000000€",
+							"text": "64.000.000€",
 							"isCorrect": false
 						},
 						{
@@ -8387,7 +8387,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "64000€",
+							"text": "64.000€",
 							"isCorrect": true
 						},
 						{
@@ -8395,7 +8395,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "128000€",
+							"text": "128.000€",
 							"isCorrect": false
 						}
 					]
