@@ -5741,7 +5741,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Bei wem könnten Sie sich über die schlechte Erziehung von Hermes dem Götterboten beschweren?"
+                    "text": "Bei wem können Sie sich über die schlechte Erziehung von Hermes dem Götterboten beschweren?"
                 }
             ]
         },
@@ -6628,7 +6628,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cSelbstopferung nach Kindstod\u201d",
+                    "text": "\u201cSelbstaufopferung nach Kindstod\u201d",
                     "isCorrect": false
                 },
                 {
@@ -7264,19 +7264,19 @@
             },
             "choices": [
                 {
-                    "text": "Ihr Herz bricht",
+                    "text": "Sie haben ein gebrochenes Herz",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ihr Herz geht auf",
+                    "text": "Sie haben ein großes Herz",
                     "isCorrect": true
                 },
                 {
-                    "text": "Ihr Herz blutet",
+                    "text": "Sie haben ein blutendes Herz",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ihr Herz erweicht",
+                    "text": "Sie haben ein weiches Herz",
                     "isCorrect": false
                 }
             ],
