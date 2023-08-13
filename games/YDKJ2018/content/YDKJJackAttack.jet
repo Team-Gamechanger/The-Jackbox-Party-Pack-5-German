@@ -5720,11 +5720,11 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Android",
+							"text": "<i>Android</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Google",
+							"text": "<i>Google</i>",
 							"isCorrect": true
 						}
 					]
@@ -10191,7 +10191,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Haribo Gummibären",
+							"text": "<i>Haribo</i> Gummibären",
 							"isCorrect": false
 						},
 						{

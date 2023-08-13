@@ -128,7 +128,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -719,19 +719,19 @@
             },
             "choices": [
                 {
-                    "text": "Es würde die Verkäufe der Red Bull AG beeinflussen.",
+                    "text": "Es würde die Verkäufe der <i>Red Bull AG<\/i> beeinflussen",
                     "isCorrect": false
                 },
                 {
-                    "text": "Es würde die Verkäufe der Red Bull GmbH beeinflussen.",
+                    "text": "Es würde die Verkäufe der <i>Red Bull GmbH<\/i> beeinflussen",
                     "isCorrect": true
                 },
                 {
-                    "text": "Es würde die Verkäufe der Red Bull UG beeinflussen.",
+                    "text": "Es würde die Verkäufe der <i>Red Bull UG<\/i> beeinflussen",
                     "isCorrect": false
                 },
                 {
-                    "text": "Es würde die Verkäufe der Red Bull oHG beeinflussen.",
+                    "text": "Es würde die Verkäufe der <i>Red Bull oHG<\/i> beeinflussen",
                     "isCorrect": false
                 }
             ],
@@ -1023,7 +1023,7 @@
             },
             "choices": [
                 {
-                    "text": "\u201cNunja, ich kriege bestimmt schon lange vor dem Sonnenuntergang Hunger...\u201d",
+                    "text": "\u201cNun ja, ich kriege bestimmt schon lange vor dem Sonnenuntergang Hunger...\u201d",
                     "isCorrect": false
                 },
                 {
@@ -1048,7 +1048,7 @@
                 },
                 {
                     "timing": "S + 5.47",
-                    "text": "Wie könnten Sie diese Frage am taktvollsten verneinen?"
+                    "text": "Wie können Sie diese Frage am taktvollsten verneinen?"
                 }
             ]
         },
@@ -1352,11 +1352,11 @@
             },
             "choices": [
                 {
-                    "text": "<i>Venus von Milo<\/i>",
+                    "text": "Die <i>Venus von Milo<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "<i>Mona Lisa<\/i>",
+                    "text": "Die <i>Mona Lisa<\/i>",
                     "isCorrect": false
                 },
                 {
@@ -1364,7 +1364,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "<i>Die Büste der Nofretete<\/i>",
+                    "text": "Die <i>Büste der Nofretete<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -1453,19 +1453,19 @@
             },
             "choices": [
                 {
-                    "text": "die Küchentür",
+                    "text": "...die Küchentür",
                     "isCorrect": false
                 },
                 {
-                    "text": "die Wohnzimmertür",
+                    "text": "...die Wohnzimmertür",
                     "isCorrect": false
                 },
                 {
-                    "text": "die Badezimmertür",
+                    "text": "...die Badezimmertür",
                     "isCorrect": true
                 },
                 {
-                    "text": "die Tür der Hotellobby",
+                    "text": "...die Tür der Hotellobby",
                     "isCorrect": false
                 }
             ],
@@ -2638,7 +2638,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Zehn Gläser König Pilsener",
+                    "text": "Zehn Gläser <i>König Pilsener<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -2647,7 +2647,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welche Getränkebestellung steht für das Land, das die meisten Fußballweltmeisterschaften der Männer gewonnen hat?"
+                    "text": "Welche Getränkebestellung steht für das Land, das die meisten Fußballweltmeisterschaften der Welt gewonnen hat?"
                 }
             ]
         },
@@ -3075,7 +3075,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, eine unglückliche Fehlinterpretation sorgt dafür, dass RTL nächstes Jahr <i>Deutschland sucht den Super-Star<\/i> produziert, bei der die Jury den besten Singvogel sucht."
+                    "text": "Angenommen, eine unglückliche Fehlinterpretation sorgt dafür, dass <i>RTL<\/i> nächstes Jahr <i>Deutschland sucht den Super-Star<\/i> produziert, bei der die Jury den besten Singvogel sucht."
                 },
                 {
                     "timing": "S + 11.89",
@@ -3851,7 +3851,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cDamit beschreibt man die Steigung von Funktionen!\u201d",
+                    "text": "\u201cDamit beschreibt man doch die Steigung von Funktionen!\u201d",
                     "isCorrect": false
                 },
                 {
@@ -6821,38 +6821,6 @@
                 {
                     "timing": "S + 8.49",
                     "text": "Was können Sie damit tun?"
-                }
-            ]
-        },
-        {
-            "id": "10204",
-            "category": {
-                "text": "Die sechsundfünfzigste Regel des Fight Club lautet..."
-            },
-            "choices": [
-                {
-                    "text": "\u201cKeine Hemden, keine Schuhe\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cDie Kämpfe dauern genau solange, wie sie dauern müssen\u201d",
-                    "isCorrect": false
-                },
-                {
-                    "text": "\u201cWenn jemand \u2019Stop\u2019 ruft, ist der Kampf vorbei\u201d",
-                    "isCorrect": true
-                },
-                {
-                    "text": "\u201cNur ein Kampf auf einmal\u201d",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Wie lautet die DRITTE Regel des <i>Fight Club<\/i>?"
                 }
             ]
         },
