@@ -1091,19 +1091,19 @@
             },
             "choices": [
                 {
-                    "text": "2,4 Dosen Super Sours Green Apple",
+                    "text": "2,4 Dosen <i>Super Sours Green Apple<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "5,8 Dosen Punched Guava",
+                    "text": "5,8 Dosen <i>Punched Guava<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "8,6 Dosen Ultra Fiesta",
+                    "text": "8,6 Dosen <i>Ultra Fiesta<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "11 Dosen Organic Strawberry",
+                    "text": "11 Dosen <i>Organic Strawberry<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -1112,7 +1112,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wie viele 250 ml Dosen Rockstar Energy könnte meine Blase ungefähr auf einmal aufnehmen?"
+                    "text": "Wie viele 250 ml Dosen <i>Rockstar Energy<\/i> könnte meine Blase ungefähr auf einmal aufnehmen?"
                 }
             ]
         },
@@ -1352,19 +1352,19 @@
             },
             "choices": [
                 {
-                    "text": "\u201cVenus von Milo\u201d",
+                    "text": "<i>Venus von Milo<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cMona Lisa\u201d",
+                    "text": "<i>Mona Lisa<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cDas Mädchen mit dem Perlenohrgehänge\u201d",
+                    "text": "<i>Das Mädchen mit dem Perlenohrgehänge<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cDie Büste der Nofretete\u201d",
+                    "text": "<i>Die Büste der Nofretete<\/i>",
                     "isCorrect": false
                 }
             ],

@@ -3541,30 +3541,30 @@
 					]
 				},
 				{
-					"title": "Ben & Jerry",
+					"title": "<i>Ben & Jerry</i>",
 					"choices": [
 						{
-							"text": "Karamel Sutra",
+							"text": "<i>Karamel Sutra</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Disney’s Die Eiskönigin",
+							"text": "<i>Disney’s Die Eiskönigin</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Netflix & Chilll’d",
+							"text": "<i>Netflix & Chilll’d</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Schokoheld",
+							"text": "<i>Schokoheld</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "WalNutLuck",
+							"text": "<i>WalNutLuck</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Baked Alaska",
+							"text": "<i>Baked Alaska</i>",
 							"isCorrect": true
 						}
 					]
