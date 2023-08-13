@@ -6328,7 +6328,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Zur Feier gönnen Sie sich einen echten Champagner."
+                    "text": "Zur Feier des Tages gönnen Sie sich einen echten Champagner."
                 },
                 {
                     "timing": "S + 3.16",
@@ -7035,7 +7035,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Ein Koch kocht so heißes Chilli con Carne, das es einem Gast den Magen wegbrennt",
+                    "text": "Ein Koch kocht so heißes Chili con Carne, dass es einem Gast den Magen wegbrennt",
                     "isCorrect": false
                 },
                 {
@@ -7111,7 +7111,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Die Furche ackern",
+                    "text": "Die Furche beackern",
                     "isCorrect": false
                 }
             ],
@@ -7153,38 +7153,6 @@
                 {
                     "timing": "S + 0.00",
                     "text": "Für welches Gericht wird Eratosthenes sein Sieb benötigen?"
-                }
-            ]
-        },
-        {
-            "id": "10215",
-            "category": {
-                "text": "Alt trifft jung"
-            },
-            "choices": [
-                {
-                    "text": "Alice <i>XING<\/i> Chains",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>Reddit<\/i>nex",
-                    "isCorrect": false
-                },
-                {
-                    "text": "<i>LinkedIn<\/i> Park",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Modern <i>TikTok<\/i>ing",
-                    "isCorrect": true
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Welche dieser Fusionen zwischen sozialen Medien und Musikbands verbindet die älteste Band mit der neuesten Social-Media-Plattform?"
                 }
             ]
         },
@@ -7267,7 +7235,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "1002 Jahre alt",
+                    "text": "1.002 Jahre alt",
                     "isCorrect": true
                 },
                 {
@@ -7567,7 +7535,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cIch muss nur kurz den Müll rausbringen!\u201d",
+                    "text": "\u201cIch muss kurz den Müll rausbringen!\u201d",
                     "isCorrect": false
                 }
             ],
