@@ -5943,15 +5943,15 @@
             },
             "choices": [
                 {
-                    "text": "Ja, für bis zu fünf Zehen pro Kroko-<i>Croc<\/i>",
+                    "text": "Ja, für bis zu fünf Zehen pro <i>Kroko-Croc<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "Ja, für bis zu drei Zehen pro Kroko-<i>Croc<\/i>",
+                    "text": "Ja, für bis zu drei Zehen pro <i>Kroko-Croc<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ja, für eine große Zehe pro Kroko-<i>Croc<\/i>",
+                    "text": "Ja, für eine große Zehe pro <i>Kroko-Croc<\/i>",
                     "isCorrect": false
                 },
                 {
@@ -5964,7 +5964,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen die Schöpfer von <i>Crocs<\/i> veröffentlichten \u201cKroko-<i>Crocs<\/i>\u201d, eine Reihe gemütlicher Schuhe für Krokodile."
+                    "text": "Angenommen die Schöpfer von <i>Crocs<\/i> veröffentlichten \u201c<i>Kroko-Crocs<\/i>\u201d, eine Reihe gemütlicher Schuhe für Krokodile."
                 },
                 {
                     "timing": "S + 6.28",
@@ -7019,7 +7019,7 @@
                     "text": "Nehmen wir an, Pluto gewinnt die Bürgermeisterwahl in Entenhausen."
                 },
                 {
-                    "timing": "S + 7.29",
+                    "timing": "S + 3.68",
                     "text": "Wenn er sich dazu entscheidet, Entenhausen zu einer \u201cPlutokratie\u201d zu machen, wer wäre dann <i>tatsächlich<\/i> an der Macht?"
                 }
             ]
