@@ -3518,7 +3518,7 @@
             },
             "choices": [
                 {
-                    "text": "Eine Stadionwerbung im Finale der FIFA-Weltmeisterschaft",
+                    "text": "Eine Stadionwerbung im Finale der <i>FIFA<\/i>-Weltmeisterschaft",
                     "isCorrect": true
                 },
                 {
@@ -3526,7 +3526,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Eine 30-Sekunden Super Bowl Werbung",
+                    "text": "Eine 30-Sekunden Super-Bowl-Werbung",
                     "isCorrect": false
                 },
                 {
@@ -3779,19 +3779,19 @@
             },
             "choices": [
                 {
-                    "text": "Hey Süßer, ich hoffe deine kinetische Energie nimmt auch im Bett zu",
+                    "text": "\u201cHey Süßer, ich hoffe deine kinetische Energie nimmt auch im Bett zu.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Naaaa, darf ich auch mal deine Aridität durch Polyvinylchlorid erzwingen?",
+                    "text": "\u201cNaaaa, darf ich auch mal deine Aridität durch Polyvinylchlorid erzwingen?\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Öfters hier? Ich kann dir helfen, deine Gleitreibung in komprimierte Subsidenz umzuwandeln.",
+                    "text": "\u201cÖfters hier? Ich kann dir helfen, deine Gleitreibung in komprimierte Subsidenz umzuwandeln.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Na du, reagiert dein Phosphor auch so stark auf Kaliumchlorat?",
+                    "text": "\u201cNa du, reagiert dein Phosphor auch so stark auf Kaliumchlorat?\u201d",
                     "isCorrect": true
                 }
             ],
