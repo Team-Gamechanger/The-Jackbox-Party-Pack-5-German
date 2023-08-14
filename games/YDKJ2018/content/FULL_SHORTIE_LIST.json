@@ -8349,7 +8349,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher dieser Charaktere würde NIE wissen, wann er mit dem Trinken aufhören sollte, wenn man diese Wahrheit bedenkt?"
+                    "text": "Wenn man diese Wahrheit bedenkt, welcher dieser Charaktere würde NIE wissen, wann er mit dem Trinken aufhören sollte?"
                 }
             ]
         },
@@ -8481,7 +8481,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn die Airline <i>Condor<\/i> die gleichen Eigenschaften hätte, wie der Kondor, was könnten Sie dann auf einem Flug üblicherweise beobachten?"
+                    "text": "Wenn die Airline <i>Condor<\/i> die gleichen Eigenschaften hätte, wie der Vogel Kondor, was könnten Sie dann auf einem Flug üblicherweise beobachten?"
                 }
             ]
         },
@@ -8517,7 +8517,7 @@
                 },
                 {
                     "timing": "S + 420.69",
-                    "text": "Wenn man nun versuchen würde, diesen zu entfernen, in welcher Reihenfolge durch die Därme würde er Ihre Organe verlassen?"
+                    "text": "Wenn man nun versuchen würde, diesen zu entfernen, in welcher Reihenfolge würde er Ihre Organe durch die Därme verlassen?"
                 }
             ]
         },
@@ -8549,7 +8549,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Stellen Sie sich vor, Johann Lafer würde seine Kochshows von der Zielgruppe von \u201cFast-Tote\u201d auf \u201cUntote\u201d umstellen."
+                    "text": "Stellen Sie sich vor, Johann Lafer würde seine Kochshows von der Zielgruppe \u201cFast-Tote\u201d auf \u201cUntote\u201d umstellen."
                 },
                 {
                     "timing": "S + 420.69",
