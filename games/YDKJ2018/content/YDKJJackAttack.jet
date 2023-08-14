@@ -4218,7 +4218,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Lufthansa-Pilot",
+							"text": "<i>Lufthansa</i>-Pilot",
 							"isCorrect": false
 						},
 						{
@@ -7213,7 +7213,7 @@
 						},
 						{
 							"text": "Kochen",
-							"isCorrect": false
+							"isCorrect": true
 						},
 						{
 							"text": "Tourieren",

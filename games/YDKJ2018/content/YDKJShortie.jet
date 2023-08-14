@@ -1733,7 +1733,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Der leidenschaftliche Kreis",
+                    "text": "Das leidenschaftliche Fünfeck",
                     "isCorrect": false
                 },
                 {
@@ -2121,7 +2121,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Eine Sprachnachricht, in der ich Ihnen in 5 Sprachen sage, dass Sie sich verpissen sollen",
+                    "text": "Eine Audioaufnahme, in der ich Ihnen in 5 Sprachen sage, dass Sie sich verpissen sollen",
                     "isCorrect": false
                 },
                 {
@@ -3743,7 +3743,7 @@
         {
             "id": "10111",
             "category": {
-                "text": "Blumen im Garten, für die ganz harten"
+                "text": "Blumen im Garten, für die ganz Harten"
             },
             "choices": [
                 {
@@ -3791,7 +3791,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cNa du, reagiert dein Phosphor auch so stark auf Kaliumchlorat?\u201d",
+                    "text": "\u201cReagiert dein Phosphor auch so stark auf Kaliumchlorat?\u201d",
                     "isCorrect": true
                 }
             ],
@@ -4171,7 +4171,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "eine US-amerikanische Westküstenstadt",
+                    "text": "Eine US-amerikanische Westküstenstadt",
                     "isCorrect": false
                 }
             ],
@@ -5512,7 +5512,8 @@
             "choices": [
                 {
                     "text": "Strahlendes Lächeln durch Radioaktivität!",
-                    "isCorrect": false
+                    "isCorrect": false,
+                    "best": true
                 },
                 {
                     "text": "Antreibend wie die Treibhausgase!",
@@ -5528,7 +5529,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -6379,19 +6380,19 @@
             },
             "choices": [
                 {
-                    "text": "Keinohrspinnen",
+                    "text": "<i>Keinohrspinnen<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "Zweiohrfrösche",
+                    "text": "<i>Zweiohrfrösche<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Dreiohrelefanten",
+                    "text": "<i>Dreiohrelefanten<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Vierohrfliegen",
+                    "text": "<i>Vierohrfliegen<\/i>",
                     "isCorrect": false
                 }
             ],
