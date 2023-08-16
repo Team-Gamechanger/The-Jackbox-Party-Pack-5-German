@@ -3527,15 +3527,15 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Zeit-Maschine",
-							"isCorrect": false
+							"text": "Zeitmaschine",
+							"isCorrect": true
 						},
 						{
 							"text": "Baumhaus-Roboter",
 							"isCorrect": true
 						},
 						{
-							"text": "Phindroids und Ferboter",
+							"text": "Phindroiden und Ferboter",
 							"isCorrect": true
 						}
 					]
