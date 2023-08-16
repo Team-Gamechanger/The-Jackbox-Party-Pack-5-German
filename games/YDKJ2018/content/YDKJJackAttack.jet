@@ -49,7 +49,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Na’vi",
+							"text": "Na\u2019vi",
 							"isCorrect": true
 						},
 						{
@@ -417,7 +417,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Der McRib ist zurück!",
+							"text": "Der <i>McRib</i> ist zurück!",
 							"isCorrect": false
 						}
 					]
@@ -455,7 +455,7 @@
 					"title": "Jede Sekunde (mehr oder weniger)",
 					"choices": [
 						{
-							"text": "60.000 “Gefällt mir”-Klicks auf <i>Facebook</i>",
+							"text": "60.000 \u201cGefällt mir\u201d-Klicks auf <i>Facebook</i>",
 							"isCorrect": true
 						},
 						{
@@ -510,7 +510,7 @@
 					]
 				},
 				{
-					"title": "Jede Runde <i>YOU DON’T KNOW JACK</i>",
+					"title": "Jede Runde <i>YOU DON\u2019T KNOW JACK</i>",
 					"choices": [
 						{
 							"text": "Hat ein Sekt oder Selters",
@@ -777,7 +777,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Kofferaumvolumen eines Smart fortwo",
+							"text": "Kofferraumvolumen eines <i>Smart fortwo</i>",
 							"isCorrect": true
 						}
 					]
@@ -957,7 +957,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Aufführungs- und mechani­sche Vervielfältigungsrechte",
+							"text": "Aufführungs- und mechanische Vervielfältigungsrechte",
 							"isCorrect": true
 						}
 					]
@@ -1100,12 +1100,12 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Nationalpark Harz",
-							"isCorrect": true
-						},
-						{
 							"text": "Nationalpark Weißwald",
 							"isCorrect": false
+						},
+						{
+							"text": "Nationalpark Harz",
+							"isCorrect": true
 						},
 						{
 							"text": "Nationalpark Schwarzwald",
@@ -1175,27 +1175,27 @@
 					"title": "Lieder von <i>Linkin Park</i>",
 					"choices": [
 						{
-							"text": "“Numb“",
+							"text": "\u201cNumb\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Castle of Sand“",
+							"text": "\u201cCastle of Sand\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Final Masquerade“",
+							"text": "\u201cFinal Masquerade\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Found in the Echo“",
+							"text": "\u201cFound in the Echo\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Burn It Down“",
+							"text": "\u201cBurn It Down\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“One More Light“",
+							"text": "\u201cOne More Light\u201d",
 							"isCorrect": true
 						}
 					]
@@ -1265,7 +1265,7 @@
 			"title": "Der Preis ist heiß",
 			"prompts": [
 				{
-					"title": "Oscar für \"Bester Film\"",
+					"title": "Oscar für \u201cBester Film\u201d",
 					"choices": [
 						{
 							"text": "<i>Toy Story 3</i>",
@@ -1294,7 +1294,7 @@
 					]
 				},
 				{
-					"title": "Game Award für \"Spiel des Jahres\"",
+					"title": "Game Award für \u201cSpiel des Jahres\u201d",
 					"choices": [
 						{
 							"text": "<i>Sekiro: Shadows Die Twice</i>",
@@ -1323,10 +1323,10 @@
 					]
 				},
 				{
-					"title": "Bambi für \"Bester nationaler Schauspieler\"",
+					"title": "Bambi für \u201cBester nationaler Schauspieler\u201d",
 					"choices": [
 						{
-							"text": "Elyas M’Barek",
+							"text": "Elyas M\u2019Barek",
 							"isCorrect": false
 						},
 						{
@@ -1352,7 +1352,7 @@
 					]
 				},
 				{
-					"title": "Grammy Award für \"Album des Jahres\"",
+					"title": "Grammy Award für \u201cAlbum des Jahres\u201d",
 					"choices": [
 						{
 							"text": "<i>21</i> von Adele",
@@ -1381,7 +1381,7 @@
 					]
 				},
 				{
-					"title": "Deutscher Webvideopreis für \"Gaming\"",
+					"title": "Deutscher Webvideopreis für \u201cGaming\u201d",
 					"choices": [
 						{
 							"text": "HandOfBlood",
@@ -1489,7 +1489,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Oktant",
+							"text": "Luftpumpe",
 							"isCorrect": true
 						},
 						{
@@ -1686,7 +1686,7 @@
 					"title": "Nach 2018",
 					"choices": [
 						{
-							"text": "Die <i>SpaceX</i>-Rakete \"Falcon Heavy\" wird mit einem Tesla ins All geschossen",
+							"text": "Die <i>SpaceX</i>-Rakete \u201cFalcon Heavy\u201d wird mit einem Tesla ins All geschossen",
 							"isCorrect": false
 						},
 						{
@@ -1735,7 +1735,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Spieler haben mit <i>YOU DON'T KNOW JACK</i> \"Spaß\"",
+							"text": "Spieler haben \u201cSpaß\u201d mit <i>YOU DON\u2019T KNOW JACK</i>",
 							"isCorrect": true
 						}
 					]
@@ -1837,27 +1837,27 @@
 					"title": "Die Trauerphasen (nach V. Kast)",
 					"choices": [
 						{
-							"text": "“Neuerfindungs“-Phase",
+							"text": "\u201cNeuerfindungs\u201d-Phase",
 							"isCorrect": false
 						},
 						{
-							"text": "“Suchen und Sich-Trennen“-Phase",
+							"text": "\u201cSuchen und Sich-Trennen\u201d-Phase",
 							"isCorrect": true
 						},
 						{
-							"text": "“Aufbrechende Emotionen“-Phase",
+							"text": "\u201cAufbrechende Emotionen\u201d-Phase",
 							"isCorrect": true
 						},
 						{
-							"text": "“Träumer“-Phase",
+							"text": "\u201cTräumer\u201d-Phase",
 							"isCorrect": false
 						},
 						{
-							"text": "“Nicht-Wahrhaben-Wollen“-Phase",
+							"text": "\u201cNicht-Wahrhaben-Wollen\u201d-Phase",
 							"isCorrect": true
 						},
 						{
-							"text": "“Verweigerungs“-Phase",
+							"text": "\u201cVerweigerungs\u201d-Phase",
 							"isCorrect": false
 						}
 					]
@@ -1924,27 +1924,27 @@
 					"title": "Die Software-Lebenszyklus-Phasen",
 					"choices": [
 						{
-							"text": "“Wartung und Support”-Phase",
+							"text": "\u201cWartung und Support\u201d-Phase",
 							"isCorrect": true
 						},
 						{
-							"text": "“Analyse und Entwurf”-Phase",
+							"text": "\u201cAnalyse und Entwurf\u201d-Phase",
 							"isCorrect": true
 						},
 						{
-							"text": "“Crunch”-Phase",
+							"text": "\u201cCrunch\u201d-Phase",
 							"isCorrect": false
 						},
 						{
-							"text": "“Test und Design”-Phase",
+							"text": "\u201cTest und Design\u201d-Phase",
 							"isCorrect": false
 						},
 						{
-							"text": "“Wartung und Neuentwicklung”-Phase",
+							"text": "\u201cWartung und Neuentwicklung\u201d-Phase",
 							"isCorrect": false
 						},
 						{
-							"text": "“Implementierung”-Phase",
+							"text": "\u201cImplementierung\u201d-Phase",
 							"isCorrect": true
 						}
 					]
@@ -2124,7 +2124,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Eine <i>McDonald’s</i>-Filiale",
+							"text": "Eine <i>McDonald\u2019s</i>-Filiale",
 							"isCorrect": false
 						}
 					]
@@ -2133,27 +2133,27 @@
 					"title": "Polarkreis 18",
 					"choices": [
 						{
-							"text": "“Allein Allein“",
+							"text": "\u201cAllein Allein\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Spinner“",
+							"text": "\u201cSpinner\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“The Colour Of Snow“",
+							"text": "\u201cThe Colour Of Snow\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Prisoner“",
+							"text": "\u201cPrisoner\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Tourist“",
+							"text": "\u201cTourist\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Lass uns gehen“",
+							"text": "\u201cLass uns gehen\u201d",
 							"isCorrect": false
 						}
 					]
@@ -2987,7 +2987,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>The King’s Speech - Die Rede des Königs</i>",
+							"text": "<i>The King\u2019s Speech - Die Rede des Königs</i>",
 							"isCorrect": false
 						},
 						{
@@ -3113,7 +3113,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Ein “O” in <i>Scrabble</i>",
+							"text": "Ein \u201cO\u201d in <i>Scrabble</i>",
 							"isCorrect": true
 						},
 						{
@@ -3126,7 +3126,7 @@
 					"title": "4 Punkte",
 					"choices": [
 						{
-							"text": "Zwei “Zweier” bei <i>Kniffel</i>",
+							"text": "Zwei \u201cZweier\u201d bei <i>Kniffel</i>",
 							"isCorrect": true
 						},
 						{
@@ -3184,7 +3184,7 @@
 					"title": "8 Punkte",
 					"choices": [
 						{
-							"text": "Note “befriedigend”",
+							"text": "Note \u201cbefriedigend\u201d",
 							"isCorrect": true
 						},
 						{
@@ -3200,7 +3200,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Ein “Q” in <i>Scrabble</i>",
+							"text": "Ein \u201cQ\u201d in <i>Scrabble</i>",
 							"isCorrect": false
 						},
 						{
@@ -3285,7 +3285,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "“Mann über Bord!”",
+							"text": "\u201cMann über Bord!\u201d",
 							"isCorrect": true
 						},
 						{
@@ -3548,11 +3548,11 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Disney’s Die Eiskönigin</i>",
+							"text": "<i>Disney\u2019s Die Eiskönigin</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Netflix & Chilll’d</i>",
+							"text": "<i>Netflix & Chilll\u2019d</i>",
 							"isCorrect": true
 						},
 						{
@@ -3605,30 +3605,30 @@
 			"title": "Hier könnte Ihre Werbung stehen",
 			"prompts": [
 				{
-					"title": "<i>McDonald’s</i>",
+					"title": "<i>McDonald\u2019s</i>",
 					"choices": [
 						{
-							"text": "“Gut, daß es McDonald’s gibt.”",
+							"text": "\u201cGut, daß es McDonald\u2019s gibt.\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Ich hasse es”",
+							"text": "\u201cIch hasse es\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“McDonald’s ist einfach gut!”",
+							"text": "\u201cMcDonald\u2019s ist einfach gut!\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Hab einfach eine gute Zeit.”",
+							"text": "\u201cHab einfach eine gute Zeit.\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Essen mit Spaß.”",
+							"text": "\u201cEssen mit Spaß.\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Haltet die Klappe und nehmt mein Geld!”",
+							"text": "\u201cHaltet die Klappe und nehmt mein Geld!\u201d",
 							"isCorrect": false
 						}
 					]
@@ -3637,27 +3637,27 @@
 					"title": "<i>Saturn</i>",
 					"choices": [
 						{
-							"text": "“Ich bin doch nicht blöd!”",
+							"text": "\u201cIch bin doch nicht blöd!\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Sternhagelgünstig!”",
+							"text": "\u201cSternhagelgünstig!\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Geiz ist geil!”",
+							"text": "\u201cGeiz ist geil!\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Geil ist geil!”",
+							"text": "\u201cGeil ist geil!\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Kaufen. Marsch, Marsch!”",
+							"text": "\u201cElektro ist unser Ding!\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Haben wir. Wissen wir. Machen wir.”",
+							"text": "\u201cHaben wir. Wissen wir. Machen wir.\u201d",
 							"isCorrect": false
 						}
 					]
@@ -3666,56 +3666,56 @@
 					"title": "<i>IKEA</i>",
 					"choices": [
 						{
-							"text": "“Wohnst du noch oder lebst du schon?”",
+							"text": "\u201cWohnst du noch oder lebst du schon?\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Dänische Individualität kostet weniger.”",
+							"text": "\u201cDänische Individualität kostet weniger.\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Nur Stehen ist billiger.”",
+							"text": "\u201cNur Stehen ist billiger.\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Lebst du noch oder wohnst du schon?”",
+							"text": "\u201cLebst du noch oder wohnst du schon?\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Mehr Geschmack als Geld.”",
+							"text": "\u201cMehr Geschmack als Geld.\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Einfach maximal!”",
+							"text": "\u201cEinfach maximal!\u201d",
 							"isCorrect": false
 						}
 					]
 				},
 				{
-					"title": "<i>McDonald’s</i> (Österreich)",
+					"title": "<i>McDonald\u2019s</i> (Österreich)",
 					"choices": [
 						{
-							"text": "“Ich liebe es.”",
+							"text": "\u201cIch liebe es.\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Das etwas andere Restaurant.”",
+							"text": "\u201cDas etwas andere Restaurant.\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“McDonald’s ist einfach gut!”",
+							"text": "\u201cMcDonald\u2019s ist einfach gut!\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Essen mit Gras.”",
+							"text": "\u201cEssen mit Gras.\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Leb deinen Traum, denn er wird wahr.”",
+							"text": "\u201cLeb deinen Traum, denn er wird wahr.\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Für echte Mampfiosi.”",
+							"text": "\u201cFür echte Mampfiosi.\u201d",
 							"isCorrect": true
 						}
 					]
@@ -3724,27 +3724,27 @@
 					"title": "<i>Red Bull</i>",
 					"choices": [
 						{
-							"text": "“Red Bullet verleiht Flüüügel.”",
+							"text": "\u201cRed Bullet verleiht Flüüügel.\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Red Bull erfrischt dich.”",
+							"text": "\u201cRed Bull erfrischt dich.\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Red Bull verleiht Flüüügel.”",
+							"text": "\u201cRed Bull verleiht Flüüügel.\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Red Bull belebt Geist und Körper.”",
+							"text": "\u201cRed Bull belebt Geist und Körper.\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Red Bull verleiht Flügel.”",
+							"text": "\u201cRed Bull verleiht Flügel.\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Red Bull bringt dir Energie und Kraft.”",
+							"text": "\u201cRed Bull bringt dir Energie und Kraft.\u201d",
 							"isCorrect": false
 						}
 					]
@@ -3753,27 +3753,27 @@
 					"title": "<i>Ritter Sport</i>",
 					"choices": [
 						{
-							"text": "“Der große Genuß mit Naturenergie.”",
+							"text": "\u201cDer große Genuß mit Naturenergie.\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Die zarteste Versuchung, seit es Schokolade gibt.”",
+							"text": "\u201cDie zarteste Versuchung, seit es Schokolade gibt.\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Quadratisch. Theoretisch. Gut.”",
+							"text": "\u201cQuadratisch. Taktisch. Gut.\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Für die fröhlichen Leute von unterwegs.”",
+							"text": "\u201cFür die fröhlichen Leute von unterwegs.\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Knick. Knack. Auf Zack.”",
+							"text": "\u201cKnick. Knack. Auf Zack.\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Ihre Alpenmilchschokolade.”",
+							"text": "\u201cIhre Alpenmilchschokolade.\u201d",
 							"isCorrect": false
 						}
 					]
@@ -4261,7 +4261,7 @@
 					]
 				},
 				{
-					"title": "Bei der Schiffahrt",
+					"title": "Bei der Schifffahrt",
 					"choices": [
 						{
 							"text": "Gleisbauer",
@@ -4592,30 +4592,30 @@
 					]
 				},
 				{
-					"title": "Enthält ein Lied der “Neuen Deutschen Welle“",
+					"title": "Enthält ein Lied der \u201cNeuen Deutschen Welle\u201d",
 					"choices": [
 						{
-							"text": "“Major Tom“",
+							"text": "\u201cMajor Tom\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Bruttosozialprodukt“",
+							"text": "\u201cBruttosozialprodukt\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Ohne Dich (schlaf' ich heut Nacht nicht ein)“",
+							"text": "\u201cOhne Dich (schlaf\u2019 ich heut Nacht nicht ein)\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Sternenhimmel“",
+							"text": "\u201cSternenhimmel\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Eisbär“",
+							"text": "\u201cEisbär\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Mensch“",
+							"text": "\u201cMensch\u201d",
 							"isCorrect": false
 						}
 					]
@@ -4628,7 +4628,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Findet Nemo<i>",
+							"text": "<i>Findet Nemo</i>",
 							"isCorrect": false
 						},
 						{
@@ -5097,7 +5097,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Osteoporose",
+							"text": "Influencer",
 							"isCorrect": false
 						}
 					]
@@ -5341,7 +5341,7 @@
 					]
 				},
 				{
-					"title": "Formel-1-Strecken",
+					"title": "<i>Formel 1</i>-Strecken",
 					"choices": [
 						{
 							"text": "Pinehills-Rennbahn",
@@ -5859,7 +5859,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Alastor 'Mad-Eye' Moody",
+							"text": "Alastor \u2019Mad-Eye\u2019 Moody",
 							"isCorrect": true
 						},
 						{
@@ -5910,7 +5910,7 @@
 					]
 				},
 				{
-					"title": "Team von <i>Bob der Baumeister<\/i>",
+					"title": "Team von <i>Bob der Baumeister</i>",
 					"choices": [
 						{
 							"text": "Wendy",
@@ -6198,7 +6198,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "LANXESS arena",
+							"text": "<i>LANXESS</i> arena",
 							"isCorrect": true
 						},
 						{
@@ -6723,7 +6723,7 @@
 					]
 				},
 				{
-					"title": "....berührt China",
+					"title": "....grenzt an China",
 					"choices": [
 						{
 							"text": "Thailand",
@@ -7005,7 +7005,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Kellogg’s Cornflakes</i>",
+							"text": "<i>Kellogg\u2019s Cornflakes</i>",
 							"isCorrect": true
 						},
 						{
@@ -7040,7 +7040,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>It’s My Life</i> von Bon Jovi",
+							"text": "<i>It\u2019s My Life</i> von Bon Jovi",
 							"isCorrect": true
 						},
 						{
@@ -7321,7 +7321,7 @@
 					]
 				},
 				{
-					"title": "NATO-Alphabet",
+					"title": "Internationales Buchstabieralphabet",
 					"choices": [
 						{
 							"text": "Quebec",
@@ -7388,27 +7388,27 @@
 					"title": "Nordrhein-Westfalen",
 					"choices": [
 						{
-							"text": "'K''",
+							"text": "\u2019K\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'AC'",
+							"text": "\u2019AC\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'B'",
+							"text": "\u2019B\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'W'",
+							"text": "\u2019W\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'BO'",
+							"text": "\u2019BO\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'BN'",
+							"text": "\u2019BN\u2019",
 							"isCorrect": true
 						}
 					]
@@ -7417,27 +7417,27 @@
 					"title": "Hessen",
 					"choices": [
 						{
-							"text": "'RV'",
+							"text": "\u2019RV\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'GI'",
+							"text": "\u2019GI\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'DA'",
+							"text": "\u2019DA\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'MM'",
+							"text": "\u2019MM\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'GAP'",
+							"text": "\u2019GAP\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'F'",
+							"text": "\u2019F\u2019",
 							"isCorrect": true
 						}
 					]
@@ -7446,27 +7446,27 @@
 					"title": "Brandenburg",
 					"choices": [
 						{
-							"text": "'RN'",
+							"text": "\u2019RN\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'M'",
+							"text": "\u2019M\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'PM'",
+							"text": "\u2019PM\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'P'",
+							"text": "\u2019P\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'IN'",
+							"text": "\u2019IN\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'ZS'",
+							"text": "\u2019ZS\u2019",
 							"isCorrect": true
 						}
 					]
@@ -7475,27 +7475,27 @@
 					"title": "Niederösterreich",
 					"choices": [
 						{
-							"text": "'VO'",
+							"text": "\u2019VO\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'CC'",
+							"text": "\u2019CC\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'GD'",
+							"text": "\u2019GD\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'W'",
+							"text": "\u2019W\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'WB'",
+							"text": "\u2019WB\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'PL'",
+							"text": "\u2019PL\u2019",
 							"isCorrect": true
 						}
 					]
@@ -7533,27 +7533,27 @@
 					"title": "Schweiz",
 					"choices": [
 						{
-							"text": "'GL'",
+							"text": "\u2019GL\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'JU'",
+							"text": "\u2019JU\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'BER'",
+							"text": "\u2019BER\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'WUJ'",
+							"text": "\u2019WUJ\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'UR'",
+							"text": "\u2019UR\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'ZH'",
+							"text": "\u2019ZH\u2019",
 							"isCorrect": true
 						}
 					]
@@ -7568,27 +7568,27 @@
 					"title": "Wenn man jemanden trifft",
 					"choices": [
 						{
-							"text": "“Bonjour”",
+							"text": "\u201cBonjour\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Tere päevast”",
+							"text": "\u201cTere päevast\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Hula”",
+							"text": "\u201cHula\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Namaste”",
+							"text": "\u201cNamaste\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Bravo”",
+							"text": "\u201cBravo\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Ciao”",
+							"text": "\u201cCiao\u201d",
 							"isCorrect": true
 						}
 					]
@@ -7597,27 +7597,27 @@
 					"title": "Auf die Frage, ob man Englisch spricht",
 					"choices": [
 						{
-							"text": "“Oletko mummoni?”",
+							"text": "\u201cOletko mummoni?\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Taler du engelsk?”",
+							"text": "\u201cTaler du engelsk?\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Parlez-vous anglais?”",
+							"text": "\u201cParlez-vous anglais?\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Ar du min mormor”",
+							"text": "\u201cAr du min mormor\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Eres mi abuela?”",
+							"text": "\u201cEres mi abuela?\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Hablas ingles?”",
+							"text": "\u201cHablas ingles?\u201d",
 							"isCorrect": true
 						}
 					]
@@ -7626,27 +7626,27 @@
 					"title": "Wenn man nach einer Toilette fragt",
 					"choices": [
 						{
-							"text": "“Discotheque?”",
+							"text": "\u201cDiscotheque?\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Kamar mandi?”",
+							"text": "\u201cKamar mandi?\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Tualetes?”",
+							"text": "\u201cTualetes?\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Luau?”",
+							"text": "\u201cLuau?\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Bog?”",
+							"text": "\u201cBog?\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Tutu?”",
+							"text": "\u201cTutu?\u201d",
 							"isCorrect": false
 						}
 					]
@@ -7655,27 +7655,27 @@
 					"title": "Wenn man sich gerade in die Hose gekackt hat",
 					"choices": [
 						{
-							"text": "“Eres mi abuela?”",
+							"text": "\u201cEres mi abuela?\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Defeque mis pantalones”",
+							"text": "\u201cDefeque mis pantalones\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Mam odchody w spodniach”",
+							"text": "\u201cMam odchody w spodniach\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“J’ai fait caca dans mon froc”",
+							"text": "\u201cJ\u2019ai fait caca dans mon froc\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“lk gepoept mijn broek”",
+							"text": "\u201clk gepoept mijn broek\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Minun täytyy virtsata”",
+							"text": "\u201cMinun täytyy virtsata\u201d",
 							"isCorrect": false
 						}
 					]
@@ -7684,27 +7684,27 @@
 					"title": "Beim Entschuldigen",
 					"choices": [
 						{
-							"text": "“Mon Dieu”",
+							"text": "\u201cMon Dieu\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Lo siento”",
+							"text": "\u201cLo siento\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Gomen-nasai”",
+							"text": "\u201cGomen-nasai\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Desculpe”",
+							"text": "\u201cDesculpe\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Ik ben boos”",
+							"text": "\u201cIk ben boos\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Estoy enojado”",
+							"text": "\u201cEstoy enojado\u201d",
 							"isCorrect": false
 						}
 					]
@@ -7713,27 +7713,27 @@
 					"title": "Bei der Abreise",
 					"choices": [
 						{
-							"text": "“Arrivederci”",
+							"text": "\u201cArrivederci\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Adidas”",
+							"text": "\u201cAdidas\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Nasvidenje”",
+							"text": "\u201cNasvidenje\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Ciao”",
+							"text": "\u201cCiao\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Iki pasimatymo”",
+							"text": "\u201cIki pasimatymo\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Aloha”",
+							"text": "\u201cAloha\u201d",
 							"isCorrect": true
 						}
 					]
@@ -7922,7 +7922,7 @@
 		},
 		{
 			"id": "11444",
-			"title": "Füge einfach “Land” hinzu",
+			"title": "Füge einfach \u201cLand\u201d hinzu",
 			"prompts": [
 				{
 					"title": "Länder",
@@ -8073,27 +8073,27 @@
 					"title": "Songtitel",
 					"choices": [
 						{
-							"text": "“Zeit zum ______”",
+							"text": "\u201cZeit zum ______\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“______ in Sicht”",
+							"text": "\u201c______ in Sicht\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Dem ______ Tirol die Treue”",
+							"text": "\u201cDem ______ Tirol die Treue\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“______ unter”",
+							"text": "\u201c______ unter\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "“Zwischen ______ & ______”",
+							"text": "\u201cZwischen ______ & ______\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "“Wir sind das ______ im ______”",
+							"text": "\u201cWir sind das ______ im ______\u201d",
 							"isCorrect": false
 						}
 					]
@@ -8109,10 +8109,10 @@
 					"choices": [
 						{
 							"text": "-1",
-							"isCorrect": false
+							"isCorrect": true
 						},
 						{
-							"text": "7",
+							"text": "Quadratwurzel aus 2",
 							"isCorrect": false
 						},
 						{
@@ -8137,27 +8137,27 @@
 					"title": "Arabisches Ziffernsystem",
 					"choices": [
 						{
-							"text": "'X'",
+							"text": "\u2019X\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'0'",
+							"text": "\u20190\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'C'",
+							"text": "\u2019C\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'3'",
+							"text": "\u20193\u2019",
 							"isCorrect": true
 						},
 						{
-							"text": "'D'",
+							"text": "\u2019D\u2019",
 							"isCorrect": false
 						},
 						{
-							"text": "'9'",
+							"text": "\u20199\u2019",
 							"isCorrect": true
 						}
 					]
@@ -8240,8 +8240,8 @@
 							"isCorrect": true
 						},
 						{
-							"text": "67%",
-							"isCorrect": true
+							"text": "Omega",
+							"isCorrect": false
 						},
 						{
 							"text": "100i",
@@ -8250,7 +8250,7 @@
 					]
 				},
 				{
-					"title": "Zahlenbezeichner, der auf “-ion(en)” endet",
+					"title": "Zahlenbezeichner, der auf \u201c-ion(en)\u201d endet",
 					"choices": [
 						{
 							"text": "1 mit 6 Nullen",
@@ -8472,7 +8472,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Brontobyte",
+							"text": "Megabit",
 							"isCorrect": true
 						},
 						{
@@ -8480,7 +8480,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Yottabyte",
+							"text": "Kilobit",
 							"isCorrect": true
 						},
 						{
@@ -8488,8 +8488,8 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Zettabyte",
-							"isCorrect": true
+							"text": "Gigapond",
+							"isCorrect": false
 						}
 					]
 				},
@@ -8534,7 +8534,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Kaiser’s Tengelmann</i>",
+							"text": "<i>Kaiser\u2019s Tengelmann</i>",
 							"isCorrect": false
 						},
 						{
@@ -8575,8 +8575,8 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Mega-Pilz",
-							"isCorrect": true
+							"text": "Super-Banane",
+							"isCorrect": false
 						}
 					]
 				},
@@ -8588,7 +8588,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>You Don’t Know Jack: Full Mute</i>",
+							"text": "<i>You Don\u2019t Know Jack: Full Mute</i>",
 							"isCorrect": false
 						},
 						{
@@ -9070,7 +9070,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Julius No",
+							"text": "Julius No_____",
 							"isCorrect": false
 						},
 						{
@@ -9150,7 +9150,7 @@
 					]
 				},
 				{
-					"title": "Käpt'n",
+					"title": "Käpt\u2019n",
 					"choices": [
 						{
 							"text": "Iglo",
@@ -9320,7 +9320,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "David “Dave” Porter",
+							"text": "David \u201cDave\u201d Porter",
 							"isCorrect": true
 						},
 						{
@@ -9864,8 +9864,8 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Femtosekunde",
-							"isCorrect": true
+							"text": "Mikrowoche",
+							"isCorrect": false
 						}
 					]
 				},
@@ -10448,7 +10448,7 @@
 					"title": "Renaissance",
 					"choices": [
 						{
-							"text": "Niccolò Machiavelli",
+							"text": "Niccolo Machiavelli",
 							"isCorrect": true
 						},
 						{
@@ -10628,27 +10628,27 @@
 					"title": "20. Jahrhundert",
 					"choices": [
 						{
-							"text": "“E-Mail & [at]-Zeichen“ von Raymond Tamlinson",
+							"text": "\u201cE-Mail & [at]-Zeichen\u201d von Raymond Tamlinson",
 							"isCorrect": true
 						},
 						{
-							"text": "“Saxophon“ von Adolphe Sax",
+							"text": "\u201cSaxophon\u201d von Adolphe Sax",
 							"isCorrect": false
 						},
 						{
-							"text": "“Zauberwürfel“ von Erno Rubik",
+							"text": "\u201cZauberwürfel\u201d von Erno Rubik",
 							"isCorrect": true
 						},
 						{
-							"text": "“Laser“ von Theodore Maiman",
+							"text": "\u201cLaser\u201d von Theodore Maiman",
 							"isCorrect": true
 						},
 						{
-							"text": "“Viertakt-Motor“ von Christian Reithmann",
+							"text": "\u201cViertakt-Motor\u201d von Christian Reithmann",
 							"isCorrect": false
 						},
 						{
-							"text": "“Entschlüsselung der DNA-Struktur“ von Crick & Watson",
+							"text": "\u201cEntschlüsselung der DNA-Struktur\u201d von Crick & Watson",
 							"isCorrect": true
 						}
 					]
@@ -10657,27 +10657,27 @@
 					"title": "19. Jahrhundert",
 					"choices": [
 						{
-							"text": "“Teddybär“ von Richard Steiff",
+							"text": "\u201cTeddybär\u201d von Richard Steiff",
 							"isCorrect": false
 						},
 						{
-							"text": "“Elektromagnet“ von William Sturgeon",
+							"text": "\u201cElektromagnet\u201d von William Sturgeon",
 							"isCorrect": true
 						},
 						{
-							"text": "“Thermosflasche“ von Reinhold Burger",
+							"text": "\u201cThermosflasche\u201d von Reinhold Burger",
 							"isCorrect": false
 						},
 						{
-							"text": "“Dynamo“ von Sören Hjorth",
+							"text": "\u201cDynamo\u201d von Sören Hjorth",
 							"isCorrect": true
 						},
 						{
-							"text": "“Moderner Kühlschrank“ von Alexander Twinning",
+							"text": "\u201cModerner Kühlschrank\u201d von Alexander Twinning",
 							"isCorrect": true
 						},
 						{
-							"text": "“Radar“ von Christian Hülsmeyer",
+							"text": "\u201cRadar\u201d von Christian Hülsmeyer",
 							"isCorrect": false
 						}
 					]
@@ -10686,27 +10686,27 @@
 					"title": "18. Jahrhundert",
 					"choices": [
 						{
-							"text": "“Batterie“ von Alessandro Volta",
+							"text": "\u201cBatterie\u201d von Alessandro Volta",
 							"isCorrect": true
 						},
 						{
-							"text": "“Dampf-Lokomotive“ von Richard Trevithick",
+							"text": "\u201cDampf-Lokomotive\u201d von Richard Trevithick",
 							"isCorrect": false
 						},
 						{
-							"text": "“Konservendose“ von Nicolas Appert",
+							"text": "\u201cKonservendose\u201d von Nicolas Appert",
 							"isCorrect": false
 						},
 						{
-							"text": "“Ventilator“ von Stephen Hales",
+							"text": "\u201cVentilator\u201d von Stephen Hales",
 							"isCorrect": true
 						},
 						{
-							"text": "“Feuerzeug“ von Johann Wolfgang Döbereiner",
+							"text": "\u201cFeuerzeug\u201d von Johann Wolfgang Döbereiner",
 							"isCorrect": false
 						},
 						{
-							"text": "“Heißluftballon“ von den Gebrüder Montgolfier",
+							"text": "\u201cHeißluftballon\u201d von den Gebrüder Montgolfier",
 							"isCorrect": true
 						}
 					]
@@ -10715,27 +10715,27 @@
 					"title": "17. Jahrhundert",
 					"choices": [
 						{
-							"text": "“Blitzableiter“ von Benjamin Franklin",
+							"text": "\u201cBlitzableiter\u201d von Benjamin Franklin",
 							"isCorrect": false
 						},
 						{
-							"text": "“U-Boot“ von Cornelius Drebbel",
+							"text": "\u201cU-Boot\u201d von Cornelius Drebbel",
 							"isCorrect": true
 						},
 						{
-							"text": "“Quecksilber-Barometer“ von Evangelista Torricelli",
+							"text": "\u201cQuecksilber-Barometer\u201d von Evangelista Torricelli",
 							"isCorrect": true
 						},
 						{
-							"text": "“Rollstuhl“ von Stephan Farftler",
+							"text": "\u201cRollstuhl\u201d von Stephan Farftler",
 							"isCorrect": true
 						},
 						{
-							"text": "“Champagner“ von Mönch Dom Pérignon",
+							"text": "\u201cChampagner\u201d von Mönch Dom Pérignon",
 							"isCorrect": true
 						},
 						{
-							"text": "“Binärsystem“ von Gottfried Wilhelm von Leibniz",
+							"text": "\u201cBinärsystem\u201d von Gottfried Wilhelm von Leibniz",
 							"isCorrect": true
 						}
 					]
@@ -10744,27 +10744,27 @@
 					"title": "16. Jahrhundert",
 					"choices": [
 						{
-							"text": "“Rechenmaschine“ von Wilhelm Schickard",
+							"text": "\u201cRechenmaschine\u201d von Wilhelm Schickard",
 							"isCorrect": false
 						},
 						{
-							"text": "“Thermometer“ von Galileo Galilei",
+							"text": "\u201cThermometer\u201d von Galileo Galilei",
 							"isCorrect": true
 						},
 						{
-							"text": "“Taschenuhr“ von Peter Henlein",
+							"text": "\u201cTaschenuhr\u201d von Peter Henlein",
 							"isCorrect": true
 						},
 						{
-							"text": "“Luftpumpe“ von Otto von Guericke",
+							"text": "\u201cLuftpumpe\u201d von Otto von Guericke",
 							"isCorrect": false
 						},
 						{
-							"text": "“Toilette mit Wasserspülung“ von John Harington",
+							"text": "\u201cToilette mit Wasserspülung\u201d von John Harington",
 							"isCorrect": true
 						},
 						{
-							"text": "“Klavier“ von Bartolomeo Cristofori",
+							"text": "\u201cKlavier\u201d von Bartolomeo Cristofori",
 							"isCorrect": false
 						}
 					]
@@ -10773,27 +10773,27 @@
 					"title": "15. Jahrhundert",
 					"choices": [
 						{
-							"text": "“Dosenöffner“ von Robert Yeates",
+							"text": "\u201cDosenöffner\u201d von Robert Yeates",
 							"isCorrect": false
 						},
 						{
-							"text": "“Buchdruck“ von Johannes Gutenberg",
+							"text": "\u201cBuchdruck\u201d von Johannes Gutenberg",
 							"isCorrect": true
 						},
 						{
-							"text": "“Baby(fertig)-Nahrung“ von Justus von Liebig",
+							"text": "\u201cBaby(fertig)-Nahrung\u201d von Justus von Liebig",
 							"isCorrect": false
 						},
 						{
-							"text": "“Fallschirm“ von Leonardo da Vinci",
+							"text": "\u201cFallschirm\u201d von Leonardo da Vinci",
 							"isCorrect": true
 						},
 						{
-							"text": "“Dynamit“ von Alfred Nobel",
+							"text": "\u201cDynamit\u201d von Alfred Nobel",
 							"isCorrect": false
 						},
 						{
-							"text": "“Globus“ von Martin Behaim",
+							"text": "\u201cGlobus\u201d von Martin Behaim",
 							"isCorrect": true
 						}
 					]
@@ -10863,7 +10863,7 @@
 					]
 				},
 				{
-					"title": "Berufe mit Schichtarbeit",
+					"title": "Berufe in Schichtarbeit",
 					"choices": [
 						{
 							"text": "Justizvollzugsbeamter",
