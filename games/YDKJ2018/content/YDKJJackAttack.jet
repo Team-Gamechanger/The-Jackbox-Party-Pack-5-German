@@ -8732,7 +8732,7 @@
 					]
 				},
 				{
-					"title": "Weniger als die Weltbevölkerung",
+					"title": "Alter des Universums in Jahren",
 					"choices": [
 						{
 							"text": "Zellen im menschlichen Körper",
@@ -8747,11 +8747,11 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Verkaufszahlen von <i>Minecraft</i>",
+							"text": "Verkaufszahlen von <i>Minecraft</i> bis 2023",
 							"isCorrect": true
 						},
 						{
-							"text": "Kaufpreis von <i>Twitter</i> für Elon Musk",
+							"text": "Baukosten des Flughafens <i>BER</i>",
 							"isCorrect": false
 						},
 						{
