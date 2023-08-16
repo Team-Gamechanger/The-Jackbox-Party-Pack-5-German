@@ -3012,6 +3012,38 @@
             ]
         },
         {
+            "id": "10088",
+            "category": {
+                "text": "LAUFT UM EUER LEBEN!"
+            },
+            "choices": [
+                {
+                    "text": "\u201cMoment! Ein echter DINOSAURIER?!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cWas?! Eine riesige RAUPE?!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cOh nein! Eine kolossale LIBELLE?!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cWow! Ein massiver PINGUIN?!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "VORSICHT! Da ist ein gigantischer CALOPTERYX direkt hinter Ihnen!"
+                }
+            ]
+        },
+        {
             "id": "10089",
             "category": {
                 "text": "Da fehlen ein paar Steine in meinem Set"
@@ -6858,6 +6890,38 @@
             ]
         },
         {
+            "id": "10206",
+            "category": {
+                "text": "Der Diva-Duellant"
+            },
+            "choices": [
+                {
+                    "text": "Ihr Smartphone",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Bundesrichter",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Tennisspieler",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Küchenchef",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher dieser Widersacher würde Sie in einem geistigen Wettstreit am ehesten beschuldigen, ein \u201cillegales Argument\u201d verwendet zu haben?"
+                }
+            ]
+        },
+        {
             "id": "10207",
             "category": {
                 "text": "Butter bei die Fische"
@@ -7122,6 +7186,38 @@
                 {
                     "timing": "S + 0.00",
                     "text": "Für welches Gericht wird Eratosthenes sein Sieb benötigen?"
+                }
+            ]
+        },
+        {
+            "id": "10215",
+            "category": {
+                "text": "Alt trifft jung"
+            },
+            "choices": [
+                {
+                    "text": "Alice <i>XING<\/i> Chains",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Reddit<\/i>nex",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>LinkedIn<\/i> Park",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Modern <i>TikTok<\/i>ing",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche dieser Fusionen zwischen sozialen Medien und Musikbands verbindet die älteste Band mit der neuesten Social-Media-Plattform?"
                 }
             ]
         },
@@ -7822,6 +7918,266 @@
                 {
                     "timing": "S + 0.00",
                     "text": "Wenn Sie einen \u201cAnimisten\u201d heiraten, was könnte er nach der Trauung vermutlich sagen?"
+                }
+            ]
+        },
+        {
+            "id": "10238",
+            "category": {
+                "text": "Ab Urin den Urlaub"
+            },
+            "choices": [
+                {
+                    "text": "Eine 500ml-Dose <i>Red Bull<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine 1-Liter-Flasche <i>Asbach Uralt<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine 2-Liter-Flasche <i>Mezzo Mix<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine 3-Liter-Flasche <i>Jack Daniels<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bedenkt man, wie viel Urin ein durchschnittlicher Erwachsener pro Tag produziert, welches Behältnis würde GERADE GENUG Volumen für die Dauer Ihres 24-Stunden-Fluges fassen?"
+                }
+            ]
+        },
+        {
+            "id": "10239",
+            "category": {
+                "text": "Ein kleiner Schritt für einen Mensch, ein großer Sprung in der Schüssel"
+            },
+            "choices": [
+                {
+                    "text": "Neil Armstrong rät richtigerweise Kopf statt Zahl",
+                    "isCorrect": true
+                },
+                {
+                    "text": "John Glenn brüllt laut \u201cIch bin der Älteste!\u201c",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Buzz Aldrin schlägt Schere mit Stein",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Michael Collins singt \u201cEne mene muh\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn die Astronauten im <i>Apollo-11<\/i>-Modul ähnlich darüber entschieden hätten, wer den ersten Schritt auf dem Mond machen darf, wie die Wright-Brüder darüber entschieden haben, wer ihr Flugzeug zuerst fliegen darf, was hätte geschehen können?"
+                }
+            ]
+        },
+        {
+            "id": "10240",
+            "category": {
+                "text": "Wo Hochkultur und Popkultur aufeinanderprallen"
+            },
+            "choices": [
+                {
+                    "text": "Einen Trojaner",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Paris",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Homer",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine Marge",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was haben die <i>Ilias<\/i>, <i>Die Simpsons<\/i> und Baseball gemeinsam?"
+                }
+            ]
+        },
+        {
+            "id": "10241",
+            "category": {
+                "text": "Doppelläufige Schokoladenriegel"
+            },
+            "choices": [
+                {
+                    "text": "Ein Eichhörnchen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Biber",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Hamster",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Hasen",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn ich nur die Hälfte meines <i>KitKat<\/i>-Riegels esse und die andere Hälfte für den Winter lagere, welches dieser Tiere hätte ich damit NICHT nachgeahmt?"
+                }
+            ]
+        },
+        {
+            "id": "10242",
+            "category": {
+                "text": "Bleifrei für eine gesunde Verdauung"
+            },
+            "choices": [
+                {
+                    "text": "Dortmund bis Aschaffenburg",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Göttingen bis Leipzig",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mainz bis Kaiserslautern",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Osnabrück bis Kassel",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Verdauungstrakt : Mund bis After ::"
+                },
+                {
+                    "timing": "S + 3.06",
+                    "text": "A45 : ?"
+                }
+            ]
+        },
+        {
+            "id": "10243",
+            "category": {
+                "text": "Das alte Griechenland & ganz komische Lehrpläne"
+            },
+            "choices": [
+                {
+                    "text": "In der großen Pause MEDITIEREN",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Von LÖWEN von Klassenzimmer zu Klassenzimmer gejagt werden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Schule völlig NACKT besuchen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sich täglich in der Cafeteria ÜBERGEBEN",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bedenkt man den Ursprung des Wortes \u201cGymnasium\u201d, was müssten die darin eingeschriebenen Schüler, streng genommen, tun?"
+                }
+            ]
+        },
+        {
+            "id": "10244",
+            "category": {
+                "text": "Feiern wie die Tiere"
+            },
+            "choices": [
+                {
+                    "text": "Kleiner Onkel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Brian Griffin",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Flipper",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Tweety das Küken",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn man diese Wahrheit bedenkt, welcher dieser Charaktere würde NIE wissen, wann er mit dem Trinken aufhören sollte?"
+                }
+            ]
+        },
+        {
+            "id": "10245",
+            "category": {
+                "text": "Schlecht Ding will Ende haben"
+            },
+            "choices": [
+                {
+                    "text": "Sonntag",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Montag",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Dienstag",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mittwoch",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wann endete der erste Weltkrieg?"
                 }
             ]
         }
