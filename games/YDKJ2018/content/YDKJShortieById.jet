@@ -76,7 +76,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welches dieser Bandmitglieder ist aufgrund des Bandnamens vermutlich der leiseste?"
+                    "text": "Welches dieser Bandmitglieder ist aufgrund des Bandnamens vermutlich am leisesten?"
                 }
             ]
         },
@@ -87,19 +87,19 @@
             },
             "choices": [
                 {
-                    "text": "Es gibt über hundert Gelenke in den Füßen.",
+                    "text": "Es gibt über hundert Gelenke in den Füßen",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ihr stärkster Muskel befindet sich in der Ferse.",
+                    "text": "Ihr stärkster Muskel befindet sich in der Ferse",
                     "isCorrect": false
                 },
                 {
-                    "text": "Ihre Füße machen ein Viertel Ihrer Knochen aus.",
+                    "text": "Ihre Füße machen ein Viertel Ihrer Knochen aus",
                     "isCorrect": true
                 },
                 {
-                    "text": "Ihre Zehennägel sind härter als Eisen.",
+                    "text": "Ihre Zehennägel sind härter als Eisen",
                     "isCorrect": false
                 }
             ],
@@ -119,19 +119,19 @@
             },
             "choices": [
                 {
-                    "text": "um 90 Grad drehen",
+                    "text": "...um 90 Grad drehen",
                     "isCorrect": false
                 },
                 {
-                    "text": "um 180 Grad drehen",
+                    "text": "...um 180 Grad drehen",
                     "isCorrect": true
                 },
                 {
-                    "text": "um 270 Grad drehen",
+                    "text": "...um 270 Grad drehen",
                     "isCorrect": false
                 },
                 {
-                    "text": "um 360 Grad drehen",
+                    "text": "...um 360 Grad drehen",
                     "isCorrect": false
                 }
             ],
@@ -140,7 +140,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Sie in Militärsprache ihr Gesicht \u201ckehren\u201d sollen, würden Sie es..."
+                    "text": "Wenn Sie in Militärsprache Ihr Gesicht \u201ckehren\u201d sollen, würden Sie es..."
                 }
             ]
         },
@@ -169,7 +169,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -220,19 +220,19 @@
             },
             "choices": [
                 {
-                    "text": "I bekom a Tritt in da Gloches u musst in a Kiral",
-                    "isCorrect": false
-                },
-                {
-                    "text": "I bekom a Tritt in da Toches u musst in a Spital",
+                    "text": "\u201cI hob an Tritt kriegt in de Haxn und hob miassn ins Spital!\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "I bekom a Tritt in da Doches u musst in a Kamal",
+                    "text": "\u201cI hob an Tritt kriegt in den Buxn und hob miassn in Kanal!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "I bekom a Tritt in da Moches u musst in a Biral",
+                    "text": "\u201cI hob an Tritt kriegt in de Kraxn und hob miassn ins Biral!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cI hob an Tritt kriegt in de Schlaxn und hob miassn ins Urinal!\u201d",
                     "isCorrect": false
                 }
             ],
@@ -252,7 +252,7 @@
         {
             "id": "10710",
             "category": {
-                "text": "Eine Frage, bei der sich die Antwort auf Topf reimt"
+                "text": "Eine Frage, bei der sich die Antwort auf \u201cTopf\u201d reimt"
             },
             "choices": [
                 {
@@ -296,11 +296,11 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cMoin, ich würd\u2019 gern ein Reisbier haben\u201d",
+                    "text": "\u201cMoin, ich würd\u2019 gern ein Reisbier haben.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cServus, für mich bitte ein Aperol Spritz\u201d",
+                    "text": "\u201cServus, für mich bitte ein <i>Aperol<\/i> Spritz.\u201d",
                     "isCorrect": false
                 }
             ],
@@ -345,7 +345,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Sehr geehrte Damen und Herren,"
+                    "text": "Sehr geehrte Damen und Herren,<br>"
                 },
                 {
                     "timing": "S + 2.00",
@@ -368,19 +368,19 @@
             },
             "choices": [
                 {
-                    "text": "ein Delorean, der mich in 1 Millisekunde trifft",
+                    "text": "Ein <i>Delorean<\/i>, der mich in 1 Millisekunde trifft",
                     "isCorrect": false
                 },
                 {
-                    "text": "eine Telefonzelle, die in 1 Nanosekunde auf mir landet",
+                    "text": "Eine Telefonzelle, die in 1 Nanosekunde auf mir landet",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein Polizeiauto, das mich in 1 Mikrosekunde zerquetscht",
+                    "text": "Ein Polizeiauto, das mich in 1 Mikrosekunde zerquetscht",
                     "isCorrect": false
                 },
                 {
-                    "text": "ein nackter Roboter, der mich in 1 Pikosekunde eliminiert",
+                    "text": "Ein nackter Roboter, der mich in 1 Pikosekunde eliminiert",
                     "isCorrect": true
                 }
             ],
@@ -468,19 +468,19 @@
             },
             "choices": [
                 {
-                    "text": "Enzyme, Alter",
+                    "text": "\u201cEnzyme, Alter\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Lymphknoten, Alter",
+                    "text": "\u201cLymphknoten, Alter\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Neuronen, Alter",
+                    "text": "\u201cNeuronen, Alter\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "Plasma, Alter",
+                    "text": "\u201cPlasma, Alter\u201d",
                     "isCorrect": false
                 }
             ],
@@ -504,7 +504,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Neuronen irgendwie irgendwas Elektrizität",
+                    "text": "Neuronen irgendwas irgendwas Elektrizität",
                     "isCorrect": true
                 },
                 {
@@ -532,19 +532,19 @@
             },
             "choices": [
                 {
-                    "text": "Der glückliche Sohn",
+                    "text": "<i>Der glückliche Sohn<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Die phantastische Juliane",
+                    "text": "<i>Die phantastische Juliane<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Der starke Ferdinand",
+                    "text": "<i>Der starke Ferdinand<\/i>",
                     "isCorrect": true
                 },
                 {
-                    "text": "Die magische Tanja",
+                    "text": "<i>Die magische Tanja<\/i>",
                     "isCorrect": false
                 }
             ],
@@ -618,7 +618,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Von welchem Planeten stammen die Transformers?"
+                    "text": "Von welchem Planeten stammen die <i>Transformers<\/i>?"
                 }
             ]
         },
@@ -710,7 +710,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -806,7 +806,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -853,19 +853,19 @@
             },
             "choices": [
                 {
-                    "text": "Gymnosperme.",
+                    "text": "...Gymnosperme.\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "Angiosperme.",
+                    "text": "...Angiosperme.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Endosperme.",
+                    "text": "...Endosperme.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Pteridosperme.",
+                    "text": "...Pteridosperme.\u201d",
                     "isCorrect": false
                 }
             ],
@@ -874,7 +874,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Meine Freundin ging gestern Abend mit einer Pflanze aus, die sich durch freiliegende Samen vermehrt, und ich sagte nur: \u201cDas klingt ja so, als wäre sie eine echte...\u201d"
+                    "text": "Meine Freundin ging gestern Abend mit einer Pflanze aus, die sich durch freiliegende Samen vermehrt, und ich sagte nur: \u201cDas klingt ja so, als wäre sie eine echte..."
                 }
             ]
         },
@@ -1135,7 +1135,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen ich wäre ein Regio glutealis, wie könnten Sie mich dann fachlich korrekt nennen?"
+                    "text": "Angenommen ich wäre ein Regio Glutealis, wie könnten Sie mich dann fachlich korrekt nennen?"
                 }
             ]
         },
@@ -1178,19 +1178,19 @@
             },
             "choices": [
                 {
-                    "text": "...rheumatisch.",
+                    "text": "...rheumatisch.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "...pneumatisch.",
+                    "text": "...pneumatisch.\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "...achromatisch.",
+                    "text": "...achromatisch.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "...phlegmatisch.",
+                    "text": "...phlegmatisch.\u201d",
                     "isCorrect": false
                 }
             ],
@@ -1203,7 +1203,7 @@
                 },
                 {
                     "timing": "S + 3.29",
-                    "text": "Ich liebe sie, denn sie sind...\u201c"
+                    "text": "Ich liebe sie, denn sie sind..."
                 }
             ]
         },
@@ -1360,7 +1360,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",

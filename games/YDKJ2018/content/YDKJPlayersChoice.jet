@@ -76,11 +76,11 @@
             },
             "id": "11605",
             "choice1": {
-                "text": "eine Frage, bei der sich die Antwort auf Topf reimt",
+                "text": "eine Frage, bei der sich die Antwort auf \u201cTopf\u201d reimt",
                 "id": "10710"
             },
             "choice2": {
-                "text": "eine Frage, bei der sich die Antwort auf Moral reimt",
+                "text": "eine Frage, bei der sich die Antwort auf \u201cMoral\u201d reimt",
                 "id": "10711"
             }
         },
