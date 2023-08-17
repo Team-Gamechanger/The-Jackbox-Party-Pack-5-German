@@ -2246,7 +2246,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "MKV",
+							"text": "<i>ARD<\/i>",
 							"isCorrect": false
 						}
 					]
@@ -2281,7 +2281,7 @@
 					]
 				},
 				{
-					"title": "Komprimierungsformate",
+					"title": "Komprimierungs-Formate",
 					"choices": [
 						{
 							"text": "PDF",
@@ -5341,7 +5341,7 @@
 					]
 				},
 				{
-					"title": "<i>Formel 1</i>-Strecken",
+					"title": "<i>Formel-1</i>-Strecken",
 					"choices": [
 						{
 							"text": "Pinehills-Rennbahn",
@@ -10628,7 +10628,7 @@
 					"title": "20. Jahrhundert",
 					"choices": [
 						{
-							"text": "\u201cE-Mail & [at]-Zeichen\u201d von Raymond Tamlinson",
+							"text": "\u201cE-Mail & \u0040-Zeichen\u201d von Raymond Tamlinson",
 							"isCorrect": true
 						},
 						{

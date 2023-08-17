@@ -3,36 +3,36 @@
         {
             "questions": [
                 {
-                    "text": "Sensilind",
+                    "text": "<i>Sensilind<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Lage der Nation",
+                    "text": "<i>Lage der Nation<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Feelings",
+                    "text": "<i>Feelings<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Strampelpeter",
+                    "text": "<i>Strampelpeter<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Betreutes Fühlen",
+                    "text": "<i>Betreutes Fühlen<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Bella Maxi",
+                    "text": "<i>Bella Maxi<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Kottbruder",
+                    "text": "<i>Kottbruder<\/i>",
                     "correctChoiceString": "dis"
                 }
             ],
             "disChoice": {
-                "longText": "Ein beliebter Podcast in den Apple Podcast-Charts",
+                "longText": "Ein beliebter Podcast in den <i>Apple<\/i>-Podcast-Charts",
                 "shortText": "EIN PODCAST"
             },
             "datChoice": {
@@ -41,42 +41,42 @@
             },
             "id": "11080",
             "category": {
-                "text": "Toilette, Die Woche und Ich"
+                "text": "Toilette! Die Woche und ich"
             }
         },
         {
             "questions": [
                 {
-                    "text": "Es kommt noch besser",
+                    "text": "<i>Es kommt noch besser<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Ausrasten für Anfänger",
+                    "text": "<i>Ausrasten für Anfänger<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Reiz der Schweiz",
+                    "text": "<i>Reiz der Schweiz<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Mich hat keiner gefragt",
+                    "text": "<i>Mich hat keiner gefragt<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Planet Deutschland",
+                    "text": "<i>Planet Deutschland<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Fluch der Familie",
+                    "text": "<i>Fluch der Familie<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Einer für alle, alles im Eimer",
+                    "text": "<i>Einer für alle, alles im Eimer<\/i>",
                     "correctChoiceString": "dis"
                 }
             ],
             "disChoice": {
-                "longText": "Ein ZDF-Fernsehfilm",
+                "longText": "Ein <i>ZDF<\/i>-Fernsehfilm",
                 "shortText": "ZDF"
             },
             "datChoice": {

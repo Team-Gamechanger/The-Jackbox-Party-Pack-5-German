@@ -135,41 +135,41 @@
         {
             "questions": [
                 {
-                    "text": "Okey Dokey",
+                    "text": "\u201cOkey Dokey\u201d",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Ha Ha Ha!  Bye Bye!",
+                    "text": "\u201cHa Ha Ha!  Bye Bye!\u201d",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "I Do, I Do, I Do, I Do, I Do",
+                    "text": "\u201cI Do, I Do, I Do, I Do, I Do\u201d",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Bang-A-Boomerang",
+                    "text": "\u201cBang-A-Boomerang\u201d",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Let\u2019s-A-Go",
+                    "text": "\u201cLet\u2019s-A-Go\u201d",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Mamma Mia",
+                    "text": "\u201cMamma Mia\u201d",
                     "correctChoiceString": "both"
                 },
                 {
-                    "text": "It\u2019s-A-Me, Mario",
+                    "text": "\u201cIt\u2019s-A-Me, Mario\u201d",
                     "correctChoiceString": "dat"
                 }
             ],
             "disChoice": {
-                "longText": "Ein Lied der schwedischen Popgruppe ABBA",
+                "longText": "Ein Lied der schwedischen Popgruppe <i>ABBA<\/i>",
                 "shortText": "ABBA"
             },
             "datChoice": {
                 "longText": "Etwas, das Mario in einem Videospiel sagt",
-                "shortText": "Super Mario"
+                "shortText": "SUPER MARIO"
             },
             "id": "11003",
             "category": {
@@ -209,11 +209,11 @@
             ],
             "disChoice": {
                 "longText": "Versmaß",
-                "shortText": "Versmaß"
+                "shortText": "VERSMAß"
             },
             "datChoice": {
                 "longText": "Biblische Figur",
-                "shortText": "Bibel"
+                "shortText": "BIBEL"
             },
             "id": "11004",
             "category": {
@@ -340,7 +340,7 @@
                 }
             ],
             "disChoice": {
-                "longText": "Ein Pokémon",
+                "longText": "Ein <i>Pokémon<\/i>",
                 "shortText": "POKÉMON"
             },
             "datChoice": {
@@ -349,7 +349,7 @@
             },
             "id": "11007",
             "category": {
-                "text": "Komm und schnapp sie dir nicht!"
+                "text": "Komm, schnapp sie dir nicht!"
             }
         },
         {
@@ -393,7 +393,7 @@
             },
             "id": "11008",
             "category": {
-                "text": "Der Bursche, Der G"
+                "text": "Der Bursche, der G"
             }
         },
         {
@@ -516,11 +516,11 @@
                 }
             ],
             "disChoice": {
-                "longText": "Eine Geschmacksrichtung von Fanta auf dem deutschen Markt",
+                "longText": "Eine Geschmacksrichtung von <i>Fanta<\/i> auf dem deutschen Markt",
                 "shortText": "FANTA"
             },
             "datChoice": {
-                "longText": "Eine Frucht im originalen Pacman Spiel",
+                "longText": "Eine Frucht im originalen <i>Pacman<\/i>-Spiel",
                 "shortText": "PACMAN"
             },
             "id": "11011",
@@ -564,7 +564,7 @@
                 "shortText": "SCHWARZWALDKLINIK"
             },
             "datChoice": {
-                "longText": "Ein alter Film für Fahrschulen",
+                "longText": "Ein alter Lehrfilm für Fahrschulen",
                 "shortText": "FAHRSCHULE"
             },
             "id": "11012",
@@ -649,11 +649,11 @@
             ],
             "disChoice": {
                 "longText": "Ein Song von Beyoncé",
-                "shortText": "Beyoncé"
+                "shortText": "BEYONCÉ"
             },
             "datChoice": {
                 "longText": "Ein Videospiel",
-                "shortText": "Videospiel"
+                "shortText": "VIDEOSPIEL"
             },
             "id": "11014",
             "category": {
@@ -707,31 +707,31 @@
         {
             "questions": [
                 {
-                    "text": "Groß denken",
+                    "text": "\u201cGroß denken\u201d",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Informationen sammeln",
+                    "text": "\u201cInformationen sammeln\u201d",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Sich auf das Schlimmste vorbereiten",
+                    "text": "\u201cSich auf das Schlimmste vorbereiten\u201d",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Druckmittel einsetzen",
+                    "text": "\u201cDruckmittel einsetzen\u201d",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Den persönlichen Weg finden",
+                    "text": "\u201cDen persönlichen Weg finden\u201d",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Offen reden",
+                    "text": "\u201cOffen reden\u201d",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Spaß haben",
+                    "text": "\u201cSpaß haben\u201d",
                     "correctChoiceString": "dis"
                 }
             ],
@@ -784,7 +784,7 @@
                 "shortText": "KRYPTOWÄHRUNG"
             },
             "datChoice": {
-                "longText": "Eine Achterbahn im Phantasialand",
+                "longText": "Eine Achterbahn im <i>Phantasialand<\/i>",
                 "shortText": "ACHTERBAHN"
             },
             "id": "11017",
@@ -825,7 +825,7 @@
             ],
             "disChoice": {
                 "longText": "Ein Fußballbegriff",
-                "shortText": "FUSSBALL"
+                "shortText": "FUßBALL"
             },
             "datChoice": {
                 "longText": "Eine Bildkalibrierungseinstellung auf meinem Fernseher",
@@ -931,7 +931,7 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Mona Lisa",
+                    "text": "<i>Mona Lisa<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -1059,7 +1059,7 @@
         {
             "questions": [
                 {
-                    "text": "Begrüssung des Sturms",
+                    "text": "Begrüßung des Sturms",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -1092,8 +1092,8 @@
                 "shortText": "BUCH VON NUHR"
             },
             "datChoice": {
-                "longText": "Ein Fortnite-Tanz",
-                "shortText": "FORTNITE TANZ"
+                "longText": "Ein <i>Fortnite<\/i>-Tanz",
+                "shortText": "FORTNITE-TANZ"
             },
             "id": "11024",
             "category": {
@@ -1136,7 +1136,7 @@
                 "shortText": "KARTOFFEL"
             },
             "datChoice": {
-                "longText": "Vorname einer Tagesschausprecherin",
+                "longText": "Vorname einer <i>Tagesschau<\/i>-Sprecherin",
                 "shortText": "TAGESSCHAU"
             },
             "id": "11025",
@@ -1147,31 +1147,31 @@
         {
             "questions": [
                 {
-                    "text": "Hakle",
+                    "text": "<i>Hakle<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Nestle",
+                    "text": "<i>Nestlé<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Kölln",
+                    "text": "<i>Kölln<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Alouette",
+                    "text": "<i>Alouette<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Tempo",
+                    "text": "<i>Tempo<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Davert",
+                    "text": "<i>Davert<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Vella",
+                    "text": "<i>Vella<\/i>",
                     "correctChoiceString": "dat"
                 }
             ],
@@ -1499,11 +1499,11 @@
         {
             "questions": [
                 {
-                    "text": "Monopoly",
+                    "text": "<i>Monopoly<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Kniffel",
+                    "text": "<i>Kniffel<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
@@ -1511,7 +1511,7 @@
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Uno",
+                    "text": "<i>Uno<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
@@ -1519,11 +1519,11 @@
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Rummikub",
+                    "text": "<i>Rummikub<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "YOU DON\u2019T KNOW JACK",
+                    "text": "<i>YOU DON\u2019T KNOW JACK<\/i>",
                     "correctChoiceString": "dat"
                 }
             ],
@@ -1752,7 +1752,7 @@
                 "shortText": "OHR"
             },
             "datChoice": {
-                "longText": "Ein Musikinstrument, welches von der Blue Man Group benutzt wurde",
+                "longText": "Ein Musikinstrument, welches von der <i>Blue Man Group<\/i> benutzt wurde",
                 "shortText": "BLUE MAN GROUP"
             },
             "id": "11039",
@@ -1939,31 +1939,31 @@
         {
             "questions": [
                 {
-                    "text": "Emoji - Der Film",
+                    "text": "<i>Emoji - Der Film<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Fantastic Movie",
+                    "text": "<i>Fantastic Movie<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Slenderman",
+                    "text": "<i>Slenderman<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Ziemlich beste Freunde",
+                    "text": "<i>Ziemlich beste Freunde<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Whiplash",
+                    "text": "<i>Whiplash<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "House of the Dead",
+                    "text": "<i>House of the Dead<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Die Pute von Panem",
+                    "text": "<i>Die Pute von Panem<\/i>",
                     "correctChoiceString": "dat"
                 }
             ],
@@ -2016,7 +2016,7 @@
                 "shortText": "PFERDERASSE"
             },
             "datChoice": {
-                "longText": "Eine bei Windows vorinstallierte Schriftart",
+                "longText": "Eine bei <i>Windows<\/i> vorinstallierte Schriftart",
                 "shortText": "SCHRIFTART"
             },
             "id": "11045",
@@ -2027,31 +2027,31 @@
         {
             "questions": [
                 {
-                    "text": "In der Strafkolonie",
+                    "text": "<i>In der Strafkolonie<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Die Verwandlung",
+                    "text": "<i>Die Verwandlung<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Um Haus und Hof",
+                    "text": "<i>Um Haus und Hof<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Großer Lärm",
+                    "text": "<i>Großer Lärm<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Feuerwerk für eine Leiche",
+                    "text": "<i>Feuerwerk für eine Leiche<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Nicht jugendfrei",
+                    "text": "<i>Nicht jugendfrei<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Der tiefe Schlaf",
+                    "text": "<i>Der tiefe Schlaf<\/i>",
                     "correctChoiceString": "dat"
                 }
             ],
@@ -2060,7 +2060,7 @@
                 "shortText": "KAFKA"
             },
             "datChoice": {
-                "longText": "Eine Folge des Tatorts",
+                "longText": "Eine Folge des <i>Tatorts<\/i>",
                 "shortText": "TATORT"
             },
             "id": "11046",
@@ -2104,7 +2104,7 @@
                 "shortText": "SUBWAY TO SALLY"
             },
             "datChoice": {
-                "longText": "Der Name einer Yu-Gi-Oh-Kindersammelkarte",
+                "longText": "Der Name einer <i>Yu-Gi-Oh<\/i>-Kindersammelkarte",
                 "shortText": "YU-GI-OH"
             },
             "id": "11047",

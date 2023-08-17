@@ -225,7 +225,7 @@
                     "text": "...über eine Gruppe Schüler, die für ein Theaterstück übt."
                 },
                 {
-                    "text": "Das Stück ist nach einer schwebenden Lehrräumlichkeit benannt."
+                    "text": "Das Stück ist nach einer schwebenden Lehrerräumlichkeit benannt."
                 }
             ]
         },
@@ -688,7 +688,7 @@
             },
             "clues": [
                 {
-                    "text": "Es handelt sich um eine Sendung im ZDF..."
+                    "text": "Es handelt sich um eine Sendung im <i>ZDF<\/i>..."
                 },
                 {
                     "text": "...die sich um das Sportliche dreht."
