@@ -6505,7 +6505,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Stellen Sie sich vor, Nintendo serviert bei der nächsten Firmenfeier nur noch Speisen mit Bezug zu ihren Spielen."
+                    "text": "Stellen Sie sich vor, <i>Nintendo<\/i> serviert bei der nächsten Firmenfeier nur noch Speisen mit Bezug zu ihren Spielen."
                 },
                 {
                     "timing": "S + 5.86",
@@ -7956,7 +7956,7 @@
         {
             "id": "10239",
             "category": {
-                "text": "Ein kleiner Schritt für einen Mensch, ein großer Sprung in der Schüssel"
+                "text": "Ein kleiner Schritt für einen Menschen, ein großer Sprung in der Schüssel"
             },
             "choices": [
                 {
@@ -7964,7 +7964,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "John Glenn brüllt laut \u201cIch bin der Älteste!\u201c",
+                    "text": "John Glenn brüllt laut \u201cIch bin der Älteste!\u201d",
                     "isCorrect": false
                 },
                 {
