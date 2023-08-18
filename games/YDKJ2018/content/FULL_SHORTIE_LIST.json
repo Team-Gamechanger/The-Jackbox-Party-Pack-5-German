@@ -9044,6 +9044,790 @@
                     "text": "Wenn ich um Punkt 3 Uhr die Bar verlassen habe, auf welche Zahlen haben die Zeiger dann gezeigt?"
                 }
             ]
+        },
+        {
+            "id": "10266",
+            "category": {
+                "text": "Schreit der Geier oder schreit er nicht"
+            },
+            "choices": [
+                {
+                    "text": "<i>Lichtshow bis zur Ohnmacht<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Riecht nach Wolkenbruch<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Klänge, die wärmen<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Fischgeschmack inklusive<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Mal angenommen die Booking-Agentur vermasselt die Anfrage und stellt für den Geburtstag statt einem Wolfgang-Petry-Chor stattdessen einen \u201cPetrichor\u201d."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Was wäre eine passende Überschrift für den Auftritt?"
+                }
+            ]
+        },
+        {
+            "id": "10267",
+            "category": {
+                "text": "Periodische Berühmtheiten"
+            },
+            "choices": [
+                {
+                    "text": "Br-uce Springsteen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ni-ckelback",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ir-on Maiden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Fe-ttes Brot",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bedenkt man den Aggregatzustand der Elemente bei Raumtemperatur, welcher dieser Musikkünstler ist zwar fair, aber am wenigsten hart?"
+                }
+            ]
+        },
+        {
+            "id": "10268",
+            "category": {
+                "text": "Mit dem <i>DeLorean<\/i> schnurstracks ins Saarland"
+            },
+            "choices": [
+                {
+                    "text": "Er wäre der Onkel seiner Tochter",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Er wäre der Ehemann seiner Mutter",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er wäre der Halbbruder seines Sohnes",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Er wäre sein eigener Stiefvater",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, Marty McFly und seine Mutter hätten während seiner Zeitreise geheiratet und ein Kind bekommen."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Welche der folgenden Aussagen wäre dann NICHT zutreffend?"
+                }
+            ]
+        },
+        {
+            "id": "10269",
+            "category": {
+                "text": "Gehen Sie direkt ins Gefängnis & ziehen Sie sich gefälligst was an!"
+            },
+            "choices": [
+                {
+                    "text": "Ein 5-M$-Geldschein",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein 10-M$-Geldschein",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein 20-M$-Geldschein",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein 500-M$-Geldschein",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher dieser <i>Monopoly<\/i>-Geldscheine färbt Ihre Schlüpfer bei der Geldwäsche rosa?"
+                }
+            ]
+        },
+        {
+            "id": "10270",
+            "category": {
+                "text": "Alte, richtig heiße Körper"
+            },
+            "choices": [
+                {
+                    "text": "16 zu werden und Bier trinken zu dürfen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "18 zu werden und Autofahren zu dürfen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "25 zu werden und Kinder adoptieren zu dürfen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "40 zu werden und zur Bundespräsidentin gewählt werden zu dürfen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn die Sonne bei jeder ihrer Umdrehungen um den Kern der Milchstraße einen Geburtstag feiern würde, auf welche dieser Privilegien könnte sie sich als NÄCHSTES freuen?"
+                }
+            ]
+        },
+        {
+            "id": "10271",
+            "category": {
+                "text": "Je größer die Schuhe, desto lustiger der Clown"
+            },
+            "choices": [
+                {
+                    "text": "Mit europäischen Schuhen in Größe 55",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mit japanischen Schuhen in Größe 55",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mit australischen Schuhen in Größe 55",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mit koreanischen Schuhen in Größe 55",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Mit welchen dieser Schuhe ist der Clown am lustigsten?"
+                }
+            ]
+        },
+        {
+            "id": "10272",
+            "category": {
+                "text": "Tiere von edlem Blute"
+            },
+            "choices": [
+                {
+                    "text": "Den durchtriebenen Delfin",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Den heißen Hummer",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die schnuckelige Schlange",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Den frohlockenden Fasan",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Sie auch endlich jemanden mit blauem Blut heiraten wollen, aber niemanden Adeliges zur Hand haben, an wen könnten Sie sich wenden?"
+                }
+            ]
+        },
+        {
+            "id": "10273",
+            "category": {
+                "text": "Scharfe Schauspieler & der Drang zur Selbstverliebtheit"
+            },
+            "choices": [
+                {
+                    "text": "Er wird von einer riesigen Pflanze gefressen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Wildschwein tötet ihn",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Blitz erschlägt ihn",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Zyklop reißt ihn in Stücke",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn George Clooney das gleiche Schicksal erleidet wie der mythologische Adonis, was passiert ihm?"
+                }
+            ]
+        },
+        {
+            "id": "10274",
+            "category": {
+                "text": "Was soll das heißen, das Vieh ist ein Geschenk?"
+            },
+            "choices": [
+                {
+                    "text": "Sie können anhand seiner ZÄHNE sein ALTER herausfinden",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Sie können anhand seiner MANDELN seine RASSE bestimmen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie können anhand seiner ZUNGE seine FRUCHTBARKEIT erkennen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie können anhand seines ATEMS seinen BLUTDRUCK herausfinden",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was passiert, wenn Sie einem geschenkten Gaul ins Maul schauen?"
+                }
+            ]
+        },
+        {
+            "id": "10275",
+            "category": {
+                "text": "Steuerangelegenheiten der besonderen Art"
+            },
+            "choices": [
+                {
+                    "text": "Eine venezianische Maske",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine italienische Volkspartei",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine venezianische Gondel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen italienischen Frischkäse",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, statt eines Steuerberaters haben sie einen Steuer-Burrata engagiert."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Wofür haben Sie versehentlich Ihr Geld zum Fenster hinausgeworfen?"
+                }
+            ]
+        },
+        {
+            "id": "10276",
+            "category": {
+                "text": "Von griechischen Dramen & enttäuschenden Geschenken"
+            },
+            "choices": [
+                {
+                    "text": "Eine weinende Kuh",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein pfeifender Hund",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine singende Ziege",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein tanzendes Pferd",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "In Anbetracht der griechischen Wörter, von denen sich das Wort \u201cTragödie\u201d ableitet, welches der folgenden Geschenke könnte man wirklich als Tragödie bezeichnen?"
+                }
+            ]
+        },
+        {
+            "id": "10277",
+            "category": {
+                "text": "Verbotene Schriften im Spa"
+            },
+            "choices": [
+                {
+                    "text": "Den Tagebucheintrag von einem BRIE",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Den Tagebucheintrag von einem FETA",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Den Tagebucheintrag von einem MOZZARELLA",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Den Tagebucheintrag von einem GORGONZOLA",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "\u201cLiebes Tagebuch,<br>"
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Italien ist einfach großartig!"
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Heute bin ich ins Spa gegangen."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Dort hat man meinen Bruch mit heißem Wasser eingerieben und anschließend bis zur perfekten Konsistenz geknetet und gezogen.\u201d<br>"
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Was haben wir gerade gelesen?"
+                }
+            ]
+        },
+        {
+            "id": "10278",
+            "category": {
+                "text": "Menschen bitte nicht füttern"
+            },
+            "choices": [
+                {
+                    "text": "<i>Holozän Park<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Kambrium Park<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Pleistozän Park<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Perm Park<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie könnte eine mehrere Millionen Jahre in der Zukunft lebende Spezies einen Film über die Wiederbelebung der heutigen Menschen nennen?"
+                }
+            ]
+        },
+        {
+            "id": "10279",
+            "category": {
+                "text": "Göttliches Lesevernügen"
+            },
+            "choices": [
+                {
+                    "text": "Jeden Traum deuten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mit einem Busch kommunizieren",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Wasser in Wein verwandeln",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Einen Riesen mit einem Stein töten",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, <i>D.C.<\/i> würde einen neuen Comicbuch-Helden erschaffen: Tora-Man."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Wenn er die Kräfte aller Figuren aus dem Alten Testament hätte, was könnte er dann NICHT?"
+                }
+            ]
+        },
+        {
+            "id": "10280",
+            "category": {
+                "text": "Wer bezieht Prügel ganz tief unter\u2019m Meer?"
+            },
+            "choices": [
+                {
+                    "text": "Mr. Krabs",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Thaddäus Tentakel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Patrick Star",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mr. Puff",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Piranhas <i>SpongeBob Schwammkopf<\/i> und seine Freunde angreifen, wer von ihnen würde NICHT bluten?"
+                }
+            ]
+        },
+        {
+            "id": "10281",
+            "category": {
+                "text": "Dreh\u2019 mal am Rad, Baby"
+            },
+            "choices": [
+                {
+                    "text": "Das französische <i>Glücksrad<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das kambodschanische <i>Glücksrad<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das türkische <i>Glücksrad<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das nordmazedonische <i>Glücksrad<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche dieser Spielshows wäre am schwierigsten, da im Sendeland das Alphabet die meisten Buchstaben hat?"
+                }
+            ]
+        },
+        {
+            "id": "10282",
+            "category": {
+                "text": "Riesen beim Umzug & kleine Auffahrunfälle"
+            },
+            "choices": [
+                {
+                    "text": "Arktikasien",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Austrafrika",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Südameriarktika",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Austrasien",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn durch tektonische Plattenverschiebung der kleinste und der größte Kontinent vereint werden würden, wie könnte dieser neu entstandene Kontinent heißen?"
+                }
+            ]
+        },
+        {
+            "id": "10283",
+            "category": {
+                "text": "Wetten Sie auf Pest oder Cholera?"
+            },
+            "choices": [
+                {
+                    "text": "\u201cKRANKHEIT hat sich den Sieg gesichert!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cTOD rettet es in einem Fotofinish!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cKRIEG hat sich verdient den Sieg geholt!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cHUNGER gewinnt mit einem hauchdünnen Vorsprung!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, die vier Apokalyptischen Reiter nehmen an einem Pferderennen teil."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Bedenkt man die Reihenfolge, in der sie in der Bibel auftauchen, welcher dieser Sätze würde vom Ansager des Rennens vermutlich am ehesten durch die Lautsprecher tönen?"
+                }
+            ]
+        },
+        {
+            "id": "10284",
+            "category": {
+                "text": "Liebesgrüße aus Teheran"
+            },
+            "choices": [
+                {
+                    "text": "<i>Man lebt nur zweimal<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Goldfinger<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Diamantenfieber<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Stirb an einem anderen Tag<\/i>",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Der Titel welchen <i>James Bond<\/i>-Filmes beschreibt die Geschichte der Märchenfigur Scheherazade am passendsten?"
+                }
+            ]
+        },
+        {
+            "id": "10285",
+            "category": {
+                "text": "Wirtschaftswesen am Nordpol"
+            },
+            "choices": [
+                {
+                    "text": "<i>Weihnachtsmann AB<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Weihnachtsmann GbR<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Weihnachtsmann GmbH<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Weiterhin <i>Weihnachtsmann & Co. KG<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, der Weihnachtsmann aus der Sendung <i>Weihnachtsmann & Co. KG<\/i> wolle seine Firma in eine Rechtsform mit privater Haftung umwandeln."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Wie müsste die Firma nach deutschem Recht dann heißen?"
+                }
+            ]
+        },
+        {
+            "id": "10286",
+            "category": {
+                "text": "Skandalöse Serien im biblischen Gewand"
+            },
+            "choices": [
+                {
+                    "text": "....in die Hölle verbannt werden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "...von einer Schlange gebissen werden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "....Ihr Schamgefühl entdecken",
+                    "isCorrect": true
+                },
+                {
+                    "text": "...die erste Lebensmittelvergiftung der Welt haben",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie Sich vor, Sie sind Teilnehmer bei einer streng religiösen <i>Adam sucht Eva<\/i>-Adaption."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Dem biblischen Vorbild folgend würden Sie nach dem Aufeinandertreffen mit dem anderen splitterfasernackten Kandidaten einen Apfel verspeisen und anschließend..."
+                }
+            ]
+        },
+        {
+            "id": "10287",
+            "category": {
+                "text": "Logos am Firmament"
+            },
+            "choices": [
+                {
+                    "text": "<i>Apple<\/i>, <i>WWF<\/i>, <i>Nike<\/i>, <i>adidas<\/i>, <i>Paramount<\/i>, <i>Puma<\/i>, <i>Nestlé<\/i>, <i>Citroen<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Deutsche Bahn<\/i>, <i>JBL<\/i>, <i>McDonald\u2019s<\/i>, <i>XBOX<\/i>, <i>VW<\/i>, <i>Samsung<\/i>, <i>Milka<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Pizza Hut<\/i>, <i>Tesla<\/i>, <i>Red Bull<\/i>, <i>Toblerone<\/i>, <i>IKEA<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Coca Cola<\/i>, <i>Haribo<\/i>, <i>Lego<\/i>, <i>e-on<\/i>, <i>Shell<\/i>, <i>Burger King<\/i>, <i>Pepsi<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Ordnen Sie die Marken anhand ihrer Erkennungsfarbe in Reihenfolge des Regenbogens von oben nach unten."
+                }
+            ]
+        },
+        {
+            "id": "10288",
+            "category": {
+                "text": "Wer isst seine Sandwiches ganz tief im Meer?"
+            },
+            "choices": [
+                {
+                    "text": "Plankton",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mr. Krabs",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Patrick Star",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sandy Cheeks",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "<i>Sub<\/i> : <i>way<\/i> ::"
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "<i>SpongeBob Schwammkopf<\/i> : ?"
+                }
+            ]
         }
     ]
 }
