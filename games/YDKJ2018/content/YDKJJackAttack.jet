@@ -5859,7 +5859,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Alastor \u2019Mad-Eye\u2019 Moody",
+							"text": "Alastor \u201cMad-Eye\u201d Moody",
 							"isCorrect": true
 						},
 						{
@@ -7388,27 +7388,27 @@
 					"title": "Nordrhein-Westfalen",
 					"choices": [
 						{
-							"text": "\u2019K\u2019",
+							"text": "\u201cK\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019AC\u2019",
+							"text": "\u201cAC\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019B\u2019",
+							"text": "\u201cB\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u2019W\u2019",
+							"text": "\u201cW\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019BO\u2019",
+							"text": "\u201cBO\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019BN\u2019",
+							"text": "\u201cBN\u201d",
 							"isCorrect": true
 						}
 					]
@@ -7417,27 +7417,27 @@
 					"title": "Hessen",
 					"choices": [
 						{
-							"text": "\u2019RV\u2019",
+							"text": "\u201cRV\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u2019GI\u2019",
+							"text": "\u201cGI\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019DA\u2019",
+							"text": "\u201cDA\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019MM\u2019",
+							"text": "\u201cMM\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u2019GAP\u2019",
+							"text": "\u201cGAP\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u2019F\u2019",
+							"text": "\u201cF\u201d",
 							"isCorrect": true
 						}
 					]
@@ -7446,27 +7446,27 @@
 					"title": "Brandenburg",
 					"choices": [
 						{
-							"text": "\u2019RN\u2019",
+							"text": "\u201cRN\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019M\u2019",
+							"text": "\u201cM\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u2019PM\u2019",
+							"text": "\u201cPM\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019P\u2019",
+							"text": "\u201cP\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019IN\u2019",
+							"text": "\u201cIN\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u2019ZS\u2019",
+							"text": "\u201cZS\u201d",
 							"isCorrect": true
 						}
 					]
@@ -7475,27 +7475,27 @@
 					"title": "Niederösterreich",
 					"choices": [
 						{
-							"text": "\u2019VO\u2019",
+							"text": "\u201cVO\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u2019CC\u2019",
+							"text": "\u201cCC\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u2019GD\u2019",
+							"text": "\u201cGD\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019W\u2019",
+							"text": "\u201cW\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u2019WB\u2019",
+							"text": "\u201cWB\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019PL\u2019",
+							"text": "\u201cPL\u201d",
 							"isCorrect": true
 						}
 					]
@@ -7533,27 +7533,27 @@
 					"title": "Schweiz",
 					"choices": [
 						{
-							"text": "\u2019GL\u2019",
+							"text": "\u201cGL\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019JU\u2019",
+							"text": "\u201cJU\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019BER\u2019",
+							"text": "\u201cBER\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u2019WUJ\u2019",
+							"text": "\u201cWUJ\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u2019UR\u2019",
+							"text": "\u201cUR\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019ZH\u2019",
+							"text": "\u201cZH\u201d",
 							"isCorrect": true
 						}
 					]
@@ -8137,27 +8137,27 @@
 					"title": "Arabisches Ziffernsystem",
 					"choices": [
 						{
-							"text": "\u2019X\u2019",
+							"text": "\u201cX\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u20190\u2019",
+							"text": "\u201c0\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019C\u2019",
+							"text": "\u201cC\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u20193\u2019",
+							"text": "\u201c3\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "\u2019D\u2019",
+							"text": "\u201cD\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "\u20199\u2019",
+							"text": "\u201c9\u201d",
 							"isCorrect": true
 						}
 					]
