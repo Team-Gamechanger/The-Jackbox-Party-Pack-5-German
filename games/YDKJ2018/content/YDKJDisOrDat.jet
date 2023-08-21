@@ -267,45 +267,45 @@
         {
             "questions": [
                 {
-                    "text": "Gebürtiger Franzose",
+                    "text": "<i>Sensilind<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Taucht in <i>Keinohrhasen<\/i> auf",
+                    "text": "<i>Lage der Nation<\/i>",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Hat weiße Haut",
-                    "correctChoiceString": "both"
+                    "text": "<i>Feelings<\/i>",
+                    "correctChoiceString": "dis"
                 },
                 {
-                    "text": "Nicht vegan",
+                    "text": "<i>Strampelpeter<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "45% Fettgehalt",
+                    "text": "<i>Betreutes Fühlen<\/i>",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "<i>Bella Maxi<\/i>",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "Von einer Frau geschaffen",
-                    "correctChoiceString": "both"
-                },
-                {
-                    "text": "Weich und geschmeidig",
-                    "correctChoiceString": "both"
+                    "text": "<i>Kottbruder<\/i>",
+                    "correctChoiceString": "dis"
                 }
             ],
             "disChoice": {
-                "longText": "Etwas Wahres über den Schauspieler Jürgen Vogel",
-                "shortText": "JÜRGEN VOGEL"
+                "longText": "Ein beliebter Podcast in den <i>Apple<\/i>-Podcast-Charts",
+                "shortText": "EIN PODCAST"
             },
             "datChoice": {
-                "longText": "Etwas Wahres über den Käse Camembert",
-                "shortText": "CAMEMBERT"
+                "longText": "Ein Inkontinenzprodukt für Erwachsene",
+                "shortText": "EINE KACKE-LÖSUNG"
             },
-            "id": "11006",
+            "id": "11080",
             "category": {
-                "text": "Ist Käse vögeln gesünder?"
+                "text": "Toilette! Die Woche und ich"
             }
         },
         {

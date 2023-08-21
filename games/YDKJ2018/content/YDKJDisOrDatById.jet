@@ -1,47 +1,48 @@
 {
     "content": [
+        
         {
             "questions": [
                 {
-                    "text": "<i>Sensilind<\/i>",
+                    "text": "Gebürtiger Franzose",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "<i>Lage der Nation<\/i>",
+                    "text": "Taucht in <i>Keinohrhasen<\/i> auf",
                     "correctChoiceString": "dis"
                 },
                 {
-                    "text": "<i>Feelings<\/i>",
-                    "correctChoiceString": "dis"
+                    "text": "Hat weiße Haut",
+                    "correctChoiceString": "both"
                 },
                 {
-                    "text": "<i>Strampelpeter<\/i>",
+                    "text": "Nicht vegan",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "<i>Betreutes Fühlen<\/i>",
-                    "correctChoiceString": "dis"
-                },
-                {
-                    "text": "<i>Bella Maxi<\/i>",
+                    "text": "45% Fettgehalt",
                     "correctChoiceString": "dat"
                 },
                 {
-                    "text": "<i>Kottbruder<\/i>",
-                    "correctChoiceString": "dis"
+                    "text": "Von einer Frau geschaffen",
+                    "correctChoiceString": "both"
+                },
+                {
+                    "text": "Weich und geschmeidig",
+                    "correctChoiceString": "both"
                 }
             ],
             "disChoice": {
-                "longText": "Ein beliebter Podcast in den <i>Apple<\/i>-Podcast-Charts",
-                "shortText": "EIN PODCAST"
+                "longText": "Etwas Wahres über den Schauspieler Jürgen Vogel",
+                "shortText": "JÜRGEN VOGEL"
             },
             "datChoice": {
-                "longText": "Ein Inkontinenzprodukt für Erwachsene",
-                "shortText": "EINE KACKE-LÖSUNG"
+                "longText": "Etwas Wahres über den Käse Camembert",
+                "shortText": "CAMEMBERT"
             },
-            "id": "11080",
+            "id": "11006",
             "category": {
-                "text": "Toilette! Die Woche und ich"
+                "text": "Ist Käse vögeln gesünder?"
             }
         },
         {

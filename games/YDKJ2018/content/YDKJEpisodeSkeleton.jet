@@ -494,7 +494,7 @@
                 }
             ],
             "id": "12007",
-            "minEpisodes": 42069
+            "minEpisodes": 4
         },
         {
             "commercialImage": "",
@@ -1937,7 +1937,7 @@
                 },
                 {
                     "num": 2,
-                    "id": "11080",
+                    "id": "11006",
                     "type": "DisOrDat"
                 },
                 {
@@ -1982,7 +1982,7 @@
                 }
             ],
             "id": "12031",
-            "minEpisodes": 42069
+            "minEpisodes": 3
         },
         {
             "commercialImage": "",
@@ -3284,7 +3284,7 @@
                 }
             ],
             "id": "12052",
-            "minEpisodes": 42069
+            "minEpisodes": 5
         },
         {
             "commercialImage": "",
