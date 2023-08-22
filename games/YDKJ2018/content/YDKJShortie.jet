@@ -4040,7 +4040,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Stellen Sie sich vor, das erste Wort ihres Babys wäre"
+                    "text": "Stellen Sie sich vor, das erste Wort Ihres Babys wäre"
                 },
                 {
                     "timing": "S + 3.38",
@@ -4048,7 +4048,7 @@
                 },
                 {
                     "timing": "S + 13.92",
-                    "text": "Was versucht ihr Baby wohl zu sagen?"
+                    "text": "Was versucht Ihr Baby wohl zu sagen?"
                 }
             ]
         },
@@ -4816,7 +4816,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher dieser Musiker ist in Anbetracht der Größe seiner Instrumente am wenigsten dem Vorwurf ausgesetzt, \u201cetwas zu kompensieren\u201d?"
+                    "text": "Welcher dieser Musiker ist in Anbetracht der Größe seines Instruments am wenigsten dem Vorwurf ausgesetzt, \u201cetwas zu kompensieren\u201d?"
                 }
             ]
         },
@@ -7696,7 +7696,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Er rülpst seiner Freundin ins Gesicht",
+                    "text": "Er rülpst seiner Freundin ständig ins Gesicht",
                     "isCorrect": true
                 },
                 {
@@ -8145,7 +8145,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn man diese Wahrheit bedenkt, welcher dieser Charaktere würde NIE wissen, wann er mit dem Trinken aufhören sollte?"
+                    "text": "Welcher dieser Charaktere würde NIE wissen, wann er mit dem Trinken aufhören sollte, wenn man diese Wahrheit bedenkt?"
                 }
             ]
         },

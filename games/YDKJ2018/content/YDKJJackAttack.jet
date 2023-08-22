@@ -8199,15 +8199,15 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Risiko",
+							"text": "<i>Risiko<\/i>",
 							"isCorrect": false
 						},
 						{
-							"text": "LÜK-Kästen",
+							"text": "<i>LÜK-Kästen<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "UNO",
+							"text": "<i>UNO<\/i>",
 							"isCorrect": true
 						},
 						{
@@ -8215,7 +8215,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Fiese Freunde, Fette Feten",
+							"text": "<i>Fiese Freunde, Fette Feten<\/i>",
 							"isCorrect": false
 						}
 					]
