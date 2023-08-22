@@ -8246,42 +8246,6 @@
             ]
         },
         {
-            "id": "10249",
-            "category": {
-                "text": "Darmatische Minuten"
-            },
-            "choices": [
-                {
-                    "text": "Gekröse-Mast-Grimm-Blind-Zwölffingerdarm",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Grimm-Zwölffinger-Mast-Blind-Gekrösedarm",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Zwölffinger-Blind-Gekröse-Grimm-Mastdarm",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Blind-Gekröse-Zwölffinger-Mast-Grimmdarm",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Stellen Sie sich vor, Sie hätten einen gigantischen Stock im Arsch."
-                },
-                {
-                    "timing": "S + 420.69",
-                    "text": "Wenn man nun versuchen würde, diesen zu entfernen, in welcher Reihenfolge würde er Ihre Organe durch die Därme verlassen?"
-                }
-            ]
-        },
-        {
             "id": "10250",
             "category": {
                 "text": "Unterhaltung für Magen und Hirn"
