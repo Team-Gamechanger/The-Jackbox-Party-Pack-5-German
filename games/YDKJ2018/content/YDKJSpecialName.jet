@@ -283,6 +283,50 @@
         {
             "id":"HUEBI",
             "names":["Huebi"]
+        },
+        {
+            "id":"SG1",
+            "names":["PrimaLaVera"]
+        },
+        {
+            "id":"SG2",
+            "names":["VincentFallow", "Vincent_Fallow", "Vincent Fallow", "Vincent_Fall"]
+        },
+        {
+            "id":"SG3",
+            "names":["Stevinho"]
+        },
+        {
+            "id":"SG4",
+            "names":["LostKittn"]
+        },
+        {
+            "id":"SG5",
+            "names":["BGKatja", "Katja"]
+        },
+        {
+            "id":"SG6",
+            "names":["myFLASHware", "myTRASHware", "Joni Boni"]
+        },
+        {
+            "id":"SG7",
+            "names":["Pandoria"]
+        },
+        {
+            "id":"SG8",
+            "names":["Trashtazmani"]
+        },
+        {
+            "id":"SG9",
+            "names":["RahmschnitzelLP", "Rahmschnitzel", "Rahmschnitze"]
+        },
+        {
+            "id":"SG10",
+            "names":["Strawbellycake", "Strawbelly", "Strawbellyca"]
+        },
+        {
+            "id":"SG11",
+            "names":["Patrick"]
         }
     ]
 }
