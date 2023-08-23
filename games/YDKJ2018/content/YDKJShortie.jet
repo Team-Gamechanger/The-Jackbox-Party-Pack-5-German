@@ -5479,19 +5479,19 @@
             },
             "choices": [
                 {
-                    "text": "Ich bin von Idioten umgeben!",
+                    "text": "\u201cIch bin von Idioten umgeben!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Nein, es ist Obst im Haus!",
+                    "text": "\u201cNein, es ist Obst im Haus!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Stinken meine Füße?",
+                    "text": "\u201cStinken meine Füße?\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "Zieh mal an meinem Finger!",
+                    "text": "\u201cZieh mal an meinem Finger!\u201d",
                     "isCorrect": true
                 }
             ],
@@ -6885,7 +6885,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher dieser Jesusse wäre ein Gauner, da Reinkarnation in seinem Heimatland ausdrücklich ein Verbrechen ist?"
+                    "text": "Welcher dieser Jesusse wäre ein Gauner, da Reinkarnation in seinem Land ausdrücklich ein Verbrechen ist?"
                 }
             ]
         },

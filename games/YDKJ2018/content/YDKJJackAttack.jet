@@ -10622,7 +10622,7 @@
 		},
 		{
 			"id": "11459",
-			"title": "Wer suchet, der findet",
+			"title": "Wer suchet, der erfindet",
 			"prompts": [
 				{
 					"title": "20. Jahrhundert",
@@ -10824,7 +10824,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Konterspähre",
+							"text": "Kontersphäre",
 							"isCorrect": false
 						},
 						{
