@@ -9828,6 +9828,842 @@
                     "text": "<i>SpongeBob Schwammkopf<\/i> : ?"
                 }
             ]
+        },
+        {
+            "id": "10289",
+            "category": {
+                "text": "Farben vom Fließband"
+            },
+            "choices": [
+                {
+                    "text": "Die des Blutes eines Skorpions",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die der Steine des Petersdoms",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Hautfarbe von Mr. Krabs",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Farbe klassischer Lakritztaler",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Henry Ford ist bekannt für sein Zitat:"
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "\u201cJeder Kunde kann sein Auto in der Farbe seiner Wahl lackiert haben, solange es...\u201d welche Farbe hat?"
+                }
+            ]
+        },
+        {
+            "id": "10290",
+            "category": {
+                "text": "Fachkräftemangel & das Reich des Unbarmherzigen"
+            },
+            "choices": [
+                {
+                    "text": "\u201cLichtträger (m/w/d) gesucht\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cHöllenwächter (m/w/d) gesucht\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cHerr der Finsternis (m/w/d) gesucht\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cGeneral des Himmels (m/w/d) gesucht\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, Luzifer würde eine Stellenanzeige schalten, bei welcher er einen Stellvertreter für sich selbst sucht."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Wie müsste die Stellenausschreibung basierend auf der Bedeutung von Luzifers Namen lauten?"
+                }
+            ]
+        },
+        {
+            "id": "10291",
+            "category": {
+                "text": "Der Tod der Aufmerksamkeitsspann-- hey, da ist ja \u2019ne Katze!"
+            },
+            "choices": [
+                {
+                    "text": "Die Länge des <i>Disney<\/i>-Filmintros",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die empfohlene Putzzeit für Zähne",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Kochzeit für ein hartgekochtes Ei",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die Dauer des Films <i>Shrek 2<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie lange verbleiben Informationen im Kurzzeitgedächtnis, bevor sie entweder gelöscht werden oder ins Langzeitgedächtnis wandern?"
+                }
+            ]
+        },
+        {
+            "id": "10292",
+            "category": {
+                "text": "Hände hoch, oder ich gieße!"
+            },
+            "choices": [
+                {
+                    "text": "August Oetker",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gregor Mendel",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Max Planck",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Anders Celsius",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Sie die Regel \u201cDer Mörder ist immer der Gärtner\u201d anwenden, welchen dieser Wissenschaftler müssten Sie dann am ehesten verhaften?"
+                }
+            ]
+        },
+        {
+            "id": "10293",
+            "category": {
+                "text": "Ich sehe was, was du nicht siehst"
+            },
+            "choices": [
+                {
+                    "text": "\u201cAuf der grauen Wiese\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cGrau, Grau, Grau blüht der Enzian\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cEr hat ein knallgraues Gummiboot\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cHoch auf dem grauen Wagen\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welches dieser Volkslieder würden Sie anstelle des Originals hören, wenn nicht nur Ihre Augen, sondern auch Ihre Ohren an einer \u201cDeuteranopie\u201d leiden würden?"
+                }
+            ]
+        },
+        {
+            "id": "10294",
+            "category": {
+                "text": "Dreh\u2019 das Folterrad! Dreh\u2019! Dreh\u2019!"
+            },
+            "choices": [
+                {
+                    "text": "400€",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1.200€",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2.500€",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4.750€",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bedenkt man, wie viel ein Vokal im <i>Glücksrad<\/i> kostet, wie viel Geld müssten Sie bezahlen, um ALLE Vokale im Wort"
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "\u201cRindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz\u201d"
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "zu kaufen?"
+                }
+            ]
+        },
+        {
+            "id": "10295",
+            "category": {
+                "text": "Die Kirche des <i>Marlboro<\/i>-Mannes"
+            },
+            "choices": [
+                {
+                    "text": "Einen Zigong",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Ziggurat",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine Ziggar",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein Zigarillo",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Sie einen antiken mesopotamischen Turm in Ihren Mund stecken und anzünden, was würden Sie dann rauchen?"
+                }
+            ]
+        },
+        {
+            "id": "10296",
+            "category": {
+                "text": "Oh Baby, ich steh\u2019 auf große... Gehirne"
+            },
+            "choices": [
+                {
+                    "text": "\u201cZieh mich auf und stell mich auf 12 Uhr!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cRasier meinen Kopf und nenn mich \u2019Persis\u2019!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cSchneid mich auf und zähl meine Ringe!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cSchmier mich mit Tinte ein und identifizier mich!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welches schmutzige Bettgeflüster würde bei einem \u201cDendrochronologen\u201d am besten ziehen?"
+                }
+            ]
+        },
+        {
+            "id": "10297",
+            "category": {
+                "text": "Ziemlich spermig hier drin!"
+            },
+            "choices": [
+                {
+                    "text": "Ein Spermium",
+                    "isCorrect": false
+                },
+                {
+                    "text": "15 Spermien",
+                    "isCorrect": false
+                },
+                {
+                    "text": "15.000 Spermien",
+                    "isCorrect": true
+                },
+                {
+                    "text": "15 Spermilliarde Spermien",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Ungefähr wie viele neue Spermien wird mein Körper produziert haben, sobald ich mit dem Vorlesen dieser Frage fertig bin?"
+                }
+            ]
+        },
+        {
+            "id": "10298",
+            "category": {
+                "text": "Edutainment: Es wandelt unter uns!"
+            },
+            "choices": [
+                {
+                    "text": "Dem mit der kürzesten Umlaufbahn",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dem mit dem größten Mond",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Dem fünftgrößten im Sonnensystem",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Dem neben Merkur",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Von welchem Planeten kommt Wigald Boning?"
+                }
+            ]
+        },
+        {
+            "id": "10299",
+            "category": {
+                "text": "Blind Dates im Liebeskanal"
+            },
+            "choices": [
+                {
+                    "text": "\u201cHach, damals, im Eileiter! Herrlich war das!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cIn der Vagina - es war Liebe auf den ersten Blick!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cWir trafen uns in der Gebärmutter, und wir wussten sofort, das ist es!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cUnsere schicksalshafte Liebe begann im Eierstock!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Ihnen das Spermium und die Eizelle die Geschichte ihres ersten Kennenlernens erzählen, was würden Sie vermutlich hören?"
+                }
+            ]
+        },
+        {
+            "id": "10300",
+            "category": {
+                "text": "Ganz verdächtige Flecken auf der Bettwäsche"
+            },
+            "choices": [
+                {
+                    "text": "Ein brisanter Traum über eine Gallone Wasser",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein erotischer Traum über zwei Liter Wasser",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein total aufregender Traum über drei Kubikdezimeter Wasser",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ein echt heißer Traum über vier Flüssigunzen Wasser",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher der folgenden Träume ist der feuchteste?"
+                }
+            ]
+        },
+        {
+            "id": "10301",
+            "category": {
+                "text": "Tanz den Gauner"
+            },
+            "choices": [
+                {
+                    "text": "\u201cHände in die ERSTE POSITION, aber zacki!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cLos jetzt, Hände in die ZWEITE POSITION!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cSofort die Hände in die VIERTE POSITION, und zwar schnell!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cWaffe fallen lassen und die Hände in die FÜNFTE POSITION, aber dalli!\u201d",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, in der nächsten Ausgabe des <i>Tatort<\/i> ist der Mörder eine Ballett-Tänzerin."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Was könnten ihr die Kommissare Thiel und Boerne zurufen, um sie dazu zu bewegen, ihre Hände hochzunehmen?"
+                }
+            ]
+        },
+        {
+            "id": "10302",
+            "category": {
+                "text": "Doch nicht während meiner Periode!"
+            },
+            "choices": [
+                {
+                    "text": "Jemand, der mit BARIUM experimentieren will",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jemand, der Gefühle für BROM hegt",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jemand, der ein wenig scharf auf BERYLLIUM ist",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Jemand, der über BISMUTH fantasiert",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher der folgenden Leute ist Bi-neugierig?"
+                }
+            ]
+        },
+        {
+            "id": "10303",
+            "category": {
+                "text": "Punkrock & köstliche Kannibalenmahlzeiten"
+            },
+            "choices": [
+                {
+                    "text": "Wenn ihre Kerntemperatur 50°C erreicht",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Wenn ihre Kerntemperatur 60°C erreicht",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Wenn ihre Kerntemperatur 70°C erreicht",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Wenn ihre Kerntemperatur 90°C erreicht",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Nehmen wir an, eine Gruppe von Kannibalen entführt die Punk-Sängerin P!nk und schmeißt sie auf den Grill."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Bedenkt man die Richtlinien der Steakgastronomie, wann könnten die Kannibalen FRÜHESTENS anfangen, sie \u201cWe!! done\u201d statt \u201cP!nk\u201d zu nennen?"
+                }
+            ]
+        },
+        {
+            "id": "10304",
+            "category": {
+                "text": "Spoilerwarnung für einen steinalten Film!"
+            },
+            "choices": [
+                {
+                    "text": "Als herauskommt, dass SOYLENT GRÜN MENSCHENFLEISCH IST!!",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Als viele Leute mysteriöserweise verschwinden, weil SOYLENT GRÜN MENSCHENFLEISCH IST!!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Im Abspann, nachdem herauskommt, dass SOYLENT GRÜN MENSCHENFLEISCH IST!!",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Es gibt keins... was aber nichts daran ändert, dass SOYLENT GRÜN MENSCHENFLEISCH IST!!",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher Teil des Films <i>Soylent Green<\/i> ist sein \u201cdénouement\u201d?"
+                }
+            ]
+        },
+        {
+            "id": "10305",
+            "category": {
+                "text": "Gevin oder nicht gevin - das ist alles, was zählt"
+            },
+            "choices": [
+                {
+                    "text": "Vin <i>Shell<\/i> V-Power",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Vin Super Plus E10",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Vin Flüssigerdgas",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Vin Diesel",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Nehmen wir an, Vin Diesel aus der <i>Fast and Furious<\/i>-Reihe fährt ab sofort in der Formel 1 mit."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Bedenkt man, womit Formel-1-Autos seit 2022 betankt werden, was könnte er in seinen persönlichen Boliden füllen?"
+                }
+            ]
+        },
+        {
+            "id": "10306",
+            "category": {
+                "text": "Drei Tage Urlaub in Valhalla"
+            },
+            "choices": [
+                {
+                    "text": "\u201cDa bin ich, im Himmel :-)\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDa bin ich, im Fegefeuer :-/\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDa bin ich, in der Hölle :-(\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cDa bin ich, in Venedig :-0\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Nehmen wir an, Dante kehrt von der Reise seiner <i>Göttlichen Komödie<\/i> zurück und postet Urlaubsfotos auf <i>Instagram<\/i>."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Welchen Kommentar wird er vermutlich zu den Bildern seiner ERSTEN Reiseetappe posten?"
+                }
+            ]
+        },
+        {
+            "id": "10307",
+            "category": {
+                "text": "Bauarbeiter und ihr Unterbau"
+            },
+            "choices": [
+                {
+                    "text": "Sie pflanzen sich vor dem Tod nur einmal fort",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ihr Kopf würde nach dem Sex abgebissen werden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie würden die ganze Zeit rammeln wie die Karnickel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie wären sexuell unterentwickelt",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Bauarbeiter die gleichen Merkmale innehätten wie Arbeiter-Ameisen, was wäre dann über sie wahr?"
+                }
+            ]
+        },
+        {
+            "id": "10308",
+            "category": {
+                "text": "Ich war schon immer ein Fan von Shredders Werken"
+            },
+            "choices": [
+                {
+                    "text": "Der mit den Nunchaku",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Der mit dem Bo-Langstock",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der mit den beiden Saigabeln",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der mit den Katanas",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welcher dieser <i>Ninja Turtles<\/i> ist nach dem weltberühmten Autor der Statue des <i>David<\/i> benannt?"
+                }
+            ]
+        },
+        {
+            "id": "10309",
+            "category": {
+                "text": "Ich bin der König der Quizspiele"
+            },
+            "choices": [
+                {
+                    "text": "Etwa 15 Minuten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine knappe halbe Stunde",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ungefähr eine Stunde",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sie sind beide bereits genau gleich lang",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie viel Zeit müsste man vom Film <i>Titanic<\/i> rausschneiden, damit er genau so lange dauert, wie das Sinken der echten Titanic?"
+                }
+            ]
+        },
+        {
+            "id": "10310",
+            "category": {
+                "text": "Wer A sagt, muss auch 2 sagen"
+            },
+            "choices": [
+                {
+                    "text": "3, 1, 2, 4",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2, 4, 1, 3",
+                    "isCorrect": false
+                },
+                {
+                    "text": "3, 1, 4, 2",
+                    "isCorrect": true
+                },
+                {
+                    "text": "1, 2, 3, 4",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Ordnen Sie die Zahlen von 1 bis 4 in alphabetischer Reihenfolge..."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "in ihrer AUSGESCHRIEBENEN Form!"
+                }
+            ]
+        },
+        {
+            "id": "10311",
+            "category": {
+                "text": "Deine Mudda riecht wie der Dschungel!"
+            },
+            "choices": [
+                {
+                    "text": "Einen Bananenstrauß für Koko",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bananenschokolade für Kala",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Ein Bananenparfum für Chim Chim",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einen Kalender mit Bananenfotos für Abu",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welches dieser Geschenke würde Tarzan im letzten Moment vor dem Muttertag noch schnell kaufen?"
+                }
+            ]
+        },
+        {
+            "id": "10312",
+            "category": {
+                "text": "Multi-Arrrrr-ganversagen"
+            },
+            "choices": [
+                {
+                    "text": "Steuerbord",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Backbord",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Bug",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Heck",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn <i>Käpt\u2019n Iglo<\/i> auf seinem Schiff steht und nach vorne schaut, in welcher Richtung befindet sich dann sein Blinddarm?"
+                }
+            ]
+        },
+        {
+            "id": "10313",
+            "category": {
+                "text": "Dieser Frontallappen ist doch noch völlig roh!"
+            },
+            "choices": [
+                {
+                    "text": "\u201cAaaah! Du hast ein Viertel meines Gehirns gegeggrraggllg!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cAaaah! Du hast die Hälfte meines Gehirns geggraggaghrg!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cAaaaah! Du hast 75% meines Gehirns geggragahrgghg!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gar nichts, da er mein ganzes Gehirn gegessen hat",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn ein Zombie 1,5 kg meines Gehirns frisst, was könnte ich ihm zurufen?"
+                }
+            ]
         }
     ]
 }
