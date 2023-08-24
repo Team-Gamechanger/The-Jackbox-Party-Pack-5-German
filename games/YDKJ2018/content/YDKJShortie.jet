@@ -1027,7 +1027,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cSechs Stunden Stille? Das könnte ich niemals durchhalten, tut mir Leid!\u201d",
+                    "text": "\u201cSechs Stunden Stille? Das könnte ich niemals durchhalten, tut mir leid!\u201d",
                     "isCorrect": false
                 },
                 {
@@ -2197,7 +2197,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Kopf einer Chimära, Körper des Pegasus",
+                    "text": "Kopf einer Chimära, Körper eines Pegasus",
                     "isCorrect": false
                 }
             ],
@@ -3558,7 +3558,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Eine 30-Sekunden Super-Bowl-Werbung",
+                    "text": "Eine 30-Sekunden-Super-Bowl-Werbung",
                     "isCorrect": false
                 },
                 {
@@ -3571,7 +3571,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Sie wollen, dass möglichst viele Leute wissen, wie süß Sie sind, wenn Sie diese Frage stellen, wie könnten Sie dann die MEISTEN Leute erreichen?"
+                    "text": "Wenn Sie wollen, dass möglichst viele Leute wissen, wie süß Sie sind, wenn Sie diese Frage stellen, wie können Sie dann die MEISTEN Leute erreichen?"
                 }
             ]
         },
@@ -4212,7 +4212,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, ProSieben stellt als große Nachfolgesendung von \u201cSchlag den Raab\u201d die Sendung \u201cSchlag den Rabab\u201d vor."
+                    "text": "Angenommen, <i>ProSieben<\/i> stellt als große Nachfolgesendung von \u201cSchlag den Raab\u201d die Sendung \u201cSchlag den Rabab\u201d vor."
                 },
                 {
                     "timing": "S + 6.24",
@@ -4404,7 +4404,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -4455,7 +4455,7 @@
             },
             "choices": [
                 {
-                    "text": "\u201cMr. MARTIN SMITH? Den kennen wir hier nicht, tut mir Leid.\u201d",
+                    "text": "\u201cMr. MARTIN SMITH? Den kennen wir hier nicht, tut mir leid.\u201d",
                     "isCorrect": false
                 },
                 {
