@@ -4544,7 +4544,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher fruchtig riechende Edding würde schrecklich stinken?"
+                    "text": "Welcher fruchtig riechende <i>Edding<\/i> würde schrecklich stinken?"
                 }
             ]
         },
@@ -4716,7 +4716,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Warum tragen die beiden Jungs der Band Daft Punk diese riesigen Helme?"
+                    "text": "Warum tragen die beiden Jungs der Band <i>Daft Punk<\/i> diese riesigen Helme?"
                 }
             ]
         },
@@ -4752,7 +4752,7 @@
                 },
                 {
                     "timing": "S + 7.24",
-                    "text": "Welche dieser Kreditkartennummern könnte Ihre VISA-Karte sein?"
+                    "text": "Welche dieser Kreditkartennummern könnte Ihre <i>VISA<\/i>-Karte sein?"
                 }
             ]
         },
@@ -4803,7 +4803,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Ein Oboenspieler",
+                    "text": "Ein Oboen-Spieler",
                     "isCorrect": false
                 },
                 {
@@ -4884,7 +4884,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was zum Teufel schaut die Mona Lisa an?"
+                    "text": "Was zum Teufel schaut die <i>Mona Lisa<\/i> an?"
                 }
             ]
         },
@@ -5816,11 +5816,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cGeiler Hintern\u201d auf Finnisch",
+                    "text": "\u201cGeiler Hintern!\u201d auf Finnisch",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cDu bist atemberaubend\u201d auf Portugiesisch",
+                    "text": "\u201cDu bist atemberaubend!\u201d auf Portugiesisch",
                     "isCorrect": true
                 },
                 {
@@ -6084,7 +6084,7 @@
         {
             "id": "10181",
             "category": {
-                "text": "Hart wie Carsten Krupp-Stahl"
+                "text": "Hart wie Carsten <i>Krupp<\/i>-Stahl"
             },
             "choices": [
                 {
@@ -6113,7 +6113,7 @@
                 },
                 {
                     "timing": "S + 3.86",
-                    "text": "Aus der Ehe welcher beiden Familien ist er vermutlich entstanden?"
+                    "text": "Aus der Ehe welcher beider Familien ist er vermutlich entstanden?"
                 }
             ]
         },
@@ -7177,11 +7177,12 @@
                 },
                 {
                     "text": "Gedichtsanalyse mit Pommes Rot-Weiß",
-                    "isCorrect": false
+                    "isCorrect": false,
+                    "best": true
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -7881,7 +7882,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Nehmen wir an, Ihre Mutter hat einmal neu geheiratet, und Ihr Vater zweimal."
+                    "text": "Nehmen wir an, Ihre Mutter hat einmal neu geheiratet und Ihr Vater zweimal."
                 },
                 {
                     "timing": "S + 4.32",
@@ -8324,7 +8325,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Reise nach Polen",
+                    "text": "<i>Reise nach Polen<\/i>",
                     "isCorrect": false
                 },
                 {
