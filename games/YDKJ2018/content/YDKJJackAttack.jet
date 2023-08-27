@@ -3008,7 +3008,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Monster AG</i>",
+							"text": "<i>Die Monster AG</i>",
 							"isCorrect": false
 						},
 						{
@@ -3016,7 +3016,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Monster Uni</i>",
+							"text": "<i>Die Monster Uni</i>",
 							"isCorrect": false
 						},
 						{
@@ -4441,7 +4441,7 @@
 					]
 				},
 				{
-					"title": "Guardians of the Galaxy",
+					"title": "<i>Guardians of the Galaxy<\/i>",
 					"choices": [
 						{
 							"text": "Thor Odinson",
@@ -4470,7 +4470,7 @@
 					]
 				},
 				{
-					"title": "Ein Whopper",
+					"title": "Ein <i>Whopper<\/i>",
 					"choices": [
 						{
 							"text": "Eine Viertelpfund Rinderhackbulette",
@@ -4489,7 +4489,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Geheime Whopper-Burgersauce",
+							"text": "Geheime <i>Whopper<\/i>-Burgersauce",
 							"isCorrect": false
 						},
 						{
@@ -4955,27 +4955,27 @@
 					"title": "8",
 					"choices": [
 						{
-							"text": "The Hateful _____",
+							"text": "<i>The Hateful _____</i>",
 							"isCorrect": true
 						},
 						{
-							"text": " _____ Zwerge - Der Wald ist nicht genug",
+							"text": "<i>_____ Zwerge - Der Wald ist nicht genug</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "2_____ Weeks Later ",
+							"text": "<i>2_____ Weeks Later</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "2_____ Days Later",
+							"text": "<i>2_____ Days Later</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Star Wars: Episode _____ - Eine neue Hoffnung",
+							"text": "<i>Star Wars: Episode _____ - Eine neue Hoffnung</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Freitag der _____.",
+							"text": "<i>Freitag der _____.</i>",
 							"isCorrect": false
 						}
 					]
@@ -4984,27 +4984,27 @@
 					"title": "9",
 					"choices": [
 						{
-							"text": "The Legend of Zelda _____: A Link to the Past",
+							"text": "<i>The Legend of Zelda _____: A Link to the Past</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Fahrenheit _____/11",
+							"text": "<i>Fahrenheit _____/11</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Track 2_____ - Ein gefährliches Spiel",
+							"text": "<i>Track 2_____ - Ein gefährliches Spiel</i>",
 							"isCorrect": true
 						},
 						{
-							"text": " _____9 Luftballons",
+							"text": "<i>_____9 Luftballons</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "_____th Green Mile",
+							"text": "<i>_____th Green Mile</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Die fantastischen _____",
+							"text": "<i>Die fantastischen _____</i>",
 							"isCorrect": false
 						}
 					]
@@ -5013,27 +5013,27 @@
 					"title": "11",
 					"choices": [
 						{
-							"text": "_____ohrkücken",
+							"text": "<i>_____ohrkücken</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "_____ wie Pech und Schwefel",
+							"text": "<i>_____ wie Pech und Schwefel</i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Alarm für Cobra _____",
+							"text": "<i>Alarm für Cobra _____</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Fahrenheit 9/_____",
+							"text": "<i>Fahrenheit 9/_____</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Notruf _____2 - Die Feuerwehr Simulation 2",
+							"text": "<i>Notruf _____2 - Die Feuerwehr Simulation 2</i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Planet der _____",
+							"text": "<i>Planet der _____</i>",
 							"isCorrect": false
 						}
 					]
