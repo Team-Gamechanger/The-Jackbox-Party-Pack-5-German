@@ -1,7 +1,7 @@
 {
     "content": [
         { "id":"001", "text":"Serien zum Bingewatchen"},
-        { "id":"002", "text":"Binjpipe Original-Serien"},
+        { "id":"002", "text":"Binjpipe-Original-Serien"},
         { "id":"003", "text":"Weil du dir Mist angesehen hast"},
         { "id":"004", "text":"Ethisch tolerierte Serien"},
         { "id":"005", "text":"Weil du niedrige Ansprüche hast"},
@@ -57,7 +57,7 @@
         { "id":"055", "text":"Die werde ich mir nie anschauen"},
         { "id":"056", "text":"Action-Dramedies"},
         { "id":"057", "text":"Schlimme Fehlbesetzung"},
-        { "id":"058", "text":"Serien über's Backen?"},
+        { "id":"058", "text":"Serien übers Backen?"},
         { "id":"059", "text":"Trainingsvideos mit überraschendem Ende"},
         { "id":"060", "text":"Preisgekrönte blutige Sitcoms"},
         { "id":"061", "text":"Trendet vielleicht nächstes Jahr"},
@@ -68,8 +68,8 @@
         { "id":"066", "text":"Derzeit nicht im Gespräch"},
         { "id":"067", "text":"Am besten mit Alkohol genießbar"},
         { "id":"068", "text":"Serien mit einem Budget unter 100€"},
-        { "id":"069", "text":"Toller Ersatz für's Babysitting"},
-        { "id":"070", "text":"Serien bei denen man “Hä?” sagt"},
+        { "id":"069", "text":"Toller Ersatz fürs Babysitting"},
+        { "id":"070", "text":"Serien, bei denen man “Hä?” sagt"},
         { "id":"071", "text":"Weil du dich gerne bestrafst"},
         { "id":"072", "text":"Weil du nie aus Fehlern lernst"},
         { "id":"073", "text":"Beliebt in deinem Kaff"},
