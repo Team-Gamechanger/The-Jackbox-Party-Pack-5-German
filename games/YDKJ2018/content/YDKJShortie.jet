@@ -473,6 +473,38 @@
             ]
         },
         {
+            "id": "10014",
+            "category": {
+                "text": "Finde deine Berufung"
+            },
+            "choices": [
+                {
+                    "text": "Baldur Bestattungen UG",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Baldur Meteorologie-Service GbR",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Standesamtliche Dienstleistungen Hr. Baldur",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Beleuchtungsinstallateur Baldur GmbH",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was würde vermutlich auf der Türklingel neben dem Tor des nordischen Gottes Baldur stehen?"
+                }
+            ]
+        },
+        {
             "id": "10015",
             "category": {
                 "text": "Lach- und Krachgeschichten"
@@ -1483,38 +1515,6 @@
                 {
                     "timing": "S + 6.53",
                     "text": "Nur dort war es..."
-                }
-            ]
-        },
-        {
-            "id": "10044",
-            "category": {
-                "text": "Simm-sala-bimm-bamm"
-            },
-            "choices": [
-                {
-                    "text": "Den Akt der KONDENSATION",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Den Akt der SUBLIMATION",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Den Akt der VERDUNSTUNG",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Den Akt des SCHMELZENS",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Wenn man davon ausgeht, dass David Copperfield sich während seiner Zaubervorstellungen WIRKLICH in pure Luft auflöst, welchen chemischen Akt hätte er dann vollbracht?"
                 }
             ]
         },
@@ -5405,6 +5405,42 @@
             ]
         },
         {
+            "id": "10159",
+            "category": {
+                "text": "Zahl, bitte!"
+            },
+            "choices": [
+                {
+                    "text": "Eine Dekallion",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Dromillion",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Vigintillion",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Eine Fantastillion",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Denken Sie sich eine Zahl aus."
+                },
+                {
+                    "timing": "S + 1.66",
+                    "text": "Irgendeine reelle Zahl."
+                }
+            ]
+        },
+        {
             "id": "10160",
             "category": {
                 "text": "Von Euro-pa und Ameri-dollar"
@@ -6854,6 +6890,38 @@
                 {
                     "timing": "S + 8.49",
                     "text": "Was können Sie damit tun?"
+                }
+            ]
+        },
+        {
+            "id": "10204",
+            "category": {
+                "text": "Die sechsundfünfzigste Regel des Fight Club lautet..."
+            },
+            "choices": [
+                {
+                    "text": "\u201cKeine Hemden, keine Schuhe\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cDie Kämpfe dauern genau solange, wie sie dauern müssen\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cWenn jemand \u2019Stopp\u2019 ruft, ist der Kampf vorbei\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cNur ein Kampf auf einmal\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wie lautet die DRITTE Regel des <i>Fight Club<\/i>?"
                 }
             ]
         },
