@@ -9273,7 +9273,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Sie auch endlich jemanden mit blauem Blut heiraten wollen, aber niemanden Adeliges zur Hand haben, an wen könnten Sie sich wenden?"
+                    "text": "Wenn Sie auch endlich jemanden mit blauem Blut heiraten wollen, aber niemand Adeligen zur Hand haben, an wen könnten Sie sich wenden?"
                 }
             ]
         },
@@ -9388,7 +9388,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Ein pfeifender Hund",
+                    "text": "Einen pfeifenden Hund",
                     "isCorrect": false
                 },
                 {
@@ -9405,7 +9405,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "In Anbetracht der griechischen Wörter, von denen sich das Wort \u201cTragödie\u201d ableitet, welches der folgenden Geschenke könnte man wirklich als Tragödie bezeichnen?"
+                    "text": "In Anbetracht der griechischen Wörter, von denen sich das Wort \u201cTragödie\u201d ableitet; welches der folgenden Geschenke könnte man wirklich als Tragödie bezeichnen?"
                 }
             ]
         },
@@ -9544,7 +9544,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "Mr. Puff",
+                    "text": "Mrs. Puff",
                     "isCorrect": false
                 }
             ],
@@ -9685,7 +9685,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Der Titel welchen <i>James Bond<\/i>-Filmes beschreibt die Geschichte der Märchenfigur Scheherazade am passendsten?"
+                    "text": "Der Titel welches <i>James Bond<\/i>-Films beschreibt die Geschichte der Märchenfigur Scheherazade am passendsten?"
                 }
             ]
         },
