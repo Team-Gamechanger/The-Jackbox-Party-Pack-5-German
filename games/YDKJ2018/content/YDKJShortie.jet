@@ -479,19 +479,19 @@
             },
             "choices": [
                 {
-                    "text": "Baldur Bestattungen UG",
+                    "text": "<i>Baldur Bestattungen UG<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Baldur Meteorologie-Service GbR",
+                    "text": "<i>Baldur Meteorologie-Service GbR<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Standesamtliche Dienstleistungen Hr. Baldur",
+                    "text": "<i>Standesamtliche Dienstleistungen Hr. Baldur<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Beleuchtungsinstallateur Baldur GmbH",
+                    "text": "<i>Beleuchtungsinstallateur Baldur GmbH<\/i>",
                     "isCorrect": true
                 }
             ],

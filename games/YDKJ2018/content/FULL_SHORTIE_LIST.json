@@ -475,25 +475,24 @@
         {
             "id": "10014",
             "category": {
-                "text": "Die Gabe des Jack"
+                "text": "Finde deine Berufung"
             },
             "choices": [
                 {
-                    "text": "Die AIDA-Formel",
+                    "text": "<i>Baldur Bestattungen UG<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "best": true,
-                    "text": "Das Ad-Hominem-Argument",
+                    "text": "<i>Baldur Meteorologie-Service GbR<\/i>",
                     "isCorrect": false
                 },
                 {
-                    "text": "Das Prinzip der Reziprozität",
+                    "text": "<i>Standesamtliche Dienstleistungen Hr. Baldur<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Beleuchtungsinstallateur Baldur GmbH<\/i>",
                     "isCorrect": true
-                },
-                {
-                    "text": "Persuasive Kommunikation",
-                    "isCorrect": false
                 }
             ],
             "bumper": "NONE",
@@ -501,7 +500,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welche Werbetechnik habe ich erfolgreich bei Ihnen angewandt?"
+                    "text": "Was würde vermutlich auf der Türklingel neben dem Tor des nordischen Gottes Baldur stehen?"
                 }
             ]
         },
@@ -10662,6 +10661,402 @@
                 {
                     "timing": "S + 0.00",
                     "text": "Wenn ein Zombie 1,5 kg meines Gehirns frisst, was könnte ich ihm zurufen?"
+                }
+            ]
+        },
+        {
+            "id": "10314",
+            "category": {
+                "text": "Schwangere Frauen auf der Shoppingmeile"
+            },
+            "choices": [
+                {
+                    "text": "Pullis (für 0-8 Wochen)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Pyjamas (für 8-12 Wochen)",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Süße Hütchen (für 12-20 Wochen)",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Lätzchen (für das dritte Trimester)",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Nehmen wir an, <i>H&M<\/i> eröffnet eine neue Filliale mit dem Namen \u201cH&Embryo\u201d."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Was werden Sie dort voraussichtlich kaufen können?"
+                }
+            ]
+        },
+        {
+            "id": "10315",
+            "category": {
+                "text": "Des Mechanikers öliger Geburtstag"
+            },
+            "choices": [
+                {
+                    "text": "Anzahl der Treibstoffleitungen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Anzahl der Sicherungen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Anzahl der Zylinder",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Anzahl der Gänge",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Anzahl der Geburtstagskerzen : Anzahl der Lebensjahre ::"
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Anzahl der Zündkerzen : ?"
+                }
+            ]
+        },
+        {
+            "id": "10316",
+            "category": {
+                "text": "Legasthenie mit Henning Baum"
+            },
+            "choices": [
+                {
+                    "text": "Einer Waffe im alten Ägypten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einer Ratsversammlung im antiken Griechenland",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Einem Getränk im römischen Reich",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einem Theaterstück der Perser",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn Henning Baum statt in <i>Der letzte Bulle<\/i> die Hauptrolle in <i>Die letzte Bule<\/i> gespielt hätte, wovon würde die Serie dann handeln?"
+                }
+            ]
+        },
+        {
+            "id": "10317",
+            "category": {
+                "text": "Der aufgehende Stern im Sportgeschäft"
+            },
+            "choices": [
+                {
+                    "text": "Eine Runde Federball",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Eine Partie Golf",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Synchronschwimmen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mondfahrzeug-Rennen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Stellen Sie sich vor, Sie wollen unter freiem Himmel campen und dabei Sport schauen, doch leider fällt ihr Generator aus."
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Welche dieser Sportarten könnten Sie mit etwas Glück durch ein Teleskop beobachten, da sie wirklich schon auf dem Mond gespielt wurde?"
+                }
+            ]
+        },
+        {
+            "id": "10318",
+            "category": {
+                "text": "Ein kleiner Schritt für Jack, ein großer Schritt für Jack"
+            },
+            "choices": [
+                {
+                    "text": "Mit den Mirkonauten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mit den Argonauten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Mit den Taikonauten",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Mit den Psychonauten",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Da nur drei Länder jemals Menschen ins Weltall geschickt haben, und ich von den Astronauten und den Kosmonauten bereits abgelehnt wurde, wo liegt meine letzte Chance, ins Weltall zu kommen?"
+                }
+            ]
+        },
+        {
+            "id": "10319",
+            "category": {
+                "text": "Du sollst nicht langweiliges Fernsehen produzieren"
+            },
+            "choices": [
+                {
+                    "text": "<i>Frauentausch<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Prison Break<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Im Namen Gottes: Heiliger Verrat<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Mord ist ihr Hobby<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche dieser Shows würde, wörtlich genommen, KEINES der 10 Gebote Gottes brechen?"
+                }
+            ]
+        },
+        {
+            "id": "10320",
+            "category": {
+                "text": "Keine Panik auf der Botanik"
+            },
+            "choices": [
+                {
+                    "text": "Leberwurstbaum",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Trompetenbaum",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Blasenbaum",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Schwengelbaum",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche ist KEINE echte Baumart?"
+                }
+            ]
+        },
+        {
+            "id": "10321",
+            "category": {
+                "text": "Von Pyramiden & dreieckigen Möpsen"
+            },
+            "choices": [
+                {
+                    "text": "Die geheiligte Schüssel des Gemüses",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die goldene Statue des Fleisches",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Das kristallene Wasserglas",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Das Amulett der Speisekartoffel",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn <i>Tomb Raider<\/i> Lara Croft als nächsten antiken Tempel die Ernährungspyramide erkundet, was würde sie dann im UNTERSTEN Stock finden?"
+                }
+            ]
+        },
+        {
+            "id": "10322",
+            "category": {
+                "text": "Spiel mir das Lied vom Leben"
+            },
+            "choices": [
+                {
+                    "text": "<i>Spiel des Lebens: USA<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Spiel des Lebens: Großbritannien<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Spiel des Lebens: Italien<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Spiel des Lebens: Japan<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche dieser Editionen von <i>Spiel des Lebens<\/i> hat die KÜRZESTE Spieldauer, basierend auf der Lebenserwartung im entsprechenden Land?"
+                }
+            ]
+        },
+        {
+            "id": "10323",
+            "category": {
+                "text": "Noah, vergiss das <i>Autan<\/i> nicht!"
+            },
+            "choices": [
+                {
+                    "text": "Die beiden Stubenfliegen",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Die beiden Arbeiterbienen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die beiden Kakerlaken",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Die beiden Stechmücken",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche dieser Insekten hätte Noah einfach zurücklassen können, da sie die 40-tägige Reise auf seiner Arche sowieso nicht überlebt hätten?"
+                }
+            ]
+        },
+        {
+            "id": "10324",
+            "category": {
+                "text": "Alarm! Alarm! Alarm!"
+            },
+            "choices": [
+                {
+                    "text": "Einer möglichst dichten Wolke aus Wasserstoff und Helium",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einer Kollision zweier schwarzer Löcher",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einem explodierenden Sonnensystem",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Einem sich möglichst schnell drehenden Quasar",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bedenkt man, wie ein Neutronenstern entsteht, wonach sollte ich in der Nähe Ausschau halten, um ein möglichst frisches Exemplar finden zu können?"
+                }
+            ]
+        },
+        {
+            "id": "10325",
+            "category": {
+                "text": "Galaktische Kreischereien"
+            },
+            "choices": [
+                {
+                    "text": "\u201cAA!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cAE!\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cOY!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cUA!\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn die Erde die Sonne bezüglich der Distanz zwischen den beiden anbrüllen wollen würde, was müsste sie dann schreien?"
                 }
             ]
         }
