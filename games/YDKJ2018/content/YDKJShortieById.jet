@@ -1583,7 +1583,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cEntspannen Sie sich, und pressen Sie dann einmal kräftig aus Ihrem BAUCHNABEL.\u201d",
+                    "text": "\u201cEntspannen Sie sich und pressen Sie dann einmal kräftig aus Ihrem BAUCHNABEL.\u201d",
                     "isCorrect": false
                 },
                 {
@@ -2339,7 +2339,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was war das erste, das ich gesagt habe, nachdem ich diese Zahlenreihe zum ersten Mal vorgelesen hatte?"
+                    "text": "Was war das Erste, das ich gesagt habe, nachdem ich diese Zahlenreihe zum ersten Mal vorgelesen hatte?"
                 }
             ]
         },
@@ -2371,7 +2371,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was WAR das für eine komische Zahl in der letzten Frage?"
+                    "text": "Was war das für eine komische Zahl in der letzten Frage?"
                 }
             ]
         },
