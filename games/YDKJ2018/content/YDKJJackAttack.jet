@@ -7028,27 +7028,27 @@
 					"title": "2000er-Jahre",
 					"choices": [
 						{
-							"text": "<i>Pompeii</i> von Bastille",
+							"text": "\u201cPompeii\u201d von <i>Bastille<\/i>",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Mensch</i> von Herbert Grönemeyer",
+							"text": "\u201cMensch\u201d von Herbert Grönemeyer",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>The Spirit of the Hawk</i> von Rednex",
+							"text": "\u201cThe Spirit of the Hawk\u201d von <i>Rednex<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>It\u2019s My Life</i> von Bon Jovi",
+							"text": "\u201cIt\u2019s My Life\u201d von <i>Bon Jovi<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Ein Stern</i> von DJ Ötzi",
+							"text": "\u201cEin Stern\u201d von DJ Ötzi",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Allein Allein</i> von Polarkreis 18",
+							"text": "\u201cAllein Allein\u201d von <i>Polarkreis 18<\/i>",
 							"isCorrect": true
 						}
 					]
@@ -7057,27 +7057,27 @@
 					"title": "1990er-Jahre",
 					"choices": [
 						{
-							"text": "<i>Zombie</i> von Bad Wolves",
+							"text": "\u201cZombie\u201d von <i>Bad Wolves<\/i>",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Alles nur geklaut</i> von Die Prinzen",
+							"text": "\u201cAlles nur geklaut\u201d von <i>Die Prinzen<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Rhythm Is a Dancer</i> von Snap!",
+							"text": "\u201cRhythm Is a Dancer\u201d von <i>Snap!<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Good Life</i> von OneRepublic",
+							"text": "\u201cGood Life\u201d von <i>OneRepublic<\/i>",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Schrei nach Liebe</i> von Die Ärzte",
+							"text": "\u201cSchrei nach Liebe\u201d von <i>Die Ärzte<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>What Is Love</i> von Haddaway",
+							"text": "\u201cWhat Is Love\u201d von <i>Haddaway<\/i>",
 							"isCorrect": true
 						}
 					]
@@ -7086,27 +7086,27 @@
 					"title": "1980er-Jahre",
 					"choices": [
 						{
-							"text": "<i>Take On Me</i> von A-ha",
+							"text": "\u201cTake On Me\u201d von <i>A-ha<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Ohne Dich</i> Münchener Freiheit",
+							"text": "\u201cOhne Dich\u201d von <i>Münchener Freiheit<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Blue</i> von Eiffel 65",
+							"text": "\u201cBlue\u201d von <i>Eiffel 65<\/i>",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Bruttosozialprodukt</i> von Geier Sturzflug",
+							"text": "\u201cBruttosozialprodukt\u201d von <i>Geier Sturzflug<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Karma Chameleon</i> von Culture Club",
+							"text": "\u201cKarma Chameleon\u201d von <i>Culture Club<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Holding Out for a Hero</i> von Bonnie Tyler",
+							"text": "\u201cHolding Out for a Hero\u201d von Bonnie Tyler",
 							"isCorrect": true
 						}
 					]
@@ -7115,27 +7115,27 @@
 					"title": "1940er-Jahre",
 					"choices": [
 						{
-							"text": "<i>Paper Doll</i> von The Mills Brothers",
+							"text": "\u201cPaper Doll\u201d von <i>The Mills Brothers<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Stern von Rio</i> von Rudi Schuricke",
+							"text": "\u201cStern von Rio\u201d von Rudi Schuricke",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Michaela</i> von Bata Illic",
+							"text": "\u201cMichaela\u201d von Bata Illic",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>We Three</i> von The Ink Spots",
+							"text": "\u201cWe Three\u201d von <i>The Ink Spots<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Highway to Hell</i> von AC/DC",
+							"text": "\u201cHighway to Hell\u201d von <i>AC/DC<\/i>",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>String of Pearls</i> von Genn Miller",
+							"text": "\u201cString of Pearls\u201d von Glenn Miller",
 							"isCorrect": true
 						}
 					]
@@ -7144,27 +7144,27 @@
 					"title": "19. Jahrhundert",
 					"choices": [
 						{
-							"text": "<i>Der Mond ist aufgegangen</i> von Matthias Claudius",
+							"text": "\u201cDer Mond ist aufgegangen\u201d von Matthias Claudius",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Alle Jahre wieder</i> von Wilhelm Hey",
+							"text": "\u201cAlle Jahre wieder\u201d von Wilhelm Hey",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Stille Nacht, heilige Nacht</i> von Joseph Mohr",
+							"text": "\u201cStille Nacht, heilige Nacht\u201d von Joseph Mohr",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Hoch soll er leben</i>",
+							"text": "\u201cHoch soll er leben\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Wenn zwei sich lieben</i> von Victor Léon",
+							"text": "\u201cWenn zwei sich lieben\u201d von Victor Léon",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Alle Vögel sind schon da</i> von Hoffmann von Fallersleben",
+							"text": "\u201cAlle Vögel sind schon da\u201d von Hoffmann von Fallersleben",
 							"isCorrect": true
 						}
 					]
@@ -7173,27 +7173,27 @@
 					"title": "Mittelalter",
 					"choices": [
 						{
-							"text": "<i>Maienzeit bannet Leid</i>",
+							"text": "\u201cMaienzeit bannet Leid\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Als Adam grub und Eva spann</i>",
+							"text": "\u201cAls Adam grub und Eva spann\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Der Wind hat mir ein Lied erzählt</i>",
+							"text": "\u201cDer Wind hat mir ein Lied erzählt\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Komm Schöpfer Geist kehr bei uns ein</i>",
+							"text": "\u201cKomm, Schöpfer Geist, kehr bei uns ein\u201d",
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Ein Freund, ein guter Freund</i>",
+							"text": "\u201cEin Freund, ein guter Freund\u201d",
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Es dunkelt schon in der Heide</i>",
+							"text": "\u201cEs dunkelt schon in der Heide\u201d",
 							"isCorrect": true
 						}
 					]
@@ -7216,7 +7216,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Tourieren",
+							"text": "Tournieren",
 							"isCorrect": true
 						},
 						{
@@ -7249,7 +7249,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "NPPR",
+							"text": "NPPL",
 							"isCorrect": false
 						},
 						{
@@ -7274,7 +7274,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Dregg",
+							"text": "Dregge",
 							"isCorrect": true
 						},
 						{
@@ -7308,7 +7308,7 @@
 						},
 						{
 							"text": "RAR",
-							"isCorrect": false
+							"isCorrect": true
 						},
 						{
 							"text": "RAID",
@@ -7466,8 +7466,8 @@
 							"isCorrect": false
 						},
 						{
-							"text": "\u201cZS\u201d",
-							"isCorrect": true
+							"text": "\u201cWER\u201d",
+							"isCorrect": false
 						}
 					]
 				},
@@ -7638,7 +7638,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "\u201cLuau?\u201d",
+							"text": "\u201cSeksiä?\u201d",
 							"isCorrect": false
 						},
 						{
@@ -7822,7 +7822,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Meteoriten",
+							"text": "Meteoroiden",
 							"isCorrect": true
 						},
 						{
@@ -7905,7 +7905,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Fotosynthese",
+							"text": "Photosynthese",
 							"isCorrect": false
 						},
 						{
@@ -7994,7 +7994,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Freies </i>",
+							"text": "<i>Freies</i>",
 							"isCorrect": true
 						},
 						{
@@ -8002,7 +8002,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Pocahontas II: Die Reise in </i>",
+							"text": "<i>Pocahontas II: Die Reise in</i>",
 							"isCorrect": false
 						},
 						{
@@ -8215,7 +8215,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Fiese Freunde, Fette Feten<\/i>",
+							"text": "<i>Fiese Freunde Fette Feten<\/i>",
 							"isCorrect": false
 						}
 					]
@@ -8416,7 +8416,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>Harry Potter 3: Der Gefangene von Askaban</i>",
+							"text": "<i>Harry Potter und der Gefangene von Askaban</i>",
 							"isCorrect": false
 						},
 						{
@@ -8517,7 +8517,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "2 kg - Paket M",
+							"text": "2 kg - Päckchen M",
 							"isCorrect": true
 						}
 					]
@@ -8535,7 +8535,7 @@
 						},
 						{
 							"text": "<i>Kaiser\u2019s Tengelmann</i>",
-							"isCorrect": false
+							"isCorrect": true
 						},
 						{
 							"text": "<i>Netto</i>",
@@ -8681,7 +8681,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Delfin",
+							"text": "Gemeiner Delfin",
 							"isCorrect": true
 						},
 						{
@@ -8732,7 +8732,7 @@
 					]
 				},
 				{
-					"title": "Alter des Universums in Jahren",
+					"title": "Weniger als das Alter des Universums in Jahren",
 					"choices": [
 						{
 							"text": "Zellen im menschlichen Körper",
@@ -8752,7 +8752,7 @@
 						},
 						{
 							"text": "Baukosten des Flughafens <i>BER</i>",
-							"isCorrect": false
+							"isCorrect": true
 						},
 						{
 							"text": "Entfernung der Erde zum Mond in Metern",
@@ -8780,7 +8780,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Nashorn",
+							"text": "Breitmaulnashorn",
 							"isCorrect": true
 						},
 						{
