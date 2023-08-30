@@ -37,7 +37,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWrongAnswerAudio2"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Before",
+      "v": "Middle",
       "n": "BumperPlacement"
     },
     {
