@@ -294,7 +294,7 @@
         },
         {
             "id":"SG3",
-            "names":["Stevinho"]
+            "names":["Stevinho", "Stevicules"]
         },
         {
             "id":"SG4",
@@ -326,11 +326,35 @@
         },
         {
             "id":"SG11",
-            "names":["Patrick"]
+            "names":["PatrickKelle", "Patrick Kell"]
         },
         {
             "id":"SG12",
             "names":["Maverino"]
+        },
+        {
+            "id":"SG13",
+            "names":["Admiral Schn", "AdmSchnitzel"]
+        },
+        {
+            "id":"SG14",
+            "names":["LaraLoft", "Lara Loft"]
+        },
+        {
+            "id":"SG15",
+            "names":["VerToni", "DerVerToni"]
+        },
+        {
+            "id":"SG16",
+            "names":["SpankTB"]
+        },
+        {
+            "id":"SG17",
+            "names":["Meisterdieb"]
+        },
+        {
+            "id":"SG18",
+            "names":["TheFuchsia"]
         }
     ]
 }
