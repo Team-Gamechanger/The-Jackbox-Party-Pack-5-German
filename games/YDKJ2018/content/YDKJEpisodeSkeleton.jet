@@ -3535,7 +3535,7 @@
             "minEpisodes": 4
         },
         {
-            "commercialImage": "Bonus",
+            "commercialImage": "Oldies",
             "questions": [
                 {
                     "num": 0,
@@ -3597,7 +3597,7 @@
             "minEpisodes": 2
         },
         {
-            "commercialImage": "Bonus",
+            "commercialImage": "Oldies",
             "questions": [
                 {
                     "num": 0,
@@ -3659,7 +3659,7 @@
             "minEpisodes": 5
         },
         {
-            "commercialImage": "Bonus",
+            "commercialImage": "Oldies",
             "questions": [
                 {
                     "num": 0,
@@ -3721,7 +3721,7 @@
             "minEpisodes": 5
         },
         {
-            "commercialImage": "Bonus",
+            "commercialImage": "Oldies",
             "questions": [
                 {
                     "num": 0,
@@ -3783,7 +3783,7 @@
             "minEpisodes": 10
         },
         {
-            "commercialImage": "Bonus",
+            "commercialImage": "Oldies",
             "questions": [
                 {
                     "num": 0,
@@ -3845,7 +3845,7 @@
             "minEpisodes": 10
         },
         {
-            "commercialImage": "Bonus",
+            "commercialImage": "",
             "questions": [
                 {
                     "num": 0,
