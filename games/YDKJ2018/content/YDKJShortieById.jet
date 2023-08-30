@@ -2819,6 +2819,230 @@
                     "text": "Warum ist das denn eigentlich passiert?"
                 }
             ]
+        },
+        {
+            "id": "10044",
+            "category": {
+                "text": "Simm-sala-bimm-bamm"
+            },
+            "choices": [
+                {
+                    "text": "Den Akt der KONDENSATION",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Den Akt der SUBLIMATION",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Den Akt der VERDUNSTUNG",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Den Akt des SCHMELZENS",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "CELEBRITY",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn man davon ausgeht, dass ich mich gerade WIRKLICH in pure Luft aufgelöst habe, welchen chemischen Akt hätte ich dann vollbracht?"
+                }
+            ]
+        },
+        {
+            "id": "10324",
+            "category": {
+                "text": "Alarm! Alarm! Alarm!"
+            },
+            "choices": [
+                {
+                    "text": "Einer möglichst dichten Wolke aus Wasserstoff und Helium",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einer Kollision zweier schwarzer Löcher",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Einem explodierenden Sonnensystem",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Einem sich möglichst schnell drehenden Quasar",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Bedenkt man, wie ein Neutronenstern entsteht, wonach sollte ich in der Nähe Ausschau halten, um ein möglichst frisches Exemplar finden zu können?"
+                }
+            ]
+        },
+        {
+            "id": "10793",
+            "category": {
+                "text": "Wer sein Auto nicht liebt, der schiebt"
+            },
+            "choices": [
+                {
+                    "text": "In Fußgängerzonen",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Im eingeschränkten Halteverbot",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Vor Ein- und Ausfahrten",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Auf Frauenparkplätzen",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "SOLMECKE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "An welchem dieser Orte könnte Herr Jack nach dem Auto des blinden Schiedsrichters suchen, weil Blinde nach der StVO dort ausdrücklich parken dürfen?"
+                }
+            ]
+        },
+        {
+            "id": "10794",
+            "category": {
+                "text": "Dunkle Feste & Kalte Knäste"
+            },
+            "choices": [
+                {
+                    "text": "Überfall",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Hausfriedensbruch",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Erpressung",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Nötigung",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "SOLMECKE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Für welche dieser Straftaten könnte Herr Jack die jährlichen Halloween-Besucher anzeigen, wenn sie ihm an der Haustüre - wie jedes Jahr - mit \u201cSüßes, sonst gibt's Saures\u201d drohen?"
+                }
+            ]
+        },
+        {
+            "id": "10795",
+            "category": {
+                "text": "Von Gesetzestexten und Geschichtsepochen"
+            },
+            "choices": [
+                {
+                    "text": "24,2 Millionen Jahre",
+                    "isCorrect": false
+                },
+                {
+                    "text": "43,0 Millionen Jahre",
+                    "isCorrect": false
+                },
+                {
+                    "text": "55,6 Millionen Jahre",
+                    "isCorrect": false
+                },
+                {
+                    "text": "56,3 Millionen Jahre",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "SOLMECKE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn ich für mein Jurastudium so lange gebraucht habe, wie das geologische Jura-System dauerte, wie lange habe ich dann ungefähr studiert?"
+                }
+            ]
+        },
+        {
+            "id": "10796",
+            "category": {
+                "text": "Grubengrabungsamtsrechtsverordnungsgesetzesregelungen"
+            },
+            "choices": [
+                {
+                    "text": "Die Grube darf nicht tiefer sein als 80cm",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gruben auf Straßenbegleitgrün dürfen nur vom Amt für öffentliche Rasenpflege und Grünflächen gegraben werden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Nachbar ist verpflichtet, die Grube beim Grundbuchamt zu melden",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Ab 100 Kubikmetern wird eine Baugenehmigung benötigt",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "SOLMECKE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was müssten Sie in der Regel beachten, wenn Sie Ihrem Nachbarn spontan eine Grube graben wollten?"
+                }
+            ]
+        },
+        {
+            "id": "10797",
+            "category": {
+                "text": "Gesetzlich vorgeschriebene Gähnerei"
+            },
+            "choices": [
+                {
+                    "text": "Bob der Baumeister",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Bulle von Tölz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Karla Kolumna",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Lehrer Lämpel",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "SOLMECKE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Von welcher dieser Figuren können wir uns - gemäß geltenden deutschen Rechts - DEFINITIV sicher sein, dass sie auch einen Schulabschluss hat?"
+                }
+            ]
         }
     ]
 }

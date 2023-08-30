@@ -10299,7 +10299,7 @@
         {
             "id": "10303",
             "category": {
-                "text": "Punkrock & köstliche Kannibalenmahlzeiten"
+                "text": "Poprock & köstliche Kannibalenmahlzeiten"
             },
             "choices": [
                 {
@@ -10324,7 +10324,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Nehmen wir an, eine Gruppe von Kannibalen entführt die Punk-Sängerin P!nk und schmeißt sie auf den Grill."
+                    "text": "Nehmen wir an, eine Gruppe von Kannibalen entführt die Pop-Sängerin P!nk und schmeißt sie auf den Grill."
                 },
                 {
                     "timing": "S + 420.69",
@@ -10496,7 +10496,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher dieser <i>Ninja Turtles<\/i> ist nach dem weltberühmten Autor der Statue des <i>David<\/i> benannt?"
+                    "text": "Welcher dieser <i>Ninja Turtles<\/i> ist nach dem weltberühmten Schöpfer der Statue des <i>David<\/i> benannt?"
                 }
             ]
         },
