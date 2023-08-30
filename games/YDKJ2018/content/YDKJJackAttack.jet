@@ -9053,8 +9053,8 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Monopoly",
-							"isCorrect": false
+							"text": "Antje",
+							"isCorrect": true
 						},
 						{
 							"text": "Holle",
@@ -9376,7 +9376,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Der _____ der Kokosnuß</i>",
+							"text": "<i>Die _____ der Kokosnuß</i>",
 							"isCorrect": true
 						},
 						{
@@ -9397,7 +9397,7 @@
 					"title": "Herzog",
 					"choices": [
 						{
-							"text": "Catherine, Prinzessin von Wales",
+							"text": "Catherine, Fürstin von Wales",
 							"isCorrect": true
 						},
 						{
@@ -9405,7 +9405,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Groß",
+							"text": "Groß_____",
 							"isCorrect": true
 						},
 						{
@@ -9430,11 +9430,11 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Noir",
+							"text": "<i>Noir<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Münchhausen",
+							"text": "von Münchhausen",
 							"isCorrect": true
 						},
 						{
@@ -9496,7 +9496,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "<i>_____ der Löwen</i>",
+							"text": "<i>Der _____ der Löwen</i>",
 							"isCorrect": true
 						},
 						{
@@ -9565,7 +9565,7 @@
 						},
 						{
 							"text": "Fußball",
-							"isCorrect": true
+							"isCorrect": false
 						},
 						{
 							"text": "Pokéball",
@@ -9597,7 +9597,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "<i>adidas</i> al-Rihla",
+							"text": "<i>adidas</i> Al Rihla",
 							"isCorrect": true
 						}
 					]
@@ -9958,7 +9958,7 @@
 						},
 						{
 							"text": "<i>E.ON</i>",
-							"isCorrect": false
+							"isCorrect": true
 						}
 					]
 				},
@@ -9970,7 +9970,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "<i>Telekom</i>",
+							"text": "<i>Deutsche Telekom</i>",
 							"isCorrect": false
 						},
 						{
@@ -10024,27 +10024,27 @@
 					"title": "Eingetragene Vereine",
 					"choices": [
 						{
-							"text": "Deck13",
+							"text": "<i>Deck13<\/i>",
 							"isCorrect": false
 						},
 						{
-							"text": "NABU",
+							"text": "<i>NABU<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Verbraucherzentrale",
+							"text": "<i>Verbraucherzentrale<\/i>",
 							"isCorrect": true
 						},
 						{
-							"text": "Philips",
+							"text": "<i>Philips<\/i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Infineon",
+							"text": "<i>Infineon<\/i>",
 							"isCorrect": false
 						},
 						{
-							"text": "Aktion Deutschland Hilft",
+							"text": "<i>Aktion Deutschland Hilft<\/i>",
 							"isCorrect": true
 						}
 					]
@@ -10096,7 +10096,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Stärke",
+							"text": "Lactose",
 							"isCorrect": true
 						},
 						{
@@ -10272,7 +10272,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Jason Vorhees",
+							"text": "Jason Voorhees",
 							"isCorrect": true
 						},
 						{
@@ -10297,7 +10297,7 @@
 					"title": "Götterkräfte",
 					"choices": [
 						{
-							"text": "Herkules",
+							"text": "Tantalos",
 							"isCorrect": false
 						},
 						{
@@ -10306,7 +10306,7 @@
 						},
 						{
 							"text": "Thor",
-							"isCorrect": false
+							"isCorrect": true
 						},
 						{
 							"text": "Kratos",
@@ -10535,7 +10535,7 @@
 					"title": "Sturm & Drang",
 					"choices": [
 						{
-							"text": "Johann Wolfgang Goethe",
+							"text": "Johann Wolfgang von Goethe",
 							"isCorrect": true
 						},
 						{
@@ -10605,8 +10605,8 @@
 							"isCorrect": true
 						},
 						{
-							"text": "Edgar Degas",
-							"isCorrect": true
+							"text": "Friedensreich Hundertwasser",
+							"isCorrect": false
 						},
 						{
 							"text": "Anders Zorn",
@@ -10628,7 +10628,7 @@
 					"title": "20. Jahrhundert",
 					"choices": [
 						{
-							"text": "\u201cE-Mail & \u0040-Zeichen\u201d von Raymond Tamlinson",
+							"text": "\u201cE-Mail & \u0040-Zeichen\u201d von Raymond Tomlinson",
 							"isCorrect": true
 						},
 						{
@@ -10644,7 +10644,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "\u201cViertakt-Motor\u201d von Christian Reithmann",
+							"text": "\u201cViertaktmotor\u201d von Christian Reithmann",
 							"isCorrect": false
 						},
 						{
@@ -10669,7 +10669,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "\u201cDynamo\u201d von Sören Hjorth",
+							"text": "\u201cDynamo\u201d von S\u00F8ren Hjorth",
 							"isCorrect": true
 						},
 						{
@@ -10690,7 +10690,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "\u201cDampf-Lokomotive\u201d von Richard Trevithick",
+							"text": "\u201cDampflokomotive\u201d von Richard Trevithick",
 							"isCorrect": false
 						},
 						{
@@ -10698,8 +10698,8 @@
 							"isCorrect": false
 						},
 						{
-							"text": "\u201cVentilator\u201d von Stephen Hales",
-							"isCorrect": true
+							"text": "\u201cFotografie\u201d von Joseph Niépce",
+							"isCorrect": false
 						},
 						{
 							"text": "\u201cFeuerzeug\u201d von Johann Wolfgang Döbereiner",
@@ -10719,7 +10719,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "\u201cU-Boot\u201d von Cornelius Drebbel",
+							"text": "\u201cU-Boot\u201d von Cornelis Drebbel",
 							"isCorrect": true
 						},
 						{
@@ -10727,7 +10727,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "\u201cRollstuhl\u201d von Stephan Farftler",
+							"text": "\u201cRollstuhl\u201d von Stephan Farfler",
 							"isCorrect": true
 						},
 						{
@@ -10793,7 +10793,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "\u201cGlobus\u201d von Martin Behaim",
+							"text": "\u201cGlobus\u201d von Donnus Nicolaus Germanus",
 							"isCorrect": true
 						}
 					]
@@ -10965,7 +10965,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "Kaktuseis",
+							"text": "<i>Kaktuseis<\/i>",
 							"isCorrect": true
 						},
 						{

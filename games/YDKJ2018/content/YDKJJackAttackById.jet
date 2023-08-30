@@ -70,15 +70,15 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "1000000000",
+                            "text": "111111101",
                             "isCorrect": true
                         },
                         {
                             "text": "1010101001",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
-                            "text": "1101100111",
+                            "text": "1010101011",
                             "isCorrect": true
                         },
                         {
@@ -169,7 +169,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "101BEEP101",
+                            "text": "101BUUB101",
                             "isCorrect": true
                         },
                         {
@@ -188,23 +188,23 @@
                     "title": "Hilfe!",
                     "choices": [
                         {
-                            "text": "Ein Lied der Antilopen Gang",
+                            "text": "Ein Lied der <i>Antilopen Gang<\/i>",
                             "isCorrect": true
                         },
                         {
                             "text": "Eine Zeitschrift aus den Neunzigern",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "text": "Eine Müslimarke",
                             "isCorrect": false
                         },
                         {
-                            "text": "Ein Album der Antilopen Gang",
+                            "text": "Ein Album der <i>Antilopen Gang<\/i>",
                             "isCorrect": false
                         },
                         {
-                            "text": "Eine Zeichentrickserie auf Super RTL",
+                            "text": "Eine Zeichentrickserie auf <i>Super RTL<\/i>",
                             "isCorrect": false
                         },
                         {
@@ -233,7 +233,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "Snake Pliskin",
+                            "text": "Snake Plissken",
                             "isCorrect": true
                         },
                         {
@@ -254,7 +254,7 @@
                             "isCorrect": true
                         },
                         {
-                            "text": "<i>World of Wonders<\/i>",
+                            "text": "<i>World of Witchcraft<\/i>",
                             "isCorrect": true
                         },
                         {
@@ -467,8 +467,8 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Baba Jaga",
-                            "isCorrect": true
+                            "text": "Sandmann",
+                            "isCorrect": false
                         },
                         {
                             "text": "No Angels",
@@ -504,7 +504,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Ein Stepford Roboter",
+                            "text": "Ein Stepford-Roboter",
                             "isCorrect": true
                         }
                     ]
@@ -533,7 +533,7 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "Ulrich Adrian",
+                            "text": "Franz Josef Wagner",
                             "isCorrect": true
                         }
                     ]
@@ -615,7 +615,7 @@
                         },
                         {
                             "text": "Ar",
-                            "isCorrect": false
+                            "isCorrect": true
                         },
                         {
                             "text": "O",
@@ -680,11 +680,11 @@
                             "isCorrect": false
                         },
                         {
-                            "text": "M",
-                            "isCorrect": true
+                            "text": "R",
+                            "isCorrect": false
                         },
                         {
-                            "text": "O",
+                            "text": "L",
                             "isCorrect": true
                         }
                     ]
