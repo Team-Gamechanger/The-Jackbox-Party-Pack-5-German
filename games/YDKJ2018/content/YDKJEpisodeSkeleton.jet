@@ -3632,7 +3632,7 @@
                 {
                     "num": 6,
                     "id": "RANDOM",
-                    "type": "PlayersChoice"
+                    "type": "Gibberish"
                 },
                 {
                     "num": 7,
@@ -3641,7 +3641,7 @@
                 },
                 {
                     "num": 8,
-                    "id": "RANDOM",
+                    "id": "SPECIALTY",
                     "type": "Shortie"
                 },
                 {
@@ -3766,7 +3766,7 @@
                 {
                     "num": 8,
                     "id": "RANDOM",
-                    "type": "Shortie"
+                    "type": "Gibberish"
                 },
                 {
                     "num": 9,
@@ -3880,7 +3880,7 @@
                 {
                     "num": 6,
                     "id": "RANDOM",
-                    "type": "PlayersChoice"
+                    "type": "Gibberish"
                 },
                 {
                     "num": 7,
@@ -3889,7 +3889,7 @@
                 },
                 {
                     "num": 8,
-                    "id": "RANDOM",
+                    "id": "SPECIALTY",
                     "type": "Shortie"
                 },
                 {
