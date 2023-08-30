@@ -10931,38 +10931,6 @@
             ]
         },
         {
-            "id": "10323",
-            "category": {
-                "text": "Noah, vergiss das <i>Autan<\/i> nicht!"
-            },
-            "choices": [
-                {
-                    "text": "Die beiden Stubenfliegen",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Die beiden Arbeiterbienen",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Die beiden Kakerlaken",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Die beiden Stechmücken",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Welche dieser Insekten hätte Noah einfach zurücklassen können, da sie die 40-tägige Reise auf seiner Arche sowieso nicht überlebt hätten?"
-                }
-            ]
-        },
-        {
             "id": "10325",
             "category": {
                 "text": "Galaktische Kreischereien"
