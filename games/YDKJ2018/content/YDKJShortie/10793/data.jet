@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "S",
-      "v": "1,2,0,3",
+      "v": "1,0,2,3",
       "n": "MCOrder"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntroAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasIntro2Audio"
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWrongAnswerAudio1"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWrongAnswerAudio2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "NONE",
+      "v": "SOLMECKE",
       "n": "Bumper"
     },
     {
