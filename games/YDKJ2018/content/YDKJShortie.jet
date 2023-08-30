@@ -6300,11 +6300,11 @@
             },
             "choices": [
                 {
-                    "text": "\u201cPuh, dieses SCHARLACHFIEBER ist echt kein Spaß.\u201d",
+                    "text": "\u201cPuh, dieses SCHARLACHFIEBER ist echt kein Spaß!\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cMir macht POLIO echt schwer zu schaffen.\u201d",
+                    "text": "\u201cMir macht POLIO echt schwer zu schaffen!\u201d",
                     "isCorrect": false
                 },
                 {
@@ -6312,7 +6312,7 @@
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cSo eine DIPHTERIE wünscht man wirklich niemandem.\u201d",
+                    "text": "\u201cSo eine DIPHTERIE wünscht man wirklich niemandem!\u201d",
                     "isCorrect": false
                 }
             ],
@@ -6964,24 +6964,24 @@
             },
             "choices": [
                 {
-                    "text": "\u201cKeine Hemden, keine Schuhe\u201d",
+                    "text": "\u201cKeine Hemden, keine Schuhe.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cDie Kämpfe dauern genau solange, wie sie dauern müssen\u201d",
+                    "text": "\u201cDie Kämpfe dauern genau solange, wie sie dauern müssen.\u201d",
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cWenn jemand \u2019Stopp\u2019 ruft, ist der Kampf vorbei\u201d",
+                    "text": "\u201cWenn jemand \u2019Stopp\u2019 ruft, ist der Kampf vorbei.\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "\u201cNur ein Kampf auf einmal\u201d",
+                    "text": "\u201cNur ein Kampf auf einmal.\u201d",
                     "isCorrect": false
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",
@@ -8014,7 +8014,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, Nemos Vater aus Findet Nemo heiratet neu und bekommt ein weiteres Kind."
+                    "text": "Angenommen, Nemos Vater aus <i>Findet Nemo<\/i> heiratet neu und bekommt ein weiteres Kind."
                 },
                 {
                     "timing": "S + 4.91",
@@ -9038,7 +9038,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Mal angenommen die Booking-Agentur vermasselt die Anfrage und stellt für den Geburtstag statt einem Wolfgang-Petry-Chor stattdessen einen \u201cPetrichor\u201d."
+                    "text": "Mal angenommen, die Booking-Agentur vermasselt die Anfrage und stellt für den Geburtstag statt einem Wolfgang-Petry-Chor einen \u201cPetrichor\u201d."
                 },
                 {
                     "timing": "S + 7.69",
@@ -9334,7 +9334,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Stellen Sie sich vor, statt eines Steuerberaters haben sie einen Steuer-Burrata engagiert."
+                    "text": "Stellen Sie sich vor, statt eines Steuerberaters haben Sie einen \u201cSteuer-Burrata\u201d engagiert."
                 },
                 {
                     "timing": "S + 4.81",
@@ -9345,7 +9345,7 @@
         {
             "id": "10276",
             "category": {
-                "text": "Von griechischen Dramen & enttäuschenden Geschenken"
+                "text": "Von griechischen Dramen & enttäuschten Geschenken"
             },
             "choices": [
                 {
@@ -9478,7 +9478,7 @@
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": false,
+            "oneResponse": true,
             "questionText": [
                 {
                     "timing": "S + 0.00",

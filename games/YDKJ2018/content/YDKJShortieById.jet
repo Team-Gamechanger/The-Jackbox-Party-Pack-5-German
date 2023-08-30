@@ -1135,7 +1135,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen ich wäre ein Regio Glutealis, wie könnten Sie mich dann fachlich korrekt nennen?"
+                    "text": "Angenommen, ich wäre ein Regio Glutealis, wie könnten Sie mich dann fachlich korrekt nennen?"
                 }
             ]
         },
@@ -2867,11 +2867,11 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "Einem explodierenden Sonnensystem",
+                    "text": "Ein explodierendes Sonnensystem",
                     "isCorrect": true
                 },
                 {
-                    "text": "Einem sich möglichst schnell drehenden Quasar",
+                    "text": "Einem möglichst schnell drehenden Quasar",
                     "isCorrect": false
                 }
             ],
@@ -2944,7 +2944,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Für welche dieser Straftaten könnte Herr Jack die jährlichen Halloween-Besucher anzeigen, wenn sie ihm an der Haustüre - wie jedes Jahr - mit \u201cSüßes, sonst gibt's Saures\u201d drohen?"
+                    "text": "Für welche dieser Straftaten könnte Herr Jack die jährlichen Halloween-Besucher anzeigen, wenn sie ihm an der Haustüre - so wie jedes Jahr - mit \u201cSüßes, sonst gibt's Saures\u201d drohen?"
                 }
             ]
         },
@@ -2983,11 +2983,11 @@
         {
             "id": "10796",
             "category": {
-                "text": "Grubengrabungsamtsrechtsverordnungsgesetzesregelungen"
+                "text": "Grubengrabungsamtsrechts-Verordnungsgesetzesregelungen"
             },
             "choices": [
                 {
-                    "text": "Die Grube darf nicht tiefer sein als 80cm",
+                    "text": "Die Grube darf nicht tiefer als 80cm sein",
                     "isCorrect": false
                 },
                 {
@@ -3008,7 +3008,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was müssten Sie in der Regel beachten, wenn Sie Ihrem Nachbarn spontan eine Grube graben wollten?"
+                    "text": "Was müssten Sie in der Regel beachten, wenn Sie Ihrem Nachbarn spontan eine Grube graben wollen?"
                 }
             ]
         },
