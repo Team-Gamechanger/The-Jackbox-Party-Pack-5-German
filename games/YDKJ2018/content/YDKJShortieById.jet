@@ -2983,7 +2983,7 @@
         {
             "id": "10796",
             "category": {
-                "text": "Grubengrabungsamtsrechts-Verordnungsgesetzesregelungen"
+                "text": "Grubengrabungsamtsrechts-verordnungsgesetzesregelungen"
             },
             "choices": [
                 {
@@ -3008,7 +3008,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Was müssten Sie in der Regel beachten, wenn Sie Ihrem Nachbarn spontan eine Grube graben wollen?"
+                    "text": "Was müssen Sie in der Regel beachten, wenn Sie Ihrem Nachbarn spontan eine Grube graben wollen?"
                 }
             ]
         },

@@ -330,7 +330,7 @@
                     ]
                 },
                 {
-                    "title": "Hier kommt die Wahrheit über You Don\u2019t Know Jack: Full Stream",
+                    "title": "Hier kommt die Wahrheit über <i>You Don\u2019t Know Jack: Full Stream<\/i>",
                     "choices": [
                         {
                             "text": "Es ist nur ein lustiges Party-Spiel",
@@ -452,7 +452,7 @@
                     ]
                 },
                 {
-                    "title": "Klaut <RANDOM_PLAYER>\u2019s Kind",
+                    "title": "Klaut das Kind von <RANDOM_PLAYER>",
                     "choices": [
                         {
                             "text": "Pennywise der Clown (Es)",

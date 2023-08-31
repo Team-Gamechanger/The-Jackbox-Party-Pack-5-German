@@ -6227,7 +6227,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "David von Michelangelo",
+							"text": "<i>David<\/i> von Michelangelo",
 							"isCorrect": true
 						},
 						{
@@ -8141,7 +8141,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "\u201c0\u201d",
+							"text": "\u201c1\u201d",
 							"isCorrect": true
 						},
 						{
@@ -9417,7 +9417,7 @@
 							"isCorrect": true
 						},
 						{
-							"text": "& de Meuron",
+							"text": "<i>& de Meuron<\/i>",
 							"isCorrect": true
 						}
 					]
@@ -9426,7 +9426,7 @@
 					"title": "Baron",
 					"choices": [
 						{
-							"text": "1898",
+							"text": "<i>1898<\/i>",
 							"isCorrect": true
 						},
 						{
@@ -10669,7 +10669,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "\u201cDynamo\u201d von S\u00F8ren Hjorth",
+							"text": "\u201cDynamo\u201d von Soren Hjorth",
 							"isCorrect": true
 						},
 						{

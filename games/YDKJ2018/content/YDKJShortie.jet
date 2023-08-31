@@ -9994,7 +9994,7 @@
                 },
                 {
                     "timing": "S + 6.25",
-                    "text": "\u201cRindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz\u201d"
+                    "text": "\u201cRindfleischetikettierungsüberwachungs-aufgabenübertragungsgesetz\u201d"
                 },
                 {
                     "timing": "S + 9.64",
@@ -10145,7 +10145,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cWir trafen uns in der Gebärmutter, und wir wussten sofort, das ist es!\u201d",
+                    "text": "\u201cWir trafen uns in der Gebärmutter und wir wussten sofort, das ist es!\u201d",
                     "isCorrect": false
                 },
                 {
@@ -10209,7 +10209,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "\u201cSofort die Hände in die VIERTE POSITION, und zwar schnell!\u201d",
+                    "text": "\u201cSofort die Hände in die VIERTE POSITION und zwar schnell!\u201d",
                     "isCorrect": false
                 },
                 {
@@ -10658,7 +10658,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Nehmen wir an, <i>H&M<\/i> eröffnet eine neue Filliale mit dem Namen \u201cH&Embryo\u201d."
+                    "text": "Nehmen wir an, <i>H&M<\/i> eröffnet eine neue Filiale mit dem Namen \u201cH&Embryo\u201d."
                 },
                 {
                     "timing": "S + 4.88",
@@ -10762,7 +10762,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Stellen Sie sich vor, Sie wollen unter freiem Himmel campen und dabei Sport schauen, doch leider fällt ihr Generator aus."
+                    "text": "Stellen Sie sich vor, Sie wollen unter freiem Himmel campen und dabei Sport schauen, doch leider fällt Ihr Generator aus."
                 },
                 {
                     "timing": "S + 5.83",
@@ -10873,7 +10873,7 @@
             },
             "choices": [
                 {
-                    "text": "Die geheiligte Schüssel des Gemüses",
+                    "text": "Die geheiligte Schüssel des Gemüse",
                     "isCorrect": false
                 },
                 {
