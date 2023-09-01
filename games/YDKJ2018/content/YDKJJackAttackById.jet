@@ -615,7 +615,7 @@
                         },
                         {
                             "text": "Ar",
-                            "isCorrect": true
+                            "isCorrect": false
                         },
                         {
                             "text": "O",
