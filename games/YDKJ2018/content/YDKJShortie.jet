@@ -1244,7 +1244,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Welcher EDM-DJ droppt, gemessen an der Höhe, den höchsten Beat-Drop?"
+                    "text": "Welcher EDM-DJ droppt, gemessen an der Höhe, den höchsten Beat?"
                 }
             ]
         },
@@ -6137,7 +6137,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": " Sie wählt den Partner ihres Lebens mittels der höchst-wissenschaftlichen Untersuchung:"
+                    "text": " Sie wählt den Partner ihres Lebens mittels der höchstwissenschaftlichen Untersuchung:"
                 },
                 {
                     "timing": "S + 4.33",
@@ -8582,7 +8582,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Wenn Sie Ihren 30. Geburtstag begehen möchten, in dem Sie den Dreißigjährigen Krieg nachstellen, mit welchem der folgenden Spiele müssten Sie dann die Festlichkeiten starten?"
+                    "text": "Wenn Sie Ihren 30. Geburtstag begehen möchten, indem Sie den Dreißigjährigen Krieg nachstellen, mit welchem der folgenden Spiele müssten Sie dann die Festlichkeiten starten?"
                 }
             ]
         },

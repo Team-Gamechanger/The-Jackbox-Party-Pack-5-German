@@ -421,7 +421,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen Ihre Freundin lädt Sie ins Dormitorium ein."
+                    "text": "Angenommen, Ihre Freundin lädt Sie ins Dormitorium ein."
                 },
                 {
                     "timing": "S + 3.55",
@@ -2880,7 +2880,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Bedenkt man, wie ein Neutronenstern entsteht, wonach sollte ich in der Nähe Ausschau halten, um ein möglichst frisches Exemplar finden zu können?"
+                    "text": "Bedenkt man, wie ein Neutronenstern entsteht, wonach sollte ich in der Nähe Ausschau halten, um ein möglichst frisches Exemplar zu finden?"
                 }
             ]
         },
