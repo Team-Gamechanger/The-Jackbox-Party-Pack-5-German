@@ -9697,7 +9697,7 @@
             },
             "choices": [
                 {
-                    "text": "....in die Hölle verbannt werden",
+                    "text": "...in die Hölle verbannt werden",
                     "isCorrect": false
                 },
                 {
@@ -9705,7 +9705,7 @@
                     "isCorrect": false
                 },
                 {
-                    "text": "....Ihr Schamgefühl entdecken",
+                    "text": "...Ihr Schamgefühl entdecken",
                     "isCorrect": true
                 },
                 {
