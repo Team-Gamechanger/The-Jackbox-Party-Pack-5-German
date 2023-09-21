@@ -6065,7 +6065,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Angenommen, die Schöpfer von <i>Crocs<\/i> veröffentlichten \u201c<i>Kroko-Crocs<\/i>\u201d, eine Reihe gemütlicher Schuhe für Krokodile."
+                    "text": "Angenommen, die Schöpfer von <i>Crocs<\/i> veröffentlichten <i>Kroko-Crocs<\/i>, eine Reihe gemütlicher Schuhe für Krokodile."
                 },
                 {
                     "timing": "S + 6.28",
@@ -9718,7 +9718,7 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Stellen Sie Sich vor, Sie sind Teilnehmer bei einer streng religiösen <i>Adam sucht Eva<\/i>-Adaption."
+                    "text": "Stellen Sie Sich vor, Sie sind Teilnehmer bei einer streng religiösen <i>Adam-sucht-Eva<\/i>-Adaption."
                 },
                 {
                     "timing": "S + 5.21",
