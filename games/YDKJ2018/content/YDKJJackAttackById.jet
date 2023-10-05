@@ -719,6 +719,186 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "11504",
+            "title": "Schwamm drüber",
+            "prompts": [
+                {
+                    "title": "Die Schwammkopf-Familie",
+                    "choices": [
+                        {
+                            "text": "SpongeBob Schwammkopf",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Harold Schwammkopf",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Siegbert Schwammkopf",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Stanley S. Schwammkopf",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Larry Schwammkopf",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Eugene Schwammkopf",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "title": "Orte in Bikini Bottom",
+                    "choices": [
+                        {
+                            "text": "Quallenfelder",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Atlantis",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Industriepark",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Goo-Lagune",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Shell City",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Schwefelfelder",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "(Ex-)Angestellte der Krossen Krabbe",
+                    "choices": [
+                        {
+                            "text": "Siegbert Schnösel",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Thaddäus Tentakel",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Nosferatu",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "König Neptun",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Jim",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Patrick Star",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Hobbys von Mr. Krabs",
+                    "choices": [
+                        {
+                            "text": "Geld verdienen",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Geld berühren",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Klarinette spielen",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Geld zählen",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Blubberblasen blasen",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Comics sammeln",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Mitglieder des Superbekanntenkreises",
+                    "choices": [
+                        {
+                            "text": "Blaubarschmann",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Blaubarschbube",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Drecksackblase",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Captain Magma",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Der Chef",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Der Elastische Hosenbund",
+                            "isCorrect": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Zutaten für einen Krabbenburger",
+                    "choices": [
+                        {
+                            "text": "Gürkchen",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Big Mac-Soße",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Röstzwiebeln",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Liebe",
+                            "isCorrect": true
+                        },
+                        {
+                            "text": "Pilze",
+                            "isCorrect": false
+                        },
+                        {
+                            "text": "Boulette (aus Seepferdchenfleisch)",
+                            "isCorrect": true
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

@@ -47,6 +47,30 @@
                     "text": "Die Rolle könnte jederzeit umbesetzt werden."
                 }
             ]
+        },
+        {
+            "id": "11252",
+            "category": {
+                "text": "Depressive Zahnhygiene"
+            },
+            "gibberishText": {
+                "text": "Sorgen-Mundrad schmollt im Grund"
+            },
+            "spellings": [],
+            "correctText": {
+                "text": "Morgenstund hat Gold im Mund"
+            },
+            "clues": [
+                {
+                    "text": "\u201cOh, das klingt fast wie etwas, das Mr. Krabs oft sagt!\u201d"
+                },
+                {
+                    "text": "\u201cBesonders zu Thaddäus, weil er immer so ein Morgenmuffel ist!\u201d"
+                },
+                {
+                    "text": "\u201cAuch wenn eigentlich ja Mr. Krabs Gold im Mund hat.\u201d"
+                }
+            ]
         }
     ]
 }

@@ -21,11 +21,6 @@
       "n": "HasOutroAudio"
     },
     {
-      "t": "B",
-      "v": "true",
-      "n": "ShouldPlayEasterEgg"
-    },
-    {
       "s": "",
       "t": "A",
       "v": "category",

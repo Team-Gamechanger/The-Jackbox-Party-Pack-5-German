@@ -3043,6 +3043,267 @@
                     "text": "Von welcher dieser Figuren können wir uns - gemäß geltenden deutschen Rechts - DEFINITIV sicher sein, dass sie auch einen Schulabschluss hat?"
                 }
             ]
+        },
+        {
+            "id": "10798",
+            "category": {
+                "text": "Schleimige Fundstücke & noch schleimigere Sammlungen"
+            },
+            "choices": [
+                {
+                    "text": "Vier \u201cVeierschnecken\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Sechs \u201cSecheschnecken\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Acht \u201cAchatschnecken\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Zehn \u201cZehenschnecken\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Welche dieser Sammlungen wäre eine Sammlung der GRÖßTEN Schnecken der Welt?"
+                }
+            ]
+        },
+        {
+            "id": "10799",
+            "category": {
+                "text": "Mit 969 Jahren, da hört das Leben auf"
+            },
+            "choices": [
+                {
+                    "text": "\u201cHier, NOAH, weil du Tiere auf ein großes Boot gerettet hast.\u201d",
+                    "isCorrect": true
+                },
+                {
+                    "text": "\u201cDa, JONA, weil du von einem Wal hochgewürgt wurdest.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cNimm, MOSES, weil du mit dem brennenden Dornenbusch gesprochen hast.\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cFür dich, MARIA, und dein Kind, das du jungfräulich empfangen hast.\u201d",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Mit welchen Worten könnte Methusalem seinen Enkeln wohl Geld zustecken?"
+                }
+            ]
+        },
+        {
+            "id": "10800",
+            "category": {
+                "text": "Werd\u2019 mir jetzt ja nicht zu frisch!"
+            },
+            "choices": [
+                {
+                    "text": "<i>Und täglich grüßt das Murmeltier<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Downsizing<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>Die Truman Show<\/i>",
+                    "isCorrect": true
+                },
+                {
+                    "text": "<i>Pulp Fiction<\/i>",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "SpongeBob scheint nicht zu wissen, dass er der Titelcharakter einer beliebten Fernsehsendung ist. Welchen Film könnte er sich anschauen, um zu verstehen, in welcher Situation er sich befindet?"
+                }
+            ]
+        },
+        {
+            "id": "10801",
+            "category": {
+                "text": "Der Fluch der fehlenden Tunke"
+            },
+            "choices": [
+                {
+                    "text": "<i>MolluscaBob Schwammkopf<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>ArthropodaBob Schwammkopf<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>NematodaBob Schwammkopf<\/i>",
+                    "isCorrect": false
+                },
+                {
+                    "text": "<i>PoriferaBob Schwammkopf<\/i>",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wenn <i>SpongeBob Schwammkopf<\/i> wissenschaftlich korrekt benannt worden wäre, welchen Titel würde die Serie tragen?"
+                }
+            ]
+        },
+        {
+            "id": "10802",
+            "category": {
+                "text": "Krill Bill"
+            },
+            "choices": [
+                {
+                    "text": "Plinko",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Plankter",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Plank",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Gary",
+                    "best": true,
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was wäre, wissenschaftlich gesehen, ein korrekterer Name für das böse Genie Plankton?"
+                }
+            ]
+        },
+        {
+            "id": "10803",
+            "category": {
+                "text": "Mit Mundgeruch im Gospelchor"
+            },
+            "choices": [
+                {
+                    "text": "Auf den Quallenfeldern",
+                    "isCorrect": false
+                },
+                {
+                    "text": "In der Krossen Krabbe",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Im Streichelzoo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Im Krankenhaus",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Angenommen, ich würde mit meinem Freund Thaddäus Tentakel und seinem Cousin Thaddäus \u201cZönakel\u201d eine Tour durch Bikini Bottom machen"
+                },
+                {
+                    "timing": "S + 420.69",
+                    "text": "Wo würde Thaddäus \u201cZönakel\u201d vermutlich am liebsten den Tag verbringen?"
+                }
+            ]
+        },
+        {
+            "id": "10804",
+            "category": {
+                "text": "Multi-Kulti mit Alfred Nobel"
+            },
+            "choices": [
+                {
+                    "text": "Der Fred-Nobelpreis",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Der Friedel-Nobelpreis",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Franz-Nobelpreis",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Der Patrick-Star-Nobelpreis",
+                    "isCorrect": false
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": true,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Was könnte ein alternativer Name für den Friedensnobelpreis sein, wenn man das norwegische Wort für \u201cFrieden\u201d bedenkt?"
+                }
+            ]
+        },
+        {
+            "id": "10805",
+            "category": {
+                "text": "Die letzte Frage"
+            },
+            "choices": [
+                {
+                    "text": "In einem Maya-Tempel",
+                    "isCorrect": false
+                },
+                {
+                    "text": "In einem keltischen Kampfhelm",
+                    "isCorrect": false
+                },
+                {
+                    "text": "In einem Sonai-Kopf",
+                    "isCorrect": false
+                },
+                {
+                    "text": "In einer Moai-Statue",
+                    "isCorrect": true
+                }
+            ],
+            "bumper": "NONE",
+            "oneResponse": false,
+            "questionText": [
+                {
+                    "timing": "S + 0.00",
+                    "text": "Wo lebt Thaddäus Tentakel?"
+                }
+            ]
         }
     ]
 }

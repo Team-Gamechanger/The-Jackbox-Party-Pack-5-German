@@ -3905,6 +3905,68 @@
             ],
             "id": "12063",
             "minEpisodes": 30
+        },
+        {
+            "commercialImage": "Bonus",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "10798",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "10799",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "11082",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "10800",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "10801",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "10802",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "10803",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "11252",
+                    "type": "Gibberish"
+                },
+                {
+                    "num": 8,
+                    "id": "10804",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "10805",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "11504",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "12064",
+            "minEpisodes": 2
         }
     ]
 }

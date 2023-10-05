@@ -88,6 +88,50 @@
             "category": {
                 "text": "Hey, Sie! Was beaugapfeln Sie denn da?!"
             }
+        },
+        {
+            "questions": [
+                {
+                    "text": "<i>Das Valentinsgeschenk<\/i>",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "<i>Einmal wieder jung sein<\/i>",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "<i>Die kleine Spinnerin<\/i>",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "<i>Wo die Liebe hinfällt<\/i>",
+                    "correctChoiceString": "dis"
+                },
+                {
+                    "text": "<i>Der Vogelfänger bin ich ja<\/i>",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "<i>Geheime Liebe<\/i>",
+                    "correctChoiceString": "dat"
+                },
+                {
+                    "text": "<i>Nur geträumt<\/i>",
+                    "correctChoiceString": "dis"
+                }
+            ],
+            "disChoice": {
+                "longText": "Eine Episode von <i>SpongeBob Schwammkopf",
+                "shortText": "SPONGEBOB"
+            },
+            "datChoice": {
+                "longText": "Ein Werk von Mozart",
+                "shortText": "MOZART"
+            },
+            "id": "11082",
+            "category": {
+                "text": "Ein Krabbenburger in C-Moll mit Ketchup, bitte!"
+            }
         }
     ]
 }
