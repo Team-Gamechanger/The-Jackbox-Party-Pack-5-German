@@ -3136,7 +3136,11 @@
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "SpongeBob scheint nicht zu wissen, dass er der Titelcharakter einer beliebten Fernsehsendung ist. Welchen Film könnte er sich anschauen, um zu verstehen, in welcher Situation er sich befindet?"
+                    "text": "SpongeBob scheint nicht zu wissen, dass er der Titelcharakter einer beliebten Fernsehsendung ist."
+                },
+                {
+                    "timing": "S + 4.58",
+                    "text": "Welchen Film könnte er sich anschauen, um zu verstehen, in welcher Situation er sich befindet?"
                 }
             ]
         },
@@ -3236,7 +3240,7 @@
                     "text": "Angenommen, ich würde mit meinem Freund Thaddäus Tentakel und seinem Cousin Thaddäus \u201cZönakel\u201d eine Tour durch Bikini Bottom machen."
                 },
                 {
-                    "timing": "S + 420.69",
+                    "timing": "S + 10.46",
                     "text": "Wo würde Thaddäus \u201cZönakel\u201d vermutlich am liebsten den Tag verbringen?"
                 }
             ]
