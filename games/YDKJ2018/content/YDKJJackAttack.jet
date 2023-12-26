@@ -8552,7 +8552,7 @@
 					]
 				},
 				{
-					"title": "Items aus dem <i>Super Mario</i>-Franchise",
+					"title": "Items aus dem <i>Super-Mario</i>-Franchise",
 					"choices": [
 						{
 							"text": "Roter Panzer",
@@ -8563,7 +8563,7 @@
 							"isCorrect": false
 						},
 						{
-							"text": "1UP-Pilz",
+							"text": "1-Up-Pilz",
 							"isCorrect": true
 						},
 						{
