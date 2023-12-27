@@ -1,1 +1,96 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"Ponys | Melasse | das Besiegen der Avengers | Richard Nixon | \u201890er Animes","n":"Decoys"},{"t":"S","v":"S+10.86","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"S+4.51","n":"$ScenarioAudio$ScenarioTextCue2"},{"t":"S","v":"","n":"ScenarioText3"},{"t":"S","v":"S+9.38","n":"$ScenarioAudio$ScenarioTextCue3"},{"t":"S","v":"Du willst <OTHERPLAYER> das perfekte Geschenk machen, also begibst du dich in seine/ihre Träume. Du wirst exakt das finden, was <OTHERPLAYER> will… doch du wirst auch die Fantasie über <BLANK> mitbekommen.","n":"ScenarioText1"},{"t":"S","v":"S+0.00","n":"$ScenarioAudio$ScenarioTextCue1"},{"t":"S","v":"","n":"ScenarioText2"},{"t":"S","v":"Ist es das wert?","n":"QuestionText"},{"s":"Träume meinen kleinen Traum","t":"A","v":"758165_1","n":"CategoryAudio"},{"s":"Du willst <OTHERPLAYER> das perfekte Geschenk machen, also begibst du dich in seine/ihre Träume. Du wirst exakt das finden, was <OTHERPLAYER> will… doch du wirst auch die Fantasie über <BLANK> mitbekommen. \r\nIst es das wert?","t":"A","v":"758166_2","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ist es das wert?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ponys | Gurken | das Besiegen der Avengers | Helmut Kohl | 90er Animes",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Um das perfekte Geschenk zu finden, begibst du dich in die Träume von <OTHERPLAYER>.",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "Du wirst exakt herausfinden, was sich <OTHERPLAYER> wünscht...",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "das beinhaltet unausweichlich aber auch die geheimsten Fantasien über",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>.",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "s": "Traumspitzeleien",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Um das perfekte Geschenk zu finden, begibst du dich in die Träume von <OTHERPLAYER>. Du wirst exakt herausfinden, was sich <OTHERPLAYER> wünscht... das beinhaltet unausweichlich aber auch die geheimsten Fantasien über <BLANK>.\r\nIst es das wert?",
+      "t": "A",
+      "v": "scenario",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

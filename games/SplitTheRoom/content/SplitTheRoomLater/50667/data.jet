@@ -1,1 +1,96 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"Tragen von Pyjamas in der Öffentlichkeit für einen Monat | Schuhe shoppen mit dem Anführer | Trinken deines eigenen Urins | Adoptieren eines Haustier-Alligators | Tragen keiner Unterwäsche","n":"Decoys"},{"t":"S","v":"S+9.34","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"S+3.90","n":"$ScenarioAudio$ScenarioTextCue2"},{"t":"S","v":"","n":"ScenarioText3"},{"t":"S","v":"S+5.90","n":"$ScenarioAudio$ScenarioTextCue3"},{"t":"S","v":"","n":"ScenarioText4"},{"t":"S","v":"Du bist dabei, einen gnadenlosen Diktator zu treffen. Es wird von dir erwartet, dass du seine Füsse küsst. Solltest du ablehnen, wirst du zu/m <BLANK> verurteilt. Deine öffentliche Ablehnung könnte eine Revolution auslösen.","n":"ScenarioText1"},{"t":"S","v":"S+0.00","n":"$ScenarioAudio$ScenarioTextCue1"},{"t":"S","v":"","n":"ScenarioText2"},{"t":"S","v":"S+7.21","n":"$ScenarioAudio$ScenarioTextCue4"},{"t":"S","v":"Küsst du seine Füsse?","n":"QuestionText"},{"s":"Zweifelhafte Autorität","t":"A","v":"725240_1","n":"CategoryAudio"},{"s":"Du bist dabei, einen gnadenlosen Diktator zu treffen. Es wird von dir erwartet, dass du seine Füsse küsst. Solltest du ablehnen, wirst du zu/m <BLANK> verurteilt. Deine öffentliche Ablehnung könnte eine Revolution auslösen. \r\nKüsst du seine Füsse?","t":"A","v":"725213_2","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Küsst du seine Füße?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einen Monat lang in der Öffentlichkeit einen Schlafanzug tragen | mit dem Anführer Schuhe shoppen | deinen eigenen Urin trinken | einen Haustier-Alligator adoptieren | nie wieder Unterwäsche tragen",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Du bist dabei, einen gnadenlosen Diktator zu treffen. Es wird von dir erwartet, dass du seine Füße küsst.",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "Solltest du ablehnen, musst du zur Strafe",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>.",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "Deine öffentliche Ablehnung könnte eine Revolution auslösen.",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "s": "Zweifelhafte Autorität",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Du bist dabei, einen gnadenlosen Diktator zu treffen. Es wird von dir erwartet, dass du seine Füße küsst. Solltest du ablehnen, musst du zur Strafe <BLANK>. Deine öffentliche Ablehnung könnte eine Revolution auslösen.\r\nKüsst du seine Füße?",
+      "t": "A",
+      "v": "scenario",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

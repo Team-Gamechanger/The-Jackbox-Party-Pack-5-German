@@ -1,1 +1,102 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"false","n":"HasCategoryAudio"},{"t":"B","v":"true","n":"HasResponseAudio"},{"t":"S","v":"Amateur-Jongleure des Ozeans | Borat an Bord | Kid Rocks Landfahrt | Eilfahrtswoche auf dem Wasser | Impro-Ahoy!","n":"Decoys"},{"t":"S","v":"Senioren-Singles","n":"Answer"},{"t":"S","v":"S+10.07","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"ALL_YES","n":"Keywords"},{"t":"S","v":"S+4.31","n":"$ScenarioAudio$ScenarioTextCue2"},{"t":"S","v":"","n":"ScenarioText3"},{"t":"S","v":"S+9.08","n":"$ScenarioAudio$ScenarioTextCue3"},{"t":"S","v":"Du hast eine Woche auf einer speziellen Partykreuzfahrt gebucht, aber du hast die Termine durcheinander gebracht. Als du das Dock betrittst, sind nur noch zwei Themen-Schiffe verfügbar: Senioren-Singles oder <BLANK>.","n":"ScenarioText1"},{"t":"S","v":"S+0.00","n":"$ScenarioAudio$ScenarioTextCue1"},{"t":"S","v":"","n":"ScenarioText2"},{"t":"S","v":"Welche Themenkreuzfahrt wählst du?","n":"QuestionText"},{"s":"Themen-Kreuzfahrtsoption [FINALE]","t":"A","n":"CategoryAudio"},{"s":"Du hast eine Woche auf einer speziellen Partykreuzfahrt gebucht, aber du hast die Termine durcheinander gebracht. Als du das Dock betrittst, sind nur noch zwei Themen-Schiffe verfügbar: Senioren-Singles oder <BLANK>. \r\nWelche Themenkreuzfahrt wählst du?","t":"A","v":"758155_2","n":"ScenarioAudio"},{"s":"Just don\u2019t break Edith\u2019s heart. Girl\u2019s been through enough.","t":"A","v":"758158_1","n":"ResponseAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Welche Themenkreuzfahrt wählst du?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Senioren-Singles",
+      "n": "Answer"
+    },
+    {
+      "t": "S",
+      "v": "Amateur-Jongleure des Ozeans | Borat an Bord | Kid Rocks Landfahrt | Eilfahrtswoche auf dem Wasser | Impro-Ahoy!",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "ALL_YES",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Du hast eine Woche auf einer speziellen Partykreuzfahrt gebucht, aber du hast die Termine durcheinander gebracht. Als du das Dock betrittst, sind nur noch zwei Themen-Schiffe verfügbar: Senioren-Singles oder <BLANK>.",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "s": "Hochsee-Spezial",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Du hast eine Woche auf einer speziellen Partykreuzfahrt gebucht, aber du hast die Termine durcheinander gebracht. Als du das Dock betrittst, sind nur noch zwei Themen-Schiffe verfügbar: Senioren-Singles oder <BLANK>.\r\nWelche Themenkreuzfahrt wählst du?",
+      "t": "A",
+      "v": "scenario",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "Bitte brich Emma nicht das Herz. Sie hat schon genug durchgemacht.",
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    }
+  ]
+}

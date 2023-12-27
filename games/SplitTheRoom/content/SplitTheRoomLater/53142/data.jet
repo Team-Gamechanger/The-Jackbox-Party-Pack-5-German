@@ -1,1 +1,96 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"Killer Klown | Mister Murder | Der Kitzler | Herrenbaby | Crusher McCrush","n":"Decoys"},{"t":"S","v":"S+8.03","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"S+4.01","n":"$ScenarioAudio$ScenarioTextCue2"},{"t":"S","v":"","n":"ScenarioText3"},{"t":"S","v":"S+6.70","n":"$ScenarioAudio$ScenarioTextCue3"},{"t":"S","v":"Du und <OTHERPLAYER> seid ein professionelles Wrestling-Tag-Team. Ihr befindet euch gerade im Ring und kämpft gegen einen Kämpfer namens <BLANK>.","n":"ScenarioText1"},{"t":"S","v":"S+0.00","n":"$ScenarioAudio$ScenarioTextCue1"},{"t":"S","v":"","n":"ScenarioText2"},{"t":"S","v":"Gehst du mit rein?","n":"QuestionText"},{"s":"Wrestling","t":"A","v":"759113_1","n":"CategoryAudio"},{"s":"Du und <OTHERPLAYER> seid ein professionelles Wrestling-Tag-Team. Ihr befindet euch gerade im Ring und kämpft gegen einen Kämpfer namens <BLANK>. \r\nGehst du mit rein?","t":"A","v":"759114_2","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Folgst du deinem Kameraden in den Ring?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Killer Klown | Mister Mordlust | Der Kitzler | Das erwachsene Baby | Crusher McCrushface",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Du und <OTHERPLAYER> seid ein professionelles Wrestling-Tag-Team.",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "Ihr werdet im Ring erwartet, um gegen einen Kämpfer namens",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "anzutreten.",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "s": "Wrestling",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Du und <OTHERPLAYER> seid ein professionelles Wrestling-Tag-Team. Ihr werdet im Ring erwartet, um gegen einen Kämpfer namens <BLANK> anzutreten.\r\nFolgst du deinem Kameraden in den Ring?",
+      "t": "A",
+      "v": "scenario",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

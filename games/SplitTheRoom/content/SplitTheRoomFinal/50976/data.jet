@@ -1,1 +1,102 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"true","n":"HasResponseAudio"},{"t":"S","v":"Wasser in Wein zu verwandeln | für eine Stunde fliegen zu können | Gedanken lesen zu können | das dreifache deines Gewichts heben zu können | nicht schlafen zu müssen","n":"Decoys"},{"t":"S","v":"Goldtopf","n":"Answer"},{"t":"S","v":"S+5.50","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"SPLIT","n":"Keywords"},{"t":"S","v":"S+1.58","n":"$ScenarioAudio$ScenarioTextCue2"},{"t":"S","v":"","n":"ScenarioText3"},{"t":"S","v":"S+4.50","n":"$ScenarioAudio$ScenarioTextCue3"},{"t":"S","v":"Du hast einen Kobold gefangen. Er bietet dir seinen Goldtopf oder die Möglichkeit <BLANK> an.","n":"ScenarioText1"},{"t":"S","v":"S+0.00","n":"$ScenarioAudio$ScenarioTextCue1"},{"t":"S","v":"","n":"ScenarioText2"},{"t":"S","v":"Für welches Angebot entscheidest du dich?","n":"QuestionText"},{"s":"Geschenk eines gefangenen Kobolds [FINALE]","t":"A","v":"728912_0","n":"CategoryAudio"},{"s":"Du hast einen Kobold gefangen. Er bietet dir seinen Goldtopf oder die Möglichkeit <BLANK> an. \r\nFür welches Angebot entscheidest du dich?","t":"A","v":"728913_2","n":"ScenarioAudio"},{"s":"The important thing is that you captured a leprechaun.","t":"A","v":"728916_1","n":"ResponseAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Für was entscheidest du dich?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Topf voller Gold",
+      "n": "Answer"
+    },
+    {
+      "t": "S",
+      "v": "Wasser in Wein zu verwandeln zu können | für eine Stunde fliegen zu können | Gedanken lesen zu können | das dreifache deines Gewichts heben zu können | nicht schlafen zu müssen",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "SPLIT",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Du hast einen Kobold gefangen.",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "Er bietet dir seinen Topf voller Gold oder",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "an.",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "s": "Ende des gespaltenen Lichts",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Du hast einen Kobold gefangen. Er bietet dir seinen Topf voller Gold oder <BLANK> an.\r\nFür was entscheidest du dich?",
+      "t": "A",
+      "v": "scenario",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "Das bemerkenswerte hier ist, dass du einen Kobold gefangen hast!",
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    }
+  ]
+}

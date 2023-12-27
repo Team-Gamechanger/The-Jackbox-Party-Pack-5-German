@@ -1,1 +1,96 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"Ich kann nicht weiter lügen… | Meine wahre Identität ist… | Es ist entschieden: ich werde morden… | Ich hab mir immer gewünscht, ich könnte… | Zu meinem Geburtstag möchte ich…","n":"Decoys"},{"t":"S","v":"S+8.95","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"S+4.88","n":"$ScenarioAudio$ScenarioTextCue2"},{"t":"S","v":"","n":"ScenarioText3"},{"t":"S","v":"S+7.40","n":"$ScenarioAudio$ScenarioTextCue3"},{"t":"S","v":"Dein Lebensgefährte führt immer sein Tagebuch mit sich, doch heute findest du es offen auf dem Schreibtisch liegen. Du blickst auf den letzten Eintrag, dieser beginnt mit: \u201c<BLANK>\u201d","n":"ScenarioText1"},{"t":"S","v":"S+0.00","n":"$ScenarioAudio$ScenarioTextCue1"},{"t":"S","v":"","n":"ScenarioText2"},{"t":"S","v":"Liest du weiter?","n":"QuestionText"},{"s":"Privatsphäre?","t":"A","v":"753971_1","n":"CategoryAudio"},{"s":"Dein Lebensgefährte führt immer sein Tagebuch mit sich, doch heute findest du es offen auf dem Schreibtisch liegen. Du blickst auf den letzten Eintrag, dieser beginnt mit: \u201c<BLANK>\u201d \r\nLiest du weiter?","t":"A","v":"753972_2","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Liest du weiter?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ich kann nicht weiter lügen… | Meine wahre Identität ist… | Es ist entschieden: ich werde morden… | Ich hab mir immer gewünscht, ich könnte… | Zu meinem Geburtstag möchte ich…",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Dein/e Partner/in hat sonst immer sein/ihr Tagebuch dabei, aber heute findest du es aufgeschlagen auf dem Schreibtisch.",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "Du blickst auf den letzten Eintrag, der mit",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "\"<BLANK>\"",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "beginnt.",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "s": "Privatsphäre?",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Dein/e Partner/in hat sonst immer sein/ihr Tagebuch dabei, aber heute findest du es aufgeschlagen auf dem Schreibtisch. Du blickst auf den letzten Eintrag, der mit \"<BLANK>\" beginnt.\r\nLiest du weiter?",
+      "t": "A",
+      "v": "scenario",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

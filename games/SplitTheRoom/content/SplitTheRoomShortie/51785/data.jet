@@ -1,1 +1,101 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"furzt | bellt | Schlagzeug spielt | Meeresfrüchte in der Mikrowelle aufwärmt | staubsaugt","n":"Decoys"},{"t":"S","v":"S+10.60","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"S+2.60","n":"$ScenarioAudio$ScenarioTextCue2"},{"t":"S","v":"","n":"ScenarioText3"},{"t":"S","v":"S+9.00","n":"$ScenarioAudio$ScenarioTextCue3"},{"t":"S","v":"Eine Luxushotel-Kette macht dir ein sonderbares Angebot. Du erhältst einen 75%igen Rabatt an jedem ihrer Standorte, aber dein Zimmer wird immer neben jemanden sein, der <BLANK>.","n":"ScenarioText1"},{"t":"S","v":"S+0.00","n":"$ScenarioAudio$ScenarioTextCue1"},{"t":"S","v":"","n":"ScenarioText2"},{"t":"S","v":"Nimmst du das Angebot an?","n":"QuestionText"},{"s":"Hotel-Check-In","t":"A","v":"740164_1","n":"CategoryAudio"},{"s":"Eine Luxushotel-Kette macht dir ein sonderbares Angebot. Du erhältst einen 75%igen Rabatt an jedem ihrer Standorte, aber dein Zimmer wird immer neben jemanden sein, der <BLANK>. \r\nNimmst du das Angebot an?","t":"A","v":"740165_3","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Nimmst du das Angebot an?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Answer"
+    },
+    {
+      "t": "S",
+      "v": "furzt | bellt | Schlagzeug spielt | Meeresfrüchte in der Mikrowelle aufwärmt | staubsaugt",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Eine Luxushotel-Kette macht dir ein sonderbares Angebot.",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "Du erhältst einen 75%-igen Rabatt an jedem ihrer Standorte, aber dein Zimmer wird immer neben jemanden sein, der",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>.",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "s": "Hotel-Check-In",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Eine Luxushotel-Kette macht dir ein sonderbares Angebot. Du erhältst einen 75%-igen Rabatt an jedem ihrer Standorte, aber dein Zimmer wird immer neben jemanden sein, der <BLANK>.\r\nNimmst du das Angebot an?",
+      "t": "A",
+      "v": "scenario",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

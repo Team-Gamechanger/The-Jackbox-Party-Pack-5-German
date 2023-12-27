@@ -1,1 +1,96 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"Erdbeergelee | Stacheldraht | geräucherten Lachsstücken | Margarine | Vanillepudding","n":"Decoys"},{"t":"S","v":"S+7.48","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"S+3.35","n":"$ScenarioAudio$ScenarioTextCue2"},{"t":"S","v":"","n":"ScenarioText3"},{"t":"S","v":"S+4.80","n":"$ScenarioAudio$ScenarioTextCue3"},{"t":"S","v":"Jeglicher Sand ist für dich Treibsand, ausser du bedeckst deinen Körper mit <BLANK>. Dein Partner möchte am Strand heiraten.","n":"ScenarioText1"},{"t":"S","v":"S+0.00","n":"$ScenarioAudio$ScenarioTextCue1"},{"t":"S","v":"","n":"ScenarioText2"},{"t":"S","v":"Buchst du eine Strand-Location?","n":"QuestionText"},{"s":"Dieses sinkende Gefühl","t":"A","v":"762898_1","n":"CategoryAudio"},{"s":"Jeglicher Sand ist für dich Treibsand, ausser du bedeckst deinen Körper mit <BLANK>. Dein Partner möchte am Strand heiraten. \r\nBuchst du eine Strand-Location?","t":"A","v":"762899_2","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Buchst du die Strand-Location?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Erdbeermarmelade | Stacheldraht | geräucherten Lachsstücken | Margarine | Vanillepudding",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Aufgrund eines Fluchs verhält sich jeder Sand für dich wie Treibsand.",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "Außer, du bedeckst deinen Körper mit",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>.",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "Dein Partner möchte am Strand heiraten.",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "s": "Im Boden versinken",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Aufgrund eines Fluchs verhält sich jeder Sand für dich wie Treibsand. Außer, du bedeckst deinen Körper mit <BLANK>. Dein Partner möchte am Strand heiraten.\r\nBuchst du die Strand-Location?",
+      "t": "A",
+      "v": "scenario",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

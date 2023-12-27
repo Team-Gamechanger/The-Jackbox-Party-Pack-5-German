@@ -1,1 +1,102 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"false","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"Russland in Kanada einmarschiert | Tupac noch lebt | Atlantis unter Miami gefunden wurde | ein neuer bewohnbarer Planet gefunden wurde | ein sprechender Hund gefunden wurde","n":"Decoys"},{"t":"S","v":"S+10.20","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"","n":"ScenarioText3"},{"t":"S","v":"","n":"ScenarioText4"},{"t":"S","v":"Du bist Redakteur einer grossen Zeitung. Deine beiden Star-Reporter reichen jeweils eine unglaubliche Geschichte ein. Du kannst deine gesamte Titelseite entweder dafür widmen, dass Elvis noch lebt oder <BLANK>.","n":"ScenarioText1"},{"t":"S","v":"","n":"ScenarioText2"},{"t":"S","v":"S+9.18","n":"$ScenarioAudio$ScenarioTextCue4"},{"t":"S","v":"Elvis lebt","n":"Answer"},{"t":"S","v":"S+1.90","n":"$ScenarioAudio$ScenarioTextCue2"},{"t":"S","v":"S+5.10","n":"$ScenarioAudio$ScenarioTextCue3"},{"t":"S","v":"S+0.00","n":"$ScenarioAudio$ScenarioTextCue1"},{"t":"S","v":"Welche Geschichte bringst du auf die Titelseite?","n":"QuestionText"},{"s":"Schlagzeile auf der Titelseite [FINALE]","t":"A","n":"CategoryAudio"},{"s":"Du bist Redakteur einer grossen Zeitung. Deine beiden Star-Reporter reichen jeweils eine unglaubliche Geschichte ein. Du kannst deine gesamte Titelseite entweder dafür widmen, dass Elvis noch lebt oder <BLANK>. \r\n","t":"A","v":"760476_2","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Welche Geschichte bringst du auf die Titelseite?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Elvis Presley lebt noch",
+      "n": "Answer"
+    },
+    {
+      "t": "S",
+      "v": "Russland in Kanada einmarschiert | Tupac noch lebt | Atlantis unter Miami gefunden wurde | ein neuer bewohnbarer Planet gefunden wurde | ein sprechender Hund gefunden wurde",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Du bist Chef-Redakteur einer großen Zeitung.",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "Deine beiden Star-Reporter reichen jeweils eine unglaubliche Geschichte ein.",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "Du kannst deine gesamte Titelseite entweder dafür verwenden, dass Elvis Presley noch lebt oder",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>.",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "s": "Extrablatt",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Du bist Chef-Redakteur einer großen Zeitung. Deine beiden Star-Reporter reichen jeweils eine unglaubliche Geschichte ein. Du kannst deine gesamte Titelseite entweder dafür verwenden, dass Elvis Presley noch lebt oder <BLANK>.\r\nWelche Geschichte bringst du auf die Titelseite?",
+      "t": "A",
+      "v": "scenario",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "Und wie überzeugen wir die Leser nun das es kein falsch getimter Aprilscherz war?",
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    }
+  ]
+}

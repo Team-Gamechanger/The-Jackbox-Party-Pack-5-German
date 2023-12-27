@@ -1,1 +1,101 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"false","n":"HasResponseAudio"},{"t":"S","v":"HERZERKANKUNGEN | REIZDARMSYNDROME | AKNE | HAARAUSFALL | BRONCHITIS","n":"Decoys"},{"t":"S","v":"S+11.98","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"","n":"Keywords"},{"t":"S","v":"S+5.38","n":"$ScenarioAudio$ScenarioTextCue2"},{"t":"S","v":"","n":"ScenarioText3"},{"t":"S","v":"S+9.26","n":"$ScenarioAudio$ScenarioTextCue3"},{"t":"S","v":"","n":"ScenarioText4"},{"t":"S","v":"Spinnen sind zu sehr mächtigen Wesen geworden, wodurch die meisten Pestizide wirkungslos wurden. Der einzige Spray der noch funktioniert trägt das Warnetikett \u201cWARNUNG: KANN <BLANK> VERURSACHEN.\u201c Dein Haus ist mit Spinnen befallen.","n":"ScenarioText1"},{"t":"S","v":"S+0.00","n":"$ScenarioAudio$ScenarioTextCue1"},{"t":"S","v":"","n":"ScenarioText2"},{"t":"S","v":"S+10.54","n":"$ScenarioAudio$ScenarioTextCue4"},{"t":"S","v":"Verwendest du den Spray?","n":"QuestionText"},{"s":"Spinnenproblem","t":"A","v":"726498_0","n":"CategoryAudio"},{"s":"Spinnen sind zu sehr mächtigen Wesen geworden, wodurch die meisten Pestizide wirkungslos wurden. Der einzige Spray der noch funktioniert trägt das Warnetikett \u201cWARNUNG: KANN <BLANK> VERURSACHEN.\u201c Dein Haus ist mit Spinnen befallen. \r\nVerwendest du den Spray?","t":"A","v":"726253_1","n":"ScenarioAudio"},{"s":"","t":"A","n":"ResponseAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Verwendest du den Spray?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Answer"
+    },
+    {
+      "t": "S",
+      "v": "HERZERKANKUNGEN | REIZDARMSYNDROME | AKNE | HAARAUSFALL | BRONCHITIS",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Spinnen sind zu sehr mächtigen Wesen geworden, wodurch die meisten Pestizide wirkungslos wurden.",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "Das einzige Spray, das noch funktioniert, trägt das Warnetikett “WARNUNG: KANN",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "VERURSACHEN.“ Dein Haus ist mit Spinnen befallen.",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "s": "Spinnenproblem",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Spinnen sind zu sehr mächtigen Wesen geworden, wodurch die meisten Pestizide wirkungslos wurden. Das einzige Spray, das noch funktioniert, trägt das Warnetikett “WARNUNG: KANN <BLANK> VERURSACHEN.“ Dein Haus ist mit Spinnen befallen.\r\nVerwendest du den Spray?",
+      "t": "A",
+      "v": "scenario",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ResponseAudio"
+    }
+  ]
+}

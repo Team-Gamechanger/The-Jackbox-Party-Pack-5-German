@@ -1,1 +1,102 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"true","n":"HasResponseAudio"},{"t":"S","v":"eine Tragetasche des nationalen Rundfunksenders | drei Euro | einen gelben Notizblock | ein kaputtes Lichtschwert | eine Gummi-Ente","n":"Decoys"},{"t":"S","v":"die <i>Bones<\/i> DVD","n":"Answer"},{"t":"S","v":"S+12.28","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"ALL_NO","n":"Keywords"},{"t":"S","v":"S+5.55","n":"$ScenarioAudio$ScenarioTextCue2"},{"t":"S","v":"","n":"ScenarioText3"},{"t":"S","v":"S+11.28","n":"$ScenarioAudio$ScenarioTextCue3"},{"t":"S","v":"Ein temperamentvoller zehnjähriger Junge hat die Welt erobert und verlangt Geschenke. An dem dir zugeteilten Tag, um ihn zu besänftigen, kannst du nur die Staffel 10 DVD-Box von <i>Bones<\/i> und <BLANK> finden.","n":"ScenarioText1"},{"t":"S","v":"S+0.00","n":"$ScenarioAudio$ScenarioTextCue1"},{"t":"S","v":"","n":"ScenarioText2"},{"t":"S","v":"Was schenkst du ihm?","n":"QuestionText"},{"s":"Temparamentvolle Geschenke [FINALE]","t":"A","v":"724936_1","n":"CategoryAudio"},{"s":"Ein temperamentvoller zehnjähriger Junge hat die Welt erobert und verlangt Geschenke. An dem dir zugeteilten Tag, um ihn zu besänftigen, kannst du nur die Staffel 10 DVD-Box von <i>Bones<\/i> und <BLANK> finden. \r\nWas schenkst du ihm?","t":"A","v":"722946_2","n":"ScenarioAudio"},{"s":"Really?! Kids Love David Boreanaz!","t":"A","v":"722949_0","n":"ResponseAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Was schenkst du ihm?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "die <i>Bones</i>-DVDs",
+      "n": "Answer"
+    },
+    {
+      "t": "S",
+      "v": "eine Tragetasche des nationalen Rundfunksenders | drei Euro | einen gelben Notizblock | ein kaputtes Lichtschwert | eine Gummi-Ente",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "ALL_NO",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Ein temperamentvoller zehnjähriger Junge hat die Welt erobert und verlangt Geschenke.",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "An dem Tag, der dir zugeteilt wurde, um ihn zu besänftigen, kannst du nur die DVD-Box mit der 10. Staffel von <i>Bones</i> und",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "finden.",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "s": "Temparamentvolle Geschenke",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Ein temperamentvoller zehnjähriger Junge hat die Welt erobert und verlangt Geschenke. An dem Tag, der dir zugeteilt wurde, um ihn zu besänftigen, kannst du nur die DVD-Box mit der 10. Staffel von <i>Bones</i> und <BLANK> finden.\r\nWas schenkst du ihm?",
+      "t": "A",
+      "v": "scenario",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "Echt jetzt? Kinder lieben David Boreanaz.",
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    }
+  ]
+}

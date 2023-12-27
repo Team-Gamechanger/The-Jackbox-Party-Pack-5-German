@@ -1,1 +1,102 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"true","n":"HasResponseAudio"},{"t":"S","v":"20 Liter Bleifarbe | ein komplettes \u201cEine schrecklich nette Familie\u201d DVD-Box-Set | Square Dance Stunden | ein Scooter | eine Packung abgefülltes Wasser","n":"Decoys"},{"t":"S","v":"S+9.77","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"ONE_YES","n":"Keywords"},{"t":"S","v":"","n":"ScenarioText3"},{"t":"S","v":"","n":"ScenarioText4"},{"t":"S","v":"Du erscheinst spät bei einer stillen Auktion eines Kollegen. Leider hast du versprochen, 100 Euro auf einen Artikel zu bieten. Die einzigen Dinge, die noch übrig sind, ist eine Kiste mit Erdnüssen und <BLANK>.","n":"ScenarioText1"},{"t":"S","v":"","n":"ScenarioText2"},{"t":"S","v":"S+8.74","n":"$ScenarioAudio$ScenarioTextCue4"},{"t":"S","v":"Kiste Erdnüsse","n":"Answer"},{"t":"S","v":"S+2.49","n":"$ScenarioAudio$ScenarioTextCue2"},{"t":"S","v":"S+5.58","n":"$ScenarioAudio$ScenarioTextCue3"},{"t":"S","v":"S+0.00","n":"$ScenarioAudio$ScenarioTextCue1"},{"t":"S","v":"Auf welchen Artikel bietest du?","n":"QuestionText"},{"s":"","t":"A","v":"744189_1","n":"CategoryAudio"},{"s":"Du erscheinst spät bei einer stillen Auktion eines Kollegen. Leider hast du versprochen, 100 Euro auf einen Artikel zu bieten. Die einzigen Dinge, die noch übrig sind, ist eine Kiste mit Erdnüssen und <BLANK>. \r\n","t":"A","v":"744190_2","n":"ScenarioAudio"},{"s":"Apparently, someone here works for a shipping company.","t":"A","v":"744193_1","n":"ResponseAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Auf welchen Artikel bietest du?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Packung Erdnüsse",
+      "n": "Answer"
+    },
+    {
+      "t": "S",
+      "v": "20 Liter weiße Wandfarbe | ein komplettes “Bravo Hits” CD-Set | Disco Fox Stunden | ein Scooter | eine Flasche Mineralswasser (still)",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "ONE_YES",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Du bist sehr spät zu einer stillen Auktion eines Freundes gegangen.",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "Du hast versprochen, 100 Euro für einen Artikel zu bieten.",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "Es sind nur noch eine Packung Erdnüsse und",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK> übrig geblieben.",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "s": "Unterm Hammer",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Du bist sehr spät zu einer stillen Auktion eines Freundes gegangen. Du hast versprochen, 100 Euro für einen Artikel zu bieten. Es sind nur noch eine Packung Erdnüsse und <BLANK> übrig geblieben.\r\nAuf welchen Artikel bietest du?",
+      "t": "A",
+      "v": "scenario",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "Da arbeitet doch einer für nen Lieferdienst.",
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    }
+  ]
+}

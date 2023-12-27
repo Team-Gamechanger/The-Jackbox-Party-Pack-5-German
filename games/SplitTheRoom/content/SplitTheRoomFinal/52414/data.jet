@@ -1,1 +1,102 @@
-{"fields":[{"t":"B","v":"true","n":"HasScenarioAudio"},{"t":"B","v":"true","n":"HasCategoryAudio"},{"t":"B","v":"true","n":"HasResponseAudio"},{"t":"S","v":"Möbelpackerei | der Desinfektion von Bowlingschuhen | Pickelausdrücker | Kraftfahrzeugskontrolleur | dem Entfernen von Kaugummi von Tischen","n":"Decoys"},{"t":"S","v":"S+10.27","n":"$ScenarioAudio$QuestionTextCue"},{"t":"S","v":"SPLIT","n":"Keywords"},{"t":"S","v":"","n":"ScenarioText3"},{"t":"S","v":"","n":"ScenarioText4"},{"t":"S","v":"Ehrenamtliche Teilzeit-Arbeit ist nun verpflichtend. Die begehrtesten Jobs sind bereits weg. Als verbleibende Optionen kannst du zwischen der Desinfektion von Krankenhausbetten oder <BLANK> wählen","n":"ScenarioText1"},{"t":"S","v":"","n":"ScenarioText2"},{"t":"S","v":"S+9.25","n":"$ScenarioAudio$ScenarioTextCue4"},{"t":"S","v":"Desinfektion von Krankenhausbetten","n":"Answer"},{"t":"S","v":"S+3.41","n":"$ScenarioAudio$ScenarioTextCue2"},{"t":"S","v":"S+5.62","n":"$ScenarioAudio$ScenarioTextCue3"},{"t":"S","v":"S+0.00","n":"$ScenarioAudio$ScenarioTextCue1"},{"t":"S","v":"Welchen ehrenamtlichen Job nimmst du an?","n":"QuestionText"},{"s":"","t":"A","v":"749273_0","n":"CategoryAudio"},{"s":"Ehrenamtliche Teilzeit-Arbeit ist nun verpflichtend. Die begehrtesten Jobs sind bereits weg. Als verbleibende Optionen kannst du zwischen der Desinfektion von Krankenhausbetten oder <BLANK> wählen \r\n","t":"A","v":"749274_2","n":"ScenarioAudio"},{"s":"This group would definitely need to be forced to volunteer.","t":"A","v":"749277_1","n":"ResponseAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasScenarioAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCategoryAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasResponseAudio"
+    },
+    {
+      "t": "S",
+      "v": "Welchen ehrenamtlichen Job nimmst du an?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Desinfektion von Krankenhausbetten",
+      "n": "Answer"
+    },
+    {
+      "t": "S",
+      "v": "Umzugshelfer | der Desinfektion von Bowlingschuhen | Pickelausdrücker | Kraftfahrzeugskontrolleur | dem Entfernen von Kaugummi von Tischen",
+      "n": "Decoys"
+    },
+    {
+      "t": "S",
+      "v": "SPLIT",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "Ehrenamtliche Teilzeit-Arbeit ist nun verpflichtend. Die begehrtesten Jobs sind bereits alle vergeben.",
+      "n": "ScenarioText1"
+    },
+    {
+      "t": "S",
+      "v": "Als verbleibende Optionen kannst du zwischen der Desinfektion von Krankenhausbetten oder",
+      "n": "ScenarioText2"
+    },
+    {
+      "t": "S",
+      "v": "<BLANK>",
+      "n": "ScenarioText3"
+    },
+    {
+      "t": "S",
+      "v": "wählen.",
+      "n": "ScenarioText4"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$QuestionTextCue"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue1"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue2"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue3"
+    },
+    {
+      "t": "S",
+      "v": "S+0.00",
+      "n": "$ScenarioAudio$ScenarioTextCue4"
+    },
+    {
+      "s": "Pflicht-Ehrenamt",
+      "t": "A",
+      "v": "category",
+      "n": "CategoryAudio"
+    },
+    {
+      "s": "Ehrenamtliche Teilzeit-Arbeit ist nun verpflichtend. Die begehrtesten Jobs sind bereits alle vergeben. Als verbleibende Optionen kannst du zwischen der Desinfektion von Krankenhausbetten oder <BLANK> wählen.\r\nWelchen ehrenamtlichen Job nimmst du an?",
+      "t": "A",
+      "v": "scenario",
+      "n": "ScenarioAudio"
+    },
+    {
+      "s": "Diese Gruppe wird absolut dazu gezwungen werden müssen.",
+      "t": "A",
+      "v": "response",
+      "n": "ResponseAudio"
+    }
+  ]
+}
