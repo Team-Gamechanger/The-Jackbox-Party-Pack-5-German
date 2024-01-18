@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du und vier weitere Gäste werden in einem Büfett-Restaurant gefangen gehalten. Wenn ihr, alles in einer Stunde übriggebliebene Essen, verspeist, werdet ihr frei gelassen. Du kannst entweder fünf Liter Bratensauce trinken oder <BLANK> essen.",
+      "v": "Du und vier weitere Gäste werden in einem Buffet-Restaurant gefangen gehalten.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Wenn ihr innerhalb einer Stunde alles Essen aufgegessen habt, werdet ihr freigelassen. Du kannst entweder fünf Liter Bratensoße trinken oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "zu dir nehmen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du und vier weitere Gäste werden in einem Büfett-Restaurant gefangen gehalten. Wenn ihr, alles in einer Stunde übriggebliebene Essen, verspeist, werdet ihr frei gelassen. Du kannst entweder fünf Liter Bratensauce trinken oder <BLANK> essen.\r\nWelche Nahrung wählst du, um dein Leben zu retten?",
+      "s": "Du und vier weitere Gäste werden in einem Buffet-Restaurant gefangen gehalten. Wenn ihr innerhalb einer Stunde alles Essen aufgegessen habt, werdet ihr freigelassen. Du kannst entweder fünf Liter Bratensoße trinken oder <BLANK> zu dir nehmen.\r\nWelche Nahrung wählst du, um dein Leben zu retten?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Wiederlich.",
+      "s": "Widerlich.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

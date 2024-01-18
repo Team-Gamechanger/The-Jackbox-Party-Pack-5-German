@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du nimmst das Angebot eines sehr lukrativen Jobs, als Stripper, an. Gemäss den Unternehmensregeln muss dein Notfall-Kontakt entweder deine Grossmutter oder <BLANK> sein.",
+      "v": "Du nimmst einen sehr lukrativen Job als Stripper an.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Nach den Regeln der Firma muss dein Notfallkontakt entweder deine Großmutter oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "sein.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du nimmst das Angebot eines sehr lukrativen Jobs, als Stripper, an. Gemäss den Unternehmensregeln muss dein Notfall-Kontakt entweder deine Grossmutter oder <BLANK> sein.\r\nWen wählst du, als deinen Notfall-Kontakt?",
+      "s": "Du nimmst einen sehr lukrativen Job als Stripper an. Nach den Regeln der Firma muss dein Notfallkontakt entweder deine Großmutter oder <BLANK> sein.\r\nWen wählst du, als deinen Notfall-Kontakt?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

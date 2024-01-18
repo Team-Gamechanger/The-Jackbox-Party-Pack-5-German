@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du hast einen Flugzeugabsturz auf einen Berg überlebt, und musst nun Menschen essen um zu überleben. Du kannst <OTHERPLAYER> oder <BLANK> wählen.",
+      "v": "Du hast einen Flugzeugabsturz überlebt und musst nun Menschen essen, um zu überleben.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst <OTHERPLAYER> oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "wählen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast einen Flugzeugabsturz auf einen Berg überlebt, und musst nun Menschen essen um zu überleben. Du kannst <OTHERPLAYER> oder <BLANK> wählen.\r\nWen isst du, um zu überleben?",
+      "s": "Du hast einen Flugzeugabsturz überlebt und musst nun Menschen essen, um zu überleben. Du kannst <OTHERPLAYER> oder <BLANK> wählen.\r\nWen isst du, um zu überleben?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

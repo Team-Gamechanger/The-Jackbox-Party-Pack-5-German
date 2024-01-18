@@ -32,22 +32,22 @@
     },
     {
       "t": "S",
-      "v": "ALL_YES",
+      "v": "",
       "n": "Keywords"
     },
     {
       "t": "S",
-      "v": "Du leitest ein kleines Unternehmen, das dringend jemanden einstellen muss - und zwar so schnell wie möglich. Du bekommst nur zwei Bewerber. Einer ist dein Stiefvater, der andere ist <BLANK>.",
+      "v": "Du leitest ein kleines Unternehmen, das dringend jemanden einstellen muss - und zwar so schnell wie möglich.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du hast nur zwei Bewerber. Einer ist dein Schwiegervater, der andere",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du leitest ein kleines Unternehmen, das dringend jemanden einstellen muss - und zwar so schnell wie möglich. Du bekommst nur zwei Bewerber. Einer ist dein Stiefvater, der andere ist <BLANK>.\r\nWen stellst du ein?",
+      "s": "Du leitest ein kleines Unternehmen, das dringend jemanden einstellen muss - und zwar so schnell wie möglich. Du hast nur zwei Bewerber. Einer ist dein Schwiegervater, der andere <BLANK>.\r\nWen stellst du ein?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Echt harter Job-Markt.",
+      "s": "Der Berufsmarkt ist hart umkämpft.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

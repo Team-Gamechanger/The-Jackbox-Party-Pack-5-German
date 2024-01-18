@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Für eine einzige Stunde verschwindet jeder, ausser dir von der Welt. Die Erde ist leer und offen zugänglich. Du könntest durch das Haus deiner Nachbarn gehen oder <BLANK>.",
+      "v": "Für eine Stunde verschwinden alle Menschen von der Welt, nur du nicht.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du könntest das Haus deines Nachbarn durchsuchen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Für eine einzige Stunde verschwindet jeder, ausser dir von der Welt. Die Erde ist leer und offen zugänglich. Du könntest durch das Haus deiner Nachbarn gehen oder <BLANK>.\r\nWie verbringst du deine wertvolle Stunde?",
+      "s": "Für eine Stunde verschwinden alle Menschen von der Welt, nur du nicht. Du könntest das Haus deines Nachbarn durchsuchen oder <BLANK>.\r\nWie verbringst du deine wertvolle Stunde?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

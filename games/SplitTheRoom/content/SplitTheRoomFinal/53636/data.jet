@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du bist der Geschäftsführer einer Parfümfirma. Du kannst grünes Licht für einen neuen Duft geben, zur Wahl steht: <OTHERPLAYER> oder <BLANK>.",
+      "v": "Du bist der Geschäftsführer einer Parfümfirma.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst grünes Licht für ein neues Parfüm geben, das nach <OTHERPLAYER> oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "riecht.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist der Geschäftsführer einer Parfümfirma. Du kannst grünes Licht für einen neuen Duft geben, zur Wahl steht: <OTHERPLAYER> oder <BLANK>.\r\nWonach soll dein neues Parfüm riechen?",
+      "s": "Du bist der Geschäftsführer einer Parfümfirma. Du kannst grünes Licht für ein neues Parfüm geben, das nach <OTHERPLAYER> oder <BLANK> riecht.\r\nWonach soll dein neues Parfüm riechen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "frecher Geist | russischer Mob | nie erlischendes Feuer | Stinktier-Familie | Nachtklub",
+      "v": "ein frecher Geist | ein russischer Mob | ein nie erlischendes Feuer | eine Stinktier-Familie | ein Nachtklub",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Bei der Suche nach dem Haken findest du heraus, dass ein/e",
+      "v": "Bei einer Suche nach dem Haken findest du heraus, dass",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast dein Traumhaus gefunden und das noch richtig günstig. Bei der Suche nach dem Haken findest du heraus, dass ein/e <BLANK> im Keller ist.\r\nKaufst du das Haus?",
+      "s": "Du hast dein Traumhaus gefunden und das noch richtig günstig. Bei einer Suche nach dem Haken findest du heraus, dass <BLANK> im Keller ist.\r\nKaufst du das Haus?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

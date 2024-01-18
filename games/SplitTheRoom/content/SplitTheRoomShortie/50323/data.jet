@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Dein Fitnessstudio hat gerade ein hochmodernes Gerät aufgestellt, mit dem du problemlos 2.000 Kalorien in 5 Minuten verbrennen kannst.",
+      "v": "Dein Fitnessstudio hat ein hochmodernes Gerät aufgestellt, mit dem du problemlos 2.000 Kalorien in 5 Minuten verbrennen kannst.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "So funktioniert es: draufstellen und pantomimen, wie du",
+      "v": "So funktioniert es: Draufstellen und pantomimen, wie du",
       "n": "ScenarioText2"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Fühl die Verbrennung",
+      "s": "Schämend schlank",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Dein Fitnessstudio hat gerade ein hochmodernes Gerät aufgestellt, mit dem du problemlos 2.000 Kalorien in 5 Minuten verbrennen kannst. So funktioniert es: draufstellen und pantomimen, wie du <BLANK>. Das Studio ist voll, aber das Gerät ist verfügbar.\r\nBenutzt du es?",
+      "s": "Dein Fitnessstudio hat ein hochmodernes Gerät aufgestellt, mit dem du problemlos 2.000 Kalorien in 5 Minuten verbrennen kannst. So funktioniert es: Draufstellen und pantomimen, wie du <BLANK>. Das Studio ist voll, aber das Gerät ist verfügbar.\r\nBenutzt du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

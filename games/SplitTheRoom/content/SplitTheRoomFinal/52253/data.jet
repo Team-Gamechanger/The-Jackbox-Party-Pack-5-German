@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du bist ein Stunt Double für einen Action-Schauspieler. Du wirst für eine von zwei Szenen benötigt. Du kannst zwischen zwei Stunts wählen: den Sprung in ein rasendenes Auto oder <BLANK>.",
+      "v": "Du bist ein Stunt-Double für einen Action-Schauspieler. Du wirst für eine von zwei Szenen gebraucht.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst zwischen zwei Stunts wählen: dem Sprung in ein rasantes Auto oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein Stunt Double für einen Action-Schauspieler. Du wirst für eine von zwei Szenen benötigt. Du kannst zwischen zwei Stunts wählen: den Sprung in ein rasendenes Auto oder <BLANK>.\r\nWelchen Stunt übernimmst du?",
+      "s": "Du bist ein Stunt-Double für einen Action-Schauspieler. Du wirst für eine von zwei Szenen gebraucht. Du kannst zwischen zwei Stunts wählen: dem Sprung in ein rasantes Auto oder <BLANK>.\r\nWelchen Stunt übernimmst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ich hätte wohl noch die Schlangen im Auto erwähnen sollen. LOS JETZT!",
+      "s": "Ich hätte wohl noch die Schlangen im Auto erwähnen sollen. Naja, jetzt habt ihr euch schon entschieden.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

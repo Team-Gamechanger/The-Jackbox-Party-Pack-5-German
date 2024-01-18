@@ -27,12 +27,12 @@
     },
     {
       "t": "S",
-      "v": "Moskito | Anglerfisch| Ameise | Eiche | Guppy",
+      "v": "Moskito | Anglerfisch| Ameise | Eiche | Fruchtfliege",
       "n": "Decoys"
     },
     {
       "t": "S",
-      "v": "ALL_NO",
+      "v": "ALL_YES",
       "n": "Keywords"
     },
     {
@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ich wette das ihr euch so oder so scheiße ernährt.",
+      "s": "Immerhin müsst ihr eure Ernährung so nicht umstellen.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

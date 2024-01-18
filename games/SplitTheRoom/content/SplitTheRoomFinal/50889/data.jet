@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Welche koppelst du ab?",
+      "v": "Welchen Teil koppelst du ab?",
       "n": "QuestionText"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "",
+      "v": "ALL_YES",
       "n": "Keywords"
     },
     {
@@ -42,17 +42,17 @@
     },
     {
       "t": "S",
-      "v": "Die einzige Lösung ist, eine Sektion abzukoppeln, entweder das Badezimmer ODER den/die",
+      "v": "Die einzige Lösung ist, eine Sektion abzukoppeln, entweder das Badezimmer ODER ",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "<BLANK>",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": ". Ihr seid zwei Monate von eurem Ziel entfernt.",
+      "v": "Ihr seid zwei Monate von eurem Ziel entfernt.",
       "n": "ScenarioText4"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist der Kapitän eines Raumschiffs, das zu viel Gewicht mit sich führt. Die einzige Lösung ist, eine Sektion abzukoppeln, entweder das Badezimmer ODER den/die <BLANK> . Ihr seid zwei Monate von eurem Ziel entfernt.\r\nWelche koppelst du ab?",
+      "s": "Du bist der Kapitän eines Raumschiffs, das zu viel Gewicht mit sich führt. Die einzige Lösung ist, eine Sektion abzukoppeln, entweder das Badezimmer ODER  <BLANK>. Ihr seid zwei Monate von eurem Ziel entfernt.\r\nWelchen Teil koppelst du ab?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Das war eine Scheiss-Entscheidung.",
+      "s": "Das war eine echt beschissene Entscheidung.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

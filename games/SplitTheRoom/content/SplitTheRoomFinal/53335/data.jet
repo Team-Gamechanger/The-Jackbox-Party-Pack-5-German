@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du erhälst die Gabe einer Super-Balance; du wirst nie wieder hinfallen oder stolpern. Aber als Nebeneffekt entwickelst du das Unvermögen auf Stühlen zu sitzen oder die Unfähigkeit <BLANK>.",
+      "v": "Du erhältst die Gabe der Superbalance; du wirst nie wieder fallen oder stolpern.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Als Nebeneffekt entwickelt du die Unfähigkeit, auf einem Stuhl zu sitzen, oder die Unfähigkeit,",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du erhälst die Gabe einer Super-Balance; du wirst nie wieder hinfallen oder stolpern. Aber als Nebeneffekt entwickelst du das Unvermögen auf Stühlen zu sitzen oder die Unfähigkeit <BLANK>.\r\nWelche Fähigkeit gibst du auf?",
+      "s": "Du erhältst die Gabe der Superbalance; du wirst nie wieder fallen oder stolpern. Als Nebeneffekt entwickelt du die Unfähigkeit, auf einem Stuhl zu sitzen, oder die Unfähigkeit, <BLANK>.\r\nWelche Fähigkeit gibst du auf?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

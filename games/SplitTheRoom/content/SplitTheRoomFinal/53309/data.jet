@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Mindestens einmal am Tag unterbricht dich dein Kollege, um dir zu sagen: “Naja, eigentlich...”. Du kannst ihn nicht davon abhalten, dich zu unterbrechen, aber du kannst seine Aussage ändern. Er kann entweder “Ich unterbreche dich ungern, aber...” oder “<BLANK>” sagen.",
+      "v": "Mindestens einmal am Tag unterbricht dich dein Kollege und sagt: “Also eigentlich...”.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst nicht verhindern, dass er dich unterbricht, aber du kannst seine Aussage ändern.",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Er kann entweder sagen: “Ich unterbreche dich ungern, aber...” oder",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "“<BLANK>”.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Mindestens einmal am Tag unterbricht dich dein Kollege, um dir zu sagen: “Naja, eigentlich...”. Du kannst ihn nicht davon abhalten, dich zu unterbrechen, aber du kannst seine Aussage ändern. Er kann entweder “Ich unterbreche dich ungern, aber...” oder “<BLANK>” sagen.\r\nWelche Phrase lässt du den Unterbrecher sagen?",
+      "s": "Mindestens einmal am Tag unterbricht dich dein Kollege und sagt: “Also eigentlich...”. Du kannst nicht verhindern, dass er dich unterbricht, aber du kannst seine Aussage ändern. Er kann entweder sagen: “Ich unterbreche dich ungern, aber...” oder “<BLANK>”.\r\nWelche Phrase lässt du den Unterbrecher sagen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

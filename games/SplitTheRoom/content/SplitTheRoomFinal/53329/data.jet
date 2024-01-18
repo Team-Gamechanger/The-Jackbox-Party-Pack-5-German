@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du triffst ein gutmütiges und allwissendes Wesen. Du darfst eine Frage stellen... aber es muss entweder “Was ist mit den Flamingos los?” oder “<BLANK>?” sein.",
+      "v": "Du begegnest einem gütigen und allwissenden Wesen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du darfst eine Frage stellen...aber sie muss entweder \"Was ist mit den Flamingos los?\" oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "\"<BLANK>\"",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "lauten.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du triffst ein gutmütiges und allwissendes Wesen. Du darfst eine Frage stellen... aber es muss entweder “Was ist mit den Flamingos los?” oder “<BLANK>?” sein.\r\nWelche Frage stellst du dem allwissenden Wesen?",
+      "s": "Du begegnest einem gütigen und allwissenden Wesen. Du darfst eine Frage stellen...aber sie muss entweder \"Was ist mit den Flamingos los?\" oder \"<BLANK>\" lauten.\r\nWelche Frage stellst du dem allwissenden Wesen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

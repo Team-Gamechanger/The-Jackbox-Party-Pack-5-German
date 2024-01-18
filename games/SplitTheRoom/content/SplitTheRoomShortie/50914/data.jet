@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Der einzige Nachteil: wir erleben alle fünf Jahre",
+      "v": "Der einzige Nachteil: Wir erleben alle fünf Jahre",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du kannst das Klima mit einem Satelliten steuern. Der einzige Nachteil: wir erleben alle fünf Jahre <BLANK>. In Kanada sind es aktuell 36 Grad Celsius… im Januar.\r\nSchickst du den Satelliten in den Orbit?",
+      "s": "Du kannst das Klima mit einem Satelliten steuern. Der einzige Nachteil: Wir erleben alle fünf Jahre <BLANK>. In Kanada sind es aktuell 36 Grad Celsius… im Januar.\r\nSchickst du den Satelliten in den Orbit?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

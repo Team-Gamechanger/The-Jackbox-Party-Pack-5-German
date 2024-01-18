@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du erwischt den Weihnachtsmann in deiner Wohnung. Er will seine Existenz geheim halten und du willigst ein, gegen eine kleines Bestechung Stillschweigen zu bewahren.",
+      "v": "Du erwischt den Weihnachtsmann in deiner Wohnung. Er will seine Existenz geheim halten und du willigst ein, gegen einen kleinen Gefallen Stillschweigen zu bewahren.",
       "n": "ScenarioText1"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du erwischt den Weihnachtsmann in deiner Wohnung. Er will seine Existenz geheim halten und du willigst ein, gegen eine kleines Bestechung Stillschweigen zu bewahren. Du kannst zwischen zwei Fähigkeiten wählen: entweder immer das perfekte Geschenk für jede Person zu finden oder <BLANK>.\r\nWelche Fähigkeit nimmst du vom Weihnachtsmann an?",
+      "s": "Du erwischt den Weihnachtsmann in deiner Wohnung. Er will seine Existenz geheim halten und du willigst ein, gegen einen kleinen Gefallen Stillschweigen zu bewahren. Du kannst zwischen zwei Fähigkeiten wählen: entweder immer das perfekte Geschenk für jede Person zu finden oder <BLANK>.\r\nWelche Fähigkeit nimmst du vom Weihnachtsmann an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Wie auch immer ihr den Weihnachtsmann gefangen habt.",
+      "s": "Wie auch immer der Weihnachtsmann überhaupt erst in eure gierigen Griffel gekommen ist.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

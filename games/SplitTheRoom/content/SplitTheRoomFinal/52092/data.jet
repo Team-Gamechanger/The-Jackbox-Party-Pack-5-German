@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Schlachthofarbeiter | Schornsteinfeger | Proktologen | Schneeräumer | Schlangenbetreuer",
+      "v": "Schlachthofarbeiter | Schornsteinfeger | Proktologe | Schneeräumer | Schlangenbetreuer",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "In der Zukunft werden dir im Alter von 16 Jahren Jobs vom Staat zugewiesen. Du kannst dich zwischen einem Madenzüchter oder einem <BLANK> entscheiden.",
+      "v": "In Zukunft wirst du mit 16 Jahren vom Staat eine Arbeit zugewiesen bekommen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du hast die Wahl zwischen Madenzüchter und",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "In der Zukunft werden dir im Alter von 16 Jahren Jobs vom Staat zugewiesen. Du kannst dich zwischen einem Madenzüchter oder einem <BLANK> entscheiden.\r\nWelchen zugewiesenen Job übernimmst du?",
+      "s": "In Zukunft wirst du mit 16 Jahren vom Staat eine Arbeit zugewiesen bekommen. Du hast die Wahl zwischen Madenzüchter und <BLANK>.\r\nWelchen zugewiesenen Job übernimmst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Das sticht auf LinkedIn wirklich raus.",
+      "s": "Wer braucht da schon LinkedIn?",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du wirst für zwei Wochen in Einzelhaft genommen. Die Wachen erlauben dir, eine Sache mitzunehmen. Du kannst entweder ein 10.000-Teile Puzzle oder <BLANK> mitnehmen.",
+      "v": "Du kommst für zwei Wochen in Einzelhaft. Die Wärter erlauben dir, einen Gegenstand mitzunehmen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du darfst entweder ein Puzzle mit 10.000 Teilen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "mitnehmen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wirst für zwei Wochen in Einzelhaft genommen. Die Wachen erlauben dir, eine Sache mitzunehmen. Du kannst entweder ein 10.000-Teile Puzzle oder <BLANK> mitnehmen.\r\nWas nimmst du für deine Einzelhaft mit?",
+      "s": "Du kommst für zwei Wochen in Einzelhaft. Die Wärter erlauben dir, einen Gegenstand mitzunehmen. Du darfst entweder ein Puzzle mit 10.000 Teilen oder <BLANK> mitnehmen.\r\nWas nimmst du für deine Einzelhaft mit?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ich glaube ein Teil fehlt.",
+      "s": "Ich glaube, ein Teil fehlt.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "deine Pflanzen giessen | sexy Sachen | deine Feinde ermorden | Frühstück machen| Gartenarbeit",
+      "v": "deine Pflanzen giessen | sexy Sachen | deine Feinde lynchen| Frühstück machen| Gartenarbeit",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du bist berechtigt, einen Roboterassistenten zu bekommen. Er wird nur eine Aufgabe erfüllen können: Wäsche waschen oder <BLANK>.",
+      "v": "Du schaffst dir einen hochmodernen Roboterassistenten an.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Er kann nur eine Aufgabe ausführen: Wäsche waschen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist berechtigt, einen Roboterassistenten zu bekommen. Er wird nur eine Aufgabe erfüllen können: Wäsche waschen oder <BLANK>.\r\nWelche Aufgabe soll der Roboter für dich erledigen?",
+      "s": "Du schaffst dir einen hochmodernen Roboterassistenten an. Er kann nur eine Aufgabe ausführen: Wäsche waschen oder <BLANK>.\r\nWelche Aufgabe soll der Roboter für dich erledigen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

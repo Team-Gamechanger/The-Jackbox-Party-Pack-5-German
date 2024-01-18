@@ -81,7 +81,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Tief Durchatmen",
+      "s": "Ansteckungsgefahr",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Einige von euch haben richtig gewählt. Ihr wisst wer ihr seid.",
+      "s": "Ein Teil von euch hat richtig gewählt. Ihr wisst, wer.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

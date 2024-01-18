@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du kandidierst für ein politisches Amt. Unglücklicherweise sind dir zwei Erpressungsversuche zugetragen worden. Ein Bild auf dem du ein Eichhörnchen trittst und ein Bild auf dem du <BLANK>. Du kannst die Veröffentlichung von nur einem Bild stoppen.",
+      "v": "Du kandidierst für ein politisches Amt. Leider erpressen dich Erpresser mit zwei Bildern.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Ein Bild, auf dem du ein Eichhörnchen trittst, und ein Bild, auf dem du",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst nur die Veröffentlichung eines Bildes verhindern.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du kandidierst für ein politisches Amt. Unglücklicherweise sind dir zwei Erpressungsversuche zugetragen worden. Ein Bild auf dem du ein Eichhörnchen trittst und ein Bild auf dem du <BLANK>. Du kannst die Veröffentlichung von nur einem Bild stoppen.\r\nWelches Bild soll nicht an die Öffentlichkeit?",
+      "s": "Du kandidierst für ein politisches Amt. Leider erpressen dich Erpresser mit zwei Bildern. Ein Bild, auf dem du ein Eichhörnchen trittst, und ein Bild, auf dem du <BLANK>. Du kannst nur die Veröffentlichung eines Bildes verhindern.\r\nWelches Bild soll nicht an die Öffentlichkeit?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

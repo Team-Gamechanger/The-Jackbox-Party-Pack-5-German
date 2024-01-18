@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Jeder in deiner Freundesgruppe wird gezwungen, einen anonymen und kurzen Fragebogen über dich auszufüllen... du musst die Resultate lesen. Du kannst zwischen zwei Fragen wählen: “Was nervt dich an mir?” oder “<BLANK>?”",
+      "v": "Alle Mitglieder deiner Freundesgruppe werden gebeten, einen kurzen, anonymen Fragebogen über dich auszufüllen...",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du musst die Ergebnisse lesen. Du kannst zwischen zwei Fragen wählen: “Was nervt dich an mir?” oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "“<BLANK>”.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Jeder in deiner Freundesgruppe wird gezwungen, einen anonymen und kurzen Fragebogen über dich auszufüllen... du musst die Resultate lesen. Du kannst zwischen zwei Fragen wählen: “Was nervt dich an mir?” oder “<BLANK>?”\r\nWelche Frage lässt du deine Freunde beantworten?",
+      "s": "Alle Mitglieder deiner Freundesgruppe werden gebeten, einen kurzen, anonymen Fragebogen über dich auszufüllen... Du musst die Ergebnisse lesen. Du kannst zwischen zwei Fragen wählen: “Was nervt dich an mir?” oder “<BLANK>”.\r\nWelche Frage lässt du deine Freunde beantworten?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

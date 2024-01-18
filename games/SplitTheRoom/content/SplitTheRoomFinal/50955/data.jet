@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "deine Goldbarren | die Urne deiner Grossmutter | deine Geburtsurkunde | deine Bargeldstapel | dein Haustier",
+      "v": "deine Goldbarren | die Urne deiner Oma| deine Geburtsurkunde | deine Bargeldstapel | dein Haustier",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Dein Haus brennt. Du kannst entweder die neuen Beweise über die Unschuld deines Bruders in einem Mordfall ODER <BLANK> retten. Er hat einen ziemlich guten Anwalt.",
+      "v": "Dein Haus brennt.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst entweder die neuen Beweise für die Unschuld deines Bruders in einem Mordfall ODER",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "retten. Er hat einen guten Anwalt.",
       "n": "ScenarioText4"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Dein Haus brennt. Du kannst entweder die neuen Beweise über die Unschuld deines Bruders in einem Mordfall ODER <BLANK> retten. Er hat einen ziemlich guten Anwalt.\r\nWas rettest du vor dem Brand?",
+      "s": "Dein Haus brennt. Du kannst entweder die neuen Beweise für die Unschuld deines Bruders in einem Mordfall ODER <BLANK> retten. Er hat einen guten Anwalt.\r\nWas rettest du vor dem Brand?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Guter Zunder.",
+      "s": "Brennt wie Zunder.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

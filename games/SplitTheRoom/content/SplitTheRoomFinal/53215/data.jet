@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du wirst zum Gladiatorenkampf gezwungen. Dein Gegner ist entweder ein Pro-Westler in Handschellen oder <BLANK>. Deine einzige Waffe ist ein Streitkolben.",
+      "v": "Du wirst zu einem Gladiatorenkampf gezwungen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Dein Gegner ist entweder ein Pro-Wester in Handschellen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Deine einzige Waffe ist eine Keule.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wirst zum Gladiatorenkampf gezwungen. Dein Gegner ist entweder ein Pro-Westler in Handschellen oder <BLANK>. Deine einzige Waffe ist ein Streitkolben.\r\nGegen wen bekämpfst du?",
+      "s": "Du wirst zu einem Gladiatorenkampf gezwungen. Dein Gegner ist entweder ein Pro-Wester in Handschellen oder <BLANK>. Deine einzige Waffe ist eine Keule.\r\nGegen wen bekämpfst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

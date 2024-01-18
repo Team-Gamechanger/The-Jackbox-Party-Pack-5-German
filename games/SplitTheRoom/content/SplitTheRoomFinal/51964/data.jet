@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Für welche Unterhaltung entscheidest du dich?",
+      "v": "Für welche Sendungentscheidest du dich?",
       "n": "QuestionText"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "“Planet Earth” in schlechter Auflösung | das E-Book “Harry Potter und der Halbblutprinz” | die erste Staffel von “LOST” | den Film “Cast Away - Verschollen” | die grössten Hits von Bob Marley",
+      "v": "Terra X in schlechter Auflösung | Harry Potter und der Halbblutprinz | die erste Staffel von “LOST” | den Film “Cast Away - Verschollen” | die grössten Hits von DJ BoBo",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du sitzt auf einer verlassenen Insel fest. Einer von zwei Tablets kann per Fallschirm zu dir gelangen. Der erste beinhaltet die neunte Staffel von <i>Let’s Dance</i> und der andere <BLANK>.",
+      "v": "Du sitzt auf einer verlassenen Insel fest.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Eines von zwei Tablets kann per Fallschirm zu dir gesendet werden.",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Auf dem einen ist die neunte Staffel von <i>Let’s Dance</i> gespeichert, auf dem anderen",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText4"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Inselwalzer",
+      "s": "Inselkoller",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du sitzt auf einer verlassenen Insel fest. Einer von zwei Tablets kann per Fallschirm zu dir gelangen. Der erste beinhaltet die neunte Staffel von <i>Let’s Dance</i> und der andere <BLANK>.\r\nFür welche Unterhaltung entscheidest du dich?",
+      "s": "Du sitzt auf einer verlassenen Insel fest. Eines von zwei Tablets kann per Fallschirm zu dir gesendet werden. Auf dem einen ist die neunte Staffel von <i>Let’s Dance</i> gespeichert, auf dem anderen <BLANK>.\r\nFür welche Sendungentscheidest du dich?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Spoiler: Swarovski und Klann gewinnen.",
+      "s": "Spoiler: Swarovski und Klann gewinnen. (Sind deutsch, sprich sie also deutsch aus. Danke)",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

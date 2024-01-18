@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Schlagartig bemerkst du, dass dein/e",
+      "v": "Schlagartig bemerkst du, dass dir",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein Bestattungshelfer, der gerade einen geliebten Kindershow-Moderator begraben hat. Schlagartig bemerkst du, dass dein/e <BLANK> in den Sarg gefallen ist.\r\nGräbst du den Sarg des wunderschön dekorierten Grabs nochmal aus?",
+      "s": "Du bist ein Bestattungshelfer, der gerade einen geliebten Kindershow-Moderator begraben hat. Schlagartig bemerkst du, dass dir <BLANK> in den Sarg gefallen ist.\r\nGräbst du den Sarg des wunderschön dekorierten Grabs nochmal aus?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

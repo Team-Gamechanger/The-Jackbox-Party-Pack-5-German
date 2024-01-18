@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du bist sehr spät zu einer stillen Auktion eines Freundes gegangen.",
+      "v": "Du bist sehr spät zu einer stillen Auktion eines Freundes gegangen. Du hast versprochen, 100 Euro für einen Artikel zu bieten.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Du hast versprochen, 100 Euro für einen Artikel zu bieten.",
+      "v": "Es sind nur noch eine Packung Erdnüsse und",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "Es sind nur noch eine Packung Erdnüsse und",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "<BLANK> übrig geblieben.",
+      "v": "übrig geblieben.",
       "n": "ScenarioText4"
     },
     {

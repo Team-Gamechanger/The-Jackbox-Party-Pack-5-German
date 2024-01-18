@@ -42,17 +42,17 @@
     },
     {
       "t": "S",
-      "v": "<OTHERPLAYER> oder <BLANK> aufzuhängen.",
+      "v": "<OTHERPLAYER> oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "aufzuhängen.",
       "n": "ScenarioText4"
     },
     {

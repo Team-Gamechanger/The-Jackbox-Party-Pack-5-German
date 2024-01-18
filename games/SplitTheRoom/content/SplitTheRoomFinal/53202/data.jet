@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du hast seit Wochen Schluckauf. Jedes versuchte Heilmittel schlug fehl. Schliesslich empfiehlt ein Schluckaufspezialist zwei Möglichkeiten: einen Einlauf mit Slush Eis oder <BLANK>.",
+      "v": "Seit Wochen hast du Schluckauf. Alle Hausmittel haben nicht geholfen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Schließlich empfiehlt ein Schluckaufspezialist zwei Möglichkeiten: einen Einlauf mit Slush-Eis oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast seit Wochen Schluckauf. Jedes versuchte Heilmittel schlug fehl. Schliesslich empfiehlt ein Schluckaufspezialist zwei Möglichkeiten: einen Einlauf mit Slush Eis oder <BLANK>.\r\nWelche Schluckaufkur versuchst du zuerst?",
+      "s": "Seit Wochen hast du Schluckauf. Alle Hausmittel haben nicht geholfen. Schließlich empfiehlt ein Schluckaufspezialist zwei Möglichkeiten: einen Einlauf mit Slush-Eis oder <BLANK>.\r\nWelche Schluckaufkur versuchst du zuerst?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

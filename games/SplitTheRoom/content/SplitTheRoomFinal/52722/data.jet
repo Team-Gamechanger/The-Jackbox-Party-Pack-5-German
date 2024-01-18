@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "einen Seeteufel",
+      "v": "Einen Anglerfisch",
       "n": "Answer"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du bist für die Währung deines Landes verantwortlich. Du musst das Bild für den neuen Geldschein wählen... du hast folgende Wahl: ein Seeteufel oder <BLANK>.",
+      "v": "Du bist für die Währung deines Landes verantwortlich und musst das Bild auf der neusten Banknote auswählen, bevor es millionenhaft in den Druck geht.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": " Du hast die Wahl zwischen einem Anglerfisch oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Geld-Gemälde",
+      "s": "Nur Bares ist Wahres",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist für die Währung deines Landes verantwortlich. Du musst das Bild für den neuen Geldschein wählen... du hast folgende Wahl: ein Seeteufel oder <BLANK>.\r\nWelches Bild bringst du auf den Geldschein?",
+      "s": "Du bist für die Währung deines Landes verantwortlich und musst das Bild auf der neusten Banknote auswählen, bevor es millionenhaft in den Druck geht.  Du hast die Wahl zwischen einem Anglerfisch oder <BLANK>.\r\nWelches Bild bringst du auf den Geldschein?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Noch ein Grund in NFTs zu investieren. Bitte, keine Screenshots.",
+      "s": "Na da verzichte ich doch lieber auf Bargeld.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

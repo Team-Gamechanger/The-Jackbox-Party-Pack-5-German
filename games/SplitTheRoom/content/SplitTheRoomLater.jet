@@ -401,7 +401,7 @@
       "answerText": "",
       "scenarioText": "Zombies greifen deine Stadt an. <OTHERPLAYER> sagt, sie haben einen Plan, um sicher zu entkommen. Sie können dir nicht alles erzählen, aber bitten dich, <BLANK>.",
       "decoys": "eine lebende Schlange zu fangen | dich nackt auszuziehen | dir selbst Handschellen anzulegen | die Zombies zu umarmen | zu breakdancen",
-      "x": false,
+      "x": true,
       "id": 52857,
       "category": "Die Gefolgsleute",
       "questionText": "Verlässt du die Unterkunft und folgst ihnen?"

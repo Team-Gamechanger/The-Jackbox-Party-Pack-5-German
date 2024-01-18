@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du hast die Macht, die Koch-Fähigkeiten von jemandem zu stehlen. Diese Macht wirkt entweder auf <OTHERPLAYER> oder <BLANK>.",
+      "v": "Du hast die Macht, die Kochfähigkeiten von jemandem zu stehlen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Diese Macht wirkt entweder auf <OTHERPLAYER> oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast die Macht, die Koch-Fähigkeiten von jemandem zu stehlen. Diese Macht wirkt entweder auf <OTHERPLAYER> oder <BLANK>.\r\nWessen Koch-Fähigkeiten stiehlst du?",
+      "s": "Du hast die Macht, die Kochfähigkeiten von jemandem zu stehlen. Diese Macht wirkt entweder auf <OTHERPLAYER> oder <BLANK>.\r\nWessen Koch-Fähigkeiten stiehlst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

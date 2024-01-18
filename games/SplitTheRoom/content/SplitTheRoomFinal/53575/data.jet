@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du bist zur Hölle gefahren... aber der Teufel entpuppt sich, als vernünftiger Typ. Er gibt dir zwei Möglichkeiten, wie du die Ewigkeit verbringen kannst. Entweder durch Small Talk oder <BLANK>.",
+      "v": "Du bist zur Hölle gefahren... aber der Teufel erweist sich als vernünftiger Kerl.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Er gibt dir zwei Möglichkeiten, die Ewigkeit zu verbringen. Entweder mit Small Talk oder mit",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist zur Hölle gefahren... aber der Teufel entpuppt sich, als vernünftiger Typ. Er gibt dir zwei Möglichkeiten, wie du die Ewigkeit verbringen kannst. Entweder durch Small Talk oder <BLANK>.\r\nWie verbringst du die Ewigkeit in der Hölle?",
+      "s": "Du bist zur Hölle gefahren... aber der Teufel erweist sich als vernünftiger Kerl. Er gibt dir zwei Möglichkeiten, die Ewigkeit zu verbringen. Entweder mit Small Talk oder mit <BLANK>.\r\nWie verbringst du die Ewigkeit in der Hölle?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

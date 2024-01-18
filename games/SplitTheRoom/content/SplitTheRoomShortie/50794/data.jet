@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Alles, was du über den Verstorbenen weißt, ist, dass",
+      "v": "Alles, was du über den Verstorbenen weißt, ist,",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du befindest dich auf einem Gedenkgottesdienst für einen Mann, den du nicht kennst. Du wirst gebeten, ein paar Worte zu sprechen. Alles, was du über den Verstorbenen weißt, ist, dass <BLANK>. Niemand steht auf.\r\nVersuchst du, die Rede zu halten?",
+      "s": "Du befindest dich auf einem Gedenkgottesdienst für einen Mann, den du nicht kennst. Du wirst gebeten, ein paar Worte zu sprechen. Alles, was du über den Verstorbenen weißt, ist, <BLANK>. Niemand steht auf.\r\nVersuchst du, die Rede zu halten?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

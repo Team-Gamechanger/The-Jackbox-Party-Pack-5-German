@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du lebst in einer Gesellschaft, in der Zwischenrufe Pflicht sind. Die wünschenswertesten Plätze sind vergeben, aber du kannst wählen: Zwischenrufer bei Mathelehrern oder <BLANK>.",
+      "v": "Du lebst in einer Gesellschaft, in der Zwischenrufe Pflicht sind.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Die begehrtesten Plätze sind vergeben, aber du kannst wählen: Zwischenruf beim Mathelehrer oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du lebst in einer Gesellschaft, in der Zwischenrufe Pflicht sind. Die wünschenswertesten Plätze sind vergeben, aber du kannst wählen: Zwischenrufer bei Mathelehrern oder <BLANK>.\r\nAn wen verteilst du Zwischenrufe?",
+      "s": "Du lebst in einer Gesellschaft, in der Zwischenrufe Pflicht sind. Die begehrtesten Plätze sind vergeben, aber du kannst wählen: Zwischenruf beim Mathelehrer oder <BLANK>.\r\nAn wen verteilst du Zwischenrufe?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

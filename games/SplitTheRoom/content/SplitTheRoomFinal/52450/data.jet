@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Landschmied",
+      "v": "Hufschmied",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "Stadtschmied | Minister | Maut-Zahlstellen-Betreiber | Fast Food-Arbeiter | Kindermädchen",
+      "v": "Schweißer| Minister | Maut-Zahlstellen-Betreiber | Fast-Food-Arbeiter | Kindermädchen",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Die Mafia ist hinter dir her, also brauchst du eine neue Identität. Das FBI kann dir eine neue Identität als ein ländlicher Schmied oder <BLANK>, verschaffen.",
+      "v": "Die Mafia ist hinter dir her, du brauchst eine neue Identität.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Das FBI kann dir eine neue Identität als Hufschmied oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "geben.",
       "n": "ScenarioText4"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Mafiaversteck",
+      "s": "Zeugenschutz",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Die Mafia ist hinter dir her, also brauchst du eine neue Identität. Das FBI kann dir eine neue Identität als ein ländlicher Schmied oder <BLANK>, verschaffen.\r\nWelche neue Identität nimmst du an?",
+      "s": "Die Mafia ist hinter dir her, du brauchst eine neue Identität. Das FBI kann dir eine neue Identität als Hufschmied oder <BLANK> geben.\r\nWelche neue Identität nimmst du an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Als ob ihr das durchhalten würdet.",
+      "s": "Als ob ihr das gebacken kriegen würdet.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

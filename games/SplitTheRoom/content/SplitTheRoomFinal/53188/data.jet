@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du bist ein Clown, der wegen Clown-Verbrechen verurteilt wurde. Als solcher sollst du auf lustige Weise hingerichtet werden. Entweder durch eine endlose Tortenattacke ins Gesicht oder <BLANK>.",
+      "v": "Du bist ein Clown, der wegen Clownverbrechen verurteilt wurde.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Als solcher wirst du auf lustige Weise hingerichtet.",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Entweder durch eine endlose Tortenattacke ins Gesicht oder",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein Clown, der wegen Clown-Verbrechen verurteilt wurde. Als solcher sollst du auf lustige Weise hingerichtet werden. Entweder durch eine endlose Tortenattacke ins Gesicht oder <BLANK>.\r\nWelche Clown-Todesstrafe wählst du?",
+      "s": "Du bist ein Clown, der wegen Clownverbrechen verurteilt wurde. Als solcher wirst du auf lustige Weise hingerichtet. Entweder durch eine endlose Tortenattacke ins Gesicht oder <BLANK>.\r\nWelche Clown-Todesstrafe wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

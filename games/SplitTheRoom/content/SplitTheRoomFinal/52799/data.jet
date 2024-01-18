@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Die Gesetze zur Wähleridentifizierung sind sehr streng geworden. Wenn du jetzt wählen gehst, musst du entweder eine Urinprobe oder <BLANK> mitbringen.",
+      "v": "Die Gesetze zur Wähleridentifizierung sind sehr streng geworden.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Wenn du jetzt wählen gehst, musst du entweder eine Urinprobe oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "mitbringen.",
       "n": "ScenarioText4"
     },
     {
@@ -81,7 +81,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Neue Wahlvorraussetzung",
+      "s": "Die Qual vor der Wahl",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Alles um weniger Leute zum wählen zu bewegen, huh?",
+      "s": "Ihr würdet das natürlich trotzdem auf euch nehmen, ihr seid doch richtige Musterbürger, oder?",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

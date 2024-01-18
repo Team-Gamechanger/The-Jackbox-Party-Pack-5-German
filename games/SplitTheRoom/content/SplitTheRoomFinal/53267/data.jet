@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du kannst mit einer berühmten Person aus der Geschichte zu Abend essen. ...aber sie werden denken auf einem Date zu sein... und es wird schlecht laufen. Du kannst entweder zwischen Ghandi oder <BLANK> wählen.",
+      "v": "Du kannst mit einer berühmten Person aus der Geschichte essen gehen. ...aber sie wird denken, dass ihr auf einem Date seid.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst zwischen Ghandi und",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "wählen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du kannst mit einer berühmten Person aus der Geschichte zu Abend essen. ...aber sie werden denken auf einem Date zu sein... und es wird schlecht laufen. Du kannst entweder zwischen Ghandi oder <BLANK> wählen.\r\nMit wem hast du ein unangenehmes “Date”?",
+      "s": "Du kannst mit einer berühmten Person aus der Geschichte essen gehen. ...aber sie wird denken, dass ihr auf einem Date seid. Du kannst zwischen Ghandi und <BLANK> wählen.\r\nMit wem hast du ein unangenehmes “Date”?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

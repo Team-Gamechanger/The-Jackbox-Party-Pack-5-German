@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du lebst in einer Welt, in der jeder gleich aussieht. Deshalb benötigst du ein markantes Unterscheidungsmerkmal in der Öffentlichkeit, um aufzufallen. Deine Optionen sind ein Paar knallgelber Clownschuhe oder <BLANK>.",
+      "v": "Du lebst in einer Welt, in der alle gleich aussehen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Deshalb brauchst du ein Unterscheidungsmerkmal, um in der Öffentlichkeit aufzufallen.",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du hast die Wahl zwischen einem Paar knallgelber Clownschuhe oder",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du lebst in einer Welt, in der jeder gleich aussieht. Deshalb benötigst du ein markantes Unterscheidungsmerkmal in der Öffentlichkeit, um aufzufallen. Deine Optionen sind ein Paar knallgelber Clownschuhe oder <BLANK>.\r\nWelches eindeutige Merkmal trägst du?",
+      "s": "Du lebst in einer Welt, in der alle gleich aussehen. Deshalb brauchst du ein Unterscheidungsmerkmal, um in der Öffentlichkeit aufzufallen. Du hast die Wahl zwischen einem Paar knallgelber Clownschuhe oder <BLANK>.\r\nWelches eindeutige Merkmal trägst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

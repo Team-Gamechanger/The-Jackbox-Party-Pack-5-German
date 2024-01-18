@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "Du wirst gebeten, diesen Namen bei der Hochzeit anzunehmen. Es bedeutet ihm/ihr Ein und Alles.",
+      "v": "Du wirst gebeten, diesen Namen bei der Hochzeit anzunehmen. Es bedeutet ihm/ihr sehr viel.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast die Liebe deines Lebens gefunden, alles an dieser Person ist einfach perfekt. Doch deren Nachname ist <BLANK>. Du wirst gebeten, diesen Namen bei der Hochzeit anzunehmen. Es bedeutet ihm/ihr Ein und Alles.\r\nMachst du es?",
+      "s": "Du hast die Liebe deines Lebens gefunden, alles an dieser Person ist einfach perfekt. Doch deren Nachname ist <BLANK>. Du wirst gebeten, diesen Namen bei der Hochzeit anzunehmen. Es bedeutet ihm/ihr sehr viel.\r\nMachst du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

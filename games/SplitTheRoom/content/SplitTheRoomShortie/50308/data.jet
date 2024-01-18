@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Doch ein böser Milliardär beschliesst, dass er pro 10 Euro, die gesammelt werden, um den Glücklosen zu helfen,",
+      "v": "Doch ein böser Milliardär beschließt, dass er pro 10 Euro, die gesammelt werden, um den Glücklosen zu helfen,",
       "n": "ScenarioText2"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Heilig VS. Böse",
+      "s": "Gut gegen Böse",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist Leiter einer Wohltätigkeitsorganisation, die den Armen Kleidung und Essen spendet. Doch ein böser Milliardär beschliesst, dass er pro 10 Euro, die gesammelt werden, um den Glücklosen zu helfen, <BLANK>.\r\nHilfst du weiterhin den Armen?",
+      "s": "Du bist Leiter einer Wohltätigkeitsorganisation, die den Armen Kleidung und Essen spendet. Doch ein böser Milliardär beschließt, dass er pro 10 Euro, die gesammelt werden, um den Glücklosen zu helfen, <BLANK>.\r\nHilfst du weiterhin den Armen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

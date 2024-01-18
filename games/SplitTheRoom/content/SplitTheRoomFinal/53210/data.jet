@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du hast dein Gesicht bei einem Unfall verloren. Der plastische Chirurg kann dir entweder ein Gesicht, das genau wie dein Vater aussieht, geben oder das von <BLANK>.",
+      "v": "Du hast bei einem Unfall dein Gesicht verloren.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Der plastische Chirurg kann dir entweder das Gesicht deines Vaters oder das Gesicht von",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "geben.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast dein Gesicht bei einem Unfall verloren. Der plastische Chirurg kann dir entweder ein Gesicht, das genau wie dein Vater aussieht, geben oder das von <BLANK>.\r\nWelches neue Gesicht wählst du?",
+      "s": "Du hast bei einem Unfall dein Gesicht verloren. Der plastische Chirurg kann dir entweder das Gesicht deines Vaters oder das Gesicht von <BLANK> geben.\r\nWelches neue Gesicht wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

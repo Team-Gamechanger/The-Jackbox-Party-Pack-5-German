@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Telefonverkäufer",
+      "v": "Handy-Verkäufer",
       "n": "Answer"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Eine neue Zombie-Spezies wurde in einem Labor gezüchtet. Als leiternder Wissenschafter kannst du sie lenken, nur bestimmte/s anzufallen: Telefonverkäufer oder <BLANK>.",
+      "v": "In deinem Labor wurde eine neue Zombieart gezüchtet.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Als leitender Wissenschaftler kannst du sie dazu bringen, nur bestimmte(n) anzugreifen: Handy-Verkäufer oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Eine neue Zombie-Spezies wurde in einem Labor gezüchtet. Als leiternder Wissenschafter kannst du sie lenken, nur bestimmte/s anzufallen: Telefonverkäufer oder <BLANK>.\r\nWorauf hetzt du die Zombies?",
+      "s": "In deinem Labor wurde eine neue Zombieart gezüchtet. Als leitender Wissenschaftler kannst du sie dazu bringen, nur bestimmte(n) anzugreifen: Handy-Verkäufer oder <BLANK>.\r\nWorauf hetzt du die Zombies?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

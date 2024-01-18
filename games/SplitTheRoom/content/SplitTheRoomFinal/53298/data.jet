@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Kleingeld| Rennmäusen | Sandwiches | Trockenfleisch | Waschmitteln",
+      "v": "Kleingeld| Staubmäusen | Sandwiches | Trockenfleisch | Waschmitteln",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Der Gott des Überflusses garantiert dir einen unbegrenzten Vorrat eines Gegenstands. Du kannst entweder unendlich viele Schüsseln Pasta haben oder unendlichen Vorrat an <BLANK>.",
+      "v": "Der Gott des Überflusses garantiert dir einen unendlichen Vorrat an einem Gegenstand.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst entweder unendlich viele Schüsseln Nudeln oder unendlich viel",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK> haben.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Der Gott des Überflusses garantiert dir einen unbegrenzten Vorrat eines Gegenstands. Du kannst entweder unendlich viele Schüsseln Pasta haben oder unendlichen Vorrat an <BLANK>.\r\nWelchen unbegrenzten Vorrat nimmst du in Anspruch?",
+      "s": "Der Gott des Überflusses garantiert dir einen unendlichen Vorrat an einem Gegenstand. Du kannst entweder unendlich viele Schüsseln Nudeln oder unendlich viel <BLANK> haben.\r\nWelchen unbegrenzten Vorrat nimmst du in Anspruch?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

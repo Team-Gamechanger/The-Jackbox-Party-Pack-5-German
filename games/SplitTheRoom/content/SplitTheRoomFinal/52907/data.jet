@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du bist in einer Realität in der die Krankenversicherungen schrecklich sind. Du kannst aus zwei Varianten wählen: einer begrenzt sich auf die untere Körperhälfte, der andere nur auf <BLANK>.",
+      "v": "Du befindest dich in einer Realität, in der Krankenversicherungen schrecklich sind.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst zwischen zwei Varianten wählen: eine beschränkt sich auf die untere Körperhälfte, die andere nur auf",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist in einer Realität in der die Krankenversicherungen schrecklich sind. Du kannst aus zwei Varianten wählen: einer begrenzt sich auf die untere Körperhälfte, der andere nur auf <BLANK>.\r\nWelche Variante wählst du?",
+      "s": "Du befindest dich in einer Realität, in der Krankenversicherungen schrecklich sind. Du kannst zwischen zwei Varianten wählen: eine beschränkt sich auf die untere Körperhälfte, die andere nur auf <BLANK>.\r\nWelche Variante wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du bist auf einer Insel gestrandet, doch ein altes Radio leistet dir Gesellschaft.",
+      "v": "Du bist auf einer Insel gestrandet, einzig ein altes Radio leistet dir Gesellschaft.",
       "n": "ScenarioText1"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Begrenzte Wellenlänge",
+      "s": "Buschfunk",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist auf einer Insel gestrandet, doch ein altes Radio leistet dir Gesellschaft. Es empfängt zwei Sender. Ein Sender sendet nur Verkehrsmeldungen und der andere nur <BLANK>.\r\nWelchen Radiosender hörst du?",
+      "s": "Du bist auf einer Insel gestrandet, einzig ein altes Radio leistet dir Gesellschaft. Es empfängt zwei Sender. Ein Sender sendet nur Verkehrsmeldungen und der andere nur <BLANK>.\r\nWelchen Radiosender hörst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

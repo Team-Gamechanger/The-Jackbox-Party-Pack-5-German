@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Ein Militärexperiment wird dir Superkräfte geben, doch es hat seinen Preis. Wenn sie deine Biologie verändern, wirst du daraus eine Schwäche ziehen: Immunität gegen Koffein oder <BLANK>.",
+      "v": "Ein Militärexperiment gibt dir Superkräfte, aber es hat seinen Preis. Wenn sie deine Biologie verändern, bekommst du eine Schwäche:",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Immunität gegen Koffein oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein Militärexperiment wird dir Superkräfte geben, doch es hat seinen Preis. Wenn sie deine Biologie verändern, wirst du daraus eine Schwäche ziehen: Immunität gegen Koffein oder <BLANK>.\r\nWelche Schwäche wählst du?",
+      "s": "Ein Militärexperiment gibt dir Superkräfte, aber es hat seinen Preis. Wenn sie deine Biologie verändern, bekommst du eine Schwäche: Immunität gegen Koffein oder <BLANK>.\r\nWelche Schwäche wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

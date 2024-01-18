@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Senioren-Singles",
+      "v": "Einsame Senioren",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "Amateur-Jongleure des Ozeans | Borat an Bord | Kid Rocks Landfahrt | Eilfahrtswoche auf dem Wasser | Impro-Ahoy!",
+      "v": "Amateur-Jongleure des Ozeans | Borat an Bord | Rund um die Uhr Heavy Metal | Clowns an Bord | Impro-Ahoy!",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du hast eine Woche auf einer speziellen Partykreuzfahrt gebucht, aber du hast die Termine durcheinander gebracht. Als du das Dock betrittst, sind nur noch zwei Themen-Schiffe verfügbar: Senioren-Singles oder <BLANK>.",
+      "v": "Du hast eine Woche auf einer speziellen Partykreuzfahrt gebucht, aber du hast die Termine durcheinander gebracht.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Als du am Hafen ankommst, sind nur noch zwei Themen-Kreuzfahrtschiffe verfügbar:",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "\"Einsame Senioren\" oder",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "\"<BLANK>\".",
       "n": "ScenarioText4"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Hochsee-Spezial",
+      "s": "Eine Seefahrt, die ist lustig...",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast eine Woche auf einer speziellen Partykreuzfahrt gebucht, aber du hast die Termine durcheinander gebracht. Als du das Dock betrittst, sind nur noch zwei Themen-Schiffe verfügbar: Senioren-Singles oder <BLANK>.\r\nWelche Themenkreuzfahrt wählst du?",
+      "s": "Du hast eine Woche auf einer speziellen Partykreuzfahrt gebucht, aber du hast die Termine durcheinander gebracht. Als du am Hafen ankommst, sind nur noch zwei Themen-Kreuzfahrtschiffe verfügbar: \"Einsame Senioren\" oder \"<BLANK>\".\r\nWelche Themenkreuzfahrt wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Bitte brich Emma nicht das Herz. Sie hat schon genug durchgemacht.",
+      "s": "Bitte brich Waltraut nicht das Herz. Sie hat schon genug durchgemacht.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du reist einen mysteriösen Fluss entlang, der sich bald aufteilt. In der einen Richtung befinden sich Delfine, die deinen Namen im Chor singen; in der anderen <BLANK>.",
+      "v": "Du fährst auf einem geheimnisvollen Fluss, der sich bald teilt.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "In der einen Richtung singen Delphine im Chor deinen Namen, in der anderen",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du reist einen mysteriösen Fluss entlang, der sich bald aufteilt. In der einen Richtung befinden sich Delfine, die deinen Namen im Chor singen; in der anderen <BLANK>.\r\nWelche Route wählst du?",
+      "s": "Du fährst auf einem geheimnisvollen Fluss, der sich bald teilt. In der einen Richtung singen Delphine im Chor deinen Namen, in der anderen <BLANK>.\r\nWelche Route wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "die <i>Bones</i>-DVDs",
+      "v": "<i>Game of Thrones</i>-DVDs",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "eine Tragetasche des nationalen Rundfunksenders | drei Euro | einen gelben Notizblock | ein kaputtes Lichtschwert | eine Gummi-Ente",
+      "v": "Ein Bild-Abonnement | drei Euro | einen gelben Notizblock | ein kaputtes Lichtschwert | ein Quietscheentchen",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "An dem Tag, der dir zugeteilt wurde, um ihn zu besänftigen, kannst du nur die DVD-Box mit der 10. Staffel von <i>Bones</i> und",
+      "v": "An dem Tag, der dir zugeteilt wurde, um ihn zu besänftigen, kannst du nur die DVD-Box mit der 8. Staffel von <i>Game of Thrones</i> und",
       "n": "ScenarioText2"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein temperamentvoller zehnjähriger Junge hat die Welt erobert und verlangt Geschenke. An dem Tag, der dir zugeteilt wurde, um ihn zu besänftigen, kannst du nur die DVD-Box mit der 10. Staffel von <i>Bones</i> und <BLANK> finden.\r\nWas schenkst du ihm?",
+      "s": "Ein temperamentvoller zehnjähriger Junge hat die Welt erobert und verlangt Geschenke. An dem Tag, der dir zugeteilt wurde, um ihn zu besänftigen, kannst du nur die DVD-Box mit der 8. Staffel von <i>Game of Thrones</i> und <BLANK> finden.\r\nWas schenkst du ihm?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Echt jetzt? Kinder lieben David Boreanaz.",
+      "s": "Man sieht, ihr habt keine Ahnung von Kindern.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

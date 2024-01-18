@@ -17,12 +17,12 @@
     },
     {
       "t": "S",
-      "v": "Wen oder was entscheidest du zu klonen?",
+      "v": "Wer oder was soll geklont werden?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "deinen Hund aus deiner Kindheit",
+      "v": "Der Hund aus deiner Kindheit",
       "n": "Answer"
     },
     {
@@ -32,22 +32,22 @@
     },
     {
       "t": "S",
-      "v": "",
+      "v": "ALL_NO",
       "n": "Keywords"
     },
     {
       "t": "S",
-      "v": "Ein neues Genlabor kann jeden Menschen und jedes Tier klonen. Für dich werden sie entweder einen Klon deines Hundes aus der Kindheit oder <BLANK> erschaffen.",
+      "v": "Ein neues Genlabor kann jeden Menschen und jedes Tier klonen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Für dich werden sie entweder einen Klon deines Hundes aus der Kindheit herstellen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein neues Genlabor kann jeden Menschen und jedes Tier klonen. Für dich werden sie entweder einen Klon deines Hundes aus der Kindheit oder <BLANK> erschaffen.\r\nWen oder was entscheidest du zu klonen?",
+      "s": "Ein neues Genlabor kann jeden Menschen und jedes Tier klonen. Für dich werden sie entweder einen Klon deines Hundes aus der Kindheit herstellen oder <BLANK>.\r\nWer oder was soll geklont werden?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Wie kamen die überhaupt auf die idee?",
+      "s": "Ich bin auch eher eine Katzenperson.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

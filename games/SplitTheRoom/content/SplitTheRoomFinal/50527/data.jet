@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Björk",
+      "v": "Heidi Klum",
       "n": "Answer"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Du hast deine Persönlichkeit verloren, weil beim MRI etwas schief gelaufen ist. Die Ärzte bieten dir eine neue Persönlichkeit an.",
+      "v": "Du hast deine Persönlichkeit verloren, weil beim MRT-Scan etwas schiefgelaufen ist. Die Ärzte bieten dir eine neue Persönlichkeit an.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Du hast zwei Möglichkeiten: die Persönlichkeit von Björk ODER",
+      "v": "Du hast zwei Möglichkeiten: die Persönlichkeit von Heidi Klum ODER",
       "n": "ScenarioText2"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Persönlichkeits Probleme",
+      "s": "Persönlichkeitsprobleme",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast deine Persönlichkeit verloren, weil beim MRI etwas schief gelaufen ist. Die Ärzte bieten dir eine neue Persönlichkeit an. Du hast zwei Möglichkeiten: die Persönlichkeit von Björk ODER <BLANK>.\r\nWelche neue Persönlichkeit wirst du wählen?",
+      "s": "Du hast deine Persönlichkeit verloren, weil beim MRT-Scan etwas schiefgelaufen ist. Die Ärzte bieten dir eine neue Persönlichkeit an. Du hast zwei Möglichkeiten: die Persönlichkeit von Heidi Klum ODER <BLANK>.\r\nWelche neue Persönlichkeit wirst du wählen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Niemand will sich wie Björk verhalten, macht euch da nichts vor!",
+      "s": "Also SO schlimm ist Heidi Klum jetzt doch auch nicht.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

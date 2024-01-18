@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Unterwasser-Möpse | sprechende Pferde | Jeff Goldblums | reitbare Katzen | eine Sorte Gänse",
+      "v": "Unterwasser-Möpse | sprechende Pferde | Steppende Bären | reitbare Katzen | Fleischfressende Gänse",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du bist ein Gentechniker, der beauftragt wurde, den Themenpark der Zukunft zu schaffen. Du hast allerdings nur begrenztes genetisches Material zum Arbeiten. Du kannst entweder fliegende Zwerghunde oder <BLANK> erschaffen.",
+      "v": "Du bist ein Gentechniker, der den Freizeitpark der Zukunft bauen soll. Du hast aber nur begrenztes genetisches Material, mit dem du arbeiten kannst.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst entweder fliegende Zwerghunde oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "erschaffen.",
       "n": "ScenarioText4"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Genetischer Themenpark",
+      "s": "Genetik-Themenpark",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein Gentechniker, der beauftragt wurde, den Themenpark der Zukunft zu schaffen. Du hast allerdings nur begrenztes genetisches Material zum Arbeiten. Du kannst entweder fliegende Zwerghunde oder <BLANK> erschaffen.\r\nWelche Monstrosität erschaffst du?",
+      "s": "Du bist ein Gentechniker, der den Freizeitpark der Zukunft bauen soll. Du hast aber nur begrenztes genetisches Material, mit dem du arbeiten kannst. Du kannst entweder fliegende Zwerghunde oder <BLANK> erschaffen.\r\nWelche Monstrosität erschaffst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

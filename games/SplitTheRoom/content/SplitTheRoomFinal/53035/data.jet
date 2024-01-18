@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Scheiss Wale!",
+      "v": "Scheiß auf Wale",
       "n": "Answer"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du bist auf einem Protest für Umweltschutz. Jedoch musst du ein Schild tragen, auf dem entweder steht: “Scheiss Wale!” oder “<BLANK>!”",
+      "v": "Du bist auf einer Demonstration für den Umweltschutz.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du bist gezwungen, ein Schild zu tragen, auf dem steht: “Scheiß auf Wale” oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "“<BLANK>”.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist auf einem Protest für Umweltschutz. Jedoch musst du ein Schild tragen, auf dem entweder steht: “Scheiss Wale!” oder “<BLANK>!”\r\nWelches Schild trägst du?",
+      "s": "Du bist auf einer Demonstration für den Umweltschutz. Du bist gezwungen, ein Schild zu tragen, auf dem steht: “Scheiß auf Wale” oder “<BLANK>”.\r\nWelches Schild trägst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

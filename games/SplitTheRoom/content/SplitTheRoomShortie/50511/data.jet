@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Dein Nachbar ist/sind",
+      "v": "Nebenan wohnt",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bekommst lebenslang ein kostenloses Loft, aber es gibt einen Haken. Eine der Wohnzimmerwände ist aus transparentem Glas und wird mit der Nachbarswohnung geteilt. Du darfst sie nicht abdecken. Dein Nachbar ist/sind <BLANK>.\r\nZiehst du ein?",
+      "s": "Du bekommst lebenslang ein kostenloses Loft, aber es gibt einen Haken. Eine der Wohnzimmerwände ist aus transparentem Glas und wird mit der Nachbarswohnung geteilt. Du darfst sie nicht abdecken. Nebenan wohnt <BLANK>.\r\nZiehst du ein?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

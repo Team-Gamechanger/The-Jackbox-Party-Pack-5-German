@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "die Zähne der Tiger bürsten | die Elefanten vermessen | das Innere der Haifischbecken reinigen | ein Wieselkämpfer sein | das Giraffentor bewachen",
+      "v": "die Zähne der Tiger putzen| die Elefanten vermessen | das Innere der Haifischbecken reinigen | gegen Wiesel kämpfen | das Giraffentor bewachen",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du wurdest soeben von einem unkonventionellen Zoo eingestellt. Du kannst entweder die Schlangenshow veranstalten oder <BLANK>.",
+      "v": "Du bist gerade von einem unkonventionellen Zoo eingestellt worden.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst entweder die Schlangenshow organisieren oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wurdest soeben von einem unkonventionellen Zoo eingestellt. Du kannst entweder die Schlangenshow veranstalten oder <BLANK>.\r\nWelchen Job übernimmst du in diesem seltsamen Zoo?",
+      "s": "Du bist gerade von einem unkonventionellen Zoo eingestellt worden. Du kannst entweder die Schlangenshow organisieren oder <BLANK>.\r\nWelchen Job übernimmst du in diesem seltsamen Zoo?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

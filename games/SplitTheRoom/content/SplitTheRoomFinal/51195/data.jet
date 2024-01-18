@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Das Internet wurde durch ein neues Online-Netzwerk ersetzt, das nur für Kriminelle zugänglich ist. Deine Optionen sind: für den Rest deines Lebens offline gehen oder <BLANK>, um kriminell zu werden.",
+      "v": "Das Internet wurde durch ein neues Online-Netzwerk ersetzt, das ausschließlich für Kriminelle zugänglich ist.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Deine Optionen sind: für den Rest deines Lebens offline zu gehen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>,",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "um kriminell zu werden.",
       "n": "ScenarioText4"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Das Internet wurde durch ein neues Online-Netzwerk ersetzt, das nur für Kriminelle zugänglich ist. Deine Optionen sind: für den Rest deines Lebens offline gehen oder <BLANK>, um kriminell zu werden.\r\nFür was entscheidest du dich?",
+      "s": "Das Internet wurde durch ein neues Online-Netzwerk ersetzt, das ausschließlich für Kriminelle zugänglich ist. Deine Optionen sind: für den Rest deines Lebens offline zu gehen oder <BLANK>, um kriminell zu werden.\r\nFür was entscheidest du dich?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Lass mich raten, der Typ der lieber das Internet verlässt ist die gleiche Art Person die immer androht bei Facebook auszutreten aber es nie tut.",
+      "s": "Kein Internet, ja? Möchtest du noch etwas sagen, bevor du in die Zeitmaschine ins Mittelalter steigst?",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

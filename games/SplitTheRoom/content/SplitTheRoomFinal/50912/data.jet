@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Was wählst du, als deine neue Begrüssung aus?",
+      "v": "Was wählst du als deine neue Begrüßung aus?",
       "n": "QuestionText"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Bee-Boop | Cha-Cha-Cha | Haba Duey | Einen wunderschönen guten Morgen | Ich bin raus",
+      "v": "Bee-Boop | Cha-Cha-Cha | Haba Duey | Guten Morgen, schon wach? | Ich bin raus",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du hast die Fähigkeit verloren, Hallo zu sagen. Wenn du Leute begrüsst, hast du die Möglichkeit “Du bist jetzt hier!” ODER “<BLANK>!” zu rufen.",
+      "v": "Du hast die Fähigkeit verloren, \"Hallo!\" zu sagen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Bei der Begrüßung von Menschen hast du jetzt die Wahl zwischen den Worten \"Du bist jetzt hier!\" ODER",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "“<BLANK>!”",
       "n": "ScenarioText3"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Neuer Alter Gruss",
+      "s": "Grüß dich",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast die Fähigkeit verloren, Hallo zu sagen. Wenn du Leute begrüsst, hast du die Möglichkeit “Du bist jetzt hier!” ODER “<BLANK>!” zu rufen.\r\nWas wählst du, als deine neue Begrüssung aus?",
+      "s": "Du hast die Fähigkeit verloren, \"Hallo!\" zu sagen. Bei der Begrüßung von Menschen hast du jetzt die Wahl zwischen den Worten \"Du bist jetzt hier!\" ODER “<BLANK>!”\r\nWas wählst du als deine neue Begrüßung aus?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Darf ich bei eurem nächsten Date dabei sein?",
+      "s": "Man kann auch einfach immer \"Miau\" sagen, funktioniert ohne Probleme.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

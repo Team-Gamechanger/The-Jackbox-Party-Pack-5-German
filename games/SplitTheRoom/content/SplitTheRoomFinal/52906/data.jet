@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du bist ein Prominenter, der über den roten Teppich einer Preisverleihung geht. Du hast zugestimmt einem Avantgarde-Modedesigner einen Gefallen zu leisten: du kannst dich zwischen einem Outfit aus Brokkoli oder <BLANK> entscheiden.",
+      "v": "Du bist ein Prominenter, der über den roten Teppich einer Preisverleihung schreitet.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du hast dich bereit erklärt, einem avantgardistischen Modedesigner einen Gefallen zu tun: Du kannst zwischen einem Outfit aus Brokkoli oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "wählen.",
       "n": "ScenarioText4"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Gesunde Mode",
+      "s": "Der rote Teppich ruft",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein Prominenter, der über den roten Teppich einer Preisverleihung geht. Du hast zugestimmt einem Avantgarde-Modedesigner einen Gefallen zu leisten: du kannst dich zwischen einem Outfit aus Brokkoli oder <BLANK> entscheiden.\r\nWelches Outfit wählst du?",
+      "s": "Du bist ein Prominenter, der über den roten Teppich einer Preisverleihung schreitet. Du hast dich bereit erklärt, einem avantgardistischen Modedesigner einen Gefallen zu tun: Du kannst zwischen einem Outfit aus Brokkoli oder <BLANK> wählen.\r\nWelches Outfit wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Naja besser als ein toter Schwan.",
+      "s": "Naja, besser als ein toter Schwan.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

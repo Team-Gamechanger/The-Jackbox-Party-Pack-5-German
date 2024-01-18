@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du siehst besser aus, als je zuvor... für alle anderen. Wenn DU dich im Spiegel anblickst, siehst du dich selbst verzerrt, entweder mit einem dicken Gesichtsfell oder <BLANK>.",
+      "v": "Du siehst besser aus als je zuvor... für alle anderen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Wenn du in den Spiegel schaust, siehst du dich verzerrt, entweder mit einem dicken Pelz im Gesicht oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du siehst besser aus, als je zuvor... für alle anderen. Wenn DU dich im Spiegel anblickst, siehst du dich selbst verzerrt, entweder mit einem dicken Gesichtsfell oder <BLANK>.\r\nWelches Selbstbild wählst du?",
+      "s": "Du siehst besser aus als je zuvor... für alle anderen. Wenn du in den Spiegel schaust, siehst du dich verzerrt, entweder mit einem dicken Pelz im Gesicht oder <BLANK>.\r\nWelches Selbstbild wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Extradimensionale Wesen wollen der Menschheit ein Geschenk des Wissens geben und du vertrittst die Menschheit. Sie werden dir entweder genau sagen, wo Atlantis liegt ODER die Antwort auf <BLANK> geben.",
+      "v": "Außerirdische Wesen wollen der Menschheit ein Geschenk des Wissens geben und du repräsentierst die Menschheit.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Sie werden dir entweder genau sagen, wo Atlantis liegt ODER die Antwort auf",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "geben.",
       "n": "ScenarioText4"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Ein Stück Wissen",
+      "s": "Intelligentes Leben",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Extradimensionale Wesen wollen der Menschheit ein Geschenk des Wissens geben und du vertrittst die Menschheit. Sie werden dir entweder genau sagen, wo Atlantis liegt ODER die Antwort auf <BLANK> geben.\r\nWelches Wissen wählst du?",
+      "s": "Außerirdische Wesen wollen der Menschheit ein Geschenk des Wissens geben und du repräsentierst die Menschheit. Sie werden dir entweder genau sagen, wo Atlantis liegt ODER die Antwort auf <BLANK> geben.\r\nWelches Wissen wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

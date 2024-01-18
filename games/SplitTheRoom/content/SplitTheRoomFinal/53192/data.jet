@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du sitzt auf einem Mittelplatz im Flugzeugs fest. Zu deiner Linken isst jemand Thunfischsalat aus einem Strumpf. Zu deiner Rechten <BLANK>. Du kannst eine Person verschwinden lassen.",
+      "v": "Du sitzt in der Mittelreihe des Flugzeugs.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Zu deiner Linken isst jemand Thunfischsalat aus einem Strumpf, zu deiner Rechten",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst eine Person verschwinden lassen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du sitzt auf einem Mittelplatz im Flugzeugs fest. Zu deiner Linken isst jemand Thunfischsalat aus einem Strumpf. Zu deiner Rechten <BLANK>. Du kannst eine Person verschwinden lassen.\r\nWelchen Sitznachbar wirst du los?",
+      "s": "Du sitzt in der Mittelreihe des Flugzeugs. Zu deiner Linken isst jemand Thunfischsalat aus einem Strumpf, zu deiner Rechten <BLANK>. Du kannst eine Person verschwinden lassen.\r\nWelchen Sitznachbar wirst du los?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

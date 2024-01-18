@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Laut einem neuen Gesetz muss von jedem heimlich ein Foto für eine Online-Landkarte gemacht werden. Du kannst dich entweder erwischen lassen, wie du ohne Hosen die Post holst oder <BLANK>.",
+      "v": "Nach einem neuen Gesetz muss jeder heimlich fotografiert werden, um eine Online-Landkarte zu erstellen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Entweder du lässt dich ohne Hose beim Post holen fotografieren oder wie du",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Laut einem neuen Gesetz muss von jedem heimlich ein Foto für eine Online-Landkarte gemacht werden. Du kannst dich entweder erwischen lassen, wie du ohne Hosen die Post holst oder <BLANK>.\r\nBei welcher Situation würdest du lieber erwischt werden?",
+      "s": "Nach einem neuen Gesetz muss jeder heimlich fotografiert werden, um eine Online-Landkarte zu erstellen. Entweder du lässt dich ohne Hose beim Post holen fotografieren oder wie du <BLANK>.\r\nBei welcher Situation würdest du lieber erwischt werden?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

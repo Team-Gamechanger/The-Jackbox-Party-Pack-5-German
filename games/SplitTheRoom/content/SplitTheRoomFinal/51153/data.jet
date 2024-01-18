@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du bist in einer Reality-Dating-Show. Das Produktionsteam teilt dir mit, dass die Bildunterschrift unter deinem Namen, entweder “Hintern-Liebhaber” ODER “<BLANK>” lauten wird.",
+      "v": "Du nimmst an einer Reality-Dating-Show teil.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Das Produktionsteam teilt dir mit, dass die Bildunterschrift unter deinem Namen entweder “Hintern-Liebhaber” ODER",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "“<BLANK>”",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "lauten wird.",
       "n": "ScenarioText4"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Reality-Show Bezeichnung",
+      "s": "Reality-Show-Bezeichnung",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist in einer Reality-Dating-Show. Das Produktionsteam teilt dir mit, dass die Bildunterschrift unter deinem Namen, entweder “Hintern-Liebhaber” ODER “<BLANK>” lauten wird.\r\nWelche Bezeichung wählst du?",
+      "s": "Du nimmst an einer Reality-Dating-Show teil. Das Produktionsteam teilt dir mit, dass die Bildunterschrift unter deinem Namen entweder “Hintern-Liebhaber” ODER “<BLANK>” lauten wird.\r\nWelche Bezeichung wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

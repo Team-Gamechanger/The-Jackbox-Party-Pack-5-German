@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "die Bloody Mary Mischung",
+      "v": "Eine Bloody-Mary-Mischung",
       "n": "Answer"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Anstelle von Wasser haben sie aber nur eine würzige Bloody Mary Mischung",
+      "v": "Anstelle von Wasser haben sie aber nur eine würzige Bloody-Mary-Mischung",
       "n": "ScenarioText2"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Marathon Sauf",
+      "s": "Marathontrinken",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist beim 30. Kilometer eines Marathons, als Freiwillige dir Becher mit Flüssigkeit hinhalten. Anstelle von Wasser haben sie aber nur eine würzige Bloody Mary Mischung ODER <BLANK>. Du MUSST dringend etwas trinken.\r\nWas trinkst du?",
+      "s": "Du bist beim 30. Kilometer eines Marathons, als Freiwillige dir Becher mit Flüssigkeit hinhalten. Anstelle von Wasser haben sie aber nur eine würzige Bloody-Mary-Mischung ODER <BLANK>. Du MUSST dringend etwas trinken.\r\nWas trinkst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

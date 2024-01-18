@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Reiche Menschen kaufen Erinnerungen von Personen.",
+      "v": "Reiche Menschen können nun Erinnerungen von Personen kaufen.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Reiche Menschen kaufen Erinnerungen von Personen. Dir werden 100.000 Euro angeboten, für die letzten Erinnerungen an <BLANK>. Du könntest das Geld verwenden, um deinem Kind eine gute Ausbildung zu ermöglichen.\r\nVerkaufst du deine Erinnerung?",
+      "s": "Reiche Menschen können nun Erinnerungen von Personen kaufen. Dir werden 100.000 Euro angeboten, für die letzten Erinnerungen an <BLANK>. Du könntest das Geld verwenden, um deinem Kind eine gute Ausbildung zu ermöglichen.\r\nVerkaufst du deine Erinnerung?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

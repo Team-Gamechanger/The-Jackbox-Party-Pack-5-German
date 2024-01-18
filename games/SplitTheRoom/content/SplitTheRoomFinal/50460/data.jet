@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ja, du musst eine Person retten.",
+      "s": "Ja, eine Person muss gerettet werden.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

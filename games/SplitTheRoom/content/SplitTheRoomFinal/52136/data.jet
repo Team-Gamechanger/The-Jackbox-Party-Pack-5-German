@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du hast die Fähigkeit zu sprechen verloren. Ärzte können drei Wörter deines Wortschatzes wiederherstellen. Du hast zwei Auswahlmöglichkeiten. Das erste Set ist: “DANKE, NEIN und HUNGRIG”. Das zweite: “<BLANK>”.",
+      "v": "Du hast die Fähigkeit zu sprechen verloren.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Die Ärzte können drei Wörter aus deinem Wortschatz wiederherstellen. Du hast zwei Möglichkeiten.",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Die erste Möglichkeit ist: “DANKE, NEIN und HUNGRIG”, die zweite Möglichkeit:",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "“<BLANK>”.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast die Fähigkeit zu sprechen verloren. Ärzte können drei Wörter deines Wortschatzes wiederherstellen. Du hast zwei Auswahlmöglichkeiten. Das erste Set ist: “DANKE, NEIN und HUNGRIG”. Das zweite: “<BLANK>”.\r\nWelche drei Wörter wählst du für dein neues Vokabular?",
+      "s": "Du hast die Fähigkeit zu sprechen verloren. Die Ärzte können drei Wörter aus deinem Wortschatz wiederherstellen. Du hast zwei Möglichkeiten. Die erste Möglichkeit ist: “DANKE, NEIN und HUNGRIG”, die zweite Möglichkeit: “<BLANK>”.\r\nWelche drei Wörter wählst du für dein neues Vokabular?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

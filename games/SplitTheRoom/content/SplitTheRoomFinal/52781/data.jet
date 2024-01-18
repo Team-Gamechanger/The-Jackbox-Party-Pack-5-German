@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Mit welcher Gruppe bestreitest du den “Escape Room”?",
+      "v": "Mit welcher Gruppe bestreitest du den Escape-Room?",
       "n": "QuestionText"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du hast für einen “Escape Room ” bezahlt, aber deine Freunde sagen im letzten Moment ab. Du musst mit Fremden spielen. Du kannst die Rätselstunde mit zwei Gruppen verbringen: Phantomime oder <BLANK>.",
+      "v": "Du hast für einen Escape-Room bezahlt, aber deine Freunde sagen im letzten Moment ab.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du musst mit Fremden spielen.",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst die Rätselstunde mit zwei Gruppen verbringen: Pantomimen oder",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText4"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Überall Wände",
+      "s": "Wände überall",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast für einen “Escape Room ” bezahlt, aber deine Freunde sagen im letzten Moment ab. Du musst mit Fremden spielen. Du kannst die Rätselstunde mit zwei Gruppen verbringen: Phantomime oder <BLANK>.\r\nMit welcher Gruppe bestreitest du den “Escape Room”?",
+      "s": "Du hast für einen Escape-Room bezahlt, aber deine Freunde sagen im letzten Moment ab. Du musst mit Fremden spielen. Du kannst die Rätselstunde mit zwei Gruppen verbringen: Pantomimen oder <BLANK>.\r\nMit welcher Gruppe bestreitest du den Escape-Room?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

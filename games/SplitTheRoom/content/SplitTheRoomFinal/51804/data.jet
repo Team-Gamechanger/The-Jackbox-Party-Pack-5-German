@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du wirst an das Ufer einer fremden Insel gespült. Der König wird dein Leben verschonen, wenn du eines von zwei Tieren besiegst: einen alten Bären oder <BLANK>.",
+      "v": "Du wirst an die Küste einer fremden Insel gespült.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Der König verschont dich, wenn du eines von zwei Tieren besiegst:",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "einen alten Bären oder",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText4"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Tötungsoption",
+      "s": "Königliches Dekret",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wirst an das Ufer einer fremden Insel gespült. Der König wird dein Leben verschonen, wenn du eines von zwei Tieren besiegst: einen alten Bären oder <BLANK>.\r\nGegen welches Biest kämpfst du?",
+      "s": "Du wirst an die Küste einer fremden Insel gespült. Der König verschont dich, wenn du eines von zwei Tieren besiegst: einen alten Bären oder <BLANK>.\r\nGegen welches Biest kämpfst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

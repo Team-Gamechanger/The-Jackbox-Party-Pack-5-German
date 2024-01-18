@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Buchst du diesen Ort nochmal?",
+      "v": "Buchst du dieses Haus nochmal?",
       "n": "QuestionText"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "Du planst in dieses Gebiet zurückzukehren.",
+      "v": "Du planst in diese Gegend zurückzukehren.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du mietest ein Ferienhaus. Es ist sauber und billig. Es gibt nur eine merkwürdige Sache. In der Mitte des Wohnzimmers befindet sich eine Statue von <BLANK>. Du planst in dieses Gebiet zurückzukehren.\r\nBuchst du diesen Ort nochmal?",
+      "s": "Du mietest ein Ferienhaus. Es ist sauber und billig. Es gibt nur eine merkwürdige Sache. In der Mitte des Wohnzimmers befindet sich eine Statue von <BLANK>. Du planst in diese Gegend zurückzukehren.\r\nBuchst du dieses Haus nochmal?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

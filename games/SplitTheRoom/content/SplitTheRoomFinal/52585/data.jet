@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "kranke Nonnen | veganes Leben | Buchhalter | Fallschirmspringen | schreckliche Restaurants",
+      "v": "eine kranke Nonnen | veganes Leben | Buchhalter | Fallschirmspringen | schreckliche Restaurants",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du warst mal ein grosser Filmstar... aber jetzt bist du am Ende. Du hast zwei Möglichkeiten deine Karriere zu retten. Du könntest eine Sitcom mit einem sprechenden Emu machen oder eine Show über <BLANK>.",
+      "v": "Du warst mal ein großer Filmstar... aber jetzt bist du am Ende.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du hast zwei Möglichkeiten, deine Karriere zu retten.",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du könntest eine Sitcom mit einem sprechenden Emu machen oder eine Show über",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du warst mal ein grosser Filmstar... aber jetzt bist du am Ende. Du hast zwei Möglichkeiten deine Karriere zu retten. Du könntest eine Sitcom mit einem sprechenden Emu machen oder eine Show über <BLANK>.\r\nWelches Projekt verfolgst du?",
+      "s": "Du warst mal ein großer Filmstar... aber jetzt bist du am Ende. Du hast zwei Möglichkeiten, deine Karriere zu retten. Du könntest eine Sitcom mit einem sprechenden Emu machen oder eine Show über <BLANK>.\r\nWelches Projekt verfolgst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

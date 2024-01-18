@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Welches Ereignis aus deiner Zukunft möchtest du hören?",
+      "v": "Von welchem Ereignis aus deiner Zukunft möchtest du erfahren?",
       "n": "QuestionText"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Eine Wahrsagerin informiert dich über zwei wilde Ereignisse in deiner Zukunft: eines davon ist, in einer Höhle gefangen zu sein und das andere ist <BLANK>. Sie kann dir nur von einem erzählen.",
+      "v": "Eine Wahrsagerin sieht in ihrer Kristallkugel zwei verrückte Ereignisse in deiner Zukunft.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Eines davon ist, dass du in einer Höhle gefangen sein wirst, das andere ist",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Sie kann dir nur von einem erzählen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Eine Wahrsagerin informiert dich über zwei wilde Ereignisse in deiner Zukunft: eines davon ist, in einer Höhle gefangen zu sein und das andere ist <BLANK>. Sie kann dir nur von einem erzählen.\r\nWelches Ereignis aus deiner Zukunft möchtest du hören?",
+      "s": "Eine Wahrsagerin sieht in ihrer Kristallkugel zwei verrückte Ereignisse in deiner Zukunft. Eines davon ist, dass du in einer Höhle gefangen sein wirst, das andere ist <BLANK>. Sie kann dir nur von einem erzählen.\r\nVon welchem Ereignis aus deiner Zukunft möchtest du erfahren?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ja, in der Höhle war sicherlich kein Problem.",
+      "s": "Ja, das mit der Höhle ist sicherlich zu vernachlässigen. Oder?",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

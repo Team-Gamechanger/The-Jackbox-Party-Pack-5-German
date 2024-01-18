@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Was hast du auf deinen kostenlosen Grabstein geschrieben?",
+      "v": "Was schreibst du auf deinen kostenlosen Grabstein?",
       "n": "QuestionText"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Niemals geküsst worden | Füttere mich mit Kindern | Runter von meinem Rasen | Schwuchteln| Verschwunden und vergessen",
+      "v": "Stirbt jungfräulich | Füttere mich mit Kindern | Runter von meinem Rasen | Nur echt mit dicken Möpsen | Verschwunden und vergessen",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Während du deine Beerdigung planst, unterbreitet dir der Bestatter einen Deal. Der Grabstein ist kostenlos, wenn du dich für einen dieser Grabsprüche entscheidest: “Ich bin tot” oder “<BLANK>”.",
+      "v": "Während du deine Beerdigung planst, macht dir der Bestatter ein Angebot.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Der Grabstein ist kostenlos, wenn du dich für eine der folgenden Inschriften entscheidest: “Ich bin tot” oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "“<BLANK>”.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Während du deine Beerdigung planst, unterbreitet dir der Bestatter einen Deal. Der Grabstein ist kostenlos, wenn du dich für einen dieser Grabsprüche entscheidest: “Ich bin tot” oder “<BLANK>”.\r\nWas hast du auf deinen kostenlosen Grabstein geschrieben?",
+      "s": "Während du deine Beerdigung planst, macht dir der Bestatter ein Angebot. Der Grabstein ist kostenlos, wenn du dich für eine der folgenden Inschriften entscheidest: “Ich bin tot” oder “<BLANK>”.\r\nWas schreibst du auf deinen kostenlosen Grabstein?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

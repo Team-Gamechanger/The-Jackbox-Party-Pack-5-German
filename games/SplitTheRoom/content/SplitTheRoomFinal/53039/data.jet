@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Tasche voller Bargeld",
+      "v": "Geldbeutel",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "eine Tasche voller Familienerbstücke | dein Kind | deinen Laptop | all’ deine Kleidung | deine Kontoauszüge",
+      "v": "eine Tasche voller Familienerbstücke | dein Kind | deinen Laptop | all’ deine Kleidung | Deinen Ehering",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Dein Heissluftballon verliert schnell an Höhe. Um dich selbst zu retten, musst du Gewicht abwerfen. Du kannst entweder deine Tasche voller Bargeld oder <BLANK> abwerfen.",
+      "v": "Dein Heißluftballon verliert schnell an Höhe.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Um dich zu retten, musst du Ballast loswerden. Du kannst entweder deinen Geldbeutel oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "abwerfen.",
       "n": "ScenarioText4"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Nur Heiße Luft",
+      "s": "Nur heiße Luft",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Dein Heissluftballon verliert schnell an Höhe. Um dich selbst zu retten, musst du Gewicht abwerfen. Du kannst entweder deine Tasche voller Bargeld oder <BLANK> abwerfen.\r\nWas wirfst du über Bord?",
+      "s": "Dein Heißluftballon verliert schnell an Höhe. Um dich zu retten, musst du Ballast loswerden. Du kannst entweder deinen Geldbeutel oder <BLANK> abwerfen.\r\nWas wirfst du über Bord?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

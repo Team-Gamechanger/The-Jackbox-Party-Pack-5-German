@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du wurdest gebeten, auf der untraditionellen Hochzeit deines besten Freundes teilzunehmen. Du kannst zwischen zwei Funktionen wählen: mit dem Vater der Braut ringen oder <BLANK>.",
+      "v": "Du wurdest eingeladen, an der untraditionellen Hochzeit deines besten Freundes teilzunehmen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst zwischen zwei Rollen wählen: mit dem Vater der Braut ringen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wurdest gebeten, auf der untraditionellen Hochzeit deines besten Freundes teilzunehmen. Du kannst zwischen zwei Funktionen wählen: mit dem Vater der Braut ringen oder <BLANK>.\r\nWelche Funktion übst du bei dieser bizarren Hochzeit aus?",
+      "s": "Du wurdest eingeladen, an der untraditionellen Hochzeit deines besten Freundes teilzunehmen. Du kannst zwischen zwei Rollen wählen: mit dem Vater der Braut ringen oder <BLANK>.\r\nWelche Funktion übst du bei dieser bizarren Hochzeit aus?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Immer noch besser als Strumpfband werfen, oder?",
+      "s": "Beides immer noch besser, als von einem Blumenstrauß abgeworfen zu werden.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

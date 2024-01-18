@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "“Norbit” | ein ausländischer Film über Inzest | eine romantische Komödie | ein alter rassistischer Western | über Kannibalismus",
+      "v": "“Norbit” | ein französischer Film über Inzest | eine romantische Komödie | ein alter rassistischer Western | über Kannibalismus",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du hast ein erstes Date und zwar im Kino. Leider sind nur zwei Filme verfügbar. Der eine ist ein Dokumentarfilm über Völkermord, der andere <BLANK>.",
+      "v": "Du hast ein erstes Date, und zwar im Kino. Leider gibt es nur zwei Filme.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Der eine ist eine Dokumentation über Völkermord, der andere",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast ein erstes Date und zwar im Kino. Leider sind nur zwei Filme verfügbar. Der eine ist ein Dokumentarfilm über Völkermord, der andere <BLANK>.\r\nWelchen Film schaut ihr euch an?",
+      "s": "Du hast ein erstes Date, und zwar im Kino. Leider gibt es nur zwei Filme. Der eine ist eine Dokumentation über Völkermord, der andere <BLANK>.\r\nWelchen Film schaut ihr euch an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

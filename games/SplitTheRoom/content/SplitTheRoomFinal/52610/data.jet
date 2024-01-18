@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Welcher Vorteil gewinnt?",
+      "v": "Welcher Vorteil überzeugt dich mehr?",
       "n": "QuestionText"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du bist zwischen zwei potentiellen Liebhabern hin und her gerissen. Sie sind in jeder Hinsicht gleichwertig, bis auf eines: #1 hat eine Yacht mit 3 Schlafzimmern, #2 hat <BLANK>.",
+      "v": "Du bist hin- und hergerissen zwischen zwei potenziellen Liebhabern.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Sie sind in jeder Hinsicht gleichwertig, mit einer Ausnahme:",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Nr. 1 hat eine Yacht mit 3 Schlafzimmern, Nr. 2 hat",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist zwischen zwei potentiellen Liebhabern hin und her gerissen. Sie sind in jeder Hinsicht gleichwertig, bis auf eines: #1 hat eine Yacht mit 3 Schlafzimmern, #2 hat <BLANK>.\r\nWelcher Vorteil gewinnt?",
+      "s": "Du bist hin- und hergerissen zwischen zwei potenziellen Liebhabern. Sie sind in jeder Hinsicht gleichwertig, mit einer Ausnahme: Nr. 1 hat eine Yacht mit 3 Schlafzimmern, Nr. 2 hat <BLANK>.\r\nWelcher Vorteil überzeugt dich mehr?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

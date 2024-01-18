@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Streichst du sie trotzdem?",
+      "v": "Blockierst du sie trotzdem?",
       "n": "QuestionText"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Immer wenn du ein unangenehmes Familienmitglied auf sozialen Netzwerken aus deinem Feed streichst, führt es dazu, dass diese Person",
+      "v": "Immer wenn du ein unangenehmes Familienmitglied auf sozialen Netzwerken blockierst, führt es dazu, dass diese Person",
       "n": "ScenarioText1"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Der Angehörige wird sich schliesslich davon erholen, aber nie erfahren dass du der Verursacher warst.",
+      "v": "Der Angehörige wird sich schließlich davon erholen, aber nie erfahren dass du der Verursacher warst.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Immer wenn du ein unangenehmes Familienmitglied auf sozialen Netzwerken aus deinem Feed streichst, führt es dazu, dass diese Person <BLANK>. Der Angehörige wird sich schliesslich davon erholen, aber nie erfahren dass du der Verursacher warst. Doch du wirst es wissen.\r\nStreichst du sie trotzdem?",
+      "s": "Immer wenn du ein unangenehmes Familienmitglied auf sozialen Netzwerken blockierst, führt es dazu, dass diese Person <BLANK>. Der Angehörige wird sich schließlich davon erholen, aber nie erfahren dass du der Verursacher warst. Doch du wirst es wissen.\r\nBlockierst du sie trotzdem?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

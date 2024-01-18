@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "ein hervorragender Koch | ein brillianter Ingenieur | ein erfahrender Landwirt | ein talentierter Musiker | ein Architekt",
+      "v": "ein hervorragender Koch | ein brillianter Ingenieur | ein erfahrener Landwirt | ein talentierter Musiker | ein Architekt",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du bereitest das letzte Raumschiff vor, unmittelbar bevor die Erde sich selbst zerstört. Zwei Leute klopfen an die Schiffstür. Der eine ist ein mittelmässiger Arzt, der andere <BLANK>. Es ist nur noch ein Platz frei.",
+      "v": "Du bereitest das letzte Raumschiff vor, kurz bevor die Erde sich selbst zerstört. Zwei Leute klopfen an die Tür des Raumschiffs.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Der eine ist ein mittelmäßiger Arzt, der andere",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Es ist nur noch ein Platz frei.",
       "n": "ScenarioText4"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Letzter Zugang in’s Weltall",
+      "s": "Letzter Aufruf für's Weltall",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bereitest das letzte Raumschiff vor, unmittelbar bevor die Erde sich selbst zerstört. Zwei Leute klopfen an die Schiffstür. Der eine ist ein mittelmässiger Arzt, der andere <BLANK>. Es ist nur noch ein Platz frei.\r\nWen nimmst du mit an Bord?",
+      "s": "Du bereitest das letzte Raumschiff vor, kurz bevor die Erde sich selbst zerstört. Zwei Leute klopfen an die Tür des Raumschiffs. Der eine ist ein mittelmäßiger Arzt, der andere <BLANK>. Es ist nur noch ein Platz frei.\r\nWen nimmst du mit an Bord?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

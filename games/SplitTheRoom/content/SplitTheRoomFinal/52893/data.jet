@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du besuchst eine echte Wahrsagerin. Um dem unmittelbaren finanziellen Ruin entgehen zu können, musst du entweder einen Totenschädel vom Friedhof stehlen oder <BLANK>.",
+      "v": "Du gehst zu einer echten Wahrsagerin. Sie offenbart dir:",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "\"Um dem drohenden finanziellen Ruin zu entgehen, musst du entweder einen Totenschädel vom Friedhof stehlen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.\"",
       "n": "ScenarioText3"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Das Geld in den Sternen",
+      "s": "Wenn die Sterne sprechen",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du besuchst eine echte Wahrsagerin. Um dem unmittelbaren finanziellen Ruin entgehen zu können, musst du entweder einen Totenschädel vom Friedhof stehlen oder <BLANK>.\r\nWie wirst du deinen finanziellen Fluch abwenden?",
+      "s": "Du gehst zu einer echten Wahrsagerin. Sie offenbart dir: \"Um dem drohenden finanziellen Ruin zu entgehen, musst du entweder einen Totenschädel vom Friedhof stehlen oder <BLANK>.\"\r\nWie wirst du deinen finanziellen Fluch abwenden?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

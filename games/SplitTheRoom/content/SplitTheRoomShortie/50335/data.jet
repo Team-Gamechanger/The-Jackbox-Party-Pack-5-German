@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du wurdest über Nacht zur grössten Berühmtheit des Internets.",
+      "v": "Du wurdest über Nacht zur größten Berühmtheit des Internets.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wurdest über Nacht zur grössten Berühmtheit des Internets. Du hast genug Geld, um dein Traumhaus zu kaufen. Wie du das geschafft hast? Du hast dich dabei gefilmt, wie du <BLANK>.\r\nIst es den Ruhm wert?",
+      "s": "Du wurdest über Nacht zur größten Berühmtheit des Internets. Du hast genug Geld, um dein Traumhaus zu kaufen. Wie du das geschafft hast? Du hast dich dabei gefilmt, wie du <BLANK>.\r\nIst es den Ruhm wert?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

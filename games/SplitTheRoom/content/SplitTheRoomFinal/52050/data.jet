@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Verzweifelt nach Bargeld, meldest du dich als Versuchskaninchen. Es stehen zwei Experimente zur Auswahl. Du kannst entweder die Auswirkungen einer ganz wöchentlichen Nur-Spargel-Diät testen oder <BLANK>.",
+      "v": "Du brauchst dringend Geld und meldest dich als Versuchskaninchen. Zwei Experimente stehen zur Auswahl.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst entweder testen, wie eine einwöchige Spargeldiät wirkt oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Verzweifelt nach Bargeld, meldest du dich als Versuchskaninchen. Es stehen zwei Experimente zur Auswahl. Du kannst entweder die Auswirkungen einer ganz wöchentlichen Nur-Spargel-Diät testen oder <BLANK>.\r\nAn welchem Experiment nimmst du teil?",
+      "s": "Du brauchst dringend Geld und meldest dich als Versuchskaninchen. Zwei Experimente stehen zur Auswahl. Du kannst entweder testen, wie eine einwöchige Spargeldiät wirkt oder <BLANK>.\r\nAn welchem Experiment nimmst du teil?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Glückwunsch, dafür gibt’s 50€ ",
+      "s": "Glückwunsch, als Aufwandsentschädigung winken 50€.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

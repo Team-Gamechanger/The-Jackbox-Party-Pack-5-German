@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Highschool Mathematik-Test",
+      "v": "Mathematik-Test",
       "n": "Answer"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Ein riesiger Meteorit ist dabei, die Erde zu treffen. Die Regierung wird jedem Unterschlupf gewähren, der entweder einen Mathematik-Test auf Highschool-Niveau bestehen oder <BLANK> kann.",
+      "v": "Ein riesiger Meteorit wird auf der Erde einschlagen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Die Regierung bietet jedem Zuflucht, der einen Mathe-Test auf Realschul-Niveau bestehen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "kann.",
       "n": "ScenarioText4"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein riesiger Meteorit ist dabei, die Erde zu treffen. Die Regierung wird jedem Unterschlupf gewähren, der entweder einen Mathematik-Test auf Highschool-Niveau bestehen oder <BLANK> kann.\r\nWelchen Test absolvierst du?",
+      "s": "Ein riesiger Meteorit wird auf der Erde einschlagen. Die Regierung bietet jedem Zuflucht, der einen Mathe-Test auf Realschul-Niveau bestehen oder <BLANK> kann.\r\nWelchen Test absolvierst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Dein Lehrer hatte recht: Es war doch wichtig im echten Leben.",
+      "s": "Euer Lehrer hatte recht, Mathe ist doch wichtig.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

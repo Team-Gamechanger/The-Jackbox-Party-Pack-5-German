@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du bist Preisrichter bei einer Talentshow. Du musst grausamerweise einen Kandidaten rauswerfen: einen fünfjährigen Tänzer oder <BLANK>.",
+      "v": "Du bist Juror bei einer Talentshow.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du musst grausamerweise einen Kandidaten rauswerfen: einen fünfjährigen Tänzer oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist Preisrichter bei einer Talentshow. Du musst grausamerweise einen Kandidaten rauswerfen: einen fünfjährigen Tänzer oder <BLANK>.\r\nWelchen Kandidaten wirfst du raus?",
+      "s": "Du bist Juror bei einer Talentshow. Du musst grausamerweise einen Kandidaten rauswerfen: einen fünfjährigen Tänzer oder <BLANK>.\r\nWelchen Kandidaten wirfst du raus?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

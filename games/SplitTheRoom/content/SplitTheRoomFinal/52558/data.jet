@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Welche reale Videospielfähigkeit wählst du?",
+      "v": "Welche Videospielfähigkeit wählst du für die Realität?",
       "n": "QuestionText"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Nachdem du den Highscore in einem magischen Arcade-Spiel geschlagen hast, erhälst du eine Spezialfähigkeit, die auch in der realen Welt funktioniert. Du kannst entweder ein Extra-Leben bekommen oder <BLANK>.",
+      "v": "Wenn du in einem magischen Arcade-Spiel den Highscore schaffst, bekommst du eine besondere Fähigkeit, die du auch in der echten Welt einsetzen kannst.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du bekommst entweder ein Extra-Leben oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Nachdem du den Highscore in einem magischen Arcade-Spiel geschlagen hast, erhälst du eine Spezialfähigkeit, die auch in der realen Welt funktioniert. Du kannst entweder ein Extra-Leben bekommen oder <BLANK>.\r\nWelche reale Videospielfähigkeit wählst du?",
+      "s": "Wenn du in einem magischen Arcade-Spiel den Highscore schaffst, bekommst du eine besondere Fähigkeit, die du auch in der echten Welt einsetzen kannst. Du bekommst entweder ein Extra-Leben oder <BLANK>.\r\nWelche Videospielfähigkeit wählst du für die Realität?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

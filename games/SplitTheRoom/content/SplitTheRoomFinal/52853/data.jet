@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Alle Smartphones haben nur noch Speicherplatz für eine App. Die App kann nicht gelöscht werden.",
+      "v": "Alle Smartphones kommen vorinstalliert mit nur noch einer App, die nicht gelöscht werden kann.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Du kannst zwischen Smartphones mit diesen Apps wählen: Mahjongg oder",
+      "v": "Der Speicherplatz reicht nur für diese eine App.",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "<BLANK>.",
+      "v": "Du kannst zwischen Smartphones mit diesen Apps wählen: Mahjongg oder",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText4"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Alle Smartphones haben nur noch Speicherplatz für eine App. Die App kann nicht gelöscht werden. Du kannst zwischen Smartphones mit diesen Apps wählen: Mahjongg oder <BLANK>.\r\nWelche App soll sich auf dem Smartphone befinden?",
+      "s": "Alle Smartphones kommen vorinstalliert mit nur noch einer App, die nicht gelöscht werden kann. Der Speicherplatz reicht nur für diese eine App. Du kannst zwischen Smartphones mit diesen Apps wählen: Mahjongg oder <BLANK>\r\nWelche App soll sich auf dem Smartphone befinden?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Immerhin ist der Hauptbildschirm nicht länger so unübersichtlich.",
+      "s": "Immerhin ist der Hauptbildschirm jetzt nicht mehr so unübersichtlich.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

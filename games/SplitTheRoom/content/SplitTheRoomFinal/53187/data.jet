@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Nach einem langen Tag auf der Strasse, hältst du bei einem Motel. Ein Zimmer mit zwei Betten ist noch verfügbar. Ein Bett ist leicht feucht und das andere <BLANK>.",
+      "v": "Nach einem langen Tag unterwegs kehrst du in ein Motel ein.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Ein Zimmer mit zwei Betten ist noch frei. Ein Bett ist leicht feucht, das andere",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Nach einem langen Tag auf der Strasse, hältst du bei einem Motel. Ein Zimmer mit zwei Betten ist noch verfügbar. Ein Bett ist leicht feucht und das andere <BLANK>.\r\nAuf welcher Matratze schläfst du?",
+      "s": "Nach einem langen Tag unterwegs kehrst du in ein Motel ein. Ein Zimmer mit zwei Betten ist noch frei. Ein Bett ist leicht feucht, das andere <BLANK>.\r\nAuf welcher Matratze schläfst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Es ist deine erste Nacht im Gefängnis und du benötigst eine Gruppe von Häftlingen, die dich schützt. Trittst du einer Gruppe namens “Sugar Daddys” oder “<BLANK>” bei?",
+      "v": "Es ist deine erste Nacht im Gefängnis und du brauchst eine Gruppe von Häftlingen, die dich beschützen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Schließt du dich einer Gruppe namens “Sugar Daddys” oder lieber",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "“<BLANK>”",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "an?",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Es ist deine erste Nacht im Gefängnis und du benötigst eine Gruppe von Häftlingen, die dich schützt. Trittst du einer Gruppe namens “Sugar Daddys” oder “<BLANK>” bei?\r\nWelcher Gruppe schliesst du dich an?",
+      "s": "Es ist deine erste Nacht im Gefängnis und du brauchst eine Gruppe von Häftlingen, die dich beschützen. Schließt du dich einer Gruppe namens “Sugar Daddys” oder lieber “<BLANK>” an?\r\nWelcher Gruppe schliesst du dich an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Welchen, von der Regierung geforderten, Namen wählst du?",
+      "v": "Welchen von der Regierung geforderten Namen wählst du?",
       "n": "QuestionText"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Die Regierung entscheidet ab sofort die Namen aller Kinder. Sie gibt dir zwei Möglichkeiten: Tem oder <BLANK>.",
+      "v": "Die Regierung entscheidet über die Namen aller Kinder.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Es gibt zwei Möglichkeiten: Tem oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Die Regierung entscheidet ab sofort die Namen aller Kinder. Sie gibt dir zwei Möglichkeiten: Tem oder <BLANK>.\r\nWelchen, von der Regierung geforderten, Namen wählst du?",
+      "s": "Die Regierung entscheidet über die Namen aller Kinder. Es gibt zwei Möglichkeiten: Tem oder <BLANK>.\r\nWelchen von der Regierung geforderten Namen wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du findest ein verlassenenes ausserirdisches Raumschiff im Wald. Es ist voll von unglaublicher Technologie. Du kannst aber nur ein Ding mitnehmen: eine Tastatur, die einwandfreis Deutsch schreibt oder <BLANK>.",
+      "v": "Du findest im Wald ein verlassenes außerirdisches Raumschiff.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Es ist voller unglaublicher Technik. Du kannst nur eine Sache mitnehmen: eine Tastatur, die immer fehlerfreies Deutsch schreibt oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du findest ein verlassenenes ausserirdisches Raumschiff im Wald. Es ist voll von unglaublicher Technologie. Du kannst aber nur ein Ding mitnehmen: eine Tastatur, die einwandfreis Deutsch schreibt oder <BLANK>.\r\nWelche ausserirdische Technologie nimmst du mit?",
+      "s": "Du findest im Wald ein verlassenes außerirdisches Raumschiff. Es ist voller unglaublicher Technik. Du kannst nur eine Sache mitnehmen: eine Tastatur, die immer fehlerfreies Deutsch schreibt oder <BLANK>.\r\nWelche ausserirdische Technologie nimmst du mit?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Zu welcher Entscheidung überredest du sie?",
+      "v": "Wozu überredest du sie?",
       "n": "QuestionText"
     },
     {
@@ -42,17 +42,17 @@
     },
     {
       "t": "S",
-      "v": "Sie informieren dich, entweder Paris oder",
+      "v": "Sie informieren dich über ihr Vorhaben, entweder Paris oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "<BLANK> zu zerstören.",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "Du kannst es ihnen nicht ausreden, jedoch kannst ihre Entscheidung beeinflussen.",
+      "v": "zu zerstören. Du kannst es ihnen nicht ausreden, jedoch ihre Entscheidung beeinflussen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wurdest von einer Horde böser Außerirdischer gefangen genommen. Sie informieren dich, entweder Paris oder <BLANK> zu zerstören. Du kannst es ihnen nicht ausreden, jedoch kannst ihre Entscheidung beeinflussen.\r\nZu welcher Entscheidung überredest du sie?",
+      "s": "Du wurdest von einer Horde böser Außerirdischer gefangen genommen. Sie informieren dich über ihr Vorhaben, entweder Paris oder <BLANK> zu zerstören. Du kannst es ihnen nicht ausreden, jedoch ihre Entscheidung beeinflussen.\r\nWozu überredest du sie?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Wow, ok, das sag ich Paris!",
+      "s": "Vielleicht solltet ihr euch in nächster Zeit von der französischen Grenze fernhalten...",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

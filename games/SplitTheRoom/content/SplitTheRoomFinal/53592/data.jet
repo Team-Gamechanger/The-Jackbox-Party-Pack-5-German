@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du kannst unbegrenzt kostenlose Kinotickets bekommen. Vorausgesetzt du stehst irgendwann während des Films auf und schreist: “WAS WOHL ALS NÄCHSTES PASSIERT?” oder “<BLANK>”.",
+      "v": "Du kannst unbegrenzt Freikarten fürs Kino bekommen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Vorraussetzung dafür ist, dass du irgendwann während des Films aufstehst und “WAS PASSIERT ALS NÄCHSTES?” oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "“<BLANK>”",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "schreist.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du kannst unbegrenzt kostenlose Kinotickets bekommen. Vorausgesetzt du stehst irgendwann während des Films auf und schreist: “WAS WOHL ALS NÄCHSTES PASSIERT?” oder “<BLANK>”.\r\nWelchen Spruch schreist du?",
+      "s": "Du kannst unbegrenzt Freikarten fürs Kino bekommen. Vorraussetzung dafür ist, dass du irgendwann während des Films aufstehst und “WAS PASSIERT ALS NÄCHSTES?” oder “<BLANK>” schreist.\r\nWelchen Spruch schreist du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

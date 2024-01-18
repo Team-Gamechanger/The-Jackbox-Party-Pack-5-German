@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du bist ein einsamer Mensch, der mitten im Wald lebt... aber eine Fee kann eines deiner leblosen Objekte zum Leben erwecken. Sie kann entweder deiner Matratze oder <BLANK> Leben einhauchen.",
+      "v": "Du bist ein einsamer Mann, der mitten im Wald lebt... aber eine Fee kann einen deiner leblosen Gegenstände zum Leben erwecken.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Sie kann entweder deine Matratze oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "zum Leben erwecken.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein einsamer Mensch, der mitten im Wald lebt... aber eine Fee kann eines deiner leblosen Objekte zum Leben erwecken. Sie kann entweder deiner Matratze oder <BLANK> Leben einhauchen.\r\nWelches Objekt soll ein fühlendes Wesen werden?",
+      "s": "Du bist ein einsamer Mann, der mitten im Wald lebt... aber eine Fee kann einen deiner leblosen Gegenstände zum Leben erwecken. Sie kann entweder deine Matratze oder <BLANK> zum Leben erwecken.\r\nWelches Objekt soll ein fühlendes Wesen werden?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Als du das Monster, schlafend in seiner Höhle aufspürst, entdeckst du, dass es",
+      "v": "Als du das Monster, schlafend in seiner Höhle aufspürst, entdeckst du, dass der Wolf",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wurdest beauftragt, einen Werwolf zu töten, der es auf Haustiere in deiner Nähe abgesehen hat. Als du das Monster, schlafend in seiner Höhle aufspürst, entdeckst du, dass es <BLANK> davon abgehalten hat, die Stadt zu überrennen.\r\nTötest du den Werwolf trotzdem?",
+      "s": "Du wurdest beauftragt, einen Werwolf zu töten, der es auf Haustiere in deiner Nähe abgesehen hat. Als du das Monster, schlafend in seiner Höhle aufspürst, entdeckst du, dass der Wolf <BLANK> davon abgehalten hat, die Stadt zu überrennen.\r\nTötest du den Werwolf trotzdem?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Kreditoren | Tierheim | Steuertag | Zweiter Weltkrieg | Öl-Industrie",
+      "v": "Verdauung| Tierheim | Steuererklärung | Zweiter Weltkrieg | Öl-Industrie",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du und dein Lebensgefährte wollen eine Woche in einem Fantasy-Hotel verbringen. Es sind nur noch zwei Suiten übrig. Ihr könnt entweder zwischen einem IT-themenorientierten Raum oder einem Raum mit dem Thema <BLANK> wählen.",
+      "v": "Du und dein Partner wollen eine Woche in einem tollen Themen-Hotel verbringen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Es sind nur noch zwei Suiten verfügbar. Ihr könnt zwischen einem Zimmer mit dem Thema \"Informatik\" und einem Zimmer mit dem Thema",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "\"BLANK\"",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "wählen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du und dein Lebensgefährte wollen eine Woche in einem Fantasy-Hotel verbringen. Es sind nur noch zwei Suiten übrig. Ihr könnt entweder zwischen einem IT-themenorientierten Raum oder einem Raum mit dem Thema <BLANK> wählen.\r\nWelchen Raum nehmt ihr?",
+      "s": "Du und dein Partner wollen eine Woche in einem tollen Themen-Hotel verbringen. Es sind nur noch zwei Suiten verfügbar. Ihr könnt zwischen einem Zimmer mit dem Thema \"Informatik\" und einem Zimmer mit dem Thema \"BLANK\" wählen.\r\nWelchen Raum nehmt ihr?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

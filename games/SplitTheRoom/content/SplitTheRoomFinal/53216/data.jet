@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du bist in einer romantischen Reality-Show. Du musst eine der beiden Finalisten heiraten. Sie sind beide nett, doch der eine Kandidat spricht nur im montonen Klang, der andere <BLANK>.",
+      "v": "Du nimmst an einer romantischen Reality-Show teil.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du sollst einen der beiden Finalisten heiraten.",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Sie sind beide nett, aber der eine Kandidat spricht nur in einem monotonen Ton und der andere Kandidat",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist in einer romantischen Reality-Show. Du musst eine der beiden Finalisten heiraten. Sie sind beide nett, doch der eine Kandidat spricht nur im montonen Klang, der andere <BLANK>.\r\nWelchen Kandidaten heiratest du?",
+      "s": "Du nimmst an einer romantischen Reality-Show teil. Du sollst einen der beiden Finalisten heiraten. Sie sind beide nett, aber der eine Kandidat spricht nur in einem monotonen Ton und der andere Kandidat <BLANK>.\r\nWelchen Kandidaten heiratest du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

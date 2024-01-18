@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn du den grössten Vogel erschiesst, werden sie verschwinden. Wenn du einen anderen erwischt, werden sie",
+      "v": "Wenn du den grössten Vogel erschießt, werden sie verschwinden. Wenn du aber einen anderen erwischt, werden sie",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Wo auch immer du hingehst, wirst du von Krähen verfolgt. Wenn du den grössten Vogel erschiesst, werden sie verschwinden. Wenn du einen anderen erwischt, werden sie <BLANK>. Sie sind immer als Gruppe unterwegs.\r\nSchiesst du?",
+      "s": "Wo auch immer du hingehst, wirst du von Krähen verfolgt. Wenn du den grössten Vogel erschießt, werden sie verschwinden. Wenn du aber einen anderen erwischt, werden sie <BLANK>. Sie sind immer als Gruppe unterwegs.\r\nSchiesst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

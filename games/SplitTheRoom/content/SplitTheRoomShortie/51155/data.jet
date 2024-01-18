@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Gibst du es zurück?",
+      "v": "Gibst du das Geld zurück?",
       "n": "QuestionText"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Du könntest damit deine Arztkosten bezahlen.",
+      "v": "Du könntest damit deine Zahnarztrechnung bezahlen.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Aus heiterem Himmel überweist dir ein Fremder eine Summe von 1.000 Euro, mit dem Verwendungszweck: “<BLANK>”. Du könntest damit deine Arztkosten bezahlen.\r\nGibst du es zurück?",
+      "s": "Aus heiterem Himmel überweist dir ein Fremder eine Summe von 1.000 Euro, mit dem Verwendungszweck: “<BLANK>”. Du könntest damit deine Zahnarztrechnung bezahlen.\r\nGibst du das Geld zurück?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

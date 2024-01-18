@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Maskottenbelästiger",
+      "v": "Maskottchenbelästiger",
       "n": "Answer"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du verbringst eine Nacht im Gefängnis. Der diensthabende Wachmann lässt dir die Wahl. Du kannst eine Zelle mit jemandem teilen, der ein Baseballmaskottchen verbal belästigt hat oder jemandem, der <BLANK>.",
+      "v": "Du verbringst eine Nacht im Gefängnis.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Der diensthabende Wärter lässt dir die Wahl.",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst die Zelle mit jemandem teilen, der ein Handball-Maskottchen verbal belästigt hat, oder mit jemandem, der",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du verbringst eine Nacht im Gefängnis. Der diensthabende Wachmann lässt dir die Wahl. Du kannst eine Zelle mit jemandem teilen, der ein Baseballmaskottchen verbal belästigt hat oder jemandem, der <BLANK>.\r\nFür wen entscheidest du dich, als Zellengenossen?",
+      "s": "Du verbringst eine Nacht im Gefängnis. Der diensthabende Wärter lässt dir die Wahl. Du kannst die Zelle mit jemandem teilen, der ein Handball-Maskottchen verbal belästigt hat, oder mit jemandem, der <BLANK>.\r\nFür wen entscheidest du dich, als Zellengenossen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

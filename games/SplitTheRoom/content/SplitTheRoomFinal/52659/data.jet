@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Entfernung des kleinen Fingers | abgelaufene Mayonnaise essen | zwei Wochen Aderlass | einen Monat ohne jegliche Technik leben | Ganzkörper-Wachsen",
+      "v": "Entfernung des kleinen Fingers | abgelaufene Mayonnaise essen | zwei Wochen Aderlass | einen Monat ohne jegliche Technik leben | Ganzkörper-Waxing",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du hast schreckliche Schlaflosigkeit. Ein New-Age-Arzt mit ausgezeichnetem Leistungsnachweis bietet dir zwei Lösungen an: Genital-Akupunktur oder <BLANK>.",
+      "v": "Du hast schreckliche Schlafstörungen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Ein Arzt mit ausgezeichnetem Ruf bietet dir zwei Lösungen an: Eine Genitalakupunktur oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Schlaflosigkeitskur",
+      "s": "Nachtruhe",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast schreckliche Schlaflosigkeit. Ein New-Age-Arzt mit ausgezeichnetem Leistungsnachweis bietet dir zwei Lösungen an: Genital-Akupunktur oder <BLANK>.\r\nWelche Schlaflosigkeitskur wählst du?",
+      "s": "Du hast schreckliche Schlafstörungen. Ein Arzt mit ausgezeichnetem Ruf bietet dir zwei Lösungen an: Eine Genitalakupunktur oder <BLANK>.\r\nWelche Schlaflosigkeitskur wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ob es das wert ist? Schon mal schlaflos gewesen? Hab ich mir gedacht.",
+      "s": "Ob es das wert ist? Wart ihr schon mal schlaflos? Dacht' ich mir's doch.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

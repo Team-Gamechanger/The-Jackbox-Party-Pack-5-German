@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Lizzie Borden | Benedict Arnold | einem verrückten Tiger | deinen Ur-Grosseltern | Dschingis Khan",
+      "v": "Lizzie Borden | Hitler | einem verrückten Tiger | deinen Ur-Grosseltern | Dschingis Khan",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Es gibt nur zwei Wohnungen in deiner Preisklasse... in beiden spukt es. Du kannst entweder mit dem Geist von Vladimir Lenin oder dem Geist von <BLANK> wohnen.",
+      "v": "Es gibt nur zwei Wohnungen in deiner Preisklasse... und in beiden spukt es.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst entweder mit dem Geist von Vladimir Lenin oder dem Geist von",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "leben.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Es gibt nur zwei Wohnungen in deiner Preisklasse... in beiden spukt es. Du kannst entweder mit dem Geist von Vladimir Lenin oder dem Geist von <BLANK> wohnen.\r\nMit welchen Geist entscheidest du dich zusammenleben?",
+      "s": "Es gibt nur zwei Wohnungen in deiner Preisklasse... und in beiden spukt es. Du kannst entweder mit dem Geist von Vladimir Lenin oder dem Geist von <BLANK> leben.\r\nMit welchen Geist entscheidest du dich zusammenleben?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

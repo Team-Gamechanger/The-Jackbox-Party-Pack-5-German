@@ -41,7 +41,7 @@
       "answerText": "",
       "scenarioText": "Zu alt für Tinder Du hast die Möglichkeit, das Wort “tinderjährig” aus dem deutschen Wörterbuch zu streichen. Es wird nie wieder eine Erwähnung finden. Allerdings wird es durch einen neuen populären Begriff ersetzt: “<BLANK>”.",
       "decoys": "Buh-pah | Schnibbel Schnapp | Arghs Bargs | Sabbel Labbel | Nunkie Dunkie",
-      "x": false,
+      "x": true,
       "id": 50428,
       "category": "Zu alt für Tinder",
       "questionText": "Ist es das wert?"
@@ -111,11 +111,11 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Heilig VS. Böse Du bist Leiter einer Wohltätigkeitsorganisation, die den Armen Kleidung und Essen spendet. Doch ein böser Milliardär beschliesst, dass er pro 10 Euro, die gesammelt werden, um den Glücklosen zu helfen, <BLANK>.",
+      "scenarioText": "Gut gegen Böse Du bist Leiter einer Wohltätigkeitsorganisation, die den Armen Kleidung und Essen spendet. Doch ein böser Milliardär beschließt, dass er pro 10 Euro, die gesammelt werden, um den Glücklosen zu helfen, <BLANK>.",
       "decoys": "10 Euro stiehlt | eine willkürliche Person entführt | ein Haus abfackelt | die Löhne senkt | einen Politiker besticht",
       "x": false,
       "id": 50308,
-      "category": "Heilig VS. Böse",
+      "category": "Gut gegen Böse",
       "questionText": "Hilfst du weiterhin den Armen?"
     },
     {
@@ -129,11 +129,11 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Mami, Liebling? Deine Mutter hat keine Ahnung, dass ihr Leben in Gefahr ist. Der einzige Weg, um sie zu retten, ist, sie/ihr jeden Tag, einen Monat lang <BLANK>. Sie wird wissen, dass du es warst, aber nie weshalb.",
+      "scenarioText": "Warum, mein Liebling? Deine Mutter hat keine Ahnung, dass ihr Leben in Gefahr ist. Der einzige Weg, um sie zu retten, ist, sie/ihr jeden Tag, einen Monat lang <BLANK>. Sie wird wissen, dass du es warst, aber nie weshalb.",
       "decoys": "zu schlagen | einen Hosenzieher zu verpassen | ihre Geldbörse zu stehlen | ihr Telefonpasswort zu ändern | vollzuniesen",
       "x": false,
       "id": 50311,
-      "category": "Mami, Liebling?",
+      "category": "Warum, mein Liebling?",
       "questionText": "Nimmst du den Deal an?"
     },
     {
@@ -147,11 +147,11 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Fühl die Verbrennung Dein Fitnessstudio hat gerade ein hochmodernes Gerät aufgestellt, mit dem du problemlos 2.000 Kalorien in 5 Minuten verbrennen kannst. So funktioniert es: draufstellen und pantomimen, wie du <BLANK>. Das Studio ist voll, aber das Gerät ist verfügbar.",
+      "scenarioText": "Schämend schlank Dein Fitnessstudio hat ein hochmodernes Gerät aufgestellt, mit dem du problemlos 2.000 Kalorien in 5 Minuten verbrennen kannst. So funktioniert es: Draufstellen und pantomimen, wie du <BLANK>. Das Studio ist voll, aber das Gerät ist verfügbar.",
       "decoys": "kackst | rummachst | gewaltsam stirbst | duscht | eine Haarwachsentfernung bekommst",
       "x": false,
       "id": 50323,
-      "category": "Fühl die Verbrennung",
+      "category": "Schämend schlank",
       "questionText": "Benutzt du es?"
     },
     {
@@ -165,7 +165,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Like und/oder Abonnieren Du wurdest über Nacht zur grössten Berühmtheit des Internets. Du hast genug Geld, um dein Traumhaus zu kaufen. Wie du das geschafft hast? Du hast dich dabei gefilmt, wie du <BLANK>.",
+      "scenarioText": "Like und/oder Abonnieren Du wurdest über Nacht zur größten Berühmtheit des Internets. Du hast genug Geld, um dein Traumhaus zu kaufen. Wie du das geschafft hast? Du hast dich dabei gefilmt, wie du <BLANK>.",
       "decoys": "einen ganzen Truthahn gegessen hast | in die Hose gekackt hast | von einem Kind verprügelt wurdest | eine Rolltreppe heruntergefallen bist | deine Großmutter hereingelegt hast",
       "x": false,
       "id": 50335,
@@ -210,12 +210,12 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Mein Haus ist auch dein Haus Du mietest ein Ferienhaus. Es ist sauber und billig. Es gibt nur eine merkwürdige Sache. In der Mitte des Wohnzimmers befindet sich eine Statue von <BLANK>. Du planst in dieses Gebiet zurückzukehren.",
+      "scenarioText": "Mein Haus ist auch dein Haus Du mietest ein Ferienhaus. Es ist sauber und billig. Es gibt nur eine merkwürdige Sache. In der Mitte des Wohnzimmers befindet sich eine Statue von <BLANK>. Du planst in diese Gegend zurückzukehren.",
       "decoys": "Bill Cosby | deinem Feind | Putin |Bigfoot | den Illuminaten",
       "x": false,
       "id": 50394,
       "category": "Mein Haus ist auch dein Haus",
-      "questionText": "Buchst du diesen Ort nochmal?"
+      "questionText": "Buchst du dieses Haus nochmal?"
     },
     {
       "answerText": "",
@@ -237,7 +237,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Doppelte Überraschung Als du die Torte für den 10. Geburtstag deines Sohnes abgeholt hast, hast du nicht in den Karton geblickt. Als du sie schliesslich vor den Augen der Kinder öffnest, steht auf der Torte: “<BLANK>!”",
+      "scenarioText": "Doppelte Überraschung Als du die Torte für den 10. Geburtstag deines Sohnes abgeholt hast, hast du nicht in den Karton geblickt. Als du sie schließlich vor den Augen der Kinder öffnest, steht auf der Torte: “<BLANK>!”",
       "decoys": "Tod dem Patriarchen | Titten raus | Wir lassen uns scheiden | Ich mag Schwänze | 10 Jahre trocken",
       "x": false,
       "id": 50404,
@@ -257,19 +257,19 @@
       "answerText": "",
       "scenarioText": "Arschpräsentation Du besitzt einen magischen Hintern. Wenn du deine Unterwäsche runterlässt und dich jemandem präsentierst, besteht eine 50%-ige Chance, dass sie dein bester Freund werden. Eines Tages läufst du <BLANK> über den Weg.",
       "decoys": "Charlotte Roche | Tom Hanks | deinem ersten Lehrer | Donald Trump | Adam Sandler",
-      "x": false,
+      "x": true,
       "id": 50411,
       "category": "Arschpräsentation",
       "questionText": "Zeigst du deinen Hintern?"
     },
     {
       "answerText": "",
-      "scenarioText": "Vor der Öffentlichkeit verstecken Immer wenn du ein unangenehmes Familienmitglied auf sozialen Netzwerken aus deinem Feed streichst, führt es dazu, dass diese Person <BLANK>. Der Angehörige wird sich schliesslich davon erholen, aber nie erfahren dass du der Verursacher warst. Doch du wirst es wissen.",
+      "scenarioText": "Vor der Öffentlichkeit verstecken Immer wenn du ein unangenehmes Familienmitglied auf sozialen Netzwerken blockierst, führt es dazu, dass diese Person <BLANK>. Der Angehörige wird sich schließlich davon erholen, aber nie erfahren dass du der Verursacher warst. Doch du wirst es wissen.",
       "decoys": "einer Salmonellenvergiftung erleidet | die Treppe herunterfällt | schwere Akne bekommt | Malware herunterlädt | eine einzelnene Träne vergiesst",
       "x": false,
       "id": 50426,
       "category": "Vor der Öffentlichkeit verstecken",
-      "questionText": "Streichst du sie trotzdem?"
+      "questionText": "Blockierst du sie trotzdem?"
     },
     {
       "answerText": "",
@@ -302,14 +302,14 @@
       "answerText": "",
       "scenarioText": "Die Nähe zum Bösen Wir schreiben das Jahr 1941. Du bist im selben verschlossenen Raum mit Hitler. Allein. Das einzige Objekt im Raum ist <BLANK>. Du wirst in fünf Minuten verschwinden. Wenn du versuchst ihn zu töten und scheiterst, wird er den Zweiten Weltkrieg gewinnen.",
       "decoys": "ein Kamm | ein Schuh | eine Kaffeetasse | ein Radio | ein Gürtel",
-      "x": false,
+      "x": true,
       "id": 50434,
       "category": "Die Nähe zum Bösen",
       "questionText": "Versuchst du, Hitler zu ermorden?"
     },
     {
       "answerText": "",
-      "scenarioText": "Grabstättenfehler Du bist ein Bestattungshelfer, der gerade einen geliebten Kindershow-Moderator begraben hat. Schlagartig bemerkst du, dass dein/e <BLANK> in den Sarg gefallen ist.",
+      "scenarioText": "Grabstättenfehler Du bist ein Bestattungshelfer, der gerade einen geliebten Kindershow-Moderator begraben hat. Schlagartig bemerkst du, dass dir <BLANK> in den Sarg gefallen ist.",
       "decoys": "Smartphone | Gehaltsscheck | Reisepass | Führerschein | drahtlosen Kopfhörer",
       "x": false,
       "id": 50437,
@@ -318,7 +318,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Der böse Wolf? Du wurdest beauftragt, einen Werwolf zu töten, der es auf Haustiere in deiner Nähe abgesehen hat. Als du das Monster, schlafend in seiner Höhle aufspürst, entdeckst du, dass es <BLANK> davon abgehalten hat, die Stadt zu überrennen.",
+      "scenarioText": "Der böse Wolf? Du wurdest beauftragt, einen Werwolf zu töten, der es auf Haustiere in deiner Nähe abgesehen hat. Als du das Monster, schlafend in seiner Höhle aufspürst, entdeckst du, dass der Wolf <BLANK> davon abgehalten hat, die Stadt zu überrennen.",
       "decoys": "Killerbienen | Faschisten | Terroristen | Wildbrände | Ausserirdische",
       "x": false,
       "id": 50443,
@@ -381,8 +381,8 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Die Vorsicht vor dem Kauf Du hast dein Traumhaus gefunden und das noch richtig günstig. Bei der Suche nach dem Haken findest du heraus, dass ein/e <BLANK> im Keller ist.",
-      "decoys": "frecher Geist | russischer Mob | nie erlischendes Feuer | Stinktier-Familie | Nachtklub",
+      "scenarioText": "Die Vorsicht vor dem Kauf Du hast dein Traumhaus gefunden und das noch richtig günstig. Bei einer Suche nach dem Haken findest du heraus, dass <BLANK> im Keller ist.",
+      "decoys": "ein frecher Geist | ein russischer Mob | ein nie erlischendes Feuer | eine Stinktier-Familie | ein Nachtklub",
       "x": false,
       "id": 50496,
       "category": "Die Vorsicht vor dem Kauf",
@@ -399,7 +399,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Mund zu... Mund? Ein Fahrgast im Bus benötigt eine Mund-zu-Mund-Beatmung, und du hast ein Herz-Lungen-Wiederbelebungstraining abgeschlossen. Allerdings hat diese Person <BLANK>, statt des Mundes.",
+      "scenarioText": "Mund zu... Mund? Ein Fahrgast im Bus benötigt eine Mund-zu-Mund-Beatmung, und du hast ein Herz-Lungen-Wiederbelebungstraining abgeschlossen. Allerdings hat diese Person <BLANK>, statt eines Mundes.",
       "decoys": "Sardinen | Zehen | einen winzigen Hintern | schimmeligen Käse | Hot Dogs",
       "x": false,
       "id": 50500,
@@ -408,7 +408,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Eine Wand mit Aussicht Du bekommst lebenslang ein kostenloses Loft, aber es gibt einen Haken. Eine der Wohnzimmerwände ist aus transparentem Glas und wird mit der Nachbarswohnung geteilt. Du darfst sie nicht abdecken. Dein Nachbar ist/sind <BLANK>.",
+      "scenarioText": "Eine Wand mit Aussicht Du bekommst lebenslang ein kostenloses Loft, aber es gibt einen Haken. Eine der Wohnzimmerwände ist aus transparentem Glas und wird mit der Nachbarswohnung geteilt. Du darfst sie nicht abdecken. Nebenan wohnt <BLANK>.",
       "decoys": "dein/e Ex | Christopher Plummer | ein Geschwisterteil | der Präsident | deine Eltern",
       "x": false,
       "id": 50511,
@@ -446,7 +446,7 @@
       "answerText": "",
       "scenarioText": "Lass uns über Sex sprechen Du verdienst deinen Lebensunterhalt, indem du Workshops über sexuelle Belästigung hältst. Unglücklicherweise hast du gerade eine seltene neurologische Krankheit entwickelt, bei der du immer wieder <BLANK> zitieren musst.",
       "decoys": "“Austin Powers” | “Scarface” | “Casablanca” | “Tagesschau” | “Law And Order”",
-      "x": false,
+      "x": true,
       "id": 50654,
       "category": "Lass uns über Sex sprechen",
       "questionText": "Hälst du die Workshops ohne ein Wort zu sprechen?"
@@ -489,7 +489,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Spinnenproblem Spinnen sind zu sehr mächtigen Wesen geworden, wodurch die meisten Pestizide wirkungslos wurden. Das einzige Spray, das noch funktioniert, trägt das Warnetikett “WARNUNG: KANN <BLANK> VERURSACHEN.“ Dein Haus ist mit Spinnen befallen.",
+      "scenarioText": "Spinnenproblem Spinnen sind zu sehr mächtigen Wesen geworden, wodurch die meisten Pestizide nun wirkungslos sind. Das einzige Spray, das noch funktioniert, trägt das Warnetikett “WARNUNG: KANN <BLANK> VERURSACHEN.“ Dein Haus ist mit Spinnen befallen.",
       "decoys": "HERZERKANKUNGEN | REIZDARMSYNDROME | AKNE | HAARAUSFALL | BRONCHITIS",
       "x": false,
       "id": 50752,
@@ -525,7 +525,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Namensliebe Du hast die Liebe deines Lebens gefunden, alles an dieser Person ist einfach perfekt. Doch deren Nachname ist <BLANK>. Du wirst gebeten, diesen Namen bei der Hochzeit anzunehmen. Es bedeutet ihm/ihr Ein und Alles.",
+      "scenarioText": "Namensliebe Du hast die Liebe deines Lebens gefunden, alles an dieser Person ist einfach perfekt. Doch deren Nachname ist <BLANK>. Du wirst gebeten, diesen Namen bei der Hochzeit anzunehmen. Es bedeutet ihm/ihr sehr viel.",
       "decoys": "Kackloch | Arschstock | Nachname | Fehler | Furzmann",
       "x": false,
       "id": 50789,
@@ -545,14 +545,14 @@
       "answerText": "",
       "scenarioText": "Immer ein Auge offen halten Du wirst in den Moment zurückversetzt, kurz bevor du gezeugt wurdest. Wenn du deinen Eltern beim Akt zusiehst, wirst du mit der Fähigkeit <BLANK> geboren. Doch du musst jede einzelne Sekunde zusehen.",
       "decoys": "Fliegen | durch Wände zu sehen | nie an Gewicht zuzulegen | Teleportieren | Blitze zu bändigen",
-      "x": false,
+      "x": true,
       "id": 50792,
       "category": "Immer ein Auge offen halten",
       "questionText": "Schaust du zu?"
     },
     {
       "answerText": "",
-      "scenarioText": "Überraschungsrede Du befindest dich auf einem Gedenkgottesdienst für einen Mann, den du nicht kennst. Du wirst gebeten, ein paar Worte zu sprechen. Alles, was du über den Verstorbenen weißt, ist, dass <BLANK>. Niemand steht auf.",
+      "scenarioText": "Überraschungsrede Du befindest dich auf einem Gedenkgottesdienst für einen Mann, den du nicht kennst. Du wirst gebeten, ein paar Worte zu sprechen. Alles, was du über den Verstorbenen weißt, ist, <BLANK>. Niemand steht auf.",
       "decoys": "er musizierte | er LKW-Fahrer war | er im Gefängnis war | er Frösche liebte | seine Lieblingsfarbe Orange war",
       "x": false,
       "id": 50794,
@@ -606,7 +606,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Vorsätzlicher Mord Wo auch immer du hingehst, wirst du von Krähen verfolgt. Wenn du den grössten Vogel erschiesst, werden sie verschwinden. Wenn du einen anderen erwischt, werden sie <BLANK>. Sie sind immer als Gruppe unterwegs.",
+      "scenarioText": "Vorsätzlicher Mord Wo auch immer du hingehst, wirst du von Krähen verfolgt. Wenn du den grössten Vogel erschießt, werden sie verschwinden. Wenn du aber einen anderen erwischt, werden sie <BLANK>. Sie sind immer als Gruppe unterwegs.",
       "decoys": "Durchfall bekommen | 5-fach lauter | unbesiegbar | auch deine Familie verfolgen | zwei mal so gross",
       "x": false,
       "id": 50872,
@@ -633,7 +633,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Wetterkapriole Du kannst das Klima mit einem Satelliten steuern. Der einzige Nachteil: wir erleben alle fünf Jahre <BLANK>. In Kanada sind es aktuell 36 Grad Celsius… im Januar.",
+      "scenarioText": "Wetterkapriole Du kannst das Klima mit einem Satelliten steuern. Der einzige Nachteil: Wir erleben alle fünf Jahre <BLANK>. In Kanada sind es aktuell 36 Grad Celsius… im Januar.",
       "decoys": "ein schweres Erdbeben | einen Angriff von Killerhirschen | den Verlust der Schwerkraft | eine starke Dürre | Massenstromausfälle",
       "x": false,
       "id": 50914,
@@ -786,12 +786,12 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Das Football-Spiel Wenn du mit dem Ball in der Hand, beim College-Football, dreimal hinter die Ziellinie läufst, erhältst du <BLANK>. Du bist in voller Montur, aber die Verteidiger laufen mit voller Geschwindigkeit.",
+      "scenarioText": "Der Box-Kampf Dir wird angeboten, bei einem Box-Kampf gegen den amtierenden Weltmeister anzutreten. Du hast keine Chance, jedoch bekommst du für deine Teilnahme <BLANK>.",
       "decoys": "eine Luxus-Kabine in jedem Stadion | ein Strandhaus | einen Tesla | ein Heimkino-System | eine Yacht",
       "x": false,
       "id": 51039,
-      "category": "Das Football-Spiel",
-      "questionText": "Versuchst du es?"
+      "category": "Der Box-Kampf",
+      "questionText": "Trittst du gegen den Weltmeister an?"
     },
     {
       "answerText": "",
@@ -822,7 +822,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Gekaufte Erinnerungen Reiche Menschen kaufen Erinnerungen von Personen. Dir werden 100.000 Euro angeboten, für die letzten Erinnerungen an <BLANK>. Du könntest das Geld verwenden, um deinem Kind eine gute Ausbildung zu ermöglichen.",
+      "scenarioText": "Gekaufte Erinnerungen Reiche Menschen können nun Erinnerungen von Personen kaufen. Dir werden 100.000 Euro angeboten, für die letzten Erinnerungen an <BLANK>. Du könntest das Geld verwenden, um deinem Kind eine gute Ausbildung zu ermöglichen.",
       "decoys": "die ersten Worte deines Kindes | deine Grossmutter | deine Kindheit | deinen besten Freund | deine erste Liebe",
       "x": false,
       "id": 51113,
@@ -851,7 +851,7 @@
       "answerText": "",
       "scenarioText": "Deine Mutter Hacker haben einen Phising-Betrug entwickelt, der so ausgeklügelt ist, dass er durch das blosse Öffnen der E-Mail <BLANK> bewirkt. Du hast soeben eine Nachricht von deiner Mutter, mit der Betreffzeile “Hilfe!”, erhalten. Sie geht nicht an’s Telefon.",
       "decoys": "ein schmerzhaftes Ersticken an schwarzer Lackritze | ein ununterbrochenes Schreien | schweres stürzen | singen in der Öffentlichkeit | das Zerbrechen von Geschirr",
-      "x": false,
+      "x": true,
       "id": 51120,
       "category": "Deine Mutter",
       "questionText": "Öffnest du sie?"
@@ -921,12 +921,12 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Seltsames Geld Aus heiterem Himmel überweist dir ein Fremder eine Summe von 1.000 Euro, mit dem Verwendungszweck: “<BLANK>”. Du könntest damit deine Arztkosten bezahlen.",
+      "scenarioText": "Seltsames Geld Aus heiterem Himmel überweist dir ein Fremder eine Summe von 1.000 Euro, mit dem Verwendungszweck: “<BLANK>”. Du könntest damit deine Zahnarztrechnung bezahlen.",
       "decoys": "Böses Geld | Für meinen jungen Teddy, in Liebe Daddy | Frag nicht, sag nichts | Du tust mir einen Gefallen | Du hast 24 Stunden",
       "x": false,
       "id": 51155,
       "category": "Seltsames Geld",
-      "questionText": "Gibst du es zurück?"
+      "questionText": "Gibst du das Geld zurück?"
     },
     {
       "answerText": "",
@@ -1076,7 +1076,7 @@
       "answerText": "",
       "scenarioText": "Das Grab verhindern Ein genialer Arzt kann deine gesunde und aktive Lebensspanne um 10 Jahre verlängern. Es gibt jedoch einen Haken. Für die Prozedur ist es nötig, dass deine Genitalien <BLANK>.",
       "decoys": "drastisch schrumpfen | ständig jucken | singen | verschwinden | schweissig werden",
-      "x": false,
+      "x": true,
       "id": 51338,
       "category": "Das Grab verhindern",
       "questionText": "Lässt du die Operation durchführen?"
@@ -1265,7 +1265,7 @@
       "answerText": "",
       "scenarioText": "Intime Schreie Wenn du beim Sex den Höhepunkt erreichst, kannst du dich nicht beherrschen zehn Sekunden lang “<BLANK>!” zu rufen. Dein Partner ist kein grosser Fan davon.",
       "decoys": "Ich liebe Käse | Elvis hat das Gebäude verlassen | Shama-Lama-Ding-Dong | Another One Bites The Dust | Wir haben es getan",
-      "x": false,
+      "x": true,
       "id": 51596,
       "category": "Intime Schreie",
       "questionText": "Trägst du eine Maske um dein Schreien abzudämpfen?"
@@ -1481,7 +1481,7 @@
       "answerText": "",
       "scenarioText": "Es ist kein Betrügen, wenn es nur Pixel sind Du hast eine VR-Brille, die dir erlaubt, virtuellen Sex mit jedem zu haben, der mit dir auf einer Job-Seite verbunden ist. Jedes Mal, wenn du es verwendest, erhält diese Person eine automatisierte Nachricht von deinem Konto, worin steht: “<BLANK>”",
       "decoys": "Ich habe gerade an dich gedacht | Danke, dass du dich mit mir verbunden hast | Hee Hee Hee Hee | Immer ein Vergnügen mit dir | Was geht",
-      "x": false,
+      "x": true,
       "id": 51796,
       "category": "Es ist kein Betrügen, wenn es nur Pixel sind",
       "questionText": "Benutzt du es?"
@@ -1508,7 +1508,7 @@
       "answerText": "",
       "scenarioText": "Schmeckt etwas Wild Ein exzentrischer Milliardär lädt dich auf seine Insel ein, auf der er Menschen jagt. Der 60-jährige Jäger wird mit einer einfachen Keule bewaffnet sein, und du mit <BLANK>. Wenn du es schaffst 24 Stunden zu überleben, bekommst du eine Million Euro.",
       "decoys": "einem kurzen Schwert | einem Bogen und drei Pfeilen | einer Karte der Insel | einer Streichholzschachtel | einem robusten Seil",
-      "x": false,
+      "x": true,
       "id": 51835,
       "category": "Schmeckt etwas Wild",
       "questionText": "Gehst du hin?"
@@ -1733,7 +1733,7 @@
       "answerText": "",
       "scenarioText": "Das Zeichen des Zodiacs Du wirst schlagartig beschuldigt, ein berüchtigter Serienmörder zu sein. Die Öffentlichkeit wendet sich gegen dich, aber du hast eine Chance... Hinweise am Tatort beweisen, dass der Täter körperlich nicht in der Lage ist, <BLANK>.",
       "decoys": "den Kopf eines Hühnchens abzubeissen | wie ein gespreizter Adler zu laufen | fünf Kürbisse zu essen | ein zehnstöckiges Hochhaus zu erklimmen | 90 Kilogramm beim Bankdrücken zu stemmen",
-      "x": false,
+      "x": true,
       "id": 52194,
       "category": "Das Zeichen des Zodiacs",
       "questionText": "Zeigst du deine Fähigkeit im Fernsehen, um deinen Namen reinzuwaschen?"
@@ -1920,7 +1920,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Das Friedensangebot Du bist Präsident der Vereinten Nationen. In einem überraschenden Schritt, hat jedes sanktionierte Land Frieden gelobt… solange du ihnen versprichst, <BLANK>.",
+      "scenarioText": "Das Friedensangebot Du bist Präsident der Vereinten Nationen (UN). In einem überraschenden Schritt, hat jedes sanktionierte Land Frieden gelobt… solange du ihnen versprichst, <BLANK>.",
       "decoys": "Hundescheisse zu essen | obdachlos zu werden | keusch zu leben | überall hin nur noch zu laufen | in der Antarktis zu leben",
       "x": false,
       "id": 52535,
@@ -2138,7 +2138,7 @@
       "answerText": "",
       "scenarioText": "Blankes Essen Dir wurden 5.000 Euro angeboten, um eine Stunde bei einer schrillen Party nackt auf einem Tisch zu liegen und auf dir <BLANK> servieren zu lassen. Einer der Partygäste ist <OTHERPLAYER>.",
       "decoys": "Sushi | Eis | Pommes Frites | Hackfleisch Bällchen | Fajitas",
-      "x": false,
+      "x": true,
       "id": 52929,
       "category": "Blankes Essen",
       "questionText": "Machst du es?"
@@ -2244,7 +2244,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Das Glück ist mit den Verrückten Du spielst im Casino an einem Würfel-Tisch. Dein selbsterklärter “Glücksbringer” kommt auf dich zu und bietet dir <BLANK> an. Am Nachbartisch hat dadurch jemand gewonnen. Du bist am Zug!",
+      "scenarioText": "Das Glück ist mit den Verrückten Du spielst im Casino an einem Würfeltisch. Dein selbsternannter “Glücksbringer” kommt auf dich zu und bietet dir <BLANK> an. Am Nachbartisch hat dadurch jemand gewonnen. Du bist am Zug!",
       "decoys": "kitzeln | am Ohrläppchen zu ziehen | Salsa auf den Kopf zu schütten | eine Fussmassage | Fingernägel lackieren",
       "x": false,
       "id": 53542,

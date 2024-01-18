@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Nase | Arschbacken | Haare | Kniescheiben | Augenlider",
+      "v": "Nase | Ohren| Haare | Kniescheiben | Augenlider",
       "n": "Decoys"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Es ist eine lebensrettende Maßnahme erforderlich.",
+      "v": "Du bist krank und benötigst einen lebensrettenden medizinischen Eingriff.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Es ist eine lebensrettende Maßnahme erforderlich. Dir werden zwei radikale Möglichkeiten angeboten. Die eine ist der Verlust deines Darmausgangs, die andere der Verlust deiner/deines <BLANK>.\r\nWas opferst du?",
+      "s": "Du bist krank und benötigst einen lebensrettenden medizinischen Eingriff. Dir werden zwei radikale Möglichkeiten angeboten. Die eine ist der Verlust deines Darmausgangs, die andere der Verlust deiner/deines <BLANK>.\r\nWas opferst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

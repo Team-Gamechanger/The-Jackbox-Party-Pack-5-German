@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du richtest dein brandneues Smartphone ein; es bietet dir zwei Möglichkeiten, wie du deinen Sperrbildschirm entsperren kannst. Entweder dein Handy in die Achselhöhle reiben oder <BLANK>.",
+      "v": "Du richtest dein nagelneues Smartphone ein, das dir zwei Möglichkeiten bietet, den Sperrbildschirm zu entsperren.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Entweder du reibst dein Handy in deiner Achselhöhle oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Putztuch inklusive",
+      "s": "Sicherheit geht vor",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du richtest dein brandneues Smartphone ein; es bietet dir zwei Möglichkeiten, wie du deinen Sperrbildschirm entsperren kannst. Entweder dein Handy in die Achselhöhle reiben oder <BLANK>.\r\nFür welche Möglichkeit, entscheidest du dich, dein Handy zu entsperren?",
+      "s": "Du richtest dein nagelneues Smartphone ein, das dir zwei Möglichkeiten bietet, den Sperrbildschirm zu entsperren. Entweder du reibst dein Handy in deiner Achselhöhle oder <BLANK>.\r\nFür welche Möglichkeit, entscheidest du dich, dein Handy zu entsperren?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Noch ein Grund weniger digital zu leben.",
+      "s": "Ein Grund mehr, analog zu leben.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

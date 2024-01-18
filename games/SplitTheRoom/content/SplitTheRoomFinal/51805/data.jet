@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Fahrrad | Winddrache | Outfit | Decke | Wassermelone",
+      "v": "ein Fahrrad | ein Winddrache | ein Outfit | eine Decke | eine Wassermelone",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Zwei Dinge liegen neben dir: eine Ananas und ein/e",
+      "v": "Zwei Dinge liegen neben dir: eine Ananas und",
       "n": "ScenarioText2"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "Du kannst nur eine nehmen.",
+      "v": "Du kannst dich nur für eines entscheiden.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist nackt mitten in der Wüste aufgewacht. Zwei Dinge liegen neben dir: eine Ananas und ein/e <BLANK>. Du kannst nur eine nehmen.\r\nWas wählst du aus?",
+      "s": "Du bist nackt mitten in der Wüste aufgewacht. Zwei Dinge liegen neben dir: eine Ananas und <BLANK>. Du kannst dich nur für eines entscheiden.\r\nWas wählst du aus?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

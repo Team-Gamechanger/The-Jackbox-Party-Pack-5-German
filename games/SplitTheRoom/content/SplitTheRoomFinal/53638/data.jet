@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Warum auch immer, wenn du <OTHERPLAYER> oder <BLANK> ansiehst, musst du zehn Minuten intensiven Augenkontakt halten.",
+      "v": "Aus welchem Grund auch immer, wenn du <OTHERPLAYER> oder",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "ansiehst, musst du für 10 Minuten einen intensiven Blickkontakt halten.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Warum auch immer, wenn du <OTHERPLAYER> oder <BLANK> ansiehst, musst du zehn Minuten intensiven Augenkontakt halten.\r\nMit wem vermeidest du den Augenkontakt für den Rest deines Lebens?",
+      "s": "Aus welchem Grund auch immer, wenn du <OTHERPLAYER> oder <BLANK> ansiehst, musst du für 10 Minuten einen intensiven Blickkontakt halten.\r\nMit wem vermeidest du den Augenkontakt für den Rest deines Lebens?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

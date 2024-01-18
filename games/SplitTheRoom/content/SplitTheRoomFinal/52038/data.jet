@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "dreckige Küche",
+      "v": "unaufgeräumte Küche",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "das Katzenklo | deine Polit-Poster | einen kleinen Kevin Hart Schrein | deine Waschküche | deinen vollen Mülleimer",
+      "v": "das Katzenklo | deine Wahlplakate | deinen Gerhard-Schröder-Schrein | deine Waschküche | deinen vollen Mülleimer",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du hast völlig vergessen, dass dein Chef eine Videokonferenz wollte. Es dauert zwei Minuten die Verbindung aufzubauen, du musst dich entscheiden, ob du die Kamera auf die ungereinigte Küche oder auf <BLANK> richtest.",
+      "v": "Du hast völlig vergessen, dass dein Chef eine Videokonferenz angesetzt hatte.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Es dauert zwei Minuten, bis die Verbindung steht, und du musst dich entscheiden, ob du die Kamera auf die unaufgeräumte Küche oder auf",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "richtest.",
       "n": "ScenarioText4"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Videokonferenz-Hintergrund",
+      "s": "Pflicht zur Kamera",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast völlig vergessen, dass dein Chef eine Videokonferenz wollte. Es dauert zwei Minuten die Verbindung aufzubauen, du musst dich entscheiden, ob du die Kamera auf die ungereinigte Küche oder auf <BLANK> richtest.\r\nWelchen Hintergrund wählst du?",
+      "s": "Du hast völlig vergessen, dass dein Chef eine Videokonferenz angesetzt hatte. Es dauert zwei Minuten, bis die Verbindung steht, und du musst dich entscheiden, ob du die Kamera auf die unaufgeräumte Küche oder auf <BLANK> richtest.\r\nWelchen Hintergrund wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

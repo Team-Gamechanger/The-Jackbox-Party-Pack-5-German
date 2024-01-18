@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du bist gezwungen, deine Mutter auf eine Werbeanruf-Liste zu setzen. Sie wird entweder regelmässige Anrufe von eine Swinger-Dating-Service oder von/über <BLANK> erhalten.",
+      "v": "Du bist gezwungen, deine Mutter auf eine Liste für Werbeanrufe zu setzen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Sie wird entweder regelmäßig Anrufe von einem Swinger-Dating-Service oder von/über",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "erhalten.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist gezwungen, deine Mutter auf eine Werbeanruf-Liste zu setzen. Sie wird entweder regelmässige Anrufe von eine Swinger-Dating-Service oder von/über <BLANK> erhalten.\r\nAuf welche Anrufliste setzt du deine Mutter?",
+      "s": "Du bist gezwungen, deine Mutter auf eine Liste für Werbeanrufe zu setzen. Sie wird entweder regelmäßig Anrufe von einem Swinger-Dating-Service oder von/über <BLANK> erhalten.\r\nAuf welche Anrufliste setzt du deine Mutter?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

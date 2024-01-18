@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du lebst in einer post-apokalyptischen Welt.",
+      "v": "Du lebst in einer postapokalyptischen Welt.",
       "n": "ScenarioText1"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Gang #1 stiehlt Babys; Gang #2",
+      "v": "Gang Nr. 1 stiehlt Babys, während Gang Nr. 2",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du lebst in einer post-apokalyptischen Welt. Du kannst dich einer von zwei Banden anschließen: Gang #1 stiehlt Babys; Gang #2 <BLANK>.\r\nWelcher postapokalyptischen Gang schliesst du dich an?",
+      "s": "Du lebst in einer postapokalyptischen Welt. Du kannst dich einer von zwei Banden anschließen: Gang Nr. 1 stiehlt Babys, während Gang Nr. 2 <BLANK>.\r\nWelcher postapokalyptischen Gang schliesst du dich an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "#DieGangGehtVor",
+      "s": "Und was, wenn ich euch sage, dass es in Gang 1 jeden Tag Eiscreme zum Nachtisch gibt?",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

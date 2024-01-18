@@ -17,17 +17,17 @@
     },
     {
       "t": "S",
-      "v": "Auf was konzentrierst du dich, um sie zum weinen zu bringen?",
+      "v": "Auf was konzentrierst du dich, um ihn zum Weinen zu bringen?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "den armen Hund",
+      "v": "den blinden, dreibeinigen Hund",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "chronischen Mundgeruch | wurden in jeder Beziehung verlassen | haben ihren Grossvater gerade verloren | werden nie ihren Traumjob bekommen | sind von der Universität geflogen",
+      "v": "hat chronischen Mundgeruch | wurden in jeder Beziehung verlassen | hat seinen Grossvater gerade verloren | wird nie seinen Traumjob bekommen | ist von der Universität geflogen",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du bist bei einer grausamen Spielshow, in der man seinen Gegner bringen muss. Du hast zwei kleine Infohappen: sie besitzen einen blinden, dreibeinigen Hund und <BLANK>.",
+      "v": "Du bist in einer grausamen Spielshow, in der du deinen Gegner töten musst.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du hast zwei Informationen über deinen Gegner: Er besitzt einen blinden, dreibeinigen Hund und",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist bei einer grausamen Spielshow, in der man seinen Gegner bringen muss. Du hast zwei kleine Infohappen: sie besitzen einen blinden, dreibeinigen Hund und <BLANK>.\r\nAuf was konzentrierst du dich, um sie zum weinen zu bringen?",
+      "s": "Du bist in einer grausamen Spielshow, in der du deinen Gegner töten musst. Du hast zwei Informationen über deinen Gegner: Er besitzt einen blinden, dreibeinigen Hund und <BLANK>.\r\nAuf was konzentrierst du dich, um ihn zum Weinen zu bringen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

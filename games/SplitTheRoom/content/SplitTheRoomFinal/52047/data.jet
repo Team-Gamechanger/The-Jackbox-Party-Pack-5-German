@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Ich trage Windeln | Mutti Liebhaber | Ich esse Couch-Kissen | Ich glaube nicht an die Schwerkraft | Ich finde Gänse attraktiv",
+      "v": "Ich trage Windeln | Mutti Liebhaber | Ich esse Sofakissen | Ich glaube nicht an die Schwerkraft | Ich finde Gänse attraktiv",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du bist gezwungen, ein Gast in einer Talkshow zu sein. Du Kannst zwischen zwei Themen wählen: “Ich bin in eine Zeichentrickfigur verliebt” oder “<BLANK>”.",
+      "v": "Du wirst gezwungen, Gast in einer Talkshow zu werden.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst zwischen zwei Themen wählen: “Ich bin in eine Zeichentrickfigur verliebt” oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "“<BLANK>”.",
       "n": "ScenarioText3"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Talkshow Gast-Thema",
+      "s": "Tückische Talkshow",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist gezwungen, ein Gast in einer Talkshow zu sein. Du Kannst zwischen zwei Themen wählen: “Ich bin in eine Zeichentrickfigur verliebt” oder “<BLANK>”.\r\nBei welchen Thema wärst du lieber der Befragte?",
+      "s": "Du wirst gezwungen, Gast in einer Talkshow zu werden. Du kannst zwischen zwei Themen wählen: “Ich bin in eine Zeichentrickfigur verliebt” oder “<BLANK>”.\r\nBei welchen Thema wärst du lieber der Befragte?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

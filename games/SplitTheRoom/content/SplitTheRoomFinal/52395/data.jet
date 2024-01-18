@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Ein entfernter Verwandter hinterlässt dir ein kleines Vermögen; um es zu erben, musst du entweder eine Woche in einem Geisterhaus verbringen oder <BLANK>.",
+      "v": "Ein entfernter Verwandter hinterlässt dir ein kleines Vermögen;",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "um es zu erben, musst du entweder eine Woche in einem Geisterhaus verbringen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein entfernter Verwandter hinterlässt dir ein kleines Vermögen; um es zu erben, musst du entweder eine Woche in einem Geisterhaus verbringen oder <BLANK>.\r\nWelche Aufgabe wählst du, um das Geld zu erben?",
+      "s": "#REF!",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Damit hast du das Recht verwirkt Horror-Protagonisten als dumm abzustempeln.",
+      "s": "Damit hast du das Recht verwirkt, Figuren in Horrorfilmen als dumm abzustempeln.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

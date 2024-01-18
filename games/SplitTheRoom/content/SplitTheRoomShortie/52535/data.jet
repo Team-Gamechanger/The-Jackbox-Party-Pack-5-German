@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du bist Präsident der Vereinten Nationen.",
+      "v": "Du bist Präsident der Vereinten Nationen (UN).",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist Präsident der Vereinten Nationen. In einem überraschenden Schritt, hat jedes sanktionierte Land Frieden gelobt… solange du ihnen versprichst, <BLANK>.\r\nAkzeptierst du ihre Bedingungen?",
+      "s": "Du bist Präsident der Vereinten Nationen (UN). In einem überraschenden Schritt, hat jedes sanktionierte Land Frieden gelobt… solange du ihnen versprichst, <BLANK>.\r\nAkzeptierst du ihre Bedingungen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

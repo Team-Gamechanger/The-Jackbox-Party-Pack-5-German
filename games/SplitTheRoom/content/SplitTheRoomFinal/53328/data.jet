@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du hast ein Gerät entwickelt, dass es Katzen ermöglicht, wie Menschen zu sprechen. Jedoch klingt ihre Stimme genau wie <OTHERPLAYER> oder <BLANK>.",
+      "v": "Du hast ein Gerät entwickelt, mit dem Katzen wie Menschen sprechen können.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Allerdings klingt ihre Stimme genau wie <OTHERPLAYER>",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "oder",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast ein Gerät entwickelt, dass es Katzen ermöglicht, wie Menschen zu sprechen. Jedoch klingt ihre Stimme genau wie <OTHERPLAYER> oder <BLANK>.\r\nWelche Stimme gibst du den Katzen?",
+      "s": "Du hast ein Gerät entwickelt, mit dem Katzen wie Menschen sprechen können. Allerdings klingt ihre Stimme genau wie <OTHERPLAYER> oder <BLANK>.\r\nWelche Stimme gibst du den Katzen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

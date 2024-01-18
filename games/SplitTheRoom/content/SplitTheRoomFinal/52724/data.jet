@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "jemanden’s Meinung ändern",
+      "v": "Jemanden in sozialen Medien überzeugen",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "einer Katze beibringen eine Rolle zu machen | einen Roman schreiben | in einer TV-Quizshow mitspielen | es in eine Broaway-Show schaffen | ein Geigensolo spielen",
+      "v": "einer Katze Vorwärtsrolle beibringen | einen Roman schreiben | in einer TV-Quizshow mitspielen | es in eine Broadway-Show schaffen | ein Geigensolo spielen",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Die Aufnahmeprüfungen der Universität sind noch schwieriger geworden. Mittlerweile musst du, um studienwürdig zu sein, entweder die Meinung von jemandem in den sozialen Medien ändern oder <BLANK>.",
+      "v": "Die Aufnahmeprüfungen an den Universitäten sind noch härter geworden.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Um studieren zu können, muss man jetzt entweder jemanden argumentativ in den sozialen Medien überzeugen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Die Aufnahmeprüfungen der Universität sind noch schwieriger geworden. Mittlerweile musst du, um studienwürdig zu sein, entweder die Meinung von jemandem in den sozialen Medien ändern oder <BLANK>.\r\nWelche Herausforderung nimmst du an, um studieren zu können?",
+      "s": "Die Aufnahmeprüfungen an den Universitäten sind noch härter geworden. Um studieren zu können, muss man jetzt entweder jemanden argumentativ in den sozialen Medien überzeugen oder <BLANK>.\r\nWelche Herausforderung nimmst du an, um studieren zu können?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Dafür sollte man auch noch den Nobel Friedenspreis bekommen.",
+      "s": "Eine unmögliche Aufgabe.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du hast die Fähigkeit zum Schnell-Lesen... aber nur wenn du entweder einen 60 Zentimeter hohen silbernen Zylinder oder <BLANK> trägst.",
+      "v": "Du hast die Fähigkeit, unmenschlich schnell zu lesen... aber nur, wenn du entweder einen 60 cm hohen silbernen Zylinder oder",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "trägst.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast die Fähigkeit zum Schnell-Lesen... aber nur wenn du entweder einen 60 Zentimeter hohen silbernen Zylinder oder <BLANK> trägst.\r\nWas trägst du in der Bibliothek, um für die Abschlussprüfungen zu lernen?",
+      "s": "Du hast die Fähigkeit, unmenschlich schnell zu lesen... aber nur, wenn du entweder einen 60 cm hohen silbernen Zylinder oder <BLANK> trägst.\r\nWas trägst du in der Bibliothek, um für die Abschlussprüfungen zu lernen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

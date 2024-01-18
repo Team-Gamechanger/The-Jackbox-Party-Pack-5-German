@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "einem verlassenen Kaufhaus | Nordkanada | Narnia | den Everglades | den Galapagos Inseln",
+      "v": "in einem verlassenen Kaufhaus | in Nordkanada| in Narnia | in den Everglades | auf den Galapagos-Inseln",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du wirst von einem Monster verfolgt, als du auf ein Teleportier-Gerät stösst. Du hast zwei Wahlmöglichkeiten: Du kannst entweder mitten im Nirgendwo landen oder in/auf <BLANK>.",
+      "v": "Du wirst von einem Monster verfolgt, als du auf einen Teleporter triffst.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du hast zwei Möglichkeiten: Du kannst entweder mitten im Nirgendwo landen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wirst von einem Monster verfolgt, als du auf ein Teleportier-Gerät stösst. Du hast zwei Wahlmöglichkeiten: Du kannst entweder mitten im Nirgendwo landen oder in/auf <BLANK>.\r\nWelchen Ort wählst du als Zuflucht?",
+      "s": "Du wirst von einem Monster verfolgt, als du auf einen Teleporter triffst. Du hast zwei Möglichkeiten: Du kannst entweder mitten im Nirgendwo landen oder <BLANK>.\r\nWelchen Ort wählst du als Zuflucht?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

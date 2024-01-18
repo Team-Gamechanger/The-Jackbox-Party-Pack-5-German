@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du musst dein lebenslanges Zuhause wählen. Du hast zwei Optionen: eines mit Türen, die nur 1,5 Meter hoch sind, das andere hat <BLANK>.",
+      "v": "Du musst dir dein Haus für's Leben aussuchen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du hast zwei Möglichkeiten: Das eine Haus hat Türen, die nur 1,5 Meter hoch sind, das andere Haus hat",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du musst dein lebenslanges Zuhause wählen. Du hast zwei Optionen: eines mit Türen, die nur 1,5 Meter hoch sind, das andere hat <BLANK>.\r\nMit welchem Mangel gibst du dich zufrieden?",
+      "s": "Du musst dir dein Haus für's Leben aussuchen. Du hast zwei Möglichkeiten: Das eine Haus hat Türen, die nur 1,5 Meter hoch sind, das andere Haus hat <BLANK>.\r\nMit welchem Mangel gibst du dich zufrieden?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

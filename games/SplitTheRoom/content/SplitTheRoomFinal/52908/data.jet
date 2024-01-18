@@ -17,17 +17,17 @@
     },
     {
       "t": "S",
-      "v": "Mit welcher Autoanzeige fährst du herum?",
+      "v": "Mit welcher Anzeige fährst du herum?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Gentleman's Club",
+      "v": "Viagra",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "einen Kautionsbürgen | eine Hämorrhoidencreme | eine Nagelpilzbehandlung | ein Inkassounternehmen | Körperwachs",
+      "v": "die Zeugen Jehovas | eine Hämorrhoidencreme | eine Nagelpilzbehandlung | ein Inkassounternehmen | Kondome",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du musst ein Auto mieten und die einzige Autovermietung in deiner Nähe hat alle ihre Fahrzeuge mit Werbung zugekleistert. Du kannst ein Auto mieten, das für einen Gentleman’s Club wirbt oder für <BLANK>.",
+      "v": "Du musst ein Auto mieten und die einzige Autovermietung in deiner Nähe hat alle ihre Autos mit Werbung beklebt.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst ein Auto mieten, das für Viagra wirbt oder für",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du musst ein Auto mieten und die einzige Autovermietung in deiner Nähe hat alle ihre Fahrzeuge mit Werbung zugekleistert. Du kannst ein Auto mieten, das für einen Gentleman’s Club wirbt oder für <BLANK>.\r\nMit welcher Autoanzeige fährst du herum?",
+      "s": "Du musst ein Auto mieten und die einzige Autovermietung in deiner Nähe hat alle ihre Autos mit Werbung beklebt. Du kannst ein Auto mieten, das für Viagra wirbt oder für <BLANK>.\r\nMit welcher Anzeige fährst du herum?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Hab gar nicht gemerkt das ich mit dem Patriarchat spiele.",
+      "s": "Gebt es zu: Die Entscheidung war hart.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

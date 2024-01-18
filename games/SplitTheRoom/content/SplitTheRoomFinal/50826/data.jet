@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Coldplay-Songs singen",
+      "v": "<i>Coldplay</i>-Songs singen",
       "n": "Answer"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "drei Coldplay-Songs hintereinander singen ODER",
+      "v": "drei <i>Coldplay</i>-Songs hintereinander zu singen ODER",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du stehst einem Brücken-Troll gegenüber. Es gibt nur zwei Möglichkeiten, ihn zu besiegen: drei Coldplay-Songs hintereinander singen ODER <BLANK>.\r\nWie entscheidest du dich?",
+      "s": "Du stehst einem Brücken-Troll gegenüber. Es gibt nur zwei Möglichkeiten, ihn zu besiegen: drei <i>Coldplay</i>-Songs hintereinander zu singen ODER <BLANK>.\r\nWie entscheidest du dich?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ich dachte das wird grünes Licht für Coldplay. War wohl doch nur Gelb.",
+      "s": "Anscheinend ist Coldplay nicht mehr so hoch im Kurs. Gut zu wissen.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

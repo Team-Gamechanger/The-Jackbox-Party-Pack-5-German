@@ -11,10 +11,10 @@
       "questionText": "Welchen Modetrend lässt du neu aufleben?"
     },
     {
-      "answerText": "auf einen Fussgänger",
+      "answerText": "auf einen Fußgänger",
       "scenarioText": "Du stürzt von einem Hausdach. Du könntest auf einem Fußgänger landen. Dieser würde schwere Verletzungen erleiden, aber überleben. Alternativ könntest du auf <BLANK> fallen.",
       "decoys": "eine Messerfabrik | ein Waffenlobby-Treffen | eine Wanne heissen Käse | einen Haufen Baby-Alligatoren | eine Glasscheibe",
-      "x": false,
+      "x": true,
       "id": 50412,
       "category": "Landekissen",
       "questionText": "Worauf fällst du?"
@@ -23,7 +23,7 @@
       "answerText": "Dein Ex",
       "scenarioText": "Du bist ein Rettungsschwimmer, der Hilfeschreie hört. Zwei Menschen sind dabei zu ertrinken. Einer davon ist dein Ex, der mit dir Schluss gemacht hat. Der andere ist <BLANK>. Alle am Strand schauen dich an.",
       "decoys": "der Erfinder der Improvisation | ein gruseliger Typ | Vladimir Putin | dein Schwarm | der Zwilling deines Ex",
-      "x": false,
+      "x": true,
       "id": 50460,
       "category": "Rettungsschwimmer-Dilemma",
       "questionText": "Wen rettest du?"
@@ -39,24 +39,24 @@
     },
     {
       "answerText": "Verkehrsmeldungen",
-      "scenarioText": "Du bist auf einer Insel gestrandet, doch ein altes Radio leistet dir Gesellschaft. Es empfängt zwei Sender. Ein Sender sendet nur Verkehrsmeldungen und der andere nur <BLANK>.",
+      "scenarioText": "Du bist auf einer Insel gestrandet, einzig ein altes Radio leistet dir Gesellschaft. Es empfängt zwei Sender. Ein Sender sendet nur Verkehrsmeldungen und der andere nur <BLANK>.",
       "decoys": "Kenny G | Katzen miauen | Furz-Geräusche | Nachrichten in Fremdsprache | Cover-Bands",
       "x": false,
       "id": 50462,
-      "category": "Begrenzte Wellenlänge",
+      "category": "Buschfunk",
       "questionText": "Welchen Radiosender hörst du?"
     },
     {
       "answerText": "Paris",
-      "scenarioText": "Du wurdest von einer Horde böser Außerirdischer gefangen genommen. Sie informieren dich, entweder Paris oder <BLANK> zu zerstören. Du kannst es ihnen nicht ausreden, jedoch kannst ihre Entscheidung beeinflussen.",
+      "scenarioText": "Du wurdest von einer Horde böser Außerirdischer gefangen genommen. Sie informieren dich über ihr Vorhaben, entweder Paris oder <BLANK> zu zerstören. Du kannst es ihnen nicht ausreden, jedoch ihre Entscheidung beeinflussen.",
       "decoys": "New York | die Seuchenschutzbehörde | jede Aldi-Filiale | den Mars | alle Strassen",
       "x": false,
       "id": 50464,
       "category": "Ausserirdisches Dilemma",
-      "questionText": "Zu welcher Entscheidung überredest du sie?"
+      "questionText": "Wozu überredest du sie?"
     },
     {
-      "answerText": "das frohe Stöhnen",
+      "answerText": "Frohes Stöhnen",
       "scenarioText": "Du benötigst eine Rektaluntersuchung und hast zwei Möglichkeiten: Ein Arzt, der während der Behandlung fröhlich stöhnt ODER einen Arzt der <BLANK>-Geräusche macht.",
       "decoys": "Ziegen | Baby | Würge | Katzen | Kicher",
       "x": false,
@@ -65,30 +65,30 @@
       "questionText": "Welches Geräusch versuchst du, während der Behandlung zu ertragen?"
     },
     {
-      "answerText": "die Bloody Mary Mischung",
-      "scenarioText": "Du bist beim 30. Kilometer eines Marathons, als Freiwillige dir Becher mit Flüssigkeit hinhalten. Anstelle von Wasser haben sie aber nur eine würzige Bloody Mary Mischung ODER <BLANK>. Du MUSST dringend etwas trinken.",
+      "answerText": "Eine Bloody-Mary-Mischung",
+      "scenarioText": "Du bist beim 30. Kilometer eines Marathons, als Freiwillige dir Becher mit Flüssigkeit hinhalten. Anstelle von Wasser haben sie aber nur eine würzige Bloody-Mary-Mischung ODER <BLANK>. Du MUSST dringend etwas trinken.",
       "decoys": "Krabbensaft | abgelaufene Milch | Urin eines gesunden Mannes | Hühnersuppe | Hot Dog Wasser",
       "x": false,
       "id": 50490,
-      "category": "Marathon Sauf",
+      "category": "Marathontrinken",
       "questionText": "Was trinkst du?"
     },
     {
-      "answerText": "die <i>Bones</i>-DVDs",
-      "scenarioText": "Ein temperamentvoller zehnjähriger Junge hat die Welt erobert und verlangt Geschenke. An dem Tag, der dir zugeteilt wurde, um ihn zu besänftigen, kannst du nur die DVD-Box mit der 10. Staffel von <i>Bones</i> und <BLANK> finden.",
-      "decoys": "eine Tragetasche des nationalen Rundfunksenders | drei Euro | einen gelben Notizblock | ein kaputtes Lichtschwert | eine Gummi-Ente",
+      "answerText": "<i>Game of Thrones</i>-DVDs",
+      "scenarioText": "Ein temperamentvoller zehnjähriger Junge hat die Welt erobert und verlangt Geschenke. An dem Tag, der dir zugeteilt wurde, um ihn zu besänftigen, kannst du nur die DVD-Box mit der 8. Staffel von <i>Game of Thrones</i> und <BLANK> finden.",
+      "decoys": "Ein Bild-Abonnement | drei Euro | einen gelben Notizblock | ein kaputtes Lichtschwert | ein Quietscheentchen",
       "x": false,
       "id": 50492,
       "category": "Temparamentvolle Geschenke",
       "questionText": "Was schenkst du ihm?"
     },
     {
-      "answerText": "Björk",
-      "scenarioText": "Du hast deine Persönlichkeit verloren, weil beim MRI etwas schief gelaufen ist. Die Ärzte bieten dir eine neue Persönlichkeit an. Du hast zwei Möglichkeiten: die Persönlichkeit von Björk ODER <BLANK>.",
+      "answerText": "Heidi Klum",
+      "scenarioText": "Du hast deine Persönlichkeit verloren, weil beim MRT-Scan etwas schiefgelaufen ist. Die Ärzte bieten dir eine neue Persönlichkeit an. Du hast zwei Möglichkeiten: die Persönlichkeit von Heidi Klum ODER <BLANK>.",
       "decoys": "Nicolas Cage | Sylvester Stallone | Justin Bieber | Olaf Scholz | Kesha",
       "x": false,
       "id": 50527,
-      "category": "Persönlichkeits Probleme",
+      "category": "Persönlichkeitsprobleme",
       "questionText": "Welche neue Persönlichkeit wirst du wählen?"
     },
     {
@@ -97,21 +97,21 @@
       "decoys": "schreckliche Körperakne | einen lästigen chronischen Husten | wachsende Beine bei Haien | juckende Augen | eine Fleisch-Allergie",
       "x": false,
       "id": 50641,
-      "category": "Tief Durchatmen",
+      "category": "Ansteckungsgefahr",
       "questionText": "Welchen Virus lässt du auf die Menschheit los?"
     },
     {
       "answerText": "deinen Darmausgang",
-      "scenarioText": "Es ist eine lebensrettende Maßnahme erforderlich. Dir werden zwei radikale Möglichkeiten angeboten. Die eine ist der Verlust deines Darmausgangs, die andere der Verlust deiner/deines <BLANK>.",
-      "decoys": "Nase | Arschbacken | Haare | Kniescheiben | Augenlider",
+      "scenarioText": "Du bist krank und benötigst einen lebensrettenden medizinischen Eingriff. Dir werden zwei radikale Möglichkeiten angeboten. Die eine ist der Verlust deines Darmausgangs, die andere der Verlust deiner/deines <BLANK>.",
+      "decoys": "Nase | Ohren| Haare | Kniescheiben | Augenlider",
       "x": false,
       "id": 50823,
       "category": "Schlechte Ausgangssituation",
       "questionText": "Was opferst du?"
     },
     {
-      "answerText": "Coldplay-Songs singen",
-      "scenarioText": "Du stehst einem Brücken-Troll gegenüber. Es gibt nur zwei Möglichkeiten, ihn zu besiegen: drei Coldplay-Songs hintereinander singen ODER <BLANK>.",
+      "answerText": "<i>Coldplay</i>-Songs singen",
+      "scenarioText": "Du stehst einem Brücken-Troll gegenüber. Es gibt nur zwei Möglichkeiten, ihn zu besiegen: drei <i>Coldplay</i>-Songs hintereinander zu singen ODER <BLANK>.",
       "decoys": "drei Taylor Swift-Songs singen | eine Handvoll Gras fressen | 100 Liegestützen machen | 4 Liter Milch trinken | ihm deine Schuhe geben",
       "x": false,
       "id": 50826,
@@ -120,35 +120,35 @@
     },
     {
       "answerText": "in einer Höhle gefangen zu sein",
-      "scenarioText": "Eine Wahrsagerin informiert dich über zwei wilde Ereignisse in deiner Zukunft: eines davon ist, in einer Höhle gefangen zu sein und das andere ist <BLANK>. Sie kann dir nur von einem erzählen.",
+      "scenarioText": "Eine Wahrsagerin sieht in ihrer Kristallkugel zwei verrückte Ereignisse in deiner Zukunft. Eines davon ist, dass du in einer Höhle gefangen sein wirst, das andere ist <BLANK>. Sie kann dir nur von einem erzählen.",
       "decoys": "deine Scheidung | ein weinender Arzt | eine Villa | ein Interview | eine Hochzeit",
       "x": false,
       "id": 50882,
       "category": "Einseitige Wahrsagerin",
-      "questionText": "Welches Ereignis aus deiner Zukunft möchtest du hören?"
+      "questionText": "Von welchem Ereignis aus deiner Zukunft möchtest du erfahren?"
     },
     {
       "answerText": "Badezimmer",
-      "scenarioText": "Du bist der Kapitän eines Raumschiffs, das zu viel Gewicht mit sich führt. Die einzige Lösung ist, eine Sektion abzukoppeln, entweder das Badezimmer ODER den/die <BLANK> . Ihr seid zwei Monate von eurem Ziel entfernt.",
+      "scenarioText": "Du bist der Kapitän eines Raumschiffs, das zu viel Gewicht mit sich führt. Die einzige Lösung ist, eine Sektion abzukoppeln, entweder das Badezimmer ODER  <BLANK>. Ihr seid zwei Monate von eurem Ziel entfernt.",
       "decoys": "Unterhaltung | Betten | Extra-Schutzanzüge | Küche | Reservekraftstoff",
       "x": false,
       "id": 50889,
       "category": "Raumschiff-Abkopplung",
-      "questionText": "Welche koppelst du ab?"
+      "questionText": "Welchen Teil koppelst du ab?"
     },
     {
       "answerText": "Du bist jetzt hier!",
-      "scenarioText": "Du hast die Fähigkeit verloren, Hallo zu sagen. Wenn du Leute begrüsst, hast du die Möglichkeit “Du bist jetzt hier!” ODER “<BLANK>!” zu rufen.",
-      "decoys": "Bee-Boop | Cha-Cha-Cha | Haba Duey | Einen wunderschönen guten Morgen | Ich bin raus",
+      "scenarioText": "Du hast die Fähigkeit verloren, \"Hallo!\" zu sagen. Bei der Begrüßung von Menschen hast du jetzt die Wahl zwischen den Worten \"Du bist jetzt hier!\" ODER “<BLANK>!”",
+      "decoys": "Bee-Boop | Cha-Cha-Cha | Haba Duey | Guten Morgen, schon wach? | Ich bin raus",
       "x": false,
       "id": 50912,
-      "category": "Neuer Alter Gruss",
-      "questionText": "Was wählst du, als deine neue Begrüssung aus?"
+      "category": "Grüß dich",
+      "questionText": "Was wählst du als deine neue Begrüßung aus?"
     },
     {
       "answerText": "Mistkäfer",
       "scenarioText": "Du kommst in das Jenseits und stellst fest, dass die Wiedergeburt eine reale Sache ist. Du hast die Wahl, als Mistkäfer oder als <BLANK> zurückzukehren.",
-      "decoys": "Moskito | Anglerfisch| Ameise | Eiche | Guppy",
+      "decoys": "Moskito | Anglerfisch| Ameise | Eiche | Fruchtfliege",
       "x": false,
       "id": 50953,
       "category": "Entscheidung der Wiedergeburt",
@@ -156,7 +156,7 @@
     },
     {
       "answerText": "deinen Stiefvater",
-      "scenarioText": "Du leitest ein kleines Unternehmen, das dringend jemanden einstellen muss - und zwar so schnell wie möglich. Du bekommst nur zwei Bewerber. Einer ist dein Stiefvater, der andere ist <BLANK>.",
+      "scenarioText": "Du leitest ein kleines Unternehmen, das dringend jemanden einstellen muss - und zwar so schnell wie möglich. Du hast nur zwei Bewerber. Einer ist dein Schwiegervater, der andere <BLANK>.",
       "decoys": "Kanye West | dein Onkel | Rob Schneider | ein Magier | dein Nachbar",
       "x": false,
       "id": 50954,
@@ -165,8 +165,8 @@
     },
     {
       "answerText": "Beweise für die Unschuld des Bruders",
-      "scenarioText": "Dein Haus brennt. Du kannst entweder die neuen Beweise über die Unschuld deines Bruders in einem Mordfall ODER <BLANK> retten. Er hat einen ziemlich guten Anwalt.",
-      "decoys": "deine Goldbarren | die Urne deiner Grossmutter | deine Geburtsurkunde | deine Bargeldstapel | dein Haustier",
+      "scenarioText": "Dein Haus brennt. Du kannst entweder die neuen Beweise für die Unschuld deines Bruders in einem Mordfall ODER <BLANK> retten. Er hat einen guten Anwalt.",
+      "decoys": "deine Goldbarren | die Urne deiner Oma| deine Geburtsurkunde | deine Bargeldstapel | dein Haustier",
       "x": false,
       "id": 50955,
       "category": "Haus in Flammen",
@@ -174,17 +174,17 @@
     },
     {
       "answerText": "den mittelmäßigen Arzt",
-      "scenarioText": "Du bereitest das letzte Raumschiff vor, unmittelbar bevor die Erde sich selbst zerstört. Zwei Leute klopfen an die Schiffstür. Der eine ist ein mittelmässiger Arzt, der andere <BLANK>. Es ist nur noch ein Platz frei.",
-      "decoys": "ein hervorragender Koch | ein brillianter Ingenieur | ein erfahrender Landwirt | ein talentierter Musiker | ein Architekt",
+      "scenarioText": "Du bereitest das letzte Raumschiff vor, kurz bevor die Erde sich selbst zerstört. Zwei Leute klopfen an die Tür des Raumschiffs. Der eine ist ein mittelmäßiger Arzt, der andere <BLANK>. Es ist nur noch ein Platz frei.",
+      "decoys": "ein hervorragender Koch | ein brillianter Ingenieur | ein erfahrener Landwirt | ein talentierter Musiker | ein Architekt",
       "x": false,
       "id": 50956,
-      "category": "Letzter Zugang in’s Weltall",
+      "category": "Letzter Aufruf für's Weltall",
       "questionText": "Wen nimmst du mit an Bord?"
     },
     {
       "answerText": "Topf voller Gold",
       "scenarioText": "Du hast einen Kobold gefangen. Er bietet dir seinen Topf voller Gold oder <BLANK> an.",
-      "decoys": "Wasser in Wein zu verwandeln zu können | für eine Stunde fliegen zu können | Gedanken lesen zu können | das dreifache deines Gewichts heben zu können | nicht schlafen zu müssen",
+      "decoys": "Wasser in Wein zu verwandeln zu können | für eine Stunde fliegen zu können | Gedanken lesen zu können | das Dreifache deines Gewichts heben zu können | nicht schlafen zu müssen",
       "x": false,
       "id": 50976,
       "category": "Ende des gespaltenen Lichts",
@@ -192,16 +192,16 @@
     },
     {
       "answerText": "Hintern-Liebhaber",
-      "scenarioText": "Du bist in einer Reality-Dating-Show. Das Produktionsteam teilt dir mit, dass die Bildunterschrift unter deinem Namen, entweder “Hintern-Liebhaber” ODER “<BLANK>” lauten wird.",
+      "scenarioText": "Du nimmst an einer Reality-Dating-Show teil. Das Produktionsteam teilt dir mit, dass die Bildunterschrift unter deinem Namen entweder “Hintern-Liebhaber” ODER “<BLANK>” lauten wird.",
       "decoys": "Königin der Verdammten | Käsebauer | Zahnhygieniker | Freundloser Narr | Streithammel",
-      "x": false,
+      "x": true,
       "id": 51153,
-      "category": "Reality-Show Bezeichnung",
+      "category": "Reality-Show-Bezeichnung",
       "questionText": "Welche Bezeichung wählst du?"
     },
     {
       "answerText": "kein Internet haben",
-      "scenarioText": "Das Internet wurde durch ein neues Online-Netzwerk ersetzt, das nur für Kriminelle zugänglich ist. Deine Optionen sind: für den Rest deines Lebens offline gehen oder <BLANK>, um kriminell zu werden.",
+      "scenarioText": "Das Internet wurde durch ein neues Online-Netzwerk ersetzt, das ausschließlich für Kriminelle zugänglich ist. Deine Optionen sind: für den Rest deines Lebens offline zu gehen oder <BLANK>, um kriminell zu werden.",
       "decoys": "jemanden zusammenschlagen | Geldwäsche | eine Bank auszurauben | ein Auto kurzuschliessen | die Regierung zu hacken",
       "x": false,
       "id": 51195,
@@ -209,35 +209,35 @@
       "questionText": "Für was entscheidest du dich?"
     },
     {
-      "answerText": "den armen Hund",
-      "scenarioText": "Du bist bei einer grausamen Spielshow, in der man seinen Gegner bringen muss. Du hast zwei kleine Infohappen: sie besitzen einen blinden, dreibeinigen Hund und <BLANK>.",
-      "decoys": "chronischen Mundgeruch | wurden in jeder Beziehung verlassen | haben ihren Grossvater gerade verloren | werden nie ihren Traumjob bekommen | sind von der Universität geflogen",
-      "x": false,
+      "answerText": "den blinden, dreibeinigen Hund",
+      "scenarioText": "Du bist in einer grausamen Spielshow, in der du deinen Gegner töten musst. Du hast zwei Informationen über deinen Gegner: Er besitzt einen blinden, dreibeinigen Hund und <BLANK>.",
+      "decoys": "hat chronischen Mundgeruch | wurden in jeder Beziehung verlassen | hat seinen Grossvater gerade verloren | wird nie seinen Traumjob bekommen | ist von der Universität geflogen",
+      "x": true,
       "id": 51781,
       "category": "Wie man jemanden zum Weinen bringt",
-      "questionText": "Auf was konzentrierst du dich, um sie zum weinen zu bringen?"
+      "questionText": "Auf was konzentrierst du dich, um ihn zum Weinen zu bringen?"
     },
     {
       "answerText": "einen alten Bären",
-      "scenarioText": "Du wirst an das Ufer einer fremden Insel gespült. Der König wird dein Leben verschonen, wenn du eines von zwei Tieren besiegst: einen alten Bären oder <BLANK>.",
+      "scenarioText": "Du wirst an die Küste einer fremden Insel gespült. Der König verschont dich, wenn du eines von zwei Tieren besiegst: einen alten Bären oder <BLANK>.",
       "decoys": "einen Affen mit einem Raktenwerfer | einen seelefressenden Geist | Superman | eine Krabbe mit einem Messer | einen Taubenschwarm",
       "x": false,
       "id": 51804,
-      "category": "Tötungsoption",
+      "category": "Königliches Dekret",
       "questionText": "Gegen welches Biest kämpfst du?"
     },
     {
       "answerText": "eine Ananas",
-      "scenarioText": "Du bist nackt mitten in der Wüste aufgewacht. Zwei Dinge liegen neben dir: eine Ananas und ein/e <BLANK>. Du kannst nur eine nehmen.",
-      "decoys": "Fahrrad | Winddrache | Outfit | Decke | Wassermelone",
+      "scenarioText": "Du bist nackt mitten in der Wüste aufgewacht. Zwei Dinge liegen neben dir: eine Ananas und <BLANK>. Du kannst dich nur für eines entscheiden.",
+      "decoys": "ein Fahrrad | ein Winddrache | ein Outfit | eine Decke | eine Wassermelone",
       "x": false,
       "id": 51805,
       "category": "Wüstenobjekt",
       "questionText": "Was wählst du aus?"
     },
     {
-      "answerText": "Highschool Mathematik-Test",
-      "scenarioText": "Ein riesiger Meteorit ist dabei, die Erde zu treffen. Die Regierung wird jedem Unterschlupf gewähren, der entweder einen Mathematik-Test auf Highschool-Niveau bestehen oder <BLANK> kann.",
+      "answerText": "Mathematik-Test",
+      "scenarioText": "Ein riesiger Meteorit wird auf der Erde einschlagen. Die Regierung bietet jedem Zuflucht, der einen Mathe-Test auf Realschul-Niveau bestehen oder <BLANK> kann.",
       "decoys": "seinen Vater beim Armdrücken schlagen | stimmig singen | erfolgreich jonglieren | das griechische Alphabet aufsagen | einen Kuchen backen",
       "x": false,
       "id": 51846,
@@ -246,26 +246,26 @@
     },
     {
       "answerText": "9. Staffel von <i>Let’s Dance</i>",
-      "scenarioText": "Du sitzt auf einer verlassenen Insel fest. Einer von zwei Tablets kann per Fallschirm zu dir gelangen. Der erste beinhaltet die neunte Staffel von <i>Let’s Dance</i> und der andere <BLANK>.",
-      "decoys": "“Planet Earth” in schlechter Auflösung | das E-Book “Harry Potter und der Halbblutprinz” | die erste Staffel von “LOST” | den Film “Cast Away - Verschollen” | die grössten Hits von Bob Marley",
+      "scenarioText": "Du sitzt auf einer verlassenen Insel fest. Eines von zwei Tablets kann per Fallschirm zu dir gesendet werden. Auf dem einen ist die neunte Staffel von <i>Let’s Dance</i> gespeichert, auf dem anderen <BLANK>.",
+      "decoys": "Terra X in schlechter Auflösung | Harry Potter und der Halbblutprinz | die erste Staffel von “LOST” | den Film “Cast Away - Verschollen” | die grössten Hits von DJ BoBo",
       "x": false,
       "id": 51964,
-      "category": "Inselwalzer",
-      "questionText": "Für welche Unterhaltung entscheidest du dich?"
+      "category": "Inselkoller",
+      "questionText": "Für welche Sendungentscheidest du dich?"
     },
     {
-      "answerText": "dreckige Küche",
-      "scenarioText": "Du hast völlig vergessen, dass dein Chef eine Videokonferenz wollte. Es dauert zwei Minuten die Verbindung aufzubauen, du musst dich entscheiden, ob du die Kamera auf die ungereinigte Küche oder auf <BLANK> richtest.",
-      "decoys": "das Katzenklo | deine Polit-Poster | einen kleinen Kevin Hart Schrein | deine Waschküche | deinen vollen Mülleimer",
+      "answerText": "unaufgeräumte Küche",
+      "scenarioText": "Du hast völlig vergessen, dass dein Chef eine Videokonferenz angesetzt hatte. Es dauert zwei Minuten, bis die Verbindung steht, und du musst dich entscheiden, ob du die Kamera auf die unaufgeräumte Küche oder auf <BLANK> richtest.",
+      "decoys": "das Katzenklo | deine Wahlplakate | deinen Gerhard-Schröder-Schrein | deine Waschküche | deinen vollen Mülleimer",
       "x": false,
       "id": 52038,
-      "category": "Videokonferenz-Hintergrund",
+      "category": "Pflicht zur Kamera",
       "questionText": "Welchen Hintergrund wählst du?"
     },
     {
       "answerText": "Flughafen",
-      "scenarioText": "Du bist gestorben und zu einem Geist geworden. Du kannst entweder in einem Flughafen oder in einem/einer <BLANK> spuken.",
-      "decoys": "leeren Feld | Dixi-Klo auf einem Festival | Gefängis | Grundschule | Altersheim",
+      "scenarioText": "Du bist tot und ein Geist geworden. Du kannst entweder auf einem Flughafen oder in <BLANK> spuken.",
+      "decoys": "einem leeren Feld | einem Dixi-Klo auf einem Festival | einem Gefängis | einer Grundschule | einem Altersheim",
       "x": false,
       "id": 52044,
       "category": "Spukort",
@@ -273,16 +273,16 @@
     },
     {
       "answerText": "“Ich bin in eine Zeichentrickfigur verliebt”",
-      "scenarioText": "Du bist gezwungen, ein Gast in einer Talkshow zu sein. Du Kannst zwischen zwei Themen wählen: “Ich bin in eine Zeichentrickfigur verliebt” oder “<BLANK>”.",
-      "decoys": "Ich trage Windeln | Mutti Liebhaber | Ich esse Couch-Kissen | Ich glaube nicht an die Schwerkraft | Ich finde Gänse attraktiv",
+      "scenarioText": "Du wirst gezwungen, Gast in einer Talkshow zu werden. Du kannst zwischen zwei Themen wählen: “Ich bin in eine Zeichentrickfigur verliebt” oder “<BLANK>”.",
+      "decoys": "Ich trage Windeln | Mutti Liebhaber | Ich esse Sofakissen | Ich glaube nicht an die Schwerkraft | Ich finde Gänse attraktiv",
       "x": false,
       "id": 52047,
-      "category": "Talkshow Gast-Thema",
+      "category": "Tückische Talkshow",
       "questionText": "Bei welchen Thema wärst du lieber der Befragte?"
     },
     {
       "answerText": "Nur-Spargel-Diät",
-      "scenarioText": "Verzweifelt nach Bargeld, meldest du dich als Versuchskaninchen. Es stehen zwei Experimente zur Auswahl. Du kannst entweder die Auswirkungen einer ganz wöchentlichen Nur-Spargel-Diät testen oder <BLANK>.",
+      "scenarioText": "Du brauchst dringend Geld und meldest dich als Versuchskaninchen. Zwei Experimente stehen zur Auswahl. Du kannst entweder testen, wie eine einwöchige Spargeldiät wirkt oder <BLANK>.",
       "decoys": "48 Stunden lang Adele hören | leichte zufällige Elektroschocks für einen Monat erhalten | eine Woche mit wütenden Waschbären zusammenleben | eine Woche lang nicht aus dem Bett steigen | für einen Monat in einer abgelegenen Hütte leben",
       "x": false,
       "id": 52050,
@@ -291,8 +291,8 @@
     },
     {
       "answerText": "IT-Thema",
-      "scenarioText": "Du und dein Lebensgefährte wollen eine Woche in einem Fantasy-Hotel verbringen. Es sind nur noch zwei Suiten übrig. Ihr könnt entweder zwischen einem IT-themenorientierten Raum oder einem Raum mit dem Thema <BLANK> wählen.",
-      "decoys": "Kreditoren | Tierheim | Steuertag | Zweiter Weltkrieg | Öl-Industrie",
+      "scenarioText": "Du und dein Partner wollen eine Woche in einem tollen Themen-Hotel verbringen. Es sind nur noch zwei Suiten verfügbar. Ihr könnt zwischen einem Zimmer mit dem Thema \"Informatik\" und einem Zimmer mit dem Thema \"BLANK\" wählen.",
+      "decoys": "Verdauung| Tierheim | Steuererklärung | Zweiter Weltkrieg | Öl-Industrie",
       "x": false,
       "id": 52051,
       "category": "Thema Romantik",
@@ -300,7 +300,7 @@
     },
     {
       "answerText": "fünf Liter Bratensauce",
-      "scenarioText": "Du und vier weitere Gäste werden in einem Büfett-Restaurant gefangen gehalten. Wenn ihr, alles in einer Stunde übriggebliebene Essen, verspeist, werdet ihr frei gelassen. Du kannst entweder fünf Liter Bratensauce trinken oder <BLANK> essen.",
+      "scenarioText": "Du und vier weitere Gäste werden in einem Buffet-Restaurant gefangen gehalten. Wenn ihr innerhalb einer Stunde alles Essen aufgegessen habt, werdet ihr freigelassen. Du kannst entweder fünf Liter Bratensoße trinken oder <BLANK> zu dir nehmen.",
       "decoys": "ein Kilogramm Maisbrei | 16 Cupcakes | drei gefrorene Pizzen | drei Rippchenplatten | einen Berg Kartoffelpüree",
       "x": false,
       "id": 52053,
@@ -309,18 +309,18 @@
     },
     {
       "answerText": "deine Grossmutter",
-      "scenarioText": "Du nimmst das Angebot eines sehr lukrativen Jobs, als Stripper, an. Gemäss den Unternehmensregeln muss dein Notfall-Kontakt entweder deine Grossmutter oder <BLANK> sein.",
+      "scenarioText": "Du nimmst einen sehr lukrativen Job als Stripper an. Nach den Regeln der Firma muss dein Notfallkontakt entweder deine Großmutter oder <BLANK> sein.",
       "decoys": "dein Grossvater | dein Hausarzt | dein Minister | dein alter Chef | dein Schulleiter",
-      "x": false,
+      "x": true,
       "id": 52057,
       "category": "Strippenzieher",
       "questionText": "Wen wählst du, als deinen Notfall-Kontakt?"
     },
     {
       "answerText": "Swinger-Dating-Service",
-      "scenarioText": "Du bist gezwungen, deine Mutter auf eine Werbeanruf-Liste zu setzen. Sie wird entweder regelmässige Anrufe von eine Swinger-Dating-Service oder von/über <BLANK> erhalten.",
+      "scenarioText": "Du bist gezwungen, deine Mutter auf eine Liste für Werbeanrufe zu setzen. Sie wird entweder regelmäßig Anrufe von einem Swinger-Dating-Service oder von/über <BLANK> erhalten.",
       "decoys": "einem Bestattungsunternehmen | einem Clown-Mietunternehmen | einem Waffenladen | “kostenlose” Urlaubsangebote | der lokalen Obdachlosenunterkunft",
-      "x": false,
+      "x": true,
       "id": 52063,
       "category": "Werbung für Mutti",
       "questionText": "Auf welche Anrufliste setzt du deine Mutter?"
@@ -336,8 +336,8 @@
     },
     {
       "answerText": "Madenzüchter",
-      "scenarioText": "In der Zukunft werden dir im Alter von 16 Jahren Jobs vom Staat zugewiesen. Du kannst dich zwischen einem Madenzüchter oder einem <BLANK> entscheiden.",
-      "decoys": "Schlachthofarbeiter | Schornsteinfeger | Proktologen | Schneeräumer | Schlangenbetreuer",
+      "scenarioText": "In Zukunft wirst du mit 16 Jahren vom Staat eine Arbeit zugewiesen bekommen. Du hast die Wahl zwischen Madenzüchter und <BLANK>.",
+      "decoys": "Schlachthofarbeiter | Schornsteinfeger | Proktologe | Schneeräumer | Schlangenbetreuer",
       "x": false,
       "id": 52092,
       "category": "Pflichtjob",
@@ -345,16 +345,16 @@
     },
     {
       "answerText": "Standort von Atlantis",
-      "scenarioText": "Extradimensionale Wesen wollen der Menschheit ein Geschenk des Wissens geben und du vertrittst die Menschheit. Sie werden dir entweder genau sagen, wo Atlantis liegt ODER die Antwort auf <BLANK> geben.",
+      "scenarioText": "Außerirdische Wesen wollen der Menschheit ein Geschenk des Wissens geben und du repräsentierst die Menschheit. Sie werden dir entweder genau sagen, wo Atlantis liegt ODER die Antwort auf <BLANK> geben.",
       "decoys": "das Geheimrezept von Cola | einen besseren Kühlschrank | eine perfekte Katerbekämpfung | Lichtgeschwindigkeitsreise | das beste Kuchenrezept",
       "x": false,
       "id": 52103,
-      "category": "Ein Stück Wissen",
+      "category": "Intelligentes Leben",
       "questionText": "Welches Wissen wählst du?"
     },
     {
       "answerText": "Danke, Nein, Hungrig",
-      "scenarioText": "Du hast die Fähigkeit zu sprechen verloren. Ärzte können drei Wörter deines Wortschatzes wiederherstellen. Du hast zwei Auswahlmöglichkeiten. Das erste Set ist: “DANKE, NEIN und HUNGRIG”. Das zweite: “<BLANK>”.",
+      "scenarioText": "Du hast die Fähigkeit zu sprechen verloren. Die Ärzte können drei Wörter aus deinem Wortschatz wiederherstellen. Du hast zwei Möglichkeiten. Die erste Möglichkeit ist: “DANKE, NEIN und HUNGRIG”, die zweite Möglichkeit: “<BLANK>”.",
       "decoys": "Gut, Böse, Hässlich | Hund, Hand, Lecker | Mein, Tschüss, Pommes | Ja, Bitte, Warte | Mutter, Badezimmer, Hallo",
       "x": false,
       "id": 52136,
@@ -363,25 +363,25 @@
     },
     {
       "answerText": "12 Monate Cargohosen",
-      "scenarioText": "Du bist gewzungen für einen Kalender zu modeln. Du kannst entweder bei “12 Monate Cargohosen” ODER “<BLANK>” mitmachen.",
+      "scenarioText": "Du sollst für einen Kalender Modell stehen. Du kannst entweder bei “12 Monate Cargohosen” ODER bei “<BLANK>” mitmachen.",
       "decoys": "Mit Honig überzogene Fremde | Nichts, ausser Niesmomente | Menschen und Tiger: Ohne Zäune | Tank Tops im Winter | Treffen mit verurteilten Prominenten",
       "x": false,
       "id": 52144,
-      "category": "Kalender-Model Option",
+      "category": "Modelkarriere?",
       "questionText": "Für welchen Kalender posierst du?"
     },
     {
       "answerText": "Smartphone-Arm",
-      "scenarioText": "Dir fehlt dein linker Arm. Ein Unternehmen bietet dir an, einen kybernetischen Arm zur Verfügung zu stellen. Du kannst entweder einen Arm erhalten, der wie ein Smartphone oder wie ein <BLANK> funktioniert.",
-      "decoys": "Beruhigungsmittel für Wildtiere | Tennisprofi | Profimasseur | Lügendetektor | Feuerwerfer",
+      "scenarioText": "Dir fehlt dein linker Arm. Eine Firma bietet dir einen kybernetischen Arm an. Du kannst entweder einen Arm bekommen, der wie ein Smartphone, oder einen Arm, der wie <BLANK> funktioniert.",
+      "decoys": "Beruhigungsmittel für Wildtiere | Tennisprofi | Profimasseur | Lügendetektor | Flamenwerfer",
       "x": false,
       "id": 52149,
-      "category": "Cyborg Armauswahl",
+      "category": "Arm ab und arm dran",
       "questionText": "Welchen kybernetischen Arm wählst du?"
     },
     {
       "answerText": "das perfekte Geschenk für jede Person finden",
-      "scenarioText": "Du erwischt den Weihnachtsmann in deiner Wohnung. Er will seine Existenz geheim halten und du willigst ein, gegen eine kleines Bestechung Stillschweigen zu bewahren. Du kannst zwischen zwei Fähigkeiten wählen: entweder immer das perfekte Geschenk für jede Person zu finden oder <BLANK>.",
+      "scenarioText": "Du erwischt den Weihnachtsmann in deiner Wohnung. Er will seine Existenz geheim halten und du willigst ein, gegen einen kleinen Gefallen Stillschweigen zu bewahren. Du kannst zwischen zwei Fähigkeiten wählen: entweder immer das perfekte Geschenk für jede Person zu finden oder <BLANK>.",
       "decoys": "endlos viele Kekse essen können | Kohle aus dem Nichts zaubern | für Kinder unsichtbar werden | mit Rentieren reden können| unartige Menschen erkennen",
       "x": false,
       "id": 52163,
@@ -390,7 +390,7 @@
     },
     {
       "answerText": "ein 10.000-Teile Puzzle",
-      "scenarioText": "Du wirst für zwei Wochen in Einzelhaft genommen. Die Wachen erlauben dir, eine Sache mitzunehmen. Du kannst entweder ein 10.000-Teile Puzzle oder <BLANK> mitnehmen.",
+      "scenarioText": "Du kommst für zwei Wochen in Einzelhaft. Die Wärter erlauben dir, einen Gegenstand mitzunehmen. Du darfst entweder ein Puzzle mit 10.000 Teilen oder <BLANK> mitnehmen.",
       "decoys": "einen Gameboy mit zehn Stunden Batterie | einen Kübel mit roten Weinreben | eine trainierte Ratte | Stift und Papier | ein Reaktionsspiel",
       "x": false,
       "id": 52196,
@@ -399,7 +399,7 @@
     },
     {
       "answerText": "Sprung in rasendes Auto",
-      "scenarioText": "Du bist ein Stunt Double für einen Action-Schauspieler. Du wirst für eine von zwei Szenen benötigt. Du kannst zwischen zwei Stunts wählen: den Sprung in ein rasendenes Auto oder <BLANK>.",
+      "scenarioText": "Du bist ein Stunt-Double für einen Action-Schauspieler. Du wirst für eine von zwei Szenen gebraucht. Du kannst zwischen zwei Stunts wählen: dem Sprung in ein rasantes Auto oder <BLANK>.",
       "decoys": "einem Sprung vom Dach | mit einem Alligator ringen | durch Feuer laufen | aus einem fahrenden Zug fallen | eine Treppe hinunterfallen",
       "x": false,
       "id": 52253,
@@ -408,7 +408,7 @@
     },
     {
       "answerText": "eine Woche in einem Geisterhaus",
-      "scenarioText": "Ein entfernter Verwandter hinterlässt dir ein kleines Vermögen; um es zu erben, musst du entweder eine Woche in einem Geisterhaus verbringen oder <BLANK>.",
+      "scenarioText": "#REF!",
       "decoys": "lebenslang eine Blutfläschen-Kette tragen | dich einem fünfstündigen Exorzismus aussetzen | eine Puppe als dein Kind adoptieren | nie Hüte tragen | einen Monat lang campen gehen",
       "x": false,
       "id": 52395,
@@ -417,8 +417,8 @@
     },
     {
       "answerText": "Mitten im Nirgendwo",
-      "scenarioText": "Du wirst von einem Monster verfolgt, als du auf ein Teleportier-Gerät stösst. Du hast zwei Wahlmöglichkeiten: Du kannst entweder mitten im Nirgendwo landen oder in/auf <BLANK>.",
-      "decoys": "einem verlassenen Kaufhaus | Nordkanada | Narnia | den Everglades | den Galapagos Inseln",
+      "scenarioText": "Du wirst von einem Monster verfolgt, als du auf einen Teleporter triffst. Du hast zwei Möglichkeiten: Du kannst entweder mitten im Nirgendwo landen oder <BLANK>.",
+      "decoys": "in einem verlassenen Kaufhaus | in Nordkanada| in Narnia | in den Everglades | auf den Galapagos-Inseln",
       "x": false,
       "id": 52408,
       "category": "Bloß weg hier",
@@ -435,7 +435,7 @@
     },
     {
       "answerText": "Reality-TV-Star-Tag",
-      "scenarioText": "Es gibt eine landesweite Abstimmung zur Einführung eines neuen Nationalfeiertags. Du gibst die entscheidende Stimme ab. Es herrscht ein Kopf-an-Kopf Rennen, zwischen dem Reality-TV-Star-Tag und dem <BLANK>.",
+      "scenarioText": "Es findet eine landesweite Abstimmung über die Einführung eines neuen Nationalfeiertags statt. Du gibst die entscheidende Stimme ab. Es gibt ein Kopf-an-Kopf-Rennen zwischen Reality-TV-Star-Tag und <BLANK>.",
       "decoys": "Giftdämpfe-Tag | Facebook-Anerkennungstag | Stolz-auf-Justin-Bieber-Tag | Vergiss-dein-Tier-zu-füttern-Tag | Plastikabfall-Tag",
       "x": false,
       "id": 52415,
@@ -443,18 +443,18 @@
       "questionText": "Für welchen neuen Feiertag stimmst du ab?"
     },
     {
-      "answerText": "Landschmied",
-      "scenarioText": "Die Mafia ist hinter dir her, also brauchst du eine neue Identität. Das FBI kann dir eine neue Identität als ein ländlicher Schmied oder <BLANK>, verschaffen.",
-      "decoys": "Stadtschmied | Minister | Maut-Zahlstellen-Betreiber | Fast Food-Arbeiter | Kindermädchen",
+      "answerText": "Hufschmied",
+      "scenarioText": "Die Mafia ist hinter dir her, du brauchst eine neue Identität. Das FBI kann dir eine neue Identität als Hufschmied oder <BLANK> geben.",
+      "decoys": "Schweißer| Minister | Maut-Zahlstellen-Betreiber | Fast-Food-Arbeiter | Kindermädchen",
       "x": false,
       "id": 52450,
-      "category": "Mafiaversteck",
+      "category": "Zeugenschutz",
       "questionText": "Welche neue Identität nimmst du an?"
     },
     {
       "answerText": "Vladimir Lenin",
-      "scenarioText": "Es gibt nur zwei Wohnungen in deiner Preisklasse... in beiden spukt es. Du kannst entweder mit dem Geist von Vladimir Lenin oder dem Geist von <BLANK> wohnen.",
-      "decoys": "Lizzie Borden | Benedict Arnold | einem verrückten Tiger | deinen Ur-Grosseltern | Dschingis Khan",
+      "scenarioText": "Es gibt nur zwei Wohnungen in deiner Preisklasse... und in beiden spukt es. Du kannst entweder mit dem Geist von Vladimir Lenin oder dem Geist von <BLANK> leben.",
+      "decoys": "Lizzie Borden | Hitler | einem verrückten Tiger | deinen Ur-Grosseltern | Dschingis Khan",
       "x": false,
       "id": 52458,
       "category": "Woooohnungssuche",
@@ -462,8 +462,8 @@
     },
     {
       "answerText": "Augenbrauen abrasieren",
-      "scenarioText": "Du bist dabei, einer Geheimgesellschaft beizutreten. Du kannst dich entscheiden, welches Einführungsritual du wählst. Du kannst entweder deine Augenbrauen abrasieren oder <BLANK>.",
-      "decoys": "zehn Jalapenos essen | 20 mal den Hintern versohlt bekommen | die Zimt Herausforderung vollführen | eineinhalb Kilometer schwimmen | auf ein Blind Date gehen",
+      "scenarioText": "Du bist dabei, einem Geheimbund beizutreten. Du kannst wählen, welches Initiationsritual du ausüben musst. Du kannst dir entweder die Augenbrauen abrasieren oder <BLANK>.",
+      "decoys": "zehn Jalapenos essen | 20 mal den Hintern versohlt bekommen | Einen Löffel Zimt auf einmal essen | eineinhalb Kilometer schwimmen | auf ein Blind Date gehen",
       "x": false,
       "id": 52540,
       "category": "Der Initationsritus",
@@ -471,35 +471,35 @@
     },
     {
       "answerText": "eine antike römische Vase",
-      "scenarioText": "Du bist dabei, dich in der Öffentlichkeit zu übergeben. Es sind zwei Objekte direkt vor dir. Du kannst entweder in eine antike römische Vase oder in <BLANK> erbrechen.",
+      "scenarioText": "Du bist im Begriff, dich in der Öffentlichkeit zu übergeben. Vor dir stehen zwei Gegenstände. Du kannst  entweder in eine antike römische Vase oder in <BLANK> brechen.",
       "decoys": "eine Babykrippe | eine Urne | die Regenstiefel eines Fremden | eine Gruppe von Touristen | einen Briefkasten",
       "x": false,
       "id": 52553,
       "category": "Zum Kotzen",
-      "questionText": "In welches Objekt erbrichst du?"
+      "questionText": "In welches Objekt übergibst du dich?"
     },
     {
       "answerText": "ein Extra-Leben",
-      "scenarioText": "Nachdem du den Highscore in einem magischen Arcade-Spiel geschlagen hast, erhälst du eine Spezialfähigkeit, die auch in der realen Welt funktioniert. Du kannst entweder ein Extra-Leben bekommen oder <BLANK>.",
+      "scenarioText": "Wenn du in einem magischen Arcade-Spiel den Highscore schaffst, bekommst du eine besondere Fähigkeit, die du auch in der echten Welt einsetzen kannst. Du bekommst entweder ein Extra-Leben oder <BLANK>.",
       "decoys": "einen Doppelsprung | Feuerbälle | einen Mech-Anzug | ein magisches Schwert | Schnellreisefunktion",
       "x": false,
       "id": 52558,
       "category": "Power-Up",
-      "questionText": "Welche reale Videospielfähigkeit wählst du?"
+      "questionText": "Welche Videospielfähigkeit wählst du für die Realität?"
     },
     {
       "answerText": "Babyzeh",
-      "scenarioText": "Du bist soeben der Mafia beigetreten. Du kannst dich für einen von zwei Spitznamen entscheiden: “Babyzeh” oder <BLANK>.",
+      "scenarioText": "Du bist gerade der Mafia beigetreten. Du kannst einen von zwei Spitznamen wählen: “Babyzeh” oder <BLANK>.",
       "decoys": "Riesen-Tony | Flüster-Tom | Müll-Jimmy | Trauriger Willie | Sandhammer",
       "x": false,
       "id": 52560,
-      "category": "Mafia Spitzname",
-      "questionText": "Welchen Spitzname wählst du?"
+      "category": "Namenswahl",
+      "questionText": "Welchen Spitznamen wählst du?"
     },
     {
       "answerText": "sprechender Emu",
-      "scenarioText": "Du warst mal ein grosser Filmstar... aber jetzt bist du am Ende. Du hast zwei Möglichkeiten deine Karriere zu retten. Du könntest eine Sitcom mit einem sprechenden Emu machen oder eine Show über <BLANK>.",
-      "decoys": "kranke Nonnen | veganes Leben | Buchhalter | Fallschirmspringen | schreckliche Restaurants",
+      "scenarioText": "Du warst mal ein großer Filmstar... aber jetzt bist du am Ende. Du hast zwei Möglichkeiten, deine Karriere zu retten. Du könntest eine Sitcom mit einem sprechenden Emu machen oder eine Show über <BLANK>.",
+      "decoys": "eine kranke Nonnen | veganes Leben | Buchhalter | Fallschirmspringen | schreckliche Restaurants",
       "x": false,
       "id": 52585,
       "category": "Abgedreht",
@@ -507,98 +507,98 @@
     },
     {
       "answerText": "Yacht",
-      "scenarioText": "Du bist zwischen zwei potentiellen Liebhabern hin und her gerissen. Sie sind in jeder Hinsicht gleichwertig, bis auf eines: #1 hat eine Yacht mit 3 Schlafzimmern, #2 hat <BLANK>.",
+      "scenarioText": "Du bist hin- und hergerissen zwischen zwei potenziellen Liebhabern. Sie sind in jeder Hinsicht gleichwertig, mit einer Ausnahme: Nr. 1 hat eine Yacht mit 3 Schlafzimmern, Nr. 2 hat <BLANK>.",
       "decoys": "eine kostenlose-Pizza-auf-Lebenszeit-Karte | einen perfekten Körper | einen Aufzug im Haus | den kuscheligsten Hund der Welt | ein Privatflugzeug",
       "x": false,
       "id": 52610,
       "category": "Zwei gute Verehrer",
-      "questionText": "Welcher Vorteil gewinnt?"
+      "questionText": "Welcher Vorteil überzeugt dich mehr?"
     },
     {
       "answerText": "Ich bin tot",
-      "scenarioText": "Während du deine Beerdigung planst, unterbreitet dir der Bestatter einen Deal. Der Grabstein ist kostenlos, wenn du dich für einen dieser Grabsprüche entscheidest: “Ich bin tot” oder “<BLANK>”.",
-      "decoys": "Niemals geküsst worden | Füttere mich mit Kindern | Runter von meinem Rasen | Schwuchteln| Verschwunden und vergessen",
+      "scenarioText": "Während du deine Beerdigung planst, macht dir der Bestatter ein Angebot. Der Grabstein ist kostenlos, wenn du dich für eine der folgenden Inschriften entscheidest: “Ich bin tot” oder “<BLANK>”.",
+      "decoys": "Stirbt jungfräulich | Füttere mich mit Kindern | Runter von meinem Rasen | Nur echt mit dicken Möpsen | Verschwunden und vergessen",
       "x": false,
       "id": 52628,
       "category": "In Stein gemeißelt",
-      "questionText": "Was hast du auf deinen kostenlosen Grabstein geschrieben?"
+      "questionText": "Was schreibst du auf deinen kostenlosen Grabstein?"
     },
     {
-      "answerText": "deinen Hund aus deiner Kindheit",
-      "scenarioText": "Ein neues Genlabor kann jeden Menschen und jedes Tier klonen. Für dich werden sie entweder einen Klon deines Hundes aus der Kindheit oder <BLANK> erschaffen.",
+      "answerText": "Der Hund aus deiner Kindheit",
+      "scenarioText": "Ein neues Genlabor kann jeden Menschen und jedes Tier klonen. Für dich werden sie entweder einen Klon deines Hundes aus der Kindheit herstellen oder <BLANK>.",
       "decoys": "einen Triceratops | Abraham Lincoln | dich selbst | ein Mammut | einen Grosselternteil",
       "x": false,
       "id": 52629,
       "category": "Wen klonst du?",
-      "questionText": "Wen oder was entscheidest du zu klonen?"
+      "questionText": "Wer oder was soll geklont werden?"
     },
     {
       "answerText": "Genital-Akupunktur",
-      "scenarioText": "Du hast schreckliche Schlaflosigkeit. Ein New-Age-Arzt mit ausgezeichnetem Leistungsnachweis bietet dir zwei Lösungen an: Genital-Akupunktur oder <BLANK>.",
-      "decoys": "Entfernung des kleinen Fingers | abgelaufene Mayonnaise essen | zwei Wochen Aderlass | einen Monat ohne jegliche Technik leben | Ganzkörper-Wachsen",
+      "scenarioText": "Du hast schreckliche Schlafstörungen. Ein Arzt mit ausgezeichnetem Ruf bietet dir zwei Lösungen an: Eine Genitalakupunktur oder <BLANK>.",
+      "decoys": "Entfernung des kleinen Fingers | abgelaufene Mayonnaise essen | zwei Wochen Aderlass | einen Monat ohne jegliche Technik leben | Ganzkörper-Waxing",
       "x": false,
       "id": 52659,
-      "category": "Schlaflosigkeitskur",
+      "category": "Nachtruhe",
       "questionText": "Welche Schlaflosigkeitskur wählst du?"
     },
     {
       "answerText": "saubere Badezimmer zu finden",
-      "scenarioText": "Du kannst zwischen zwei Arten von speziell ausgebildeten Hunden wählen. Der eine findet zu jeder Zeit saubere öffentliche Toiletten und der andere <BLANK>.",
-      "decoys": "macht Jagd auf Tacos | wählt ausgezeichnete Filme aus | spürt ruhige Bars auf | erkennt Erdbeben | sendet kostenloses Wi-Fi",
+      "scenarioText": "Du hast die Wahl zwischen zwei speziell ausgebildeten Hunden. Der eine findet jederzeit saubere öffentliche Toiletten, der andere <BLANK>.",
+      "decoys": "macht Jagd auf Tacos | wählt ausgezeichnete Filme aus | spürt ruhige Bars auf | erkennt Erdbeben | sendet kostenloses Wlan",
       "x": false,
       "id": 52664,
-      "category": "Guter Junge",
-      "questionText": "Welche Eigenschaft wünscht du dir von einem Hund?"
+      "category": "Guter Junge!",
+      "questionText": "Welche Eigenschaft wünscht du dir von deinem zukünftigen Hund?"
     },
     {
-      "answerText": "“Kapitän Grosshand”",
-      "scenarioText": "Deinem Filmstudio sind die erfolgsversprechenden Superhelden ausgegangen und du brauchst einen Kassenschlager. Du kannst entweder einen Film über “Kapitän Grosshand” oder <BLANK> machen.",
-      "decoys": "“Der grosse Zuhörer” | einfach über Bruce Wayne | “Herr Kann-Portionen-Kontrollieren” | “Der lachende Kerl” | “Das Versicherungs-Risikomanagement Mädel”",
+      "answerText": "“Kapitän Großhand”",
+      "scenarioText": "Deinem Filmstudio sind die erfolgversprechenden Superhelden ausgegangen und du brauchst einen Kassenschlager. Du kannst entweder einen Film über “Kapitän Großhand” oder <BLANK> machen.",
+      "decoys": "“Der grosse Zuhörer” | einfach über Til Schweiger | “Verstopfungs-Mann” | “Der lachende Spacko” | “Das Versicherungs-Risikomanagement-Mädel”",
       "x": false,
       "id": 52667,
       "category": "Heldenhaft",
-      "questionText": "Welchen neuen Superhelden-Film wirst du finanzieren?"
+      "questionText": "Welchen neuen Superhelden-Film finanzierst du?"
     },
     {
       "answerText": "<OTHERPLAYER>",
-      "scenarioText": "Du hast einen Flugzeugabsturz auf einen Berg überlebt, und musst nun Menschen essen um zu überleben. Du kannst <OTHERPLAYER> oder <BLANK> wählen.",
+      "scenarioText": "Du hast einen Flugzeugabsturz überlebt und musst nun Menschen essen, um zu überleben. Du kannst <OTHERPLAYER> oder <BLANK> wählen.",
       "decoys": "Justin Timberlake | Barack Obama | deinen 92-jährigen Grossvater | dich selbst | den Piloten",
-      "x": false,
+      "x": true,
       "id": 52668,
       "category": "Tränen zum Nachtisch",
       "questionText": "Wen isst du, um zu überleben?"
     },
     {
       "answerText": "Völkermord Doku",
-      "scenarioText": "Du hast ein erstes Date und zwar im Kino. Leider sind nur zwei Filme verfügbar. Der eine ist ein Dokumentarfilm über Völkermord, der andere <BLANK>.",
-      "decoys": "“Norbit” | ein ausländischer Film über Inzest | eine romantische Komödie | ein alter rassistischer Western | über Kannibalismus",
-      "x": false,
+      "scenarioText": "Du hast ein erstes Date, und zwar im Kino. Leider gibt es nur zwei Filme. Der eine ist eine Dokumentation über Völkermord, der andere <BLANK>.",
+      "decoys": "“Norbit” | ein französischer Film über Inzest | eine romantische Komödie | ein alter rassistischer Western | über Kannibalismus",
+      "x": true,
       "id": 52710,
       "category": "Drama-Date",
       "questionText": "Welchen Film schaut ihr euch an?"
     },
     {
       "answerText": "Reiben in der Achselhöhle",
-      "scenarioText": "Du richtest dein brandneues Smartphone ein; es bietet dir zwei Möglichkeiten, wie du deinen Sperrbildschirm entsperren kannst. Entweder dein Handy in die Achselhöhle reiben oder <BLANK>.",
+      "scenarioText": "Du richtest dein nagelneues Smartphone ein, das dir zwei Möglichkeiten bietet, den Sperrbildschirm zu entsperren. Entweder du reibst dein Handy in deiner Achselhöhle oder <BLANK>.",
       "decoys": "wie ein Baby schreien | es werfen | es jemand anderen küssen lassen | darauf niesen | es ablecken",
       "x": false,
       "id": 52719,
-      "category": "Putztuch inklusive",
+      "category": "Sicherheit geht vor",
       "questionText": "Für welche Möglichkeit, entscheidest du dich, dein Handy zu entsperren?"
     },
     {
-      "answerText": "einen Seeteufel",
-      "scenarioText": "Du bist für die Währung deines Landes verantwortlich. Du musst das Bild für den neuen Geldschein wählen... du hast folgende Wahl: ein Seeteufel oder <BLANK>.",
+      "answerText": "Einen Anglerfisch",
+      "scenarioText": "Du bist für die Währung deines Landes verantwortlich und musst das Bild auf der neusten Banknote auswählen, bevor es millionenhaft in den Druck geht.  Du hast die Wahl zwischen einem Anglerfisch oder <BLANK>.",
       "decoys": "deine Schwester | einen Berg Wäsche | einen wütenden Hund | Banksy | den Weihnachtsmann",
       "x": false,
       "id": 52722,
-      "category": "Geld-Gemälde",
+      "category": "Nur Bares ist Wahres",
       "questionText": "Welches Bild bringst du auf den Geldschein?"
     },
     {
-      "answerText": "jemanden’s Meinung ändern",
-      "scenarioText": "Die Aufnahmeprüfungen der Universität sind noch schwieriger geworden. Mittlerweile musst du, um studienwürdig zu sein, entweder die Meinung von jemandem in den sozialen Medien ändern oder <BLANK>.",
-      "decoys": "einer Katze beibringen eine Rolle zu machen | einen Roman schreiben | in einer TV-Quizshow mitspielen | es in eine Broaway-Show schaffen | ein Geigensolo spielen",
+      "answerText": "Jemanden in sozialen Medien überzeugen",
+      "scenarioText": "Die Aufnahmeprüfungen an den Universitäten sind noch härter geworden. Um studieren zu können, muss man jetzt entweder jemanden argumentativ in den sozialen Medien überzeugen oder <BLANK>.",
+      "decoys": "einer Katze Vorwärtsrolle beibringen | einen Roman schreiben | in einer TV-Quizshow mitspielen | es in eine Broadway-Show schaffen | ein Geigensolo spielen",
       "x": false,
       "id": 52724,
       "category": "Uni-Aufnahmeprüfung",
@@ -606,16 +606,16 @@
     },
     {
       "answerText": "was Leute denken",
-      "scenarioText": "Du richtest deine Smart-Watch ein. Du kannst zwischen zwei Funktionen wählen. Die eine sagt dir, was die Menschen in deiner Nähe denken. Die andere sagt dir, <BLANK>.",
+      "scenarioText": "Du konfigurierst deine Smartwatch. Du kannst zwischen zwei Funktionen wählen. Die eine sagt dir, was die Leute um dich herum denken. Die andere sagt dir <BLANK>.",
       "decoys": "wo das nächste Badezimmer ist | die kürzere Warteschlange | wer sauer auf dich ist | wenn du in Gefahr bist | lokale Weisheiten",
       "x": false,
       "id": 52727,
-      "category": "Smart-Watch Feature",
+      "category": "Mehr als nur eine Uhr",
       "questionText": "Welches Smart-Watch Feature wählst du?"
     },
     {
       "answerText": "Bienen niesen",
-      "scenarioText": "Bevor sie dich verflucht, gibt dir eine Hexe zwei Möglichkeiten: bei jedem Niesen schiessen Bienen aus deiner Nase oder <BLANK>.",
+      "scenarioText": "Bevor eine Hexe dich verflucht, lässt sie dich zwischen zwei Möglichkeiten wählen: Jedes Mal, wenn du niest, kommen Bienen aus deiner Nase oder <BLANK>.",
       "decoys": "eine 2,5 Zentimeter höhere Stirn | 12 Zehen | dauerhafte Akne | verschwitzte Handflächen | lila Tränen",
       "x": false,
       "id": 52732,
@@ -624,7 +624,7 @@
     },
     {
       "answerText": "mit dem Vater der Braut ringen",
-      "scenarioText": "Du wurdest gebeten, auf der untraditionellen Hochzeit deines besten Freundes teilzunehmen. Du kannst zwischen zwei Funktionen wählen: mit dem Vater der Braut ringen oder <BLANK>.",
+      "scenarioText": "Du wurdest eingeladen, an der untraditionellen Hochzeit deines besten Freundes teilzunehmen. Du kannst zwischen zwei Rollen wählen: mit dem Vater der Braut ringen oder <BLANK>.",
       "decoys": "einen Solo-Tanz vorführen | die übriggebliebenen Blumen essen | den Bräutigam pflegen | DJ für das gesamte Event sein | die Torte vorkauen",
       "x": false,
       "id": 52743,
@@ -633,8 +633,8 @@
     },
     {
       "answerText": "Wäsche waschen",
-      "scenarioText": "Du bist berechtigt, einen Roboterassistenten zu bekommen. Er wird nur eine Aufgabe erfüllen können: Wäsche waschen oder <BLANK>.",
-      "decoys": "deine Pflanzen giessen | sexy Sachen | deine Feinde ermorden | Frühstück machen| Gartenarbeit",
+      "scenarioText": "Du schaffst dir einen hochmodernen Roboterassistenten an. Er kann nur eine Aufgabe ausführen: Wäsche waschen oder <BLANK>.",
+      "decoys": "deine Pflanzen giessen | sexy Sachen | deine Feinde lynchen| Frühstück machen| Gartenarbeit",
       "x": false,
       "id": 52773,
       "category": "Robodiener",
@@ -642,21 +642,21 @@
     },
     {
       "answerText": "fliegende Zwerghunde",
-      "scenarioText": "Du bist ein Gentechniker, der beauftragt wurde, den Themenpark der Zukunft zu schaffen. Du hast allerdings nur begrenztes genetisches Material zum Arbeiten. Du kannst entweder fliegende Zwerghunde oder <BLANK> erschaffen.",
-      "decoys": "Unterwasser-Möpse | sprechende Pferde | Jeff Goldblums | reitbare Katzen | eine Sorte Gänse",
+      "scenarioText": "Du bist ein Gentechniker, der den Freizeitpark der Zukunft bauen soll. Du hast aber nur begrenztes genetisches Material, mit dem du arbeiten kannst. Du kannst entweder fliegende Zwerghunde oder <BLANK> erschaffen.",
+      "decoys": "Unterwasser-Möpse | sprechende Pferde | Steppende Bären | reitbare Katzen | Fleischfressende Gänse",
       "x": false,
       "id": 52779,
-      "category": "Genetischer Themenpark",
+      "category": "Genetik-Themenpark",
       "questionText": "Welche Monstrosität erschaffst du?"
     },
     {
       "answerText": "Phantomimen",
-      "scenarioText": "Du hast für einen “Escape Room ” bezahlt, aber deine Freunde sagen im letzten Moment ab. Du musst mit Fremden spielen. Du kannst die Rätselstunde mit zwei Gruppen verbringen: Phantomime oder <BLANK>.",
+      "scenarioText": "Du hast für einen Escape-Room bezahlt, aber deine Freunde sagen im letzten Moment ab. Du musst mit Fremden spielen. Du kannst die Rätselstunde mit zwei Gruppen verbringen: Pantomimen oder <BLANK>.",
       "decoys": "Psychiatern | russischen Spionen | den grössten Männern der Welt | Bodybuildern | Kleinkindern",
       "x": false,
       "id": 52781,
-      "category": "Überall Wände",
-      "questionText": "Mit welcher Gruppe bestreitest du den “Escape Room”?"
+      "category": "Wände überall",
+      "questionText": "Mit welcher Gruppe bestreitest du den Escape-Room?"
     },
     {
       "answerText": "Urinprobe",
@@ -664,21 +664,21 @@
       "decoys": "einen Harn-Abstrich | deine abgeschnittenen Wimpern | einen sehr peinlichen Tagebucheintrag | Ohrenschmalz | Beinhaare",
       "x": false,
       "id": 52799,
-      "category": "Neue Wahlvorraussetzung",
+      "category": "Die Qual vor der Wahl",
       "questionText": "Welchen Zusatz bringst du zu deiner Identifizierung mit?"
     },
     {
-      "answerText": "auf Party des Neffen erscheinen",
-      "scenarioText": "Ein Ninja-Klan schuldet dir einen Gefallen, aber du musst ihn bald einlösen. Sie können dir bei einem von zwei Dingen helfen: für deinen zehnjährigen Neffen eine bezaubernde Geburtstagsparty zu veranstalten oder <BLANK>.",
-      "decoys": "dir beim Verloben helfen | einen Bankraub begehen | an einer Talentshow teilzunehmen | ein Mode-Umstyling zu erhalten | dein Traumhaus zu finden",
+      "answerText": "Neffen am Geburtstag beglücken",
+      "scenarioText": "#REF!",
+      "decoys": "dir beim Verloben helfen | einen Bankraub zu begehen | an einer Talentshow teilzunehmen | ein Mode-Umstyling zu erhalten | dein Traumhaus zu finden",
       "x": false,
       "id": 52821,
-      "category": "Ninjagefallen",
-      "questionText": "Wie kann der Ninja-Klan den Gefallen zurückgeben?"
+      "category": "Das Wort eines Ninjas",
+      "questionText": "Wie kann der Ninja-Klan den Gefallen erwidern?"
     },
     {
       "answerText": "Mahjongg",
-      "scenarioText": "Alle Smartphones haben nur noch Speicherplatz für eine App. Die App kann nicht gelöscht werden. Du kannst zwischen Smartphones mit diesen Apps wählen: Mahjongg oder <BLANK>.",
+      "scenarioText": "Alle Smartphones kommen vorinstalliert mit nur noch einer App, die nicht gelöscht werden kann. Der Speicherplatz reicht nur für diese eine App. Du kannst zwischen Smartphones mit diesen Apps wählen: Mahjongg oder <BLANK>",
       "decoys": "Schach | Deutsch-Niederländisch-Wörterbuch | Fast-Food-Bestellservice | Dating-App | Taschenrechner",
       "x": false,
       "id": 52853,
@@ -687,25 +687,25 @@
     },
     {
       "answerText": "Totenschädel stehlen",
-      "scenarioText": "Du besuchst eine echte Wahrsagerin. Um dem unmittelbaren finanziellen Ruin entgehen zu können, musst du entweder einen Totenschädel vom Friedhof stehlen oder <BLANK>.",
+      "scenarioText": "Du gehst zu einer echten Wahrsagerin. Sie offenbart dir: \"Um dem drohenden finanziellen Ruin zu entgehen, musst du entweder einen Totenschädel vom Friedhof stehlen oder <BLANK>.\"",
       "decoys": "einen Esel opfern | einen Trank aus Fröschen trinken | nie wieder Kaffee trinken | ein Museum ausrauben | Fallschirmspringen",
       "x": false,
       "id": 52893,
-      "category": "Das Geld in den Sternen",
+      "category": "Wenn die Sterne sprechen",
       "questionText": "Wie wirst du deinen finanziellen Fluch abwenden?"
     },
     {
       "answerText": "Brokkoli",
-      "scenarioText": "Du bist ein Prominenter, der über den roten Teppich einer Preisverleihung geht. Du hast zugestimmt einem Avantgarde-Modedesigner einen Gefallen zu leisten: du kannst dich zwischen einem Outfit aus Brokkoli oder <BLANK> entscheiden.",
+      "scenarioText": "Du bist ein Prominenter, der über den roten Teppich einer Preisverleihung schreitet. Du hast dich bereit erklärt, einem avantgardistischen Modedesigner einen Gefallen zu tun: Du kannst zwischen einem Outfit aus Brokkoli oder <BLANK> wählen.",
       "decoys": "einem Smoking und arschfreier Reiterhose | einer gepunkteten Ärmeldecke | einem Smoking aus Hummerschalen | recycelte Unterwäsche | abgenutzte Flip-Flops",
       "x": false,
       "id": 52906,
-      "category": "Gesunde Mode",
+      "category": "Der rote Teppich ruft",
       "questionText": "Welches Outfit wählst du?"
     },
     {
       "answerText": "Untere Körperhälfte",
-      "scenarioText": "Du bist in einer Realität in der die Krankenversicherungen schrecklich sind. Du kannst aus zwei Varianten wählen: einer begrenzt sich auf die untere Körperhälfte, der andere nur auf <BLANK>.",
+      "scenarioText": "Du befindest dich in einer Realität, in der Krankenversicherungen schrecklich sind. Du kannst zwischen zwei Varianten wählen: eine beschränkt sich auf die untere Körperhälfte, die andere nur auf <BLANK>.",
       "decoys": "Unterarmprellungen | Rippenverletzungen | Kopfhautverletzungen | Erkältungen | Bauchschmerzen",
       "x": false,
       "id": 52907,
@@ -713,18 +713,18 @@
       "questionText": "Welche Variante wählst du?"
     },
     {
-      "answerText": "Gentleman's Club",
-      "scenarioText": "Du musst ein Auto mieten und die einzige Autovermietung in deiner Nähe hat alle ihre Fahrzeuge mit Werbung zugekleistert. Du kannst ein Auto mieten, das für einen Gentleman’s Club wirbt oder für <BLANK>.",
-      "decoys": "einen Kautionsbürgen | eine Hämorrhoidencreme | eine Nagelpilzbehandlung | ein Inkassounternehmen | Körperwachs",
+      "answerText": "Viagra",
+      "scenarioText": "Du musst ein Auto mieten und die einzige Autovermietung in deiner Nähe hat alle ihre Autos mit Werbung beklebt. Du kannst ein Auto mieten, das für Viagra wirbt oder für <BLANK>.",
+      "decoys": "die Zeugen Jehovas | eine Hämorrhoidencreme | eine Nagelpilzbehandlung | ein Inkassounternehmen | Kondome",
       "x": false,
       "id": 52908,
       "category": "Werbezwang",
-      "questionText": "Mit welcher Autoanzeige fährst du herum?"
+      "questionText": "Mit welcher Anzeige fährst du herum?"
     },
     {
       "answerText": "Schlangenshow veranstalten",
-      "scenarioText": "Du wurdest soeben von einem unkonventionellen Zoo eingestellt. Du kannst entweder die Schlangenshow veranstalten oder <BLANK>.",
-      "decoys": "die Zähne der Tiger bürsten | die Elefanten vermessen | das Innere der Haifischbecken reinigen | ein Wieselkämpfer sein | das Giraffentor bewachen",
+      "scenarioText": "Du bist gerade von einem unkonventionellen Zoo eingestellt worden. Du kannst entweder die Schlangenshow organisieren oder <BLANK>.",
+      "decoys": "die Zähne der Tiger putzen| die Elefanten vermessen | das Innere der Haifischbecken reinigen | gegen Wiesel kämpfen | das Giraffentor bewachen",
       "x": false,
       "id": 53016,
       "category": "Tierfreund",
@@ -732,7 +732,7 @@
     },
     {
       "answerText": "den Babystehlern",
-      "scenarioText": "Du lebst in einer post-apokalyptischen Welt. Du kannst dich einer von zwei Banden anschließen: Gang #1 stiehlt Babys; Gang #2 <BLANK>.",
+      "scenarioText": "Du lebst in einer postapokalyptischen Welt. Du kannst dich einer von zwei Banden anschließen: Gang Nr. 1 stiehlt Babys, während Gang Nr. 2 <BLANK>.",
       "decoys": "trägt Kleidung aus toten Katzen| isst Menschen | trinkt Urin | brennt Häuser nieder | verstümmelt sich selbst",
       "x": false,
       "id": 53030,
@@ -740,8 +740,8 @@
       "questionText": "Welcher postapokalyptischen Gang schliesst du dich an?"
     },
     {
-      "answerText": "Scheiss Wale!",
-      "scenarioText": "Du bist auf einem Protest für Umweltschutz. Jedoch musst du ein Schild tragen, auf dem entweder steht: “Scheiss Wale!” oder “<BLANK>!”",
+      "answerText": "Scheiß auf Wale",
+      "scenarioText": "Du bist auf einer Demonstration für den Umweltschutz. Du bist gezwungen, ein Schild zu tragen, auf dem steht: “Scheiß auf Wale” oder “<BLANK>”.",
       "decoys": "BOHRT WEITER | ICH BIN EIN DUMMKOPF | TÖTET DEN PLANETEN | ICH LIEBE SCHMUTZIGES WASSER | HITZEWELLEN SIND SUPER",
       "x": false,
       "id": 53035,
@@ -749,26 +749,26 @@
       "questionText": "Welches Schild trägst du?"
     },
     {
-      "answerText": "Senioren-Singles",
-      "scenarioText": "Du hast eine Woche auf einer speziellen Partykreuzfahrt gebucht, aber du hast die Termine durcheinander gebracht. Als du das Dock betrittst, sind nur noch zwei Themen-Schiffe verfügbar: Senioren-Singles oder <BLANK>.",
-      "decoys": "Amateur-Jongleure des Ozeans | Borat an Bord | Kid Rocks Landfahrt | Eilfahrtswoche auf dem Wasser | Impro-Ahoy!",
+      "answerText": "Einsame Senioren",
+      "scenarioText": "Du hast eine Woche auf einer speziellen Partykreuzfahrt gebucht, aber du hast die Termine durcheinander gebracht. Als du am Hafen ankommst, sind nur noch zwei Themen-Kreuzfahrtschiffe verfügbar: \"Einsame Senioren\" oder \"<BLANK>\".",
+      "decoys": "Amateur-Jongleure des Ozeans | Borat an Bord | Rund um die Uhr Heavy Metal | Clowns an Bord | Impro-Ahoy!",
       "x": false,
       "id": 53037,
-      "category": "Hochsee-Spezial",
+      "category": "Eine Seefahrt, die ist lustig...",
       "questionText": "Welche Themenkreuzfahrt wählst du?"
     },
     {
-      "answerText": "Tasche voller Bargeld",
-      "scenarioText": "Dein Heissluftballon verliert schnell an Höhe. Um dich selbst zu retten, musst du Gewicht abwerfen. Du kannst entweder deine Tasche voller Bargeld oder <BLANK> abwerfen.",
-      "decoys": "eine Tasche voller Familienerbstücke | dein Kind | deinen Laptop | all’ deine Kleidung | deine Kontoauszüge",
+      "answerText": "Geldbeutel",
+      "scenarioText": "Dein Heißluftballon verliert schnell an Höhe. Um dich zu retten, musst du Ballast loswerden. Du kannst entweder deinen Geldbeutel oder <BLANK> abwerfen.",
+      "decoys": "eine Tasche voller Familienerbstücke | dein Kind | deinen Laptop | all’ deine Kleidung | Deinen Ehering",
       "x": false,
       "id": 53039,
-      "category": "Nur Heiße Luft",
+      "category": "Nur heiße Luft",
       "questionText": "Was wirfst du über Bord?"
     },
     {
-      "answerText": "Maskottenbelästiger",
-      "scenarioText": "Du verbringst eine Nacht im Gefängnis. Der diensthabende Wachmann lässt dir die Wahl. Du kannst eine Zelle mit jemandem teilen, der ein Baseballmaskottchen verbal belästigt hat oder jemandem, der <BLANK>.",
+      "answerText": "Maskottchenbelästiger",
+      "scenarioText": "Du verbringst eine Nacht im Gefängnis. Der diensthabende Wärter lässt dir die Wahl. Du kannst die Zelle mit jemandem teilen, der ein Handball-Maskottchen verbal belästigt hat, oder mit jemandem, der <BLANK>.",
       "decoys": "ein McDonalds abgefackelt hat | in eine fremde Klimaanlage gekackt hat | ein iPad von einem Kind gestohlen hat | Rasenstandards verletzt hat | einem Schulbus hinten aufgefahren ist",
       "x": false,
       "id": 53052,
@@ -776,17 +776,17 @@
       "questionText": "Für wen entscheidest du dich, als Zellengenossen?"
     },
     {
-      "answerText": "Telefonverkäufer",
-      "scenarioText": "Eine neue Zombie-Spezies wurde in einem Labor gezüchtet. Als leiternder Wissenschafter kannst du sie lenken, nur bestimmte/s anzufallen: Telefonverkäufer oder <BLANK>.",
+      "answerText": "Handy-Verkäufer",
+      "scenarioText": "In deinem Labor wurde eine neue Zombieart gezüchtet. Als leitender Wissenschaftler kannst du sie dazu bringen, nur bestimmte(n) anzugreifen: Handy-Verkäufer oder <BLANK>.",
       "decoys": "Katzen | kraftstoffsparende Autos | Amische | Foodtrucks | Videospiel-Streamer",
-      "x": false,
+      "x": true,
       "id": 53105,
       "category": "Der Hunger",
       "questionText": "Worauf hetzt du die Zombies?"
     },
     {
-      "answerText": "in eine Couch stopfen",
-      "scenarioText": "Dein Grossvater hat sehr bizarre Wünsche, was seine sterblichen Überreste angeht. Du hast eine von zwei Möglichkeiten für seine Asche: in eine Couch stopfen oder <BLANK>.",
+      "answerText": "auf der Couch verteilen",
+      "scenarioText": "Dein Großvater hat seltsame Wünsche, was seine sterblichen Überreste angeht. Du hast zwei Möglichkeiten, seine Asche zu verstreuen: in ein Sofa oder <BLANK>.",
       "decoys": "an einen wilden Löwen verfüttern | auf einem Spielplatz liegen lassen | in das Weltall schiessen | in Zement beimischen | in den Gefrierschrank schieben",
       "x": false,
       "id": 53143,
@@ -795,7 +795,7 @@
     },
     {
       "answerText": "Hämorrhoidencreme",
-      "scenarioText": "Du bist ein leidenschaftlicher Talkshow-Moderator. Um deine Show am Laufen zu halten, musst du einen zahlenden Sponsor finden. Du kannst aus zwei Produktmarken wählen: Hämorrhoidencreme oder <BLANK>.",
+      "scenarioText": "Du bist ein leidenschaftlicher Talkshow-Moderator. Um deine Show am Laufen zu halten, musst du einen zahlenden Sponsor finden. Du kannst zwischen zwei Produktmarken wählen: Hämorrhoidencreme oder <BLANK>.",
       "decoys": "Tampons | Erwachsenenwindeln | Rückenhaar-Rasierer | Scheidungsanwälte | Abführmittel",
       "x": false,
       "id": 53183,
@@ -804,7 +804,7 @@
     },
     {
       "answerText": "60 Zentimeter Zylinder",
-      "scenarioText": "Du hast die Fähigkeit zum Schnell-Lesen... aber nur wenn du entweder einen 60 Zentimeter hohen silbernen Zylinder oder <BLANK> trägst.",
+      "scenarioText": "Du hast die Fähigkeit, unmenschlich schnell zu lesen... aber nur, wenn du entweder einen 60 cm hohen silbernen Zylinder oder <BLANK> trägst.",
       "decoys": "eine Kuscheltier-Halskette | ein Mu’umu’u | einen Tarnfarben-Jogginganzug | eine Kuhglocke | einen Dinosaurier Strampler",
       "x": false,
       "id": 53184,
@@ -813,16 +813,16 @@
     },
     {
       "answerText": "Saftiger Körper",
-      "scenarioText": "Du bist Direktor an einem Gymnasium. Aufgrund eines Vorfalls, musst du in eine Joggingshose aus dem Fundbüro schlüpfen. Du kannst zwischen zwei Hosen wählen, auf beiden steht eine Aufschrift: “Saftiger Körper” oder “<BLANK>”.",
+      "scenarioText": "Du bist Direktor eines Gymnasiums. Wegen eines Zwischenfalls musst du eine Jogginghose aus dem Fundbüro anziehen. Du hast die Wahl zwischen zwei Hosen, auf denen steht: “Saftiger Körper” oder “<BLANK>”.",
       "decoys": "Doink Doink | Smack Dis | Janitor Jones | Get Some | Hubba Hubba",
-      "x": false,
+      "x": true,
       "id": 53185,
       "category": "Schamloser Abgang",
       "questionText": "Welche Jogginghose trägst du beim Verlassen des Gebäudes?"
     },
     {
       "answerText": "Immunität gegen Koffein",
-      "scenarioText": "Ein Militärexperiment wird dir Superkräfte geben, doch es hat seinen Preis. Wenn sie deine Biologie verändern, wirst du daraus eine Schwäche ziehen: Immunität gegen Koffein oder <BLANK>.",
+      "scenarioText": "Ein Militärexperiment gibt dir Superkräfte, aber es hat seinen Preis. Wenn sie deine Biologie verändern, bekommst du eine Schwäche: Immunität gegen Koffein oder <BLANK>.",
       "decoys": "Allergie gegen alle Tiere | Anfälligkeit für Papa-Witze | du kannst nur noch Cargo-Hosen tragen | unheilbare Schuppen | sehr kitzelig sein",
       "x": false,
       "id": 53186,
@@ -831,7 +831,7 @@
     },
     {
       "answerText": "dem leicht feuchten",
-      "scenarioText": "Nach einem langen Tag auf der Strasse, hältst du bei einem Motel. Ein Zimmer mit zwei Betten ist noch verfügbar. Ein Bett ist leicht feucht und das andere <BLANK>.",
+      "scenarioText": "Nach einem langen Tag unterwegs kehrst du in ein Motel ein. Ein Zimmer mit zwei Betten ist noch frei. Ein Bett ist leicht feucht, das andere <BLANK>.",
       "decoys": "quietscht | mit toten Fliegen übersät | ist mit einer Notiz behängt, auf der “Ich komme wieder” steht| uneben | hat Brandflecken",
       "x": false,
       "id": 53187,
@@ -840,16 +840,16 @@
     },
     {
       "answerText": "Tortenattacke",
-      "scenarioText": "Du bist ein Clown, der wegen Clown-Verbrechen verurteilt wurde. Als solcher sollst du auf lustige Weise hingerichtet werden. Entweder durch eine endlose Tortenattacke ins Gesicht oder <BLANK>.",
+      "scenarioText": "Du bist ein Clown, der wegen Clownverbrechen verurteilt wurde. Als solcher wirst du auf lustige Weise hingerichtet. Entweder durch eine endlose Tortenattacke ins Gesicht oder <BLANK>.",
       "decoys": "einen Handschocker | herunterschubsen von einem Hochseil | zerstampft werden von einem Elefanten | Schwertschlucken | vergifteter Gesichtsfarbe",
-      "x": false,
+      "x": true,
       "id": 53188,
       "category": "Zum Totlachen",
       "questionText": "Welche Clown-Todesstrafe wählst du?"
     },
     {
       "answerText": "Mann, der Thunfisch isst",
-      "scenarioText": "Du sitzt auf einem Mittelplatz im Flugzeugs fest. Zu deiner Linken isst jemand Thunfischsalat aus einem Strumpf. Zu deiner Rechten <BLANK>. Du kannst eine Person verschwinden lassen.",
+      "scenarioText": "Du sitzt in der Mittelreihe des Flugzeugs. Zu deiner Linken isst jemand Thunfischsalat aus einem Strumpf, zu deiner Rechten <BLANK>. Du kannst eine Person verschwinden lassen.",
       "decoys": "ein Kerl, der Countrymusik spielt | ein weinendes Baby | ein Reptilienmensch | ein kläffender Chihuahua | dein ehemals bester Freund",
       "x": false,
       "id": 53192,
@@ -858,16 +858,16 @@
     },
     {
       "answerText": "Tem",
-      "scenarioText": "Die Regierung entscheidet ab sofort die Namen aller Kinder. Sie gibt dir zwei Möglichkeiten: Tem oder <BLANK>.",
+      "scenarioText": "Die Regierung entscheidet über die Namen aller Kinder. Es gibt zwei Möglichkeiten: Tem oder <BLANK>.",
       "decoys": "Philipy | 148393 | Mem | Broski | Schmusi",
       "x": false,
       "id": 53193,
       "category": "Namensvorschrift",
-      "questionText": "Welchen, von der Regierung geforderten, Namen wählst du?"
+      "questionText": "Welchen von der Regierung geforderten Namen wählst du?"
     },
     {
       "answerText": "Politiker-Statue",
-      "scenarioText": "Du bist ein Stadtplaner. Eine öffentliche Umfrage gibt dir zwei Möglichkeiten für das nächste Wahrzeichen. Du kannst entweder einen 15 Meter grosse Statue von einem Politker errichten oder <BLANK>.",
+      "scenarioText": "Du bist ein Stadtplaner. Eine öffentliche Umfrage gibt dir zwei Möglichkeiten für das nächste Wahrzeichen. Du kannst entweder eine 15 Meter hohe Statue eines Politikers bauen oder <BLANK>.",
       "decoys": "einen V8-Brunnen | einen Senioren-Vergnüngspark | eine 15 Meter Statue von Borat | ein Richard Nixon-Denkmal | eine Nachbildung des Eiffelturms",
       "x": false,
       "id": 53194,
@@ -876,7 +876,7 @@
     },
     {
       "answerText": "1,5 Meter Türen",
-      "scenarioText": "Du musst dein lebenslanges Zuhause wählen. Du hast zwei Optionen: eines mit Türen, die nur 1,5 Meter hoch sind, das andere hat <BLANK>.",
+      "scenarioText": "Du musst dir dein Haus für's Leben aussuchen. Du hast zwei Möglichkeiten: Das eine Haus hat Türen, die nur 1,5 Meter hoch sind, das andere Haus hat <BLANK>.",
       "decoys": "ein Loch im Boden, als Toilette | eine Flughafenpiste nebenan | keine Fenster | einen Teppichboden in der Küche | türlose Badezimmer",
       "x": false,
       "id": 53201,
@@ -885,16 +885,16 @@
     },
     {
       "answerText": "Slush Eis-Einlauf",
-      "scenarioText": "Du hast seit Wochen Schluckauf. Jedes versuchte Heilmittel schlug fehl. Schliesslich empfiehlt ein Schluckaufspezialist zwei Möglichkeiten: einen Einlauf mit Slush Eis oder <BLANK>.",
+      "scenarioText": "Seit Wochen hast du Schluckauf. Alle Hausmittel haben nicht geholfen. Schließlich empfiehlt ein Schluckaufspezialist zwei Möglichkeiten: einen Einlauf mit Slush-Eis oder <BLANK>.",
       "decoys": "einen halben Liter scharfe Sauce trinken | eine Handvoll Kieselsteine essen | eine Woche Schrei-Therapie | einen 24-Stunden-Tanz-Marathon | arktisches Tauchen",
-      "x": false,
+      "x": true,
       "id": 53202,
       "category": "Schluckaufkur",
       "questionText": "Welche Schluckaufkur versuchst du zuerst?"
     },
     {
       "answerText": "den fünfjährigen Tänzer",
-      "scenarioText": "Du bist Preisrichter bei einer Talentshow. Du musst grausamerweise einen Kandidaten rauswerfen: einen fünfjährigen Tänzer oder <BLANK>.",
+      "scenarioText": "Du bist Juror bei einer Talentshow. Du musst grausamerweise einen Kandidaten rauswerfen: einen fünfjährigen Tänzer oder <BLANK>.",
       "decoys": "einen Irak-Kriegsveteranen | einen einbeinigen Akrobaten | einem Drummer, der Geld für seine kranke Mutter sammelt | einen obdachlosen Jongleur | einen 100 Jahre alten Bäcker",
       "x": false,
       "id": 53203,
@@ -903,7 +903,7 @@
     },
     {
       "answerText": "Mathelehrer",
-      "scenarioText": "Du lebst in einer Gesellschaft, in der Zwischenrufe Pflicht sind. Die wünschenswertesten Plätze sind vergeben, aber du kannst wählen: Zwischenrufer bei Mathelehrern oder <BLANK>.",
+      "scenarioText": "Du lebst in einer Gesellschaft, in der Zwischenrufe Pflicht sind. Die begehrtesten Plätze sind vergeben, aber du kannst wählen: Zwischenruf beim Mathelehrer oder <BLANK>.",
       "decoys": "Seil-Läufern | Krankenschwestern | Buchhaltern | Busfahrern | Politikern",
       "x": false,
       "id": 53205,
@@ -912,7 +912,7 @@
     },
     {
       "answerText": "Gesicht des Vaters",
-      "scenarioText": "Du hast dein Gesicht bei einem Unfall verloren. Der plastische Chirurg kann dir entweder ein Gesicht, das genau wie dein Vater aussieht, geben oder das von <BLANK>.",
+      "scenarioText": "Du hast bei einem Unfall dein Gesicht verloren. Der plastische Chirurg kann dir entweder das Gesicht deines Vaters oder das Gesicht von <BLANK> geben.",
       "decoys": "Judi Dench | Steve Buscemi | Carrot Top | dem Vizepräsidenten | einer Anime Figur",
       "x": false,
       "id": 53210,
@@ -920,8 +920,8 @@
       "questionText": "Welches neue Gesicht wählst du?"
     },
     {
-      "answerText": "Ayn Rand-Festival",
-      "scenarioText": "Amor warnt dich, dass du dich in eine Person verlieben wirst, die du auf der nächst besuchten Veranstaltung kennenlernst. Du wurdest zu einem Ayn Rand-Festival und zu <BLANK> eingeladen. Du musst an einem der beiden teilnehmen.",
+      "answerText": "Miley Cyrus-Festival",
+      "scenarioText": "Amor warnt dich, dass du dich in jemanden verlieben wirst, den du bei der nächsten Veranstaltung triffst. Du wurdest zu einem Miley Cyrus Festival und zu <BLANK> eingeladen. Du musst an einem von beiden teilnehmen.",
       "decoys": "einer Gothic-Party | einer KISS Karaokeparty | einem Adam Sandler Filmfestival | einem Casting für “Der Bachelor” | einem Steampunk Zirkus",
       "x": false,
       "id": 53214,
@@ -930,16 +930,16 @@
     },
     {
       "answerText": "Pro-Wrestler in Handschellen",
-      "scenarioText": "Du wirst zum Gladiatorenkampf gezwungen. Dein Gegner ist entweder ein Pro-Westler in Handschellen oder <BLANK>. Deine einzige Waffe ist ein Streitkolben.",
+      "scenarioText": "Du wirst zu einem Gladiatorenkampf gezwungen. Dein Gegner ist entweder ein Pro-Wester in Handschellen oder <BLANK>. Deine einzige Waffe ist eine Keule.",
       "decoys": "ein Profi-Tennisspieler | ein Elvis-Imitator | ein Alligator | eine Giraffe | eine Gänseschar",
-      "x": false,
+      "x": true,
       "id": 53215,
       "category": "In die Arena",
       "questionText": "Gegen wen bekämpfst du?"
     },
     {
       "answerText": "monotone Sprache",
-      "scenarioText": "Du bist in einer romantischen Reality-Show. Du musst eine der beiden Finalisten heiraten. Sie sind beide nett, doch der eine Kandidat spricht nur im montonen Klang, der andere <BLANK>.",
+      "scenarioText": "Du nimmst an einer romantischen Reality-Show teil. Du sollst einen der beiden Finalisten heiraten. Sie sind beide nett, aber der eine Kandidat spricht nur in einem monotonen Ton und der andere Kandidat <BLANK>.",
       "decoys": "vermischt ihr gesamtes Essen | schaut täglich “Mamma Mia” | hat sieben Kinder | bewegt sich nur mit dem Auto | trägt immer Hosenträger",
       "x": false,
       "id": 53216,
@@ -948,7 +948,7 @@
     },
     {
       "answerText": "Gesichtsfell",
-      "scenarioText": "Du siehst besser aus, als je zuvor... für alle anderen. Wenn DU dich im Spiegel anblickst, siehst du dich selbst verzerrt, entweder mit einem dicken Gesichtsfell oder <BLANK>.",
+      "scenarioText": "Du siehst besser aus als je zuvor... für alle anderen. Wenn du in den Spiegel schaust, siehst du dich verzerrt, entweder mit einem dicken Pelz im Gesicht oder <BLANK>.",
       "decoys": "hellblauer Haut | blasenreicher Haut | Beine, die wortwörtlich wie Stöcke aussehen | Spaghetti-Haaren | Ziegenhörner",
       "x": false,
       "id": 53217,
@@ -957,9 +957,9 @@
     },
     {
       "answerText": "Musikgenuss",
-      "scenarioText": "Ausserirdische haben dich entführt und sind dabei einen Teil deines Gehirns für Forschungen zu entnehmen. Du bekommst die Wahl, ob du dir den Teil um Musik geniessen zu können oder den Teil für <BLANK> entfernen lässt.",
+      "scenarioText": "Außerirdische haben dich entführt und sind dabei, einen Teil deines Gehirns für Forschungszwecke zu entfernen. Du hast die Wahl, ob du den Teil behalten möchtest, um Musik hören zu können, oder ob du den Teil für <BLANK> entfernen lassen möchtest.",
       "decoys": "die Erinnerungen an mehr als 40 Personennamen | Farbenerkennung | das Schreibevermögen | Landkarten lesen | Dessert schmecken",
-      "x": false,
+      "x": true,
       "id": 53218,
       "category": "Hirnlos",
       "questionText": "Welche Hirnfunktion verlierst du?"
@@ -968,7 +968,7 @@
       "answerText": "Weisskopfseeadler",
       "scenarioText": "Du stapfst spät nachts durchs Gebüsch und hörst ein Rascheln. Verängstigt zielst du mit deinem Gewehr und schießt. Im Morgenlicht erkennst du, dass du entweder einen prächtigen Weißkopfseeadler oder <BLANK> getötet hast.",
       "decoys": "einen bereits sterbenden alten Mann | eine Waschbärfamilie | die Davidstatue | einen Velociraptor | ein Boot, das nun sinkt",
-      "x": false,
+      "x": true,
       "id": 53263,
       "category": "Auf zur Blutjagd",
       "questionText": "Wessen Blut hättest du lieber an deinen Händen?"
@@ -984,7 +984,7 @@
     },
     {
       "answerText": "Ghandi",
-      "scenarioText": "Du kannst mit einer berühmten Person aus der Geschichte zu Abend essen. ...aber sie werden denken auf einem Date zu sein... und es wird schlecht laufen. Du kannst entweder zwischen Ghandi oder <BLANK> wählen.",
+      "scenarioText": "Du kannst mit einer berühmten Person aus der Geschichte essen gehen. ...aber sie wird denken, dass ihr auf einem Date seid. Du kannst zwischen Ghandi und <BLANK> wählen.",
       "decoys": "Nikola Tesla | Cleopatra | Koko the Gorilla | Sacagawea | William Shakespeare",
       "x": false,
       "id": 53267,
@@ -993,7 +993,7 @@
     },
     {
       "answerText": "perfekte Tastatur",
-      "scenarioText": "Du findest ein verlassenenes ausserirdisches Raumschiff im Wald. Es ist voll von unglaublicher Technologie. Du kannst aber nur ein Ding mitnehmen: eine Tastatur, die einwandfreis Deutsch schreibt oder <BLANK>.",
+      "scenarioText": "Du findest im Wald ein verlassenes außerirdisches Raumschiff. Es ist voller unglaublicher Technik. Du kannst nur eine Sache mitnehmen: eine Tastatur, die immer fehlerfreies Deutsch schreibt oder <BLANK>.",
       "decoys": "einen Schrumpf-Strahl | einen Gedankenleser | einen Unsichtbarkeitskristall | einen Teleporter | Schwebeschuhe",
       "x": false,
       "id": 53268,
@@ -1002,7 +1002,7 @@
     },
     {
       "answerText": "Eichhörnchentritt",
-      "scenarioText": "Du kandidierst für ein politisches Amt. Unglücklicherweise sind dir zwei Erpressungsversuche zugetragen worden. Ein Bild auf dem du ein Eichhörnchen trittst und ein Bild auf dem du <BLANK>. Du kannst die Veröffentlichung von nur einem Bild stoppen.",
+      "scenarioText": "Du kandidierst für ein politisches Amt. Leider erpressen dich Erpresser mit zwei Bildern. Ein Bild, auf dem du ein Eichhörnchen trittst, und ein Bild, auf dem du <BLANK>. Du kannst nur die Veröffentlichung eines Bildes verhindern.",
       "decoys": "als Pferd verkleidet bist | weinst | in Pudding eingebettet bist | Geld verbrennst | Kinder auslachst",
       "x": false,
       "id": 53270,
@@ -1011,8 +1011,8 @@
     },
     {
       "answerText": "Schüssel mit Pasta",
-      "scenarioText": "Der Gott des Überflusses garantiert dir einen unbegrenzten Vorrat eines Gegenstands. Du kannst entweder unendlich viele Schüsseln Pasta haben oder unendlichen Vorrat an <BLANK>.",
-      "decoys": "Kleingeld| Rennmäusen | Sandwiches | Trockenfleisch | Waschmitteln",
+      "scenarioText": "Der Gott des Überflusses garantiert dir einen unendlichen Vorrat an einem Gegenstand. Du kannst entweder unendlich viele Schüsseln Nudeln oder unendlich viel <BLANK> haben.",
+      "decoys": "Kleingeld| Staubmäusen | Sandwiches | Trockenfleisch | Waschmitteln",
       "x": false,
       "id": 53298,
       "category": "Hülle und Fülle",
@@ -1020,7 +1020,7 @@
     },
     {
       "answerText": "It’s Raining Men",
-      "scenarioText": "Du bist dabei, die Auswahl auf einer magischen Jukebox zu treffen. Der Barkeeper warnt dich, dass die Songtexte deine zukünftigen Lebensereignisse für die nächste Woche prophezeien. Du kannst entweder “It’s Raining Men” oder “<BLANK>” abspielen.",
+      "scenarioText": "Du wählst aus einer magischen Jukebox. Der Barkeeper warnt dich, dass die Liedtexte deine zukünftigen Lebensereignisse für die nächste Woche vorhersagen. Du kannst entweder \"It's Raining Men\" oder \"<BLANK>\" spielen.",
       "decoys": "I Would Walk 500 Miles | Everybody Wants to Rule the World | Crazy in Love | Boulevard of Broken Dreams | Thrift Shop",
       "x": false,
       "id": 53299,
@@ -1029,7 +1029,7 @@
     },
     {
       "answerText": "“Ich unterbreche dich ungern, aber...”",
-      "scenarioText": "Mindestens einmal am Tag unterbricht dich dein Kollege, um dir zu sagen: “Naja, eigentlich...”. Du kannst ihn nicht davon abhalten, dich zu unterbrechen, aber du kannst seine Aussage ändern. Er kann entweder “Ich unterbreche dich ungern, aber...” oder “<BLANK>” sagen.",
+      "scenarioText": "Mindestens einmal am Tag unterbricht dich dein Kollege und sagt: “Also eigentlich...”. Du kannst nicht verhindern, dass er dich unterbricht, aber du kannst seine Aussage ändern. Er kann entweder sagen: “Ich unterbreche dich ungern, aber...” oder “<BLANK>”.",
       "decoys": "Ich bin ein grosser Idiot, und... | Aus einer dummen Perspektive... | Ich sollte gefeuert werden, aber... | Ich helfe nicht, aber... | Ich habe keine Quellen, und doch...",
       "x": false,
       "id": 53309,
@@ -1038,7 +1038,7 @@
     },
     {
       "answerText": "Delfine, die deinen Namen singen",
-      "scenarioText": "Du reist einen mysteriösen Fluss entlang, der sich bald aufteilt. In der einen Richtung befinden sich Delfine, die deinen Namen im Chor singen; in der anderen <BLANK>.",
+      "scenarioText": "Du fährst auf einem geheimnisvollen Fluss, der sich bald teilt. In der einen Richtung singen Delphine im Chor deinen Namen, in der anderen <BLANK>.",
       "decoys": "eine Glitzerdschungel | eine alte Frau, die dir deinen Sinn des Lebens erklärt | ein Chor dicker Engel | ein einfacher Wasserfall | ein buntes Piratenschiff",
       "x": false,
       "id": 53312,
@@ -1047,7 +1047,7 @@
     },
     {
       "answerText": "knallgelbe Clownschuhe",
-      "scenarioText": "Du lebst in einer Welt, in der jeder gleich aussieht. Deshalb benötigst du ein markantes Unterscheidungsmerkmal in der Öffentlichkeit, um aufzufallen. Deine Optionen sind ein Paar knallgelber Clownschuhe oder <BLANK>.",
+      "scenarioText": "Du lebst in einer Welt, in der alle gleich aussehen. Deshalb brauchst du ein Unterscheidungsmerkmal, um in der Öffentlichkeit aufzufallen. Du hast die Wahl zwischen einem Paar knallgelber Clownschuhe oder <BLANK>.",
       "decoys": "ein falschen Bart und Schnauzer | ein Tattoo auf der Stirn | ein “Macht Deutschland wieder stark” Cap | lange falsche Fingernägel | ein Skianzug",
       "x": false,
       "id": 53314,
@@ -1056,7 +1056,7 @@
     },
     {
       "answerText": "Batterien",
-      "scenarioText": "Du hast in der Lotterie gewonnen! Jedoch kannst du den Gewinn nicht in Form von Geld erhalten. Du bekommst entweder Batterien oder <BLANK> im Wert von einer Millionen Euro.",
+      "scenarioText": "Du hast im Lotto gewonnen! Allerdings bekommst du deinen Gewinn nicht in Geldform. Du bekommst entweder Batterien oder <BLANK> im Wert von einer Million Euro.",
       "decoys": "Schuhe | Pizza | Bücher | Geschirr | Katzenstreu",
       "x": false,
       "id": 53327,
@@ -1065,7 +1065,7 @@
     },
     {
       "answerText": "von <OTHERPLAYER>",
-      "scenarioText": "Du hast ein Gerät entwickelt, dass es Katzen ermöglicht, wie Menschen zu sprechen. Jedoch klingt ihre Stimme genau wie <OTHERPLAYER> oder <BLANK>.",
+      "scenarioText": "Du hast ein Gerät entwickelt, mit dem Katzen wie Menschen sprechen können. Allerdings klingt ihre Stimme genau wie <OTHERPLAYER> oder <BLANK>.",
       "decoys": "Ray Romano | Donald Trump | Spongebob Schwammkopf | Holly Hunter | James Earl Jones",
       "x": false,
       "id": 53328,
@@ -1074,7 +1074,7 @@
     },
     {
       "answerText": "Was ist mit den Flamingos los?",
-      "scenarioText": "Du triffst ein gutmütiges und allwissendes Wesen. Du darfst eine Frage stellen... aber es muss entweder “Was ist mit den Flamingos los?” oder “<BLANK>?” sein.",
+      "scenarioText": "Du begegnest einem gütigen und allwissenden Wesen. Du darfst eine Frage stellen...aber sie muss entweder \"Was ist mit den Flamingos los?\" oder \"<BLANK>\" lauten.",
       "decoys": "Wie wird das Wetter morgen | Wie geht es dir | Verstehst du mich | Liebt mich meine Katze | Bin ich GUT",
       "x": false,
       "id": 53329,
@@ -1083,7 +1083,7 @@
     },
     {
       "answerText": "bei den Nachbarn herumschnüffeln",
-      "scenarioText": "Für eine einzige Stunde verschwindet jeder, ausser dir von der Welt. Die Erde ist leer und offen zugänglich. Du könntest durch das Haus deiner Nachbarn gehen oder <BLANK>.",
+      "scenarioText": "Für eine Stunde verschwinden alle Menschen von der Welt, nur du nicht. Du könntest das Haus deines Nachbarn durchsuchen oder <BLANK>.",
       "decoys": "ein Nickerchen machen | nackt durch die Strassen spazieren | eine Tonne an Elektronik stehlen | eine Spritztour machen | laute Partymusik abspielen",
       "x": false,
       "id": 53330,
@@ -1092,7 +1092,7 @@
     },
     {
       "answerText": "auf Stühlen zu sitzen",
-      "scenarioText": "Du erhälst die Gabe einer Super-Balance; du wirst nie wieder hinfallen oder stolpern. Aber als Nebeneffekt entwickelst du das Unvermögen auf Stühlen zu sitzen oder die Unfähigkeit <BLANK>.",
+      "scenarioText": "Du erhältst die Gabe der Superbalance; du wirst nie wieder fallen oder stolpern. Als Nebeneffekt entwickelt du die Unfähigkeit, auf einem Stuhl zu sitzen, oder die Unfähigkeit, <BLANK>.",
       "decoys": "Babys anzulächeln | öffentliche Toiletten zu benutzen | Nickerchen zu machen | Hüte zu tragen | an Türen zu klingeln",
       "x": false,
       "id": 53335,
@@ -1110,7 +1110,7 @@
     },
     {
       "answerText": "Tiere als Kinder zu bezeichnen",
-      "scenarioText": "Du wurdest ins höchste Gericht des Landes gewählt. Als Teil deines Antritts darf du ein neues Gesetz verabschieden. Du kannst entweder verbieten, Tiere als “Kinder” zu bezeichnen oder <BLANK>.",
+      "scenarioText": "Du bist in das höchste Gericht des Landes gewählt worden. Zu deinem Amtsantritt kannst du ein neues Gesetz erlassen. Du kannst entweder verbieten, Tiere als “Kinder” zu bezeichnen oder <BLANK>.",
       "decoys": "Small Talk in Fahrstühlen zu führen | Ghettofäuste | Emojis | Autoaufkleber | Klettverschluss-Geldbörsen",
       "x": false,
       "id": 53343,
@@ -1119,7 +1119,7 @@
     },
     {
       "answerText": "Matratze",
-      "scenarioText": "Du bist ein einsamer Mensch, der mitten im Wald lebt... aber eine Fee kann eines deiner leblosen Objekte zum Leben erwecken. Sie kann entweder deiner Matratze oder <BLANK> Leben einhauchen.",
+      "scenarioText": "Du bist ein einsamer Mann, der mitten im Wald lebt... aber eine Fee kann einen deiner leblosen Gegenstände zum Leben erwecken. Sie kann entweder deine Matratze oder <BLANK> zum Leben erwecken.",
       "decoys": "deinem Laptop | einem Burrito | deiner Badematte | deinem Mülleimer | deiner Zahnbürste",
       "x": false,
       "id": 53345,
@@ -1128,7 +1128,7 @@
     },
     {
       "answerText": "“Was nervt dich an mir?”",
-      "scenarioText": "Jeder in deiner Freundesgruppe wird gezwungen, einen anonymen und kurzen Fragebogen über dich auszufüllen... du musst die Resultate lesen. Du kannst zwischen zwei Fragen wählen: “Was nervt dich an mir?” oder “<BLANK>?”",
+      "scenarioText": "Alle Mitglieder deiner Freundesgruppe werden gebeten, einen kurzen, anonymen Fragebogen über dich auszufüllen... Du musst die Ergebnisse lesen. Du kannst zwischen zwei Fragen wählen: “Was nervt dich an mir?” oder “<BLANK>”.",
       "decoys": "Bin ich ein guter Mensch? | Würdest du mit mir schlafen? | Wie ist mein Haar? | Bin ich langweilig? | Wie ist mein Modegeschmack?",
       "x": false,
       "id": 53361,
@@ -1137,7 +1137,7 @@
     },
     {
       "answerText": "Alte Fahrradhupe",
-      "scenarioText": "Dein neues solarbetriebenes Smartphone hat unbegrenzte Akkulaufzeit. Unglücklicherweise sind die einzigen verfügbaren Klingeltöne “Alte Fahrradhupe” oder “<BLANK>”. Er kann nicht mehr geändert werden.",
+      "scenarioText": "Dein neues solarbetriebenes Smartphone hat eine unbegrenzte Akkulaufzeit. Leider sind die einzigen verfügbaren Klingeltöne “Alte Fahrradhupe” oder “<BLANK>”. Nach der Auswahl kann der Klingelton nicht mehr geändert werden.",
       "decoys": "“Macarena” | Hundebellen | “Jingle Bells” | “Brüllendes Faultier” | “HEY LEUTE!” | “Yankee Doodle” | “Cha Cha Slide”",
       "x": false,
       "id": 53365,
@@ -1148,14 +1148,14 @@
       "answerText": "Buchstabier-Champions",
       "scenarioText": "Deine Stadt hat keine Jungfrauen mehr, also müsst ihr etwas anderes opfern. Du kannst zwischen Buchstabier-Champions oder <BLANK> wählen.",
       "decoys": "YouTube-Stars | wirklich süssen Hunden | kalten Fusions-Motoren | Uni-Athleten | Radiomoderatoren",
-      "x": false,
+      "x": true,
       "id": 53374,
       "category": "Opferlamm",
       "questionText": "Was oder wen opferst du, um einen ausbrechenden Vulkan zu besänftigen?"
     },
     {
       "answerText": "Seilbahntour",
-      "scenarioText": "Du planst seit Monaten dich von deinem Lebensgefährten zu trennen. Du musst es JETZT tun, im Urlaub, weil du befürchtest, er/sie will dir einen Heiratsantrag machen. Du kannst die Nachricht entweder auf einer Seilbahntour durch den Dschungel oder während <BLANK> überbringen.",
+      "scenarioText": "Du planst seit Monaten, dich von deinem Partner zu trennen. Du musst es JETZT im Urlaub tun, weil du befürchtest, dass er/sie dir einen Heiratsantrag machen wird. Du kannst es ihm/ihr entweder während einer Seilbahnfahrt im Dschungel oder während <BLANK> sagen.",
       "decoys": "ihr im Whirlpool sitzt | eines Pferdeausritts bei Sonnenuntergang | einer Massage | einer Tandemradfahrt | dem Schwimmen mit Delfinen",
       "x": false,
       "id": 53375,
@@ -1164,7 +1164,7 @@
     },
     {
       "answerText": "von <OTHERPLAYER>",
-      "scenarioText": "Das Stück eines Meteoriten ist in deinem Garten gelandet. Wenn du es berührst, kannst du die Gedanken von <OTHERPLAYER> oder <BLANK> lesen .",
+      "scenarioText": "Ein Bruchstück eines Meteoriten ist in deinem Garten gelandet. Wenn du ihn berührst, kannst du die Gedanken von <OTHERPLAYER> oder <BLANK> lesen.",
       "decoys": "Carlos Mencia | des Regierungschefs | einem Serienmörder | deinem Chef",
       "x": false,
       "id": 53381,
@@ -1173,7 +1173,7 @@
     },
     {
       "answerText": "mit Small Talk",
-      "scenarioText": "Du bist zur Hölle gefahren... aber der Teufel entpuppt sich, als vernünftiger Typ. Er gibt dir zwei Möglichkeiten, wie du die Ewigkeit verbringen kannst. Entweder durch Small Talk oder <BLANK>.",
+      "scenarioText": "Du bist zur Hölle gefahren... aber der Teufel erweist sich als vernünftiger Kerl. Er gibt dir zwei Möglichkeiten, die Ewigkeit zu verbringen. Entweder mit Small Talk oder mit <BLANK>.",
       "decoys": "Mainstream-Radio | Ameisen, die auf dir krabbeln | Werbesendungen | nur Weissbrot zum Essen | ein endloses Monopoly-Spiel",
       "x": false,
       "id": 53575,
@@ -1182,9 +1182,9 @@
     },
     {
       "answerText": "Sugar Daddys",
-      "scenarioText": "Es ist deine erste Nacht im Gefängnis und du benötigst eine Gruppe von Häftlingen, die dich schützt. Trittst du einer Gruppe namens “Sugar Daddys” oder “<BLANK>” bei?",
+      "scenarioText": "Es ist deine erste Nacht im Gefängnis und du brauchst eine Gruppe von Häftlingen, die dich beschützen. Schließt du dich einer Gruppe namens “Sugar Daddys” oder lieber “<BLANK>” an?",
       "decoys": "Die Bestrafer | Der Kitzel-Trupp | Das Karaoke Kommando | Die Bulligen Buben | Die Kichernden Mädels",
-      "x": false,
+      "x": true,
       "id": 53590,
       "category": "Hinter Gittern",
       "questionText": "Welcher Gruppe schliesst du dich an?"
@@ -1200,7 +1200,7 @@
     },
     {
       "answerText": "“WAS WOHL ALS NÄCHSTES PASSIERT?”",
-      "scenarioText": "Du kannst unbegrenzt kostenlose Kinotickets bekommen. Vorausgesetzt du stehst irgendwann während des Films auf und schreist: “WAS WOHL ALS NÄCHSTES PASSIERT?” oder “<BLANK>”.",
+      "scenarioText": "Du kannst unbegrenzt Freikarten fürs Kino bekommen. Vorraussetzung dafür ist, dass du irgendwann während des Films aufstehst und “WAS PASSIERT ALS NÄCHSTES?” oder “<BLANK>” schreist.",
       "decoys": "IST DAS GAME OF THRONES? | WIE LAUTET DAS WI-FI PASSWORT? | HAN HAT ZUERST GESCHOSSEN | WO IST ALEC BALDWIN? | IST NOCH JEMANDEM HEISS HIER?",
       "x": false,
       "id": 53592,
@@ -1218,7 +1218,7 @@
     },
     {
       "answerText": "<OTHERPLAYER>",
-      "scenarioText": "Du bist der Geschäftsführer einer Parfümfirma. Du kannst grünes Licht für einen neuen Duft geben, zur Wahl steht: <OTHERPLAYER> oder <BLANK>.",
+      "scenarioText": "Du bist der Geschäftsführer einer Parfümfirma. Du kannst grünes Licht für ein neues Parfüm geben, das nach <OTHERPLAYER> oder <BLANK> riecht.",
       "decoys": "New York | Schinkensandwich | Waschsalon | Seetang | Bergwerk",
       "x": false,
       "id": 53636,
@@ -1227,7 +1227,7 @@
     },
     {
       "answerText": "<OTHERPLAYER>",
-      "scenarioText": "Du bist der Geschäftsführer einer Plattenfirma. Der nächste Künstler, den du unter Vertrag nimmst, muss entweder <OTHERPLAYER> oder <BLANK> sein. Du hast eine dicke Hypothek und fünf kleine Kinder.",
+      "scenarioText": "Du bist Geschäftsführer einer Plattenfirma. Der nächste Künstler, den du unter Vertrag nimmst, muss entweder <OTHERPLAYER> oder <BLANK> sein. Du hast eine große Hypothek und fünf kleine Kinder.",
       "decoys": "eine zufällige Person von der Strasse | das Mädchen von “Schnappi, das kleine Krokodil” | deine Mutter | der Gewinner des Dschungelcamps | du selbst",
       "x": false,
       "id": 53637,
@@ -1236,7 +1236,7 @@
     },
     {
       "answerText": "<OTHERPLAYER>",
-      "scenarioText": "Warum auch immer, wenn du <OTHERPLAYER> oder <BLANK> ansiehst, musst du zehn Minuten intensiven Augenkontakt halten.",
+      "scenarioText": "Aus welchem Grund auch immer, wenn du <OTHERPLAYER> oder <BLANK> ansiehst, musst du für 10 Minuten einen intensiven Blickkontakt halten.",
       "decoys": "deinen Vater | Haie | die Kassiererin im Supermarkt | einen Taxi-Fahrer | deinen Hund",
       "x": false,
       "id": 53638,
@@ -1254,7 +1254,7 @@
     },
     {
       "answerText": "<OTHERPLAYER>’s",
-      "scenarioText": "Du hast die Macht, die Koch-Fähigkeiten von jemandem zu stehlen. Diese Macht wirkt entweder auf <OTHERPLAYER> oder <BLANK>.",
+      "scenarioText": "Du hast die Macht, die Kochfähigkeiten von jemandem zu stehlen. Diese Macht wirkt entweder auf <OTHERPLAYER> oder <BLANK>.",
       "decoys": "Guy Fieri | deinem Vater | Gordon Ramsey | Ralf Zacherl | deiner Ur-Grossmutter |",
       "x": false,
       "id": 53641,
@@ -1272,7 +1272,7 @@
     },
     {
       "answerText": "Ohne Hosen",
-      "scenarioText": "Laut einem neuen Gesetz muss von jedem heimlich ein Foto für eine Online-Landkarte gemacht werden. Du kannst dich entweder erwischen lassen, wie du ohne Hosen die Post holst oder <BLANK>.",
+      "scenarioText": "Nach einem neuen Gesetz muss jeder heimlich fotografiert werden, um eine Online-Landkarte zu erstellen. Entweder du lässt dich ohne Hose beim Post holen fotografieren oder wie du <BLANK>.",
       "decoys": "betrunken in einen Busch pinkelst | erbrichst | einen streunenden Hund schlägst | den Nachbarn durchs Fenster beobachtest | eine Rasendeko stiehlst",
       "x": false,
       "id": 53647,

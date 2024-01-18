@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du spielst im Casino an einem Würfel-Tisch. Dein selbsterklärter “Glücksbringer” kommt auf dich zu und bietet dir",
+      "v": "Du spielst im Casino an einem Würfeltisch. Dein selbsternannter “Glücksbringer” kommt auf dich zu und bietet dir",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du spielst im Casino an einem Würfel-Tisch. Dein selbsterklärter “Glücksbringer” kommt auf dich zu und bietet dir <BLANK> an. Am Nachbartisch hat dadurch jemand gewonnen. Du bist am Zug!\r\nLässt du ihn das machen?",
+      "s": "Du spielst im Casino an einem Würfeltisch. Dein selbsternannter “Glücksbringer” kommt auf dich zu und bietet dir <BLANK> an. Am Nachbartisch hat dadurch jemand gewonnen. Du bist am Zug!\r\nLässt du ihn das machen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

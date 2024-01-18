@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du planst seit Monaten dich von deinem Lebensgefährten zu trennen. Du musst es JETZT tun, im Urlaub, weil du befürchtest, er/sie will dir einen Heiratsantrag machen. Du kannst die Nachricht entweder auf einer Seilbahntour durch den Dschungel oder während <BLANK> überbringen.",
+      "v": "Du planst seit Monaten, dich von deinem Partner zu trennen. Du musst es JETZT im Urlaub tun, weil du befürchtest, dass er/sie dir einen Heiratsantrag machen wird.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst es ihm/ihr entweder während einer Seilbahnfahrt im Dschungel oder während",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "sagen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du planst seit Monaten dich von deinem Lebensgefährten zu trennen. Du musst es JETZT tun, im Urlaub, weil du befürchtest, er/sie will dir einen Heiratsantrag machen. Du kannst die Nachricht entweder auf einer Seilbahntour durch den Dschungel oder während <BLANK> überbringen.\r\nWas ist der bessere Trennungsort?",
+      "s": "Du planst seit Monaten, dich von deinem Partner zu trennen. Du musst es JETZT im Urlaub tun, weil du befürchtest, dass er/sie dir einen Heiratsantrag machen wird. Du kannst es ihm/ihr entweder während einer Seilbahnfahrt im Dschungel oder während <BLANK> sagen.\r\nWas ist der bessere Trennungsort?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

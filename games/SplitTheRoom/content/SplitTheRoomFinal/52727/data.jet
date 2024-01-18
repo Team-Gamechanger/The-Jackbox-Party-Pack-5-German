@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du richtest deine Smart-Watch ein. Du kannst zwischen zwei Funktionen wählen. Die eine sagt dir, was die Menschen in deiner Nähe denken. Die andere sagt dir, <BLANK>.",
+      "v": "Du konfigurierst deine Smartwatch. Du kannst zwischen zwei Funktionen wählen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Die eine sagt dir, was die Leute um dich herum denken. Die andere sagt dir",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Smart-Watch Feature",
+      "s": "Mehr als nur eine Uhr",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du richtest deine Smart-Watch ein. Du kannst zwischen zwei Funktionen wählen. Die eine sagt dir, was die Menschen in deiner Nähe denken. Die andere sagt dir, <BLANK>.\r\nWelches Smart-Watch Feature wählst du?",
+      "s": "Du konfigurierst deine Smartwatch. Du kannst zwischen zwei Funktionen wählen. Die eine sagt dir, was die Leute um dich herum denken. Die andere sagt dir <BLANK>.\r\nWelches Smart-Watch Feature wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

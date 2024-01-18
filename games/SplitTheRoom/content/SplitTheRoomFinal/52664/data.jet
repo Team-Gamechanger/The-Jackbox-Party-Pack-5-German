@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Welche Eigenschaft wünscht du dir von einem Hund?",
+      "v": "Welche Eigenschaft wünscht du dir von deinem zukünftigen Hund?",
       "n": "QuestionText"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "macht Jagd auf Tacos | wählt ausgezeichnete Filme aus | spürt ruhige Bars auf | erkennt Erdbeben | sendet kostenloses Wi-Fi",
+      "v": "macht Jagd auf Tacos | wählt ausgezeichnete Filme aus | spürt ruhige Bars auf | erkennt Erdbeben | sendet kostenloses Wlan",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du kannst zwischen zwei Arten von speziell ausgebildeten Hunden wählen. Der eine findet zu jeder Zeit saubere öffentliche Toiletten und der andere <BLANK>.",
+      "v": "Du hast die Wahl zwischen zwei speziell ausgebildeten Hunden.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Der eine findet jederzeit saubere öffentliche Toiletten, der andere",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Guter Junge",
+      "s": "Guter Junge!",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du kannst zwischen zwei Arten von speziell ausgebildeten Hunden wählen. Der eine findet zu jeder Zeit saubere öffentliche Toiletten und der andere <BLANK>.\r\nWelche Eigenschaft wünscht du dir von einem Hund?",
+      "s": "Du hast die Wahl zwischen zwei speziell ausgebildeten Hunden. Der eine findet jederzeit saubere öffentliche Toiletten, der andere <BLANK>.\r\nWelche Eigenschaft wünscht du dir von deinem zukünftigen Hund?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Spinnen sind zu sehr mächtigen Wesen geworden, wodurch die meisten Pestizide wirkungslos wurden.",
+      "v": "Spinnen sind zu sehr mächtigen Wesen geworden, wodurch die meisten Pestizide nun wirkungslos sind.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Spinnen sind zu sehr mächtigen Wesen geworden, wodurch die meisten Pestizide wirkungslos wurden. Das einzige Spray, das noch funktioniert, trägt das Warnetikett “WARNUNG: KANN <BLANK> VERURSACHEN.“ Dein Haus ist mit Spinnen befallen.\r\nVerwendest du den Spray?",
+      "s": "Spinnen sind zu sehr mächtigen Wesen geworden, wodurch die meisten Pestizide nun wirkungslos sind. Das einzige Spray, das noch funktioniert, trägt das Warnetikett “WARNUNG: KANN <BLANK> VERURSACHEN.“ Dein Haus ist mit Spinnen befallen.\r\nVerwendest du den Spray?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

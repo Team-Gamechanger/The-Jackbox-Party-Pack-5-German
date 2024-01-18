@@ -17,37 +17,37 @@
     },
     {
       "t": "S",
-      "v": "Wie kann der Ninja-Klan den Gefallen zurückgeben?",
+      "v": "Wie kann der Ninja-Klan den Gefallen erwidern?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "auf Party des Neffen erscheinen",
+      "v": "Neffen am Geburtstag beglücken",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "dir beim Verloben helfen | einen Bankraub begehen | an einer Talentshow teilzunehmen | ein Mode-Umstyling zu erhalten | dein Traumhaus zu finden",
+      "v": "dir beim Verloben helfen | einen Bankraub zu begehen | an einer Talentshow teilzunehmen | ein Mode-Umstyling zu erhalten | dein Traumhaus zu finden",
       "n": "Decoys"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "ALL_YES",
       "n": "Keywords"
     },
     {
       "t": "S",
-      "v": "Ein Ninja-Klan schuldet dir einen Gefallen, aber du musst ihn bald einlösen. Sie können dir bei einem von zwei Dingen helfen: für deinen zehnjährigen Neffen eine bezaubernde Geburtstagsparty zu veranstalten oder <BLANK>.",
+      "v": "Ein Ninja-Clan schuldet dir einen Gefallen, den du bald einlösen musst.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Sie können dir bei zwei Dingen helfen: Die Geburtstagsparty deines zehnjährigen Neffen zu einem unvergesslichen Erlebnis machen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Ninjagefallen",
+      "s": "Das Wort eines Ninjas",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein Ninja-Klan schuldet dir einen Gefallen, aber du musst ihn bald einlösen. Sie können dir bei einem von zwei Dingen helfen: für deinen zehnjährigen Neffen eine bezaubernde Geburtstagsparty zu veranstalten oder <BLANK>.\r\nWie kann der Ninja-Klan den Gefallen zurückgeben?",
+      "s": "#REF!",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

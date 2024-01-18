@@ -17,17 +17,17 @@
     },
     {
       "t": "S",
-      "v": "Welchen neuen Superhelden-Film wirst du finanzieren?",
+      "v": "Welchen neuen Superhelden-Film finanzierst du?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "“Kapitän Grosshand”",
+      "v": "“Kapitän Großhand”",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "“Der grosse Zuhörer” | einfach über Bruce Wayne | “Herr Kann-Portionen-Kontrollieren” | “Der lachende Kerl” | “Das Versicherungs-Risikomanagement Mädel”",
+      "v": "“Der grosse Zuhörer” | einfach über Til Schweiger | “Verstopfungs-Mann” | “Der lachende Spacko” | “Das Versicherungs-Risikomanagement-Mädel”",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Deinem Filmstudio sind die erfolgsversprechenden Superhelden ausgegangen und du brauchst einen Kassenschlager. Du kannst entweder einen Film über “Kapitän Grosshand” oder <BLANK> machen.",
+      "v": "Deinem Filmstudio sind die erfolgversprechenden Superhelden ausgegangen und du brauchst einen Kassenschlager.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst entweder einen Film über “Kapitän Großhand” oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "machen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Deinem Filmstudio sind die erfolgsversprechenden Superhelden ausgegangen und du brauchst einen Kassenschlager. Du kannst entweder einen Film über “Kapitän Grosshand” oder <BLANK> machen.\r\nWelchen neuen Superhelden-Film wirst du finanzieren?",
+      "s": "Deinem Filmstudio sind die erfolgversprechenden Superhelden ausgegangen und du brauchst einen Kassenschlager. Du kannst entweder einen Film über “Kapitän Großhand” oder <BLANK> machen.\r\nWelchen neuen Superhelden-Film finanzierst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ich sag euch, die würden beide die Kassen sprengen.",
+      "s": "Ich sag euch, das werden beides Kassenschlager.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

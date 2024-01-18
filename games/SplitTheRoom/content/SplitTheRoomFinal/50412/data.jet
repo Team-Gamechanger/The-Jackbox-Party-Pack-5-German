@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "auf einen Fussgänger",
+      "v": "auf einen Fußgänger",
       "n": "Answer"
     },
     {
@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Da mag wohl einer keine Fußgänger.",
+      "s": "Da mag wohl wer keine Fußgänger.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

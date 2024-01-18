@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Ausserirdische haben dich entführt und sind dabei einen Teil deines Gehirns für Forschungen zu entnehmen. Du bekommst die Wahl, ob du dir den Teil um Musik geniessen zu können oder den Teil für <BLANK> entfernen lässt.",
+      "v": "Außerirdische haben dich entführt und sind dabei, einen Teil deines Gehirns für Forschungszwecke zu entfernen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du hast die Wahl, ob du den Teil behalten möchtest, um Musik hören zu können, oder ob du den Teil für",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "entfernen lassen möchtest.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ausserirdische haben dich entführt und sind dabei einen Teil deines Gehirns für Forschungen zu entnehmen. Du bekommst die Wahl, ob du dir den Teil um Musik geniessen zu können oder den Teil für <BLANK> entfernen lässt.\r\nWelche Hirnfunktion verlierst du?",
+      "s": "Außerirdische haben dich entführt und sind dabei, einen Teil deines Gehirns für Forschungszwecke zu entfernen. Du hast die Wahl, ob du den Teil behalten möchtest, um Musik hören zu können, oder ob du den Teil für <BLANK> entfernen lassen möchtest.\r\nWelche Hirnfunktion verlierst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

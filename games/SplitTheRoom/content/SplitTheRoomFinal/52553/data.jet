@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "In welches Objekt erbrichst du?",
+      "v": "In welches Objekt übergibst du dich?",
       "n": "QuestionText"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Du bist dabei, dich in der Öffentlichkeit zu übergeben. Es sind zwei Objekte direkt vor dir. Du kannst entweder in eine antike römische Vase oder in <BLANK> erbrechen.",
+      "v": "Du bist im Begriff, dich in der Öffentlichkeit zu übergeben.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Vor dir stehen zwei Gegenstände. Du kannst  entweder in eine antike römische Vase oder in",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "brechen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist dabei, dich in der Öffentlichkeit zu übergeben. Es sind zwei Objekte direkt vor dir. Du kannst entweder in eine antike römische Vase oder in <BLANK> erbrechen.\r\nIn welches Objekt erbrichst du?",
+      "s": "Du bist im Begriff, dich in der Öffentlichkeit zu übergeben. Vor dir stehen zwei Gegenstände. Du kannst  entweder in eine antike römische Vase oder in <BLANK> brechen.\r\nIn welches Objekt übergibst du dich?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Das ist also ein Vomitorium.",
+      "s": "Kunst ist eh zum Kotzen, nicht?",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

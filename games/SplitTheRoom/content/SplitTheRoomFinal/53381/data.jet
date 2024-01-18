@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Das Stück eines Meteoriten ist in deinem Garten gelandet. Wenn du es berührst, kannst du die Gedanken von <OTHERPLAYER> oder <BLANK> lesen .",
+      "v": "Ein Bruchstück eines Meteoriten ist in deinem Garten gelandet.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Wenn du ihn berührst, kannst du die Gedanken von <OTHERPLAYER> oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "lesen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Das Stück eines Meteoriten ist in deinem Garten gelandet. Wenn du es berührst, kannst du die Gedanken von <OTHERPLAYER> oder <BLANK> lesen .\r\nWessen Gedanken liest du?",
+      "s": "Ein Bruchstück eines Meteoriten ist in deinem Garten gelandet. Wenn du ihn berührst, kannst du die Gedanken von <OTHERPLAYER> oder <BLANK> lesen.\r\nWessen Gedanken liest du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

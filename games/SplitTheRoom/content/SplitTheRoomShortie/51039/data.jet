@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Versuchst du es?",
+      "v": "Trittst du gegen den Weltmeister an?",
       "n": "QuestionText"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Wenn du mit dem Ball in der Hand, beim College-Football, dreimal hinter die Ziellinie läufst, erhältst du",
+      "v": "Dir wird angeboten, bei einem Box-Kampf gegen den amtierenden Weltmeister anzutreten.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "<BLANK>.",
+      "v": "Du hast keine Chance, jedoch bekommst du für deine Teilnahme",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "Du bist in voller Montur, aber die Verteidiger laufen mit voller Geschwindigkeit.",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Das Football-Spiel",
+      "s": "Der Box-Kampf",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Wenn du mit dem Ball in der Hand, beim College-Football, dreimal hinter die Ziellinie läufst, erhältst du <BLANK>. Du bist in voller Montur, aber die Verteidiger laufen mit voller Geschwindigkeit.\r\nVersuchst du es?",
+      "s": "Dir wird angeboten, bei einem Box-Kampf gegen den amtierenden Weltmeister anzutreten. Du hast keine Chance, jedoch bekommst du für deine Teilnahme <BLANK>.\r\nTrittst du gegen den Weltmeister an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

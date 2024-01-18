@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Du bist ein Stadtplaner. Eine öffentliche Umfrage gibt dir zwei Möglichkeiten für das nächste Wahrzeichen. Du kannst entweder einen 15 Meter grosse Statue von einem Politker errichten oder <BLANK>.",
+      "v": "Du bist ein Stadtplaner. Eine öffentliche Umfrage gibt dir zwei Möglichkeiten für das nächste Wahrzeichen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst entweder eine 15 Meter hohe Statue eines Politikers bauen oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein Stadtplaner. Eine öffentliche Umfrage gibt dir zwei Möglichkeiten für das nächste Wahrzeichen. Du kannst entweder einen 15 Meter grosse Statue von einem Politker errichten oder <BLANK>.\r\nWelches Wahrzeichen lässt du errichten?",
+      "s": "Du bist ein Stadtplaner. Eine öffentliche Umfrage gibt dir zwei Möglichkeiten für das nächste Wahrzeichen. Du kannst entweder eine 15 Meter hohe Statue eines Politikers bauen oder <BLANK>.\r\nWelches Wahrzeichen lässt du errichten?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

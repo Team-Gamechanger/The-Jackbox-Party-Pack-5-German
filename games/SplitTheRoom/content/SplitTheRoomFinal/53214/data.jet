@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Ayn Rand-Festival",
+      "v": "Miley Cyrus-Festival",
       "n": "Answer"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Amor warnt dich, dass du dich in eine Person verlieben wirst, die du auf der nächst besuchten Veranstaltung kennenlernst. Du wurdest zu einem Ayn Rand-Festival und zu <BLANK> eingeladen. Du musst an einem der beiden teilnehmen.",
+      "v": "Amor warnt dich, dass du dich in jemanden verlieben wirst, den du bei der nächsten Veranstaltung triffst.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du wurdest zu einem Miley Cyrus Festival und zu",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "eingeladen. Du musst an einem von beiden teilnehmen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Amor warnt dich, dass du dich in eine Person verlieben wirst, die du auf der nächst besuchten Veranstaltung kennenlernst. Du wurdest zu einem Ayn Rand-Festival und zu <BLANK> eingeladen. Du musst an einem der beiden teilnehmen.\r\nWelche Veranstaltung besuchst du?",
+      "s": "Amor warnt dich, dass du dich in jemanden verlieben wirst, den du bei der nächsten Veranstaltung triffst. Du wurdest zu einem Miley Cyrus Festival und zu <BLANK> eingeladen. Du musst an einem von beiden teilnehmen.\r\nWelche Veranstaltung besuchst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

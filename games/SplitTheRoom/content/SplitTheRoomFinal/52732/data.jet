@@ -32,22 +32,22 @@
     },
     {
       "t": "S",
-      "v": "",
+      "v": "ALL_YES",
       "n": "Keywords"
     },
     {
       "t": "S",
-      "v": "Bevor sie dich verflucht, gibt dir eine Hexe zwei Möglichkeiten: bei jedem Niesen schiessen Bienen aus deiner Nase oder <BLANK>.",
+      "v": "Bevor eine Hexe dich verflucht, lässt sie dich zwischen zwei Möglichkeiten wählen:",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Jedes Mal, wenn du niest, kommen Bienen aus deiner Nase oder",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Bevor sie dich verflucht, gibt dir eine Hexe zwei Möglichkeiten: bei jedem Niesen schiessen Bienen aus deiner Nase oder <BLANK>.\r\nWelchen Fluch wählst du?",
+      "s": "Bevor eine Hexe dich verflucht, lässt sie dich zwischen zwei Möglichkeiten wählen: Jedes Mal, wenn du niest, kommen Bienen aus deiner Nase oder <BLANK>.\r\nWelchen Fluch wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Nichts was ein Netz vor dem Gesicht nicht lösen würde.",
+      "s": "Gesundheit!",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

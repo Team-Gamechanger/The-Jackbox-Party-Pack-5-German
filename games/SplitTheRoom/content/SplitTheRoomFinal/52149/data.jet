@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Beruhigungsmittel für Wildtiere | Tennisprofi | Profimasseur | Lügendetektor | Feuerwerfer",
+      "v": "Beruhigungsmittel für Wildtiere | Tennisprofi | Profimasseur | Lügendetektor | Flamenwerfer",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Dir fehlt dein linker Arm. Ein Unternehmen bietet dir an, einen kybernetischen Arm zur Verfügung zu stellen. Du kannst entweder einen Arm erhalten, der wie ein Smartphone oder wie ein <BLANK> funktioniert.",
+      "v": "Dir fehlt dein linker Arm. Eine Firma bietet dir einen kybernetischen Arm an.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Du kannst entweder einen Arm bekommen, der wie ein Smartphone, oder einen Arm, der wie",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "funktioniert.",
       "n": "ScenarioText4"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Cyborg Armauswahl",
+      "s": "Arm ab und arm dran",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Dir fehlt dein linker Arm. Ein Unternehmen bietet dir an, einen kybernetischen Arm zur Verfügung zu stellen. Du kannst entweder einen Arm erhalten, der wie ein Smartphone oder wie ein <BLANK> funktioniert.\r\nWelchen kybernetischen Arm wählst du?",
+      "s": "Dir fehlt dein linker Arm. Eine Firma bietet dir einen kybernetischen Arm an. Du kannst entweder einen Arm bekommen, der wie ein Smartphone, oder einen Arm, der wie <BLANK> funktioniert.\r\nWelchen kybernetischen Arm wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ok aber… wo hast du deinen Arm denn nun verloren? Im Uber liegen gelassen?",
+      "s": "Kleine Frage: Wo ist der alte Arm hin?",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"
