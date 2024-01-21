@@ -52,12 +52,12 @@
     },
     {
       "t": "S",
-      "v": "aufgibst.",
+      "v": "abgibst.",
       "n": "ScenarioText4"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.38",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.70",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.66",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.55",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein Milliardär, der für die Wahl zum Oberbürgermeister kandidiert, macht ein dreistes Wahlversprechen. Er wird alle deine Steuern bezahlen, wenn du das Recht auf/zu <BLANK> aufgibst.\r\nStimmst du für ihn?",
+      "s": "Ein Milliardär, der für die Wahl zum Oberbürgermeister kandidiert, macht ein dreistes Wahlversprechen. Er wird alle deine Steuern bezahlen, wenn du das Recht auf/zu <BLANK> abgibst.\r\nStimmst du für ihn?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Tortenattacke",
+      "v": "Tortenattacke in dein Gesicht",
       "n": "Answer"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Entweder durch eine endlose Tortenattacke ins Gesicht oder",
+      "v": "Entweder durch eine endlose Tortenattacke in dein Gesicht oder",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein Clown, der wegen Clownverbrechen verurteilt wurde. Als solcher wirst du auf lustige Weise hingerichtet. Entweder durch eine endlose Tortenattacke ins Gesicht oder <BLANK>.\r\nWelche Clown-Todesstrafe wählst du?",
+      "s": "Du bist ein Clown, der wegen Clownverbrechen verurteilt wurde. Als solcher wirst du auf lustige Weise hingerichtet. Entweder durch eine endlose Tortenattacke in dein Gesicht oder <BLANK>.\r\nWelche Clown-Todesstrafe wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Bitte nehmen Sie die Nasen ab wenn der Richter eintritt.",
+      "s": "Bitte nehmen Sie die Nasen ab, wenn der Richter eintritt.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

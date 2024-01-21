@@ -22,27 +22,27 @@
     },
     {
       "t": "S",
-      "v": "Miley Cyrus-Festival",
+      "v": "Helene-Fischer-Konzert",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "einer Gothic-Party | einer KISS Karaokeparty | einem Adam Sandler Filmfestival | einem Casting für “Der Bachelor” | einem Steampunk Zirkus",
+      "v": "einer Gothic-Party | einer KISS-Karaokeparty | einem Adam-Sandler-Filmfestival | einem Casting für “Der Bachelor” | einem Steampunk-Zirkus",
       "n": "Decoys"
     },
     {
       "t": "S",
-      "v": "ALL_YES",
+      "v": "ALL_NO",
       "n": "Keywords"
     },
     {
       "t": "S",
-      "v": "Amor warnt dich, dass du dich in jemanden verlieben wirst, den du bei der nächsten Veranstaltung triffst.",
+      "v": "Amor warnt dich, dass du dich in die erste Person unsterblich verlieben wirst, der du bei deiner nächsten besuchten Veranstaltung begegnest.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Du wurdest zu einem Miley Cyrus Festival und zu",
+      "v": "Du wurdest zu einem Helene-Fischer-Konzert und zu",
       "n": "ScenarioText2"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Amor’s Zwangsevent",
+      "s": "Wo die Liebe hinfällt",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Amor warnt dich, dass du dich in jemanden verlieben wirst, den du bei der nächsten Veranstaltung triffst. Du wurdest zu einem Miley Cyrus Festival und zu <BLANK> eingeladen. Du musst an einem von beiden teilnehmen.\r\nWelche Veranstaltung besuchst du?",
+      "s": "Amor warnt dich, dass du dich in die erste Person unsterblich verlieben wirst, der du bei deiner nächsten besuchten Veranstaltung begegnest. Du wurdest zu einem Helene-Fischer-Konzert und zu <BLANK> eingeladen. Du musst an einem von beiden teilnehmen.\r\nWelche Veranstaltung besuchst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Wird schon nicht so schlimm sein. Da ist bestimmt durchgehend Party.",
+      "s": "Also jetzt übertreibt nicht, SO SCHLIMM ist Helene Fischer jetzt auch wieder nicht.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Welche Bezeichung wählst du?",
+      "v": "Welche Bezeichung deiner Person wählst du?",
       "n": "QuestionText"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "SPLIT",
+      "v": "ONE_YES",
       "n": "Keywords"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Das Produktionsteam teilt dir mit, dass die Bildunterschrift unter deinem Namen entweder “Hintern-Liebhaber” ODER",
+      "v": "Das Produktionsteam teilt dir mit, dass die Personenbeschreibung unter deinem Namen entweder “Hintern-Liebhaber” ODER",
       "n": "ScenarioText2"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Reality-Show-Bezeichnung",
+      "s": "Fernseh-Fallstricken",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du nimmst an einer Reality-Dating-Show teil. Das Produktionsteam teilt dir mit, dass die Bildunterschrift unter deinem Namen entweder “Hintern-Liebhaber” ODER “<BLANK>” lauten wird.\r\nWelche Bezeichung wählst du?",
+      "s": "Du nimmst an einer Reality-Dating-Show teil. Das Produktionsteam teilt dir mit, dass die Personenbeschreibung unter deinem Namen entweder “Hintern-Liebhaber” ODER “<BLANK>” lauten wird.\r\nWelche Bezeichung deiner Person wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Offensichtlich ist der Arsch die korrekte Wahl.",
+      "s": "Ich notiere mir nur kurz deine Entscheidung. Aha, Hmm, sehr aufschlussreich.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

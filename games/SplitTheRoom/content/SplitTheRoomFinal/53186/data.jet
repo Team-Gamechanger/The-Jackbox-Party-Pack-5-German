@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Allergie gegen alle Tiere | Anfälligkeit für Papa-Witze | du kannst nur noch Cargo-Hosen tragen | unheilbare Schuppen | sehr kitzelig sein",
+      "v": "Allergie gegen alle Tiere | Anfälligkeit für Dad-Jokes | du kannst nur noch Cargo-Hosen tragen | unheilbare Schuppen | sehr kitzelig sein",
       "n": "Decoys"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Ein Militärexperiment gibt dir Superkräfte, aber es hat seinen Preis. Wenn sie deine Biologie verändern, bekommst du eine Schwäche:",
+      "v": "Ein Militärexperiment gibt dir Superkräfte, es hat jedoch seinen Preis. Nachdem deine Gene verändert wurden, erhälst du folgende Schwäche:",
       "n": "ScenarioText1"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Superheldenschwäche",
+      "s": "Mach mich zum Superheld",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein Militärexperiment gibt dir Superkräfte, aber es hat seinen Preis. Wenn sie deine Biologie verändern, bekommst du eine Schwäche: Immunität gegen Koffein oder <BLANK>.\r\nWelche Schwäche wählst du?",
+      "s": "Ein Militärexperiment gibt dir Superkräfte, es hat jedoch seinen Preis. Nachdem deine Gene verändert wurden, erhälst du folgende Schwäche: Immunität gegen Koffein oder <BLANK>.\r\nWelche Schwäche wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ein kleiner Preis für Röntgenaugen.",
+      "s": "Ein kleiner Preis für Röntgenblick.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

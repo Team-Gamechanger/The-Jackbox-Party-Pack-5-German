@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Doink Doink | Smack Dis | Janitor Jones | Get Some | Hubba Hubba",
+      "v": "Doink Doink | Look at my Hinterteil | Gib's mir richtig! | Dicke Hupen | Schule stinkt",
       "n": "Decoys"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Du bist Direktor eines Gymnasiums. Wegen eines Zwischenfalls musst du eine Jogginghose aus dem Fundbüro anziehen.",
+      "v": "Du bist Schulleiter eines Gymnasiums. Wegen eines \"Zwischenfalls\" musst du eine Jogginghose aus dem Fundbüro anziehen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Du hast die Wahl zwischen zwei Hosen, auf denen steht: “Saftiger Körper” oder",
+      "v": "Du hast die Wahl zwischen zwei Hosen, auf der einen steht: “Saftiger Körper” und auf der anderen",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist Direktor eines Gymnasiums. Wegen eines Zwischenfalls musst du eine Jogginghose aus dem Fundbüro anziehen. Du hast die Wahl zwischen zwei Hosen, auf denen steht: “Saftiger Körper” oder “<BLANK>”.\r\nWelche Jogginghose trägst du beim Verlassen des Gebäudes?",
+      "s": "Du bist Schulleiter eines Gymnasiums. Wegen eines \"Zwischenfalls\" musst du eine Jogginghose aus dem Fundbüro anziehen. Du hast die Wahl zwischen zwei Hosen, auf der einen steht: “Saftiger Körper” und auf der anderen “<BLANK>”.\r\nWelche Jogginghose trägst du beim Verlassen des Gebäudes?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

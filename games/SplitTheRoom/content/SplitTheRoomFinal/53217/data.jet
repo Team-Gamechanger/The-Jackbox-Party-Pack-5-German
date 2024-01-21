@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "hellblauer Haut | blasenreicher Haut | Beine, die wortwörtlich wie Stöcke aussehen | Spaghetti-Haaren | Ziegenhörner",
+      "v": "hellblauer Haut | pickeliger Haut | Beine, die wortwörtlich wie Stöcke aussehen | Spaghetti-Haaren | Ziegenhörner",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn du in den Spiegel schaust, siehst du dich verzerrt, entweder mit einem dicken Pelz im Gesicht oder",
+      "v": "Wenn du jedoch in den Spiegel schaust, siehst du dich verzerrt, entweder mit einem dicken Pelz im Gesicht oder mit",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du siehst besser aus als je zuvor... für alle anderen. Wenn du in den Spiegel schaust, siehst du dich verzerrt, entweder mit einem dicken Pelz im Gesicht oder <BLANK>.\r\nWelches Selbstbild wählst du?",
+      "s": "Du siehst besser aus als je zuvor... für alle anderen. Wenn du jedoch in den Spiegel schaust, siehst du dich verzerrt, entweder mit einem dicken Pelz im Gesicht oder mit <BLANK>.\r\nWelches Selbstbild wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

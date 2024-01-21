@@ -174,7 +174,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Ein Milliardär, der für die Wahl zum Oberbürgermeister kandidiert, macht ein dreistes Wahlversprechen. Er wird alle deine Steuern bezahlen, wenn du das Recht auf/zu <BLANK> aufgibst.",
+      "scenarioText": "Ein Milliardär, der für die Wahl zum Oberbürgermeister kandidiert, macht ein dreistes Wahlversprechen. Er wird alle deine Steuern bezahlen, wenn du das Recht auf/zu <BLANK> abgibst.",
       "decoys": "Haustiere | den Zugang zu einer öffentlichen Toilette | wählen | Schuhe zu tragen | fahren",
       "x": false,
       "id": 50349,
@@ -201,7 +201,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du hast ein Kind, das völlig ausser Kontrolle ist. Du hast bereits alles versucht, aber ohne Erfolg. Die einzige Option, die dir bleibt, ist eine radikale Erziehungsmethode: Bestrafung durch <BLANK>. Es besteht eine 25%-ige Erfolgschance.",
+      "scenarioText": "Du hast ein Kind, das völlig außer Kontrolle ist. Du hast bereits alles versucht, aber ohne Erfolg. Die einzige Option, die dir bleibt, ist eine radikale Erziehungsmethode: Bestrafung durch <BLANK>. Es besteht eine 25%-ige Erfolgschance.",
       "decoys": "Nacktheit | Pfefferspray | Blamierung in der Öffentlichkeit | einen Comedy-Roast | einen Kojoten",
       "x": false,
       "id": 50389,
@@ -454,7 +454,7 @@
     {
       "answerText": "",
       "scenarioText": "Du wirst gleich eine kleine Herzoperation durchlaufen. Während du in den Operationssaal gebrachst wirst, merkst du, dass dein Chirurg <BLANK>. Unglücklicherweise ist es der einzige Arzt, den deine Krankenkasse übernimmt.",
-      "decoys": "Tiere quält | E-Zigarette raucht | mit deinem Partner rummacht | ein Buch mit dem Titel “Wie man operiert” liest | eine Kettensäge vorbereitet",
+      "decoys": "Tiere quält | E-Zigarette raucht | mit deinem Partner rummacht | Das Buch “Wie man operiert” liest | eine Kettensäge vorbereitet",
       "x": false,
       "id": 50660,
       "category": "Doktorspiele",
@@ -517,7 +517,7 @@
     {
       "answerText": "",
       "scenarioText": "Du bist das Opfer einer Erpressungsschadsoftware. Das Einzige, was sich auf deinem Computer befindet, ist ein Ordner mit <BLANK>. Das Programm fordert 500 Euro.",
-      "decoys": "deinem Drehbuch | Familienfotos | deinem Lebenslauf | deinen Passwörtern | Hausaufgaben, die du Jahre lang gesammelt hast",
+      "decoys": "deinem Drehbuch | Familienfotos | deinem Lebenslauf | deinen Passwörtern | deinem Abschlusszeugnis",
       "x": false,
       "id": 50787,
       "category": "Hack-City",
@@ -562,7 +562,7 @@
     {
       "answerText": "",
       "scenarioText": "Immer, wenn du etwas Peinliches in der Öffentlichkeit machst, wirst du die Macht haben, diesen Moment aus den Köpfen der Menschen zu löschen. Diese Erinnerung wird allerdings durch <BLANK> ersetzt. Deine Hose ist dir am Flughafen runtergerutscht.",
-      "decoys": "deren grösste Angst | Smash Mouth Lieder | einen Moment in dem sie versagt haben | radiostatische Signale | einen Moment in denen sie sich schämen mussten",
+      "decoys": "deren grösste Angst | Smash Mouth Lieder | Morse-Code | radiostatische Signale | einem peinlichen Moment",
       "x": false,
       "id": 50849,
       "category": "Gedächnisschalter",
@@ -769,7 +769,7 @@
     {
       "answerText": "",
       "scenarioText": "Du hältst eine Ansprache auf der Hochzeit deiner Schwester. Du erzählst hundert wunderbare Dinge über sie, doch als es um ihren Mann geht, kommt dir nicht das geringste in den Sinn. Das Einzige, woran du dich erinnerst, ist, dass er <BLANK>.",
-      "decoys": "Käse mag | mich mit seinem Auto versehentlich angefahren hat | Angst vor Kindern hat | sich mit dir verabredet hatte | an Bigfoot glaubt",
+      "decoys": "Käse mag | mich mit seinem Auto angefahren hat | Angst vor Kindern hat | sich mit dir verabredet hatte | an Bigfoot glaubt",
       "x": false,
       "id": 51024,
       "category": "Das verwirrte Paar",
@@ -850,7 +850,7 @@
     {
       "answerText": "",
       "scenarioText": "Hacker haben einen Phising-Betrug entwickelt, der so ausgeklügelt ist, dass er durch das blosse Öffnen der E-Mail <BLANK> bewirkt. Du hast soeben eine Nachricht von deiner Mutter, mit der Betreffzeile “Hilfe!”, erhalten. Sie geht nicht an’s Telefon.",
-      "decoys": "ein schmerzhaftes Ersticken an schwarzer Lackritze | ein ununterbrochenes Schreien | schweres stürzen | singen in der Öffentlichkeit | das Zerbrechen von Geschirr",
+      "decoys": "Ersticken an schwarzer Lackritze | ein ununterbrochenes Schreien | schweres stürzen | singen in der Öffentlichkeit | das Zerbrechen von Geschirr",
       "x": true,
       "id": 51120,
       "category": "Deine Mutter",
@@ -913,7 +913,7 @@
     {
       "answerText": "",
       "scenarioText": "Es gibt eine neue Musik-App, die dir Zugriff auf alle je gemachten Aufnahmen gibt. Um einen Account anzulegen, musst du eine Aufzeichnung von dir <BLANK> uploaden. Es wird mit deinem Namen getagged und mit jedem User geteilt.",
-      "decoys": "beim Sex | beim Kacken | mit dem Satz “Ich bin ein rotznäsiger kleiner Elfenjunge” | beim Weinen | bei der du deine Telefonnummer weitergibst",
+      "decoys": "beim Sex | beim Kacken | mit dem Satz “Ich bin ein rotznäsiger Elf” | beim Weinen | bei der du deine Nnummer weitergibst",
       "x": false,
       "id": 51147,
       "category": "Weltenstream",
@@ -1111,7 +1111,7 @@
     {
       "answerText": "",
       "scenarioText": "Du bist Verdächtiger in einem Raubfall, aber hast ein gültiges und peinliches Alibi. Zur Tatzeit warst/wurdest du <BLANK>.",
-      "decoys": "im Bett weinen | verhauen | in der Warteschlange, um Zayn von One Direction zu sehen | einen Karton Eis essen | von einer Gans angegriffen",
+      "decoys": "im Bett weinen | verhauen | in der Schlange vom One Direction Konzert | einen Karton Eis essen | von einer Gans angegriffen",
       "x": false,
       "id": 51367,
       "category": "Das Alibi",
@@ -1246,7 +1246,7 @@
     {
       "answerText": "",
       "scenarioText": "Das Kind, dass du in den letzten drei Jahren unterrichtet hast, schliesst das College mit Auszeichnung ab. Mit Tränen in den Augen bittet es dich der Zeremonie beizuwohnen. Bedauerlicherweise musst du immer, wenn du ein Lufthorn hörst, ungewollt <BLANK>.",
-      "decoys": "schreien: “Es ist nicht vorbei, bis ich es sage!” | schluchzen | bei jedem Taktschlag furzen | eine Person ohrfeigen | einen 20 Euro Schein essen",
+      "decoys": "schreien: “Ich beende den Unterricht!” | schluchzen | bei jedem Taktschlag furzen | eine Person ohrfeigen | einen 20 Euro Schein essen",
       "x": false,
       "id": 51584,
       "category": "Beglückwünschungen",
@@ -1381,7 +1381,7 @@
     {
       "answerText": "",
       "scenarioText": "Du hast den Geburtstag deiner Mutter vergessen. Also bestellst du ein Geschenk bei einem neuen Service namens Flambazon, welches noch am selben Tag geliefert wird. Doch jedes Paket enthält einen 30-tägigen Verlauf deiner letzten Bestellungen, somit bemerkt deine Mutter, dass du <BLANK> in grossen Mengen bestellt hast.",
-      "decoys": "winzige Gleitgel-Tuben | ein Buch mit dem Titel “Wie man Freunde findet” | ein Seitenschläferkissen in Form einer Frau | Speck-Socken | Cosplay-Perücken",
+      "decoys": "winzige Gleitgel-Tuben | das Buch “Wie man Freunde findet” | Anime Bodypillows | Speck-Socken | Cosplay-Perücken",
       "x": false,
       "id": 51723,
       "category": "Meine Bestellungen",
@@ -1579,7 +1579,7 @@
     {
       "answerText": "",
       "scenarioText": "Dein imaginärer Freund aus der Kindheit materialisiert sich plötzlich zu <BLANK>. Er folgt dir überall hin. Der einzige Weg es loszuwerden, ist es zu töten. Du bist auf dem Weg zur Arbeit.",
-      "decoys": "einer Toilette | einem entstellten Dinosaurier | einem Autoverkäufer | einem Vampir | einem Papagei, der auf deiner Schulter Platz nimmt",
+      "decoys": "einer Toilette | einem entstellten Dinosaurier | einem Autoverkäufer | einem Vampir | einem Papagei auf deiner Schulter",
       "x": false,
       "id": 51954,
       "category": "Wahre Freunde",
@@ -1723,7 +1723,7 @@
     {
       "answerText": "",
       "scenarioText": "Du schläfst versehentlich 100 Jahre lang. Als du aufwachst, stellst du fest, dass die Gesellschaft sich völlig verändert hat. Anstelle des Staatsystems, reagiert/regieren nun <BLANK>.",
-      "decoys": "Fast-Food-Maskottchen | Welpen, die nach Zufallsprinzip Gesetze auswählen | ein Rat weiser Baseball-Spieler | Late-Night-Fernsehmoderatoren | Filmkritiker",
+      "decoys": "Fast-Food-Maskottchen | Welpen, die zufällig Gesetze auswählen | ein Rat weiser Baseball-Spieler | Late-Night-Fernsehmoderatoren | Filmkritiker",
       "x": false,
       "id": 52193,
       "category": "Die neue herrschende Klasse",
@@ -1750,7 +1750,7 @@
     {
       "answerText": "",
       "scenarioText": "Du und deiner bester Freund werden von einem primitiven Stamm gefangen genommen, und von diesen zum Zweikampf gezwungen. Ihr werdet euch mit Holzkeulen bekämpfen. Der Verlierer wird mit <BLANK> bestraft.",
-      "decoys": "10 Peitschenhieben | drei Schokoladenkuchen, die er auf einmal essen muss, | Kopf rasieren | einer Woche hungern | 500 Klimmzügen",
+      "decoys": "10 Peitschenhieben | drei Schokokuchen, die er essen muss, | Kopf rasieren | einer Woche hungern | 500 Klimmzügen",
       "x": false,
       "id": 52198,
       "category": "Zweikampf",
@@ -1930,7 +1930,7 @@
     {
       "answerText": "",
       "scenarioText": "Dein/e Freund/in fasst deine Hand und hängt an einer kleinen Klippe. Er/Sie schaut dir in die Augen und sagt “<BLANK>.” Die Klippe ist neun Meter hoch.",
-      "decoys": "Ich hab mit deinem/deiner Verlobten geschlafen | Ich finde, du bist hässlich | Lass mich los | Ich kann fliegen | Ich wünschte, ich hätte dich nie getroffen",
+      "decoys": "Ich hab mit deinem Verlobten geschlafen | Ich finde, du bist hässlich | Lass mich los | Ich kann fliegen | Ich wünschte, ich hätte dich nie getroffen",
       "x": false,
       "id": 52551,
       "category": "Lass mich nicht los",
@@ -2002,7 +2002,7 @@
     {
       "answerText": "",
       "scenarioText": "Du wurdest in eine wohlhabende Familie hineingeboren. Dein Erbe ermöglicht dir, dass du dein Leben lang nicht arbeiten musst. Doch dein irrationaler Vater droht dich aus dem Testament zu streichen, wenn du nicht <BLANK> aufgibst.",
-      "decoys": "Kohlenhydrate, Milcherzeugnisse und Alkohol | deinen wunderschönen Ehemann, Sterling K. Brown | das Küssen | öffentliche Verkehrsmittel | deine Freunde aus der Kindheit",
+      "decoys": "Kohlenhydrate, Milch und Alkohol | deinen Ehemann, Dieter Bohlen | das Küssen | öffentliche Verkehrsmittel | deine Freunde aus der Kindheit",
       "x": false,
       "id": 52658,
       "category": "Vermögen um jeden Preis",

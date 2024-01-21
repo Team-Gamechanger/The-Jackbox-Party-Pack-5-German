@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "quietscht | mit toten Fliegen übersät | ist mit einer Notiz behängt, auf der “Ich komme wieder” steht| uneben | hat Brandflecken",
+      "v": "quietscht | mit toten Fliegen übersät | riecht nach Käse | uneben | hat Brandflecken",
       "n": "Decoys"
     },
     {
@@ -81,7 +81,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Motelbett",
+      "s": "Das schäbige Motel",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ja, gibt ja kein Schwarzlicht hier.",
+      "s": "Leider oder eher glücklicherweise hast du kein Schwarzlicht dabei.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

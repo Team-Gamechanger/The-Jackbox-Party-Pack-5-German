@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Die begehrtesten Plätze sind vergeben, aber du kannst wählen: Zwischenruf beim Mathelehrer oder",
+      "v": "Die begehrtesten Stellen sind schon vergeben, aber du hast noch zwei Optionen: Zwischenruf beim Mathelehrer oder",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du lebst in einer Gesellschaft, in der Zwischenrufe Pflicht sind. Die begehrtesten Plätze sind vergeben, aber du kannst wählen: Zwischenruf beim Mathelehrer oder <BLANK>.\r\nAn wen verteilst du Zwischenrufe?",
+      "s": "Du lebst in einer Gesellschaft, in der Zwischenrufe Pflicht sind. Die begehrtesten Stellen sind schon vergeben, aber du hast noch zwei Optionen: Zwischenruf beim Mathelehrer oder <BLANK>.\r\nAn wen verteilst du Zwischenrufe?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

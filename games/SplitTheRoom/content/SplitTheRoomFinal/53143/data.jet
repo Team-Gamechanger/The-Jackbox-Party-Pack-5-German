@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "an einen wilden Löwen verfüttern | auf einem Spielplatz liegen lassen | in das Weltall schiessen | in Zement beimischen | in den Gefrierschrank schieben",
+      "v": "an einen Löwen verfüttern | auf einem Spielplatz liegen lassen | ins Weltall schiessen |  Zement beizumischen | in den Gefrierschrank schieben",
       "n": "Decoys"
     },
     {
@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Grosspapa hatte echt seine Macken.",
+      "s": "Opa hatte echt seine Macken.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

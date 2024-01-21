@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Welchen Sitznachbar wirst du los?",
+      "v": "Welchen Sitznachbarn wirst du los?",
       "n": "QuestionText"
     },
     {
@@ -27,12 +27,12 @@
     },
     {
       "t": "S",
-      "v": "ein Kerl, der Countrymusik spielt | ein weinendes Baby | ein Reptilienmensch | ein kläffender Chihuahua | dein ehemals bester Freund",
+      "v": "ein Kerl, der Schlagermusik spielt | ein weinendes Baby | ein Reptilienmensch | ein kläffender Chihuahua | dein ehemals bester Freund",
       "n": "Decoys"
     },
     {
       "t": "S",
-      "v": "ALL_NO",
+      "v": "ALL_YES",
       "n": "Keywords"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du sitzt in der Mittelreihe des Flugzeugs. Zu deiner Linken isst jemand Thunfischsalat aus einem Strumpf, zu deiner Rechten <BLANK>. Du kannst eine Person verschwinden lassen.\r\nWelchen Sitznachbar wirst du los?",
+      "s": "Du sitzt in der Mittelreihe des Flugzeugs. Zu deiner Linken isst jemand Thunfischsalat aus einem Strumpf, zu deiner Rechten <BLANK>. Du kannst eine Person verschwinden lassen.\r\nWelchen Sitznachbarn wirst du los?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ändert es was wenn ich sage der Strumpf wurde letztes Jahr zuletzt gewaschen?",
+      "s": "Ändert es was, wenn ich sage, dass der Strumpf zuletzt vor zwei Jahren gewaschsen wurde?",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

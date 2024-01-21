@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Völkermord Doku",
+      "v": "Völkermord-Doku",
       "n": "Answer"
     },
     {
@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Niemand von euch bekommt ein zweites Date.",
+      "s": "Ihr solltet alle nicht mit einem zweiten Date rechnen.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

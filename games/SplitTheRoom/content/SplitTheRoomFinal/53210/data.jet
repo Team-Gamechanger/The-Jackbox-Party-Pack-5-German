@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Judi Dench | Steve Buscemi | Carrot Top | dem Vizepräsidenten | einer Anime Figur",
+      "v": "Judi Dench | Günther Jauch | Carrot Top |dem Vizekanzler| einer Anime-Figur",
       "n": "Decoys"
     },
     {
@@ -81,7 +81,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Hat seine Nase",
+      "s": "Wie der Vater?",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ich will nicht wissen woher er das Gesicht hat.",
+      "s": "Fragen wir lieber nicht, woher er das Gesicht hat, ja?",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

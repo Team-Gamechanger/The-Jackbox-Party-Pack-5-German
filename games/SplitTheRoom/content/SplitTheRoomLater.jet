@@ -67,7 +67,7 @@
     {
       "answerText": "",
       "scenarioText": "Du bist dabei, einen gnadenlosen Diktator zu treffen. Es wird von dir erwartet, dass du seine Füße küsst. Solltest du ablehnen, musst du zur Strafe <BLANK>. Deine öffentliche Ablehnung könnte eine Revolution auslösen.",
-      "decoys": "einen Monat lang in der Öffentlichkeit einen Schlafanzug tragen | mit dem Anführer Schuhe shoppen | deinen eigenen Urin trinken | einen Haustier-Alligator adoptieren | nie wieder Unterwäsche tragen",
+      "decoys": "einen Monat lang einen Schlafanzug tragen | mit dem Anführer Schuhe shoppen | deinen eigenen Urin trinken | einen Haustier-Alligator adoptieren | nie wieder Unterwäsche tragen",
       "x": false,
       "id": 50667,
       "category": "Zweifelhafte Autorität",
@@ -129,7 +129,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "#REF!",
+      "scenarioText": "Jede Aussage, die du in den sozialen Medien teilst, wird wahr werden, wenn sie 5.000 Likes erhält. Als Witz schreibst du: “<BLANK>” ...doch dann wird es von einem YouTube-Promi geteilt.",
       "decoys": "Ich bin ab sofort Veganer | Die Erde ist flach | Echsenmenschen existieren | Ich kündige meinen Job | Zeit, mit Joggen zu beginnen",
       "x": false,
       "id": 51139,
@@ -174,7 +174,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "#REF!",
+      "scenarioText": "Wenn du <BLANK> von dir abschneidest, kannst du das Körperteil für 5.000 Euro verkaufen. Es wird nach 30 Tagen wieder nachwachsen. Du hast Schulden und könntest dein Haus verlieren.",
       "decoys": "Arsch | Ellbogen | Beinhaut | Kniescheiben | linkes Nasenloch",
       "x": false,
       "id": 51658,
@@ -201,7 +201,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "#REF!",
+      "scenarioText": "Deine Indie-Band hat gerade eine große Tour durch den Südwesten gebucht. Doch leider immer, wenn du einen Kaktus siehst, <BLANK>. Diese Tour könnte dir viele Möglichkeiten eröffnen.",
       "decoys": "alterst du 2 Monate | übergibst du dich | musst du ein dunkles Geheimnis teilen | musst du ihn berühren | musst du mit offenem Mund sabbern",
       "x": false,
       "id": 51693,
@@ -210,7 +210,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "#REF!",
+      "scenarioText": "Immer, wenn eine Münze auf Kopf landet, <BLANK>. Du hast gerade den ersten Platz bei einem Kinder-Wohltätigkeitsrennen belegt. Der Hauptpreis ist kostenlose Pizza für ein Jahr. Der Gewinner wird durch einen Münzwurf bekannt gegeben.",
       "decoys": "weist du auf hässliche Kinder hin | wirst du ohnmächtig | stiehlst du Süssigkeiten | wirfst du den nächstgelegenen Tisch um | bekommst du einen Niesanfall",
       "x": false,
       "id": 51695,
@@ -246,8 +246,8 @@
     },
     {
       "answerText": "",
-      "scenarioText": "#REF!",
-      "decoys": "ihre Kleidung fällt ihr ab | wird von einem Eichhörnchen angegriffen | hat eine schreckliche allergische Reaktion auf das Essen | stösst auf ihren Ex | spuckt versehentlich auf ihr Date",
+      "scenarioText": "Dein aktuelles Videospiel beinhaltet eine Familie, die deiner eigenen unheimlich ähnlich ist. Eines Nachts geht deine digitale “Schwester” auf ein Date und <BLANK>. In der Nacht darauf verlässt deine echte Schwester das Haus für ein Date, mit dem exakt gleichen Outfit.",
+      "decoys": "ihre Kleidung fällt ihr ab | wird von einem Eichhörnchen angegriffen | hat eine allergische Reaktion auf das Essen | stösst auf ihren Ex | spuckt versehentlich auf ihr Date",
       "x": false,
       "id": 51962,
       "category": "Ein virtuelles Desaster",
@@ -273,7 +273,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "#REF!",
+      "scenarioText": "Du bist ein routinierter Möbelpacker und befindest dich im Wohnzimmer eines Kunden. Dabei geht versehentlich <BLANK> kaputt. Auch, wenn der Kunde nicht anwesend ist, sein Hündchen ist es.",
       "decoys": "eine Keramik-Clownmaske | eine Büste des Kindes | eine teure Flasche Wein | ein Globus | ein Klavier",
       "x": false,
       "id": 52003,
@@ -319,7 +319,7 @@
     {
       "answerText": "",
       "scenarioText": "Du hast schon immer Gerüchte über die böse Hexe im Wald gehört. Du nimmst all deinen Mut zusammen und willst die Wahrheit herausfinden. Schon nach wenigen Metern im Wald entdeckst du <BLANK>.",
-      "decoys": "eine Schaufensterpuppe, die irgendwie wie du aussieht | ein totes Eichhörnchen von einem Baum runterhängend | ein “Nein”, geschrieben mit Donuts | bewegende Schatten | Augen in den Bäumen",
+      "decoys": "eine Schaufensterpuppe, die wie du aussieht | ein totes Eichhörnchen von einem Baum hängend | ein “Nein”, geschrieben mit Donuts | bewegende Schatten | Augen in den Bäumen",
       "x": false,
       "id": 52252,
       "category": "Hexen-Plätze",
@@ -364,7 +364,7 @@
     {
       "answerText": "",
       "scenarioText": "Ein neues Café in deiner Stadt bietet seinen Gästen die Möglichkeit, einen Code zu senden, der jeden, der sich im Café befindet, an einen zufälligen Ort teleportiert. Du bemerkst einen jungen Mann, der das Café betritt und dabei <BLANK>.",
-      "decoys": "laut ins Telefon redet | weint | schmatzend Kaugummi kaut | Live-Vlogging betreibt | laut “Tokio Hotel” hört, während er seine Kopfhörer im Ohr hat",
+      "decoys": "laut ins Telefon redet | weint | schmatzend Kaugummi kaut | Live-Vlogging betreibt | laut “Tokio Hotel” mit Kopfhörern hört",
       "x": false,
       "id": 52714,
       "category": "Rauschunterdrückende Smartphones",

@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Gegen wen bekämpfst du?",
+      "v": "Gegen wen kämpfst du?",
       "n": "QuestionText"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Dein Gegner ist entweder ein Pro-Wester in Handschellen oder",
+      "v": "Dein Gegner ist entweder ein Pro-Wrestler in Handschellen oder",
       "n": "ScenarioText2"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "In die Arena",
+      "s": "Kämpf dich durch",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wirst zu einem Gladiatorenkampf gezwungen. Dein Gegner ist entweder ein Pro-Wester in Handschellen oder <BLANK>. Deine einzige Waffe ist eine Keule.\r\nGegen wen bekämpfst du?",
+      "s": "Du wirst zu einem Gladiatorenkampf gezwungen. Dein Gegner ist entweder ein Pro-Wrestler in Handschellen oder <BLANK>. Deine einzige Waffe ist eine Keule.\r\nGegen wen kämpfst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Egal was ihr wählt, der Daumen geht immer nach unten.",
+      "s": "Egal, wie ihr euch entscheidet, am Ende geht der Daumen immer nach unten.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

@@ -17,17 +17,17 @@
     },
     {
       "t": "S",
-      "v": "Was trägst du in der Bibliothek, um für die Abschlussprüfungen zu lernen?",
+      "v": "Was trägst du in der Bibliothek, um für deine Abschlussprüfungen zu lernen?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "60 Zentimeter Zylinder",
+      "v": "60-Zentimeter-Zylinder",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "eine Kuscheltier-Halskette | ein Mu’umu’u | einen Tarnfarben-Jogginganzug | eine Kuhglocke | einen Dinosaurier Strampler",
+      "v": "eine Kuscheltier-Halskette | Einen Dildo | einen Tarnfarben-Jogginganzug | eine Kuhglocke | einen Dinosaurier Strampler",
       "n": "Decoys"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Lese-Totem",
+      "s": "Der Leser",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast die Fähigkeit, unmenschlich schnell zu lesen... aber nur, wenn du entweder einen 60 cm hohen silbernen Zylinder oder <BLANK> trägst.\r\nWas trägst du in der Bibliothek, um für die Abschlussprüfungen zu lernen?",
+      "s": "Du hast die Fähigkeit, unmenschlich schnell zu lesen... aber nur, wenn du entweder einen 60 cm hohen silbernen Zylinder oder <BLANK> trägst.\r\nWas trägst du in der Bibliothek, um für deine Abschlussprüfungen zu lernen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

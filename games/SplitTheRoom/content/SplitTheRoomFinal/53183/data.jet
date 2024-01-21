@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Welchen Markenprodukt-Sponsor holst du dir für deine Show?",
+      "v": "Welche Marke holst du als Sponsor für deine Show?",
       "n": "QuestionText"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Um deine Show am Laufen zu halten, musst du einen zahlenden Sponsor finden.",
+      "v": "Um deine Show am Laufen zu halten, musst du einen zahlungskräftigen Sponsor finden.",
       "n": "ScenarioText2"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Desaster-Sponsor",
+      "s": "Geld regiert die Welt",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein leidenschaftlicher Talkshow-Moderator. Um deine Show am Laufen zu halten, musst du einen zahlenden Sponsor finden. Du kannst zwischen zwei Produktmarken wählen: Hämorrhoidencreme oder <BLANK>.\r\nWelchen Markenprodukt-Sponsor holst du dir für deine Show?",
+      "s": "Du bist ein leidenschaftlicher Talkshow-Moderator. Um deine Show am Laufen zu halten, musst du einen zahlungskräftigen Sponsor finden. Du kannst zwischen zwei Produktmarken wählen: Hämorrhoidencreme oder <BLANK>.\r\nWelche Marke holst du als Sponsor für deine Show?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

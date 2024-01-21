@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Slush Eis-Einlauf",
+      "v": "Slush-Eis-Einlauf",
       "n": "Answer"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Seit Wochen hast du Schluckauf. Alle Hausmittel haben nicht geholfen.",
+      "v": "Seit Wochen hast du Schluckauf. Alle Hausmittel versprechen keine Heilung.",
       "n": "ScenarioText1"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Seit Wochen hast du Schluckauf. Alle Hausmittel haben nicht geholfen. Schließlich empfiehlt ein Schluckaufspezialist zwei Möglichkeiten: einen Einlauf mit Slush-Eis oder <BLANK>.\r\nWelche Schluckaufkur versuchst du zuerst?",
+      "s": "Seit Wochen hast du Schluckauf. Alle Hausmittel versprechen keine Heilung. Schließlich empfiehlt ein Schluckaufspezialist zwei Möglichkeiten: einen Einlauf mit Slush-Eis oder <BLANK>.\r\nWelche Schluckaufkur versuchst du zuerst?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Sorry, funktioniert beides nicht. Ups.",
+      "s": "Ups, funktioniert beides nicht, Tschuldigung.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

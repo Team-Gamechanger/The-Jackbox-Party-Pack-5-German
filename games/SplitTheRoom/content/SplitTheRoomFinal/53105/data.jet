@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Handy-Verkäufer",
+      "v": "Versicherungsvertreter",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "Katzen | kraftstoffsparende Autos | Amische | Foodtrucks | Videospiel-Streamer",
+      "v": "Katzen | kraftstoffsparende Autos | Amis| Foodtrucks | Videospiel-Streamer",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Als leitender Wissenschaftler kannst du sie dazu bringen, nur bestimmte(n) anzugreifen: Handy-Verkäufer oder",
+      "v": "Als leitender Wissenschaftler hast du die Möglichkeit zu bestimmen, wen sie angreifen sollen: Versicherungsvertreter oder",
       "n": "ScenarioText2"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Der Hunger",
+      "s": "Echte Leckerbissen",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "In deinem Labor wurde eine neue Zombieart gezüchtet. Als leitender Wissenschaftler kannst du sie dazu bringen, nur bestimmte(n) anzugreifen: Handy-Verkäufer oder <BLANK>.\r\nWorauf hetzt du die Zombies?",
+      "s": "In deinem Labor wurde eine neue Zombieart gezüchtet. Als leitender Wissenschaftler hast du die Möglichkeit zu bestimmen, wen sie angreifen sollen: Versicherungsvertreter oder <BLANK>.\r\nWorauf hetzt du die Zombies?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Einfach sicherstellen das sie während des Mittagessens angegriffen werden.",
+      "s": "Die sind sicherlich gegen sowas versichert.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

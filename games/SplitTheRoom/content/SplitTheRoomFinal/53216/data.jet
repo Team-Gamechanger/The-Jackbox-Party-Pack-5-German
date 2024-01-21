@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "monotone Sprache",
+      "v": "weinerliches Weichei",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "vermischt ihr gesamtes Essen | schaut täglich “Mamma Mia” | hat sieben Kinder | bewegt sich nur mit dem Auto | trägt immer Hosenträger",
+      "v": "Ist 40 und lebt noch bei Mutti | schaut täglich “Auf Streife” | hat sieben Kinder | bewegt sich nur mit dem Auto | trägt immer Hosenträger",
       "n": "Decoys"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Sie sind beide nett, aber der eine Kandidat spricht nur in einem monotonen Ton und der andere Kandidat",
+      "v": "Sie sind beide sehr nett, der eine Kandidat ist nur leider ein weinerliches Weichei und der andere Kandidat",
       "n": "ScenarioText3"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Reality-Verlobung",
+      "s": "Die Mär der Datingshows",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du nimmst an einer romantischen Reality-Show teil. Du sollst einen der beiden Finalisten heiraten. Sie sind beide nett, aber der eine Kandidat spricht nur in einem monotonen Ton und der andere Kandidat <BLANK>.\r\nWelchen Kandidaten heiratest du?",
+      "s": "Du nimmst an einer romantischen Reality-Show teil. Du sollst einen der beiden Finalisten heiraten. Sie sind beide sehr nett, der eine Kandidat ist nur leider ein weinerliches Weichei und der andere Kandidat <BLANK>.\r\nWelchen Kandidaten heiratest du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ich glaube das habt ihr euch nicht lang genug überlegt.",
+      "s": "Seid ihr euch wirklich sicher?",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du hast ein Kind, das völlig ausser Kontrolle ist. Du hast bereits alles versucht, aber ohne Erfolg.",
+      "v": "Du hast ein Kind, das völlig außer Kontrolle ist. Du hast bereits alles versucht, aber ohne Erfolg.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.71",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.07",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.05",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.89",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast ein Kind, das völlig ausser Kontrolle ist. Du hast bereits alles versucht, aber ohne Erfolg. Die einzige Option, die dir bleibt, ist eine radikale Erziehungsmethode: Bestrafung durch <BLANK>. Es besteht eine 25%-ige Erfolgschance.\r\nMachst du es?",
+      "s": "Du hast ein Kind, das völlig außer Kontrolle ist. Du hast bereits alles versucht, aber ohne Erfolg. Die einzige Option, die dir bleibt, ist eine radikale Erziehungsmethode: Bestrafung durch <BLANK>. Es besteht eine 25%-ige Erfolgschance.\r\nMachst du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

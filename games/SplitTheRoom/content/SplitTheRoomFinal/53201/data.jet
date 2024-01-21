@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "ein Loch im Boden, als Toilette | eine Flughafenpiste nebenan | keine Fenster | einen Teppichboden in der Küche | türlose Badezimmer",
+      "v": "ein Loch im Boden, als Toilette | ein Flughafen nebenan | keine Fenster | einen Teppichboden in der Küche | türlose Badezimmer",
       "n": "Decoys"
     },
     {
@@ -81,7 +81,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Baufehler",
+      "s": "Pfusch am Bau",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ach ja, liegen beide in Hamburg. Kosten also beide 1,5 Millionen.",
+      "s": "Ach ja, liegen beide in München. Kosten also beide 1,5 Millionen.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"
