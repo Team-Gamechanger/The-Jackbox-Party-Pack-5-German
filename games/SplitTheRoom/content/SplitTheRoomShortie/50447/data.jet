@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Ein Fremder kommt dir auf der Strasse entgegen und offenbart, Bilder von dir beim",
+      "v": "Ein Fremder kommt dir auf der Straße entgegen und offenbart, Bilder von dir beim",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.91",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.54",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.41",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.50",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein Fremder kommt dir auf der Strasse entgegen und offenbart, Bilder von dir beim <BLANK> zu besitzen. Er wird sie herausgeben, wenn du ihm die Unterhose gibst, die du gerade trägst.\r\nMachst du es?",
+      "s": "Ein Fremder kommt dir auf der Straße entgegen und offenbart, Bilder von dir beim <BLANK> zu besitzen. Er wird sie herausgeben, wenn du ihm die Unterhose gibst, die du gerade trägst.\r\nMachst du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

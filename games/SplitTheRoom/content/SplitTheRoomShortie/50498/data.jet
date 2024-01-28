@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du bist ein um Anerkennung kämpfender Musiker, der endlich einen grossen Hit gelandet hat.",
+      "v": "Du bist ein um Anerkennung kämpfender Musiker, der endlich einen großen Hit gelandet hat.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.13",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.75",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.49",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.37",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein um Anerkennung kämpfender Musiker, der endlich einen grossen Hit gelandet hat. Doch eine Gruppe von Eltern ist wütend, weil rückwärts abgespielt “<BLANK>” aus den Lautsprechern schallt. Dies war jedoch nicht deine Absicht.\r\nÄnderst du dein Lied?",
+      "s": "Du bist ein um Anerkennung kämpfender Musiker, der endlich einen großen Hit gelandet hat. Doch eine Gruppe von Eltern ist wütend, weil rückwärts abgespielt “<BLANK>” aus den Lautsprechern schallt. Dies war jedoch nicht deine Absicht.\r\nÄnderst du dein Lied?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

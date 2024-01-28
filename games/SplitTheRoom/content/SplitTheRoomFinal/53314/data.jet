@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Welches eindeutige Merkmal trägst du?",
+      "v": "Was trägst du, um herauszustechen?",
       "n": "QuestionText"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "ein falschen Bart und Schnauzer | ein Tattoo auf der Stirn | ein “Macht Deutschland wieder stark” Cap | lange falsche Fingernägel | ein Skianzug",
+      "v": "ein falschen Bart und Schnauzer | ein Tattoo auf der Stirn | Einen Toilettensitz| lange falsche Fingernägel | ein Skianzug",
       "n": "Decoys"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Herausstechend",
+      "s": "Aus der Masse heraus",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du lebst in einer Welt, in der alle gleich aussehen. Deshalb brauchst du ein Unterscheidungsmerkmal, um in der Öffentlichkeit aufzufallen. Du hast die Wahl zwischen einem Paar knallgelber Clownschuhe oder <BLANK>.\r\nWelches eindeutige Merkmal trägst du?",
+      "s": "Du lebst in einer Welt, in der alle gleich aussehen. Deshalb brauchst du ein Unterscheidungsmerkmal, um in der Öffentlichkeit aufzufallen. Du hast die Wahl zwischen einem Paar knallgelber Clownschuhe oder <BLANK>.\r\nWas trägst du, um herauszustechen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

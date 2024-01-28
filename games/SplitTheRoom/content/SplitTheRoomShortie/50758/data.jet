@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du bist der Botschafter der Erde. Ein böser Kriegsherr, aus einer anderen Galaxie, hat dir ein Ultimatum gestellt:",
+      "v": "Du bist der Botschafter der Erde. Ein böser Kriegsherr aus einer anderen Galaxie hat dir ein Ultimatum gestellt:",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.00",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.16",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.19",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.08",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist der Botschafter der Erde. Ein böser Kriegsherr, aus einer anderen Galaxie, hat dir ein Ultimatum gestellt: Jeder Computer der Erde wird vernichtet, wenn du ihm nicht <BLANK> gibst.\r\nBefolgst du das Ultimatum?",
+      "s": "Du bist der Botschafter der Erde. Ein böser Kriegsherr aus einer anderen Galaxie hat dir ein Ultimatum gestellt: Jeder Computer der Erde wird vernichtet, wenn du ihm nicht <BLANK> gibst.\r\nBefolgst du das Ultimatum?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

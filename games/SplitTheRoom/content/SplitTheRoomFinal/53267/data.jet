@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Nikola Tesla | Cleopatra | Koko the Gorilla | Sacagawea | William Shakespeare",
+      "v": "Nikola Tesla | Cleopatra | Jesus | Kaiser Wilhelm II.| William Shakespeare",
       "n": "Decoys"
     },
     {
@@ -81,7 +81,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Historisches Date",
+      "s": "Historisches Rendezvous",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

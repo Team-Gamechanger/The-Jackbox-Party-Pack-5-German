@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Dir wird die Möglichkeiten geboten, nach nur vier Stunden Schlaf völlig ausgeruht zu sein.",
+      "v": "Dir wird die Möglichkeit geboten, nach nur vier Stunden Schlaf völlig ausgeruht zu sein.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.12",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.65",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.04",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.04",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Dir wird die Möglichkeiten geboten, nach nur vier Stunden Schlaf völlig ausgeruht zu sein. Doch damit es funktioniert, musst du einen ganzen Monat in <BLANK> schlafen.\r\nMachst du es?",
+      "s": "Dir wird die Möglichkeit geboten, nach nur vier Stunden Schlaf völlig ausgeruht zu sein. Doch damit es funktioniert, musst du einen ganzen Monat in <BLANK> schlafen.\r\nMachst du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du steckst ellenbogentief im Blasloch eines Wals und versuchst dein/e/n über Bord gegangene/n/es",
+      "v": "Du steckst ellenbogentief im Blasloch eines Wals und versuchst",
       "n": "ScenarioText1"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "wieder zu bekommen. Wenn du es schaffst, tiefer in den Wal einzusinken, besteht eine gute Chance, seinen Tod herbeizuführen.",
+      "v": "wieder zu bekommen, das über Bord gegangen ist. Wenn du es schaffst, tiefer in den Wal einzusinken, besteht eine gute Chance, seinen Tod herbeizuführen.",
       "n": "ScenarioText3"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+15.48",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.21",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.46",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.71",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du steckst ellenbogentief im Blasloch eines Wals und versuchst dein/e/n über Bord gegangene/n/es <BLANK> wieder zu bekommen. Wenn du es schaffst, tiefer in den Wal einzusinken, besteht eine gute Chance, seinen Tod herbeizuführen. Es liegt in deiner Hand.\r\nStürzt du dich tiefer rein?",
+      "s": "Du steckst ellenbogentief im Blasloch eines Wals und versuchst <BLANK> wieder zu bekommen, das über Bord gegangen ist. Wenn du es schaffst, tiefer in den Wal einzusinken, besteht eine gute Chance, seinen Tod herbeizuführen. Es liegt in deiner Hand.\r\nStürzt du dich tiefer rein?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

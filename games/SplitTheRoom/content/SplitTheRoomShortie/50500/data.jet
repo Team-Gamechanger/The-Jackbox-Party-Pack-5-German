@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Versuchst du sein Leben zu retten?",
+      "v": "Versuchst du, sein Leben zu retten?",
       "n": "QuestionText"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.63",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.89",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.43",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.20",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein Fahrgast im Bus benötigt eine Mund-zu-Mund-Beatmung, und du hast ein Herz-Lungen-Wiederbelebungstraining abgeschlossen. Allerdings hat diese Person <BLANK>, statt eines Mundes.\r\nVersuchst du sein Leben zu retten?",
+      "s": "Ein Fahrgast im Bus benötigt eine Mund-zu-Mund-Beatmung, und du hast ein Herz-Lungen-Wiederbelebungstraining abgeschlossen. Allerdings hat diese Person <BLANK>, statt eines Mundes.\r\nVersuchst du, sein Leben zu retten?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -970,12 +970,12 @@
       "decoys": "einen bereits sterbenden alten Mann | eine Waschbärfamilie | die Davidstatue | einen Velociraptor | ein Boot, das nun sinkt",
       "x": true,
       "id": 53263,
-      "category": "Auf zur Blutjagd",
+      "category": "Die Jagd beginnt",
       "questionText": "Wessen Blut hättest du lieber an deinen Händen?"
     },
     {
       "answerText": "Elvis Presley lebt noch",
-      "scenarioText": "Du bist Chef-Redakteur einer großen Zeitung. Deine beiden Star-Reporter reichen jeweils eine unglaubliche Geschichte ein. Du kannst deine gesamte Titelseite entweder dafür verwenden, dass Elvis Presley noch lebt oder <BLANK>.",
+      "scenarioText": "Du bist Chefredakteur einer großen Zeitung. Deine beiden Star-Reporter reichen jeweils eine unglaubliche Geschichte ein. Du kannst deine gesamte Titelseite entweder für die Schlagzeile verwenden, dass Elvis Presley noch lebt oder <BLANK>.",
       "decoys": "Russland in Kanada einmarschiert | Tupac noch lebt | Atlantis unter Miami gefunden wurde | ein neuer bewohnbarer Planet gefunden wurde | ein sprechender Hund gefunden wurde",
       "x": false,
       "id": 53266,
@@ -985,52 +985,52 @@
     {
       "answerText": "Ghandi",
       "scenarioText": "Du kannst mit einer berühmten Person aus der Geschichte essen gehen. ...aber sie wird denken, dass ihr auf einem Date seid. Du kannst zwischen Ghandi und <BLANK> wählen.",
-      "decoys": "Nikola Tesla | Cleopatra | Koko the Gorilla | Sacagawea | William Shakespeare",
+      "decoys": "Nikola Tesla | Cleopatra | Jesus | Kaiser Wilhelm II.| William Shakespeare",
       "x": false,
       "id": 53267,
-      "category": "Historisches Date",
+      "category": "Historisches Rendezvous",
       "questionText": "Mit wem hast du ein unangenehmes “Date”?"
     },
     {
-      "answerText": "perfekte Tastatur",
-      "scenarioText": "Du findest im Wald ein verlassenes außerirdisches Raumschiff. Es ist voller unglaublicher Technik. Du kannst nur eine Sache mitnehmen: eine Tastatur, die immer fehlerfreies Deutsch schreibt oder <BLANK>.",
+      "answerText": "Tastatur für perfektes Deutsch",
+      "scenarioText": "Du findest im Wald ein verlassenes außerirdisches Raumschiff. Es ist voller unglaublicher Technik.  Du kannst nur eine Sache mitnehmen: eine Tastatur, die immer fehlerfreies Deutsch schreibt oder <BLANK>.",
       "decoys": "einen Schrumpf-Strahl | einen Gedankenleser | einen Unsichtbarkeitskristall | einen Teleporter | Schwebeschuhe",
       "x": false,
       "id": 53268,
       "category": "Nicht von dieser Welt",
-      "questionText": "Welche ausserirdische Technologie nimmst du mit?"
+      "questionText": "Welche außerirdische Technologie nimmst du mit?"
     },
     {
       "answerText": "Eichhörnchentritt",
-      "scenarioText": "Du kandidierst für ein politisches Amt. Leider erpressen dich Erpresser mit zwei Bildern. Ein Bild, auf dem du ein Eichhörnchen trittst, und ein Bild, auf dem du <BLANK>. Du kannst nur die Veröffentlichung eines Bildes verhindern.",
-      "decoys": "als Pferd verkleidet bist | weinst | in Pudding eingebettet bist | Geld verbrennst | Kinder auslachst",
+      "scenarioText": "Du kandidierst für ein politisches Amt. Leider wirst du von Unbekannten mit zwei Bildern erpresst. Ein Bild, auf dem du ein Eichhörnchen trittst und ein Bild, auf dem du <BLANK>. Du kannst nur die Veröffentlichung eines Bildes verhindern.",
+      "decoys": "als Pferd verkleidet bist | Obdachlose bestiehlst | in Nutella badest | Geld verbrennst | Kinder auslachst",
       "x": false,
       "id": 53270,
       "category": "Erpressung",
       "questionText": "Welches Bild soll nicht an die Öffentlichkeit?"
     },
     {
-      "answerText": "Schüssel mit Pasta",
-      "scenarioText": "Der Gott des Überflusses garantiert dir einen unendlichen Vorrat an einem Gegenstand. Du kannst entweder unendlich viele Schüsseln Nudeln oder unendlich viel <BLANK> haben.",
-      "decoys": "Kleingeld| Staubmäusen | Sandwiches | Trockenfleisch | Waschmitteln",
+      "answerText": "Schüsseln mit Nudeln",
+      "scenarioText": "Der Gott des Überflusses garantiert dir einen unendlichen Vorrat von einem Gegenstand. Du kannst entweder unendlich viele Schüsseln Nudeln oder unendlich viel <BLANK> haben.",
+      "decoys": "Kleingeld| Staubflusen | Sandwiches | Dörrfleisch | Waschmittel",
       "x": false,
       "id": 53298,
-      "category": "Hülle und Fülle",
+      "category": "In Hülle und Fülle",
       "questionText": "Welchen unbegrenzten Vorrat nimmst du in Anspruch?"
     },
     {
-      "answerText": "It’s Raining Men",
-      "scenarioText": "Du wählst aus einer magischen Jukebox. Der Barkeeper warnt dich, dass die Liedtexte deine zukünftigen Lebensereignisse für die nächste Woche vorhersagen. Du kannst entweder \"It's Raining Men\" oder \"<BLANK>\" spielen.",
-      "decoys": "I Would Walk 500 Miles | Everybody Wants to Rule the World | Crazy in Love | Boulevard of Broken Dreams | Thrift Shop",
+      "answerText": "\"It’s Raining Men\"",
+      "scenarioText": "Du wählst aus einer magischen Jukebox. Der Barkeeper warnt dich, dass die Liedtexte deine kommenden Lebensereignisse für die nächste Woche vorhersagen. Du kannst entweder \"It’s Raining Men\" oder \"<BLANK>\" spielen.",
+      "decoys": "I Would Walk 500 Miles | 99 Luftballons | Skandal im Sperrbezirk | Männer sind Schweine | Ein Bett im Kornfeld",
       "x": false,
       "id": 53299,
       "category": "Zukunftsmusik",
       "questionText": "Welches prophetische Lied wählst du aus?"
     },
     {
-      "answerText": "“Ich unterbreche dich ungern, aber...”",
-      "scenarioText": "Mindestens einmal am Tag unterbricht dich dein Kollege und sagt: “Also eigentlich...”. Du kannst nicht verhindern, dass er dich unterbricht, aber du kannst seine Aussage ändern. Er kann entweder sagen: “Ich unterbreche dich ungern, aber...” oder “<BLANK>”.",
-      "decoys": "Ich bin ein grosser Idiot, und... | Aus einer dummen Perspektive... | Ich sollte gefeuert werden, aber... | Ich helfe nicht, aber... | Ich habe keine Quellen, und doch...",
+      "answerText": "“Ich unterbreche dich nur ungern, aber...”",
+      "scenarioText": "Mindestens einmal am Tag unterbricht dich dein Kollege und sagt: “Also eigentlich...”. Du kannst nicht verhindern, dass er dich unterbricht, aber du kannst seine Aussage ändern. Er kann entweder sagen: “Ich unterbreche dich nur ungern, aber...” oder “<BLANK>”.",
+      "decoys": "\"Ich bin ein grosser Idiot und...\" | \"Nenn mich dumm, aber...\" | \"Ich sollte gefeuert werden, aber...\" | \"Ich helfe zwar nicht, aber...\" | \"Ich habe keine Quellen, aber...\"",
       "x": false,
       "id": 53309,
       "category": "Äh, eigentlich…",
@@ -1039,34 +1039,34 @@
     {
       "answerText": "Delfine, die deinen Namen singen",
       "scenarioText": "Du fährst auf einem geheimnisvollen Fluss, der sich bald teilt. In der einen Richtung singen Delphine im Chor deinen Namen, in der anderen <BLANK>.",
-      "decoys": "eine Glitzerdschungel | eine alte Frau, die dir deinen Sinn des Lebens erklärt | ein Chor dicker Engel | ein einfacher Wasserfall | ein buntes Piratenschiff",
+      "decoys": "eine Glitzerdschungel | Leute, die mit dir über Gott reden | ein Chor dicker Engel | ein einfacher Wasserfall | ein buntes Piratenschiff",
       "x": false,
       "id": 53312,
-      "category": "Flussroute",
+      "category": "Es geht den Bach runter",
       "questionText": "Welche Route wählst du?"
     },
     {
       "answerText": "knallgelbe Clownschuhe",
       "scenarioText": "Du lebst in einer Welt, in der alle gleich aussehen. Deshalb brauchst du ein Unterscheidungsmerkmal, um in der Öffentlichkeit aufzufallen. Du hast die Wahl zwischen einem Paar knallgelber Clownschuhe oder <BLANK>.",
-      "decoys": "ein falschen Bart und Schnauzer | ein Tattoo auf der Stirn | ein “Macht Deutschland wieder stark” Cap | lange falsche Fingernägel | ein Skianzug",
+      "decoys": "ein falschen Bart und Schnauzer | ein Tattoo auf der Stirn | Einen Toilettensitz| lange falsche Fingernägel | ein Skianzug",
       "x": false,
       "id": 53314,
-      "category": "Herausstechend",
-      "questionText": "Welches eindeutige Merkmal trägst du?"
+      "category": "Aus der Masse heraus",
+      "questionText": "Was trägst du, um herauszustechen?"
     },
     {
       "answerText": "Batterien",
-      "scenarioText": "Du hast im Lotto gewonnen! Allerdings bekommst du deinen Gewinn nicht in Geldform. Du bekommst entweder Batterien oder <BLANK> im Wert von einer Million Euro.",
+      "scenarioText": "Glückwunsch, du hast im Lotto gewonnen! Allerdings bekommst du deinen Gewinn nicht in Geldform. Du erhälst entweder Batterien oder <BLANK> im Wert von einer Million Euro.",
       "decoys": "Schuhe | Pizza | Bücher | Geschirr | Katzenstreu",
       "x": false,
       "id": 53327,
-      "category": "Alternative Lotteriegewinne",
+      "category": "Wie gewonnen...",
       "questionText": "In welcher Form nimmst du den Gewinn an?"
     },
     {
-      "answerText": "von <OTHERPLAYER>",
+      "answerText": "<OTHERPLAYER>",
       "scenarioText": "Du hast ein Gerät entwickelt, mit dem Katzen wie Menschen sprechen können. Allerdings klingt ihre Stimme genau wie <OTHERPLAYER> oder <BLANK>.",
-      "decoys": "Ray Romano | Donald Trump | Spongebob Schwammkopf | Holly Hunter | James Earl Jones",
+      "decoys": "Til Schweiger | Donald Trump | Spongebob Schwammkopf | Ein Nachrichtensprecher | Heidi Klum",
       "x": false,
       "id": 53328,
       "category": "Katzenjammer",

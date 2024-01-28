@@ -336,7 +336,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Ein Fremder kommt dir auf der Strasse entgegen und offenbart, Bilder von dir beim <BLANK> zu besitzen. Er wird sie herausgeben, wenn du ihm die Unterhose gibst, die du gerade trägst.",
+      "scenarioText": "Ein Fremder kommt dir auf der Straße entgegen und offenbart, Bilder von dir beim <BLANK> zu besitzen. Er wird sie herausgeben, wenn du ihm die Unterhose gibst, die du gerade trägst.",
       "decoys": "Überfall auf eine Bank | Anime-Cosplay | Pinguin schlagen | illegalen Film-Download | Anschreien alter Menschen",
       "x": false,
       "id": 50447,
@@ -345,8 +345,8 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Jedes Mal, wenn jemand zu dir “Bitte!” sagt, nachdem du dich bedankt hast, wird <BLANK> auf deine Stirn projiziert. In High-Definition Auflösung.",
-      "decoys": "ein Hintern | ein Daumen der nach unten zeigt | ein Penis | ein Auberginen Emoji | “Du bist scheisse”",
+      "scenarioText": "Jedes Mal, wenn jemand zu dir “Bitte!” sagt, nachdem du dich bedankt hast, wird <BLANK> auf deine Stirn projiziert. In High-Definition-Auflösung.",
+      "decoys": "ein Hintern | ein Daumen der nach unten zeigt | ein Penis | ein Auberginen-Emoji | “Du bist scheiße”",
       "x": false,
       "id": 50448,
       "category": "Danke, aber nein, danke",
@@ -354,7 +354,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du hast die Möglichkeit, dich als Zeichentrickfigur verewigen zu lassen. Sie wird wie du aussehen und heissen, aber dein Standardspruch ist: “<BLANK>”.",
+      "scenarioText": "Du hast die Möglichkeit, dich als Zeichentrickfigur verewigen zu lassen. Sie wird wie du aussehen und heißen, aber dein Standardspruch ist “<BLANK>”.",
       "decoys": "Mein Hintern tut weh | Steuern für die Armen | Gott ist tot | Die Erderwärmung ist eine Lüge | Ich empfinde keine Freude",
       "x": false,
       "id": 50451,
@@ -363,7 +363,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du hast den modernsten Roboter der Welt entwickelt. Für deine Kinder gehört er zur Familie. Eines Tages bietet dir ein Technologieunternehmen <BLANK>, als Austausch für die Maschine.",
+      "scenarioText": "Du hast den modernsten Roboter der Welt entwickelt. Für deine Kinder gehört er zur Familie. Eines Tages bietet dir ein Technologieunternehmen <BLANK> als Austausch für die Maschine.",
       "decoys": "eine Ferienwohnung | zwei Millionen Euro | eine Yacht | einen Privatjet | einen Sitz im Parlament",
       "x": false,
       "id": 50476,
@@ -390,7 +390,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du bist ein um Anerkennung kämpfender Musiker, der endlich einen grossen Hit gelandet hat. Doch eine Gruppe von Eltern ist wütend, weil rückwärts abgespielt “<BLANK>” aus den Lautsprechern schallt. Dies war jedoch nicht deine Absicht.",
+      "scenarioText": "Du bist ein um Anerkennung kämpfender Musiker, der endlich einen großen Hit gelandet hat. Doch eine Gruppe von Eltern ist wütend, weil rückwärts abgespielt “<BLANK>” aus den Lautsprechern schallt. Dies war jedoch nicht deine Absicht.",
       "decoys": "Verlass die Schule | Geh nie wählen | Verletze deine Eltern | Trinke viel Limonade | Spiele Telefonstreiche mit Senioren",
       "x": false,
       "id": 50498,
@@ -404,7 +404,7 @@
       "x": false,
       "id": 50500,
       "category": "Mund zu... Mund?",
-      "questionText": "Versuchst du sein Leben zu retten?"
+      "questionText": "Versuchst du, sein Leben zu retten?"
     },
     {
       "answerText": "",
@@ -417,7 +417,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du entdeckst ein Cupacabra und willst ein Foto machen, doch dein Handyspeicher ist voll. Um genug Speicher frei zu bekommen, musst du das einzige Bild von/vom <BLANK> löschen.",
+      "scenarioText": "Du entdeckst ein Chupacabra und willst ein Foto machen, doch dein Handyspeicher ist voll. Um genug Speicher frei zu bekommen, musst du das einzige Bild von <BLANK> löschen.",
       "decoys": "deinen Urgroßeltern | einem UFO | Treffen mit Tom Hanks | deinem Haustier aus der Kindheit",
       "x": false,
       "id": 50573,
@@ -428,14 +428,14 @@
       "answerText": "",
       "scenarioText": "Immer, wenn du dich nackt ausziehst, wirst du unsichtbar. Doch wenn du das Wort “<BLANK>” hörst, wirst du sofort sichtbar.",
       "decoys": "Lachs | Kakis | Wrestling | Kaffee | Ambulanz",
-      "x": false,
+      "x": true,
       "id": 50575,
       "category": "Eine klare Entscheidung",
       "questionText": "Nutzt du deine Kraft, um Arbeitskollegen zu belauschen?"
     },
     {
       "answerText": "",
-      "scenarioText": "Du bekommst für den Rest deines Lebens jede Woche 2.000 Euro in bar - unter der Bedingung: auf deiner Stirn muss ein Tattoo mit diesem Motiv gestochen werden: “<BLANK>”",
+      "scenarioText": "Du bekommst für den Rest deines Lebens jede Woche 2.000 Euro in bar - unter der Bedingung: Auf deiner Stirn muss ein Tattoo mit diesem Motiv gestochen werden: “<BLANK>”",
       "decoys": "Gesicht | Vater | Liebe | Dame | aber zuerst… Kaffee",
       "x": false,
       "id": 50631,
@@ -498,7 +498,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du bist der Botschafter der Erde. Ein böser Kriegsherr, aus einer anderen Galaxie, hat dir ein Ultimatum gestellt: Jeder Computer der Erde wird vernichtet, wenn du ihm nicht <BLANK> gibst.",
+      "scenarioText": "Du bist der Botschafter der Erde. Ein böser Kriegsherr aus einer anderen Galaxie hat dir ein Ultimatum gestellt: Jeder Computer der Erde wird vernichtet, wenn du ihm nicht <BLANK> gibst.",
       "decoys": "90% der Frauen | das Eigentumsrecht von Amerika | Kanda | alle Katzen und Hunde | den Mond",
       "x": false,
       "id": 50758,
@@ -525,7 +525,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du hast die Liebe deines Lebens gefunden, alles an dieser Person ist einfach perfekt. Doch deren Nachname ist <BLANK>. Du wirst gebeten, diesen Namen bei der Hochzeit anzunehmen. Es bedeutet ihm/ihr sehr viel.",
+      "scenarioText": "Du hast die Liebe deines Lebens gefunden, alles an dieser Person ist einfach perfekt. Doch deren Nachname ist <BLANK>. Du wirst gebeten, diesen Namen bei der Hochzeit anzunehmen. Es bedeutet der Person sehr viel.",
       "decoys": "Kackloch | Arschstock | Nachname | Fehler | Furzmann",
       "x": false,
       "id": 50789,
@@ -543,7 +543,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du wirst in den Moment zurückversetzt, kurz bevor du gezeugt wurdest. Wenn du deinen Eltern beim Akt zusiehst, wirst du mit der Fähigkeit <BLANK> geboren. Doch du musst jede einzelne Sekunde zusehen.",
+      "scenarioText": "Du wirst in den Moment zurückversetzt, kurz bevor du gezeugt wurdest. Wenn du deinen Eltern beim Akt zusiehst, wirst du mit der Fähigkeit, <BLANK>, geboren. Doch du musst jede einzelne Sekunde zusehen.",
       "decoys": "Fliegen | durch Wände zu sehen | nie an Gewicht zuzulegen | Teleportieren | Blitze zu bändigen",
       "x": true,
       "id": 50792,
@@ -570,7 +570,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Deine Fusspflegerin bietet dir ein neues Behandlungsverfahren an. Du musst deine Zehennägel, für den Rest deines Lebens, nie wieder kürzen - wenn du sie nur einmal mit <BLANK> schneidest.",
+      "scenarioText": "Deine Fußpflegerin bietet dir ein neues Behandlungsverfahren an. Du musst deine Zehennägel für den Rest deines Lebens nie wieder kürzen - wenn du sie nur einmal mit <BLANK> schneidest.",
       "decoys": "ihren Zähnen | einer Gartenschere | einem industriellen Ventilatorblatt | einer rostigen Schere | einem Schweissbrenner",
       "x": false,
       "id": 50860,
@@ -579,7 +579,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Ein Meteorit wurde in der Antarktis aufgefunden. Wer die Hände darauf legt, erhält eine makellose Haut. Allerdings berichten Leute von einer Nebenwirkung, die <BLANK> verursacht. Du bekommst eine kostenlose Chance, ihn zu berühren.",
+      "scenarioText": "Ein Meteorit wurde in der Antarktis gefunden. Wer die Hände darauf legt, erhält eine makellose Haut. Allerdings berichten Leute von einer Nebenwirkung, die <BLANK> verursacht. Du bekommst eine kostenlose Chance, ihn zu berühren.",
       "decoys": "langfristige Blähungen | eine Allergie gegen Schokoloade | leichtes Klingeln in den Ohren | juckende Wangen | Nasenbluten",
       "x": false,
       "id": 50865,
@@ -597,7 +597,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du holst einen Hund für deine Kinder. Nach einer Woche erhält der Hund die Fähigkeit zu sprechen... aber er kann nur über <BLANK> reden. Er verspricht wieder zu verstummen, wenn du dein Heimbüro, in sein Spielzimmer verwandelst.",
+      "scenarioText": "Du holst einen Hund für deine Kinder. Nach einer Woche erhält der Hund die Fähigkeit zu sprechen, aber er kann nur über <BLANK> reden. Er verspricht wieder zu verstummen, wenn du dein Heimbüro in sein Spielzimmer verwandelst.",
       "decoys": "deinen Internetverlauf | den Geruch von Hundehintern | den Film “Kindsköpfe” | Spoiler zu TV-Serien | die Geschichte des Golfs",
       "x": false,
       "id": 50871,
@@ -606,7 +606,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Wo auch immer du hingehst, wirst du von Krähen verfolgt. Wenn du den grössten Vogel erschießt, werden sie verschwinden. Wenn du aber einen anderen erwischt, werden sie <BLANK>. Sie sind immer als Gruppe unterwegs.",
+      "scenarioText": "Wo auch immer du hingehst, wirst du von Krähen verfolgt. Wenn du den größten Vogel erschießt, werden sie verschwinden. Wenn du aber einen anderen erwischst, werden sie <BLANK>. Sie sind immer als Gruppe unterwegs.",
       "decoys": "Durchfall bekommen | 5-fach lauter | unbesiegbar | auch deine Familie verfolgen | zwei mal so gross",
       "x": false,
       "id": 50872,
@@ -669,7 +669,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du bist in einer Boutique, die umwerfend schöne Kleidung verkauft, die noch dazu perfekt zu deiner Figur passt. Doch als du die Etiketten prüfst, bemerkst du, dass alles zu 100% aus <BLANK> hergestellt ist.",
+      "scenarioText": "Du bist in einer Boutique, die umwerfend schöne Kleidung verkauft, die noch dazu perfekt zu deiner Figur passt. Doch als du das Etikett prüfst, bemerkst du, dass alles zu 100% aus <BLANK> hergestellt ist.",
       "decoys": "Mensch | Katzen | Pinguine | Fischschuppen | Wespen",
       "x": false,
       "id": 50928,
@@ -714,7 +714,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Dir wird die Möglichkeiten geboten, nach nur vier Stunden Schlaf völlig ausgeruht zu sein. Doch damit es funktioniert, musst du einen ganzen Monat in <BLANK> schlafen.",
+      "scenarioText": "Dir wird die Möglichkeit geboten, nach nur vier Stunden Schlaf völlig ausgeruht zu sein. Doch damit es funktioniert, musst du einen ganzen Monat in <BLANK> schlafen.",
       "decoys": "einer toten Kuh | einem gruseligen Haus | einem stinkenden Schlafsack | einem U-Bahn-Waggon",
       "x": false,
       "id": 50965,
@@ -745,14 +745,14 @@
       "decoys": "einen langen und zärtlichen Zungenkuss | 250 Euro | dein Haar | deine Hose | deine Telefonnummer",
       "x": false,
       "id": 50983,
-      "category": "Keine Bilder, Keine Zeugen",
+      "category": "Keine Bilder, keine Zeugen",
       "questionText": "Akzeptierst du den Tausch?"
     },
     {
       "answerText": "",
       "scenarioText": "Du bist bei deiner Schulabschlussfeier schwer gestürzt. Wenn du aufstehst, dein eigenes Gesicht ohrfeigst und “<BLANK>!” rufst, besteht eine 90%-ige Chance, die Erinnerungen der Anwesenden zu löschen.",
       "decoys": "ICH BIN EIN KLUGES BABY | PAPA IST UMGEFALLEN | MEIN BUM BUM MACHT AUA | IHR HABT ES HIER ZUERST GESEHEN | KEINE BILDER, KEINE ZEUGEN",
-      "x": false,
+      "x": true,
       "id": 50984,
       "category": "Schrei-Therapie",
       "questionText": "Schlägst du die Erinnerungen weg?"
@@ -822,7 +822,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Reiche Menschen können nun Erinnerungen von Personen kaufen. Dir werden 100.000 Euro angeboten, für die letzten Erinnerungen an <BLANK>. Du könntest das Geld verwenden, um deinem Kind eine gute Ausbildung zu ermöglichen.",
+      "scenarioText": "Reiche Menschen können nun Erinnerungen von Personen kaufen. Dir werden 100.000 Euro angeboten, für die letzte Erinnerung an <BLANK>. Du könntest das Geld verwenden, um deinem Kind eine gute Ausbildung zu ermöglichen.",
       "decoys": "die ersten Worte deines Kindes | deine Grossmutter | deine Kindheit | deinen besten Freund | deine erste Liebe",
       "x": false,
       "id": 51113,
@@ -930,7 +930,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du ziehst um. Es existiert ein Gerät, dass alle deine Besitztümer in das neue Haus beamen kann. Doch deine Möbel werden durch den Prozess einen leichten Geruch von <BLANK> annehmen.",
+      "scenarioText": "Du ziehst um. Es existiert ein Gerät, das all deine Besitztümer in das neue Haus beamen kann. Doch deine Möbel werden durch den Prozess einen leichten Geruch von <BLANK> annehmen.",
       "decoys": "Fritteusen | dreckigem Haar | dem Parfüm deiner Grossmutter | Sägemehl | gedämpftem Brokkoli",
       "x": false,
       "id": 51241,
@@ -939,7 +939,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du steckst ellenbogentief im Blasloch eines Wals und versuchst dein/e/n über Bord gegangene/n/es <BLANK> wieder zu bekommen. Wenn du es schaffst, tiefer in den Wal einzusinken, besteht eine gute Chance, seinen Tod herbeizuführen. Es liegt in deiner Hand.",
+      "scenarioText": "Du steckst ellenbogentief im Blasloch eines Wals und versuchst <BLANK> wieder zu bekommen, das über Bord gegangen ist. Wenn du es schaffst, tiefer in den Wal einzusinken, besteht eine gute Chance, seinen Tod herbeizuführen. Es liegt in deiner Hand.",
       "decoys": "einziges verbleibendes Foto deiner Mutter | Hochzeitsring | 8.000 Euro | Handy | Passwortliste",
       "x": false,
       "id": 51243,

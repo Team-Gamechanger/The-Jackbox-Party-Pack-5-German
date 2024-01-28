@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Ein Meteorit wurde in der Antarktis aufgefunden. Wer die Hände darauf legt, erhält eine makellose Haut.",
+      "v": "Ein Meteorit wurde in der Antarktis gefunden. Wer die Hände darauf legt, erhält eine makellose Haut.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.25",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.82",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.70",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.59",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein Meteorit wurde in der Antarktis aufgefunden. Wer die Hände darauf legt, erhält eine makellose Haut. Allerdings berichten Leute von einer Nebenwirkung, die <BLANK> verursacht. Du bekommst eine kostenlose Chance, ihn zu berühren.\r\nMachst du es?",
+      "s": "Ein Meteorit wurde in der Antarktis gefunden. Wer die Hände darauf legt, erhält eine makellose Haut. Allerdings berichten Leute von einer Nebenwirkung, die <BLANK> verursacht. Du bekommst eine kostenlose Chance, ihn zu berühren.\r\nMachst du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

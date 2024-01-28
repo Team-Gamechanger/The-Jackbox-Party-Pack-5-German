@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "als Pferd verkleidet bist | weinst | in Pudding eingebettet bist | Geld verbrennst | Kinder auslachst",
+      "v": "als Pferd verkleidet bist | Obdachlose bestiehlst | in Nutella badest | Geld verbrennst | Kinder auslachst",
       "n": "Decoys"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Du kandidierst für ein politisches Amt. Leider erpressen dich Erpresser mit zwei Bildern.",
+      "v": "Du kandidierst für ein politisches Amt. Leider wirst du von Unbekannten mit zwei Bildern erpresst.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Ein Bild, auf dem du ein Eichhörnchen trittst, und ein Bild, auf dem du",
+      "v": "Ein Bild, auf dem du ein Eichhörnchen trittst und ein Bild, auf dem du",
       "n": "ScenarioText2"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du kandidierst für ein politisches Amt. Leider erpressen dich Erpresser mit zwei Bildern. Ein Bild, auf dem du ein Eichhörnchen trittst, und ein Bild, auf dem du <BLANK>. Du kannst nur die Veröffentlichung eines Bildes verhindern.\r\nWelches Bild soll nicht an die Öffentlichkeit?",
+      "s": "Du kandidierst für ein politisches Amt. Leider wirst du von Unbekannten mit zwei Bildern erpresst. Ein Bild, auf dem du ein Eichhörnchen trittst und ein Bild, auf dem du <BLANK>. Du kannst nur die Veröffentlichung eines Bildes verhindern.\r\nWelches Bild soll nicht an die Öffentlichkeit?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ach, es gibt Politiker die schlimmeres durchgemacht haben.",
+      "s": "Ach, es gibt Politiker, die Schlimmeres durchgemacht haben.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

@@ -17,12 +17,12 @@
     },
     {
       "t": "S",
-      "v": "Welche ausserirdische Technologie nimmst du mit?",
+      "v": "Welche außerirdische Technologie nimmst du mit?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "perfekte Tastatur",
+      "v": "Tastatur für perfektes Deutsch",
       "n": "Answer"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Du findest im Wald ein verlassenes außerirdisches Raumschiff.",
+      "v": "Du findest im Wald ein verlassenes außerirdisches Raumschiff. Es ist voller unglaublicher Technik. ",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Es ist voller unglaublicher Technik. Du kannst nur eine Sache mitnehmen: eine Tastatur, die immer fehlerfreies Deutsch schreibt oder",
+      "v": "Du kannst nur eine Sache mitnehmen: eine Tastatur, die immer fehlerfreies Deutsch schreibt oder",
       "n": "ScenarioText2"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du findest im Wald ein verlassenes außerirdisches Raumschiff. Es ist voller unglaublicher Technik. Du kannst nur eine Sache mitnehmen: eine Tastatur, die immer fehlerfreies Deutsch schreibt oder <BLANK>.\r\nWelche ausserirdische Technologie nimmst du mit?",
+      "s": "Du findest im Wald ein verlassenes außerirdisches Raumschiff. Es ist voller unglaublicher Technik.  Du kannst nur eine Sache mitnehmen: eine Tastatur, die immer fehlerfreies Deutsch schreibt oder <BLANK>.\r\nWelche außerirdische Technologie nimmst du mit?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Einwandfreies Deutsch? Ungeeignet für soziale Medien.",
+      "s": "Einwandfreies Deutsch? Ungeeignet für Social Media.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

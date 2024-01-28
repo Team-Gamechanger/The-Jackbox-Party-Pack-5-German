@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Schüssel mit Pasta",
+      "v": "Schüsseln mit Nudeln",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "Kleingeld| Staubmäusen | Sandwiches | Trockenfleisch | Waschmitteln",
+      "v": "Kleingeld| Staubflusen | Sandwiches | Dörrfleisch | Waschmittel",
       "n": "Decoys"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Der Gott des Überflusses garantiert dir einen unendlichen Vorrat an einem Gegenstand.",
+      "v": "Der Gott des Überflusses garantiert dir einen unendlichen Vorrat von einem Gegenstand.",
       "n": "ScenarioText1"
     },
     {
@@ -47,12 +47,12 @@
     },
     {
       "t": "S",
-      "v": "<BLANK> haben.",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "haben.",
       "n": "ScenarioText4"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Hülle und Fülle",
+      "s": "In Hülle und Fülle",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Der Gott des Überflusses garantiert dir einen unendlichen Vorrat an einem Gegenstand. Du kannst entweder unendlich viele Schüsseln Nudeln oder unendlich viel <BLANK> haben.\r\nWelchen unbegrenzten Vorrat nimmst du in Anspruch?",
+      "s": "Der Gott des Überflusses garantiert dir einen unendlichen Vorrat von einem Gegenstand. Du kannst entweder unendlich viele Schüsseln Nudeln oder unendlich viel <BLANK> haben.\r\nWelchen unbegrenzten Vorrat nimmst du in Anspruch?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ne Gruppe die keine Kohlenhydrate isst. Toll.",
+      "s": "Scheint, als wären die Nudelfans hier rar.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

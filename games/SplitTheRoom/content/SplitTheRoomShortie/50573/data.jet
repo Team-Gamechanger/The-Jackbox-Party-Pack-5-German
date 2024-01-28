@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Du entdeckst ein Cupacabra und willst ein Foto machen, doch dein Handyspeicher ist voll.",
+      "v": "Du entdeckst ein Chupacabra und willst ein Foto machen, doch dein Handyspeicher ist voll.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Um genug Speicher frei zu bekommen, musst du das einzige Bild von/vom",
+      "v": "Um genug Speicher frei zu bekommen, musst du das einzige Bild von",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.07",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.39",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.26",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.13",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du entdeckst ein Cupacabra und willst ein Foto machen, doch dein Handyspeicher ist voll. Um genug Speicher frei zu bekommen, musst du das einzige Bild von/vom <BLANK> löschen.\r\nLöscht du das Foto?",
+      "s": "Du entdeckst ein Chupacabra und willst ein Foto machen, doch dein Handyspeicher ist voll. Um genug Speicher frei zu bekommen, musst du das einzige Bild von <BLANK> löschen.\r\nLöscht du das Foto?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

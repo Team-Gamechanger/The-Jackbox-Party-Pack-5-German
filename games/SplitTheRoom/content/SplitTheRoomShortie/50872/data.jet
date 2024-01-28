@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn du den grössten Vogel erschießt, werden sie verschwinden. Wenn du aber einen anderen erwischt, werden sie",
+      "v": "Wenn du den größten Vogel erschießt, werden sie verschwinden. Wenn du aber einen anderen erwischst, werden sie",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.59",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+3.14",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.19",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.68",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Wo auch immer du hingehst, wirst du von Krähen verfolgt. Wenn du den grössten Vogel erschießt, werden sie verschwinden. Wenn du aber einen anderen erwischt, werden sie <BLANK>. Sie sind immer als Gruppe unterwegs.\r\nSchiesst du?",
+      "s": "Wo auch immer du hingehst, wirst du von Krähen verfolgt. Wenn du den größten Vogel erschießt, werden sie verschwinden. Wenn du aber einen anderen erwischst, werden sie <BLANK>. Sie sind immer als Gruppe unterwegs.\r\nSchiesst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

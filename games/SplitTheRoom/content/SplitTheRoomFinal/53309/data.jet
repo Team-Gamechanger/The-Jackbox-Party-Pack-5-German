@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "“Ich unterbreche dich ungern, aber...”",
+      "v": "“Ich unterbreche dich nur ungern, aber...”",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "Ich bin ein grosser Idiot, und... | Aus einer dummen Perspektive... | Ich sollte gefeuert werden, aber... | Ich helfe nicht, aber... | Ich habe keine Quellen, und doch...",
+      "v": "\"Ich bin ein grosser Idiot und...\" | \"Nenn mich dumm, aber...\" | \"Ich sollte gefeuert werden, aber...\" | \"Ich helfe zwar nicht, aber...\" | \"Ich habe keine Quellen, aber...\"",
       "n": "Decoys"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Er kann entweder sagen: “Ich unterbreche dich ungern, aber...” oder",
+      "v": "Er kann entweder sagen: “Ich unterbreche dich nur ungern, aber...” oder",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Mindestens einmal am Tag unterbricht dich dein Kollege und sagt: “Also eigentlich...”. Du kannst nicht verhindern, dass er dich unterbricht, aber du kannst seine Aussage ändern. Er kann entweder sagen: “Ich unterbreche dich ungern, aber...” oder “<BLANK>”.\r\nWelche Phrase lässt du den Unterbrecher sagen?",
+      "s": "Mindestens einmal am Tag unterbricht dich dein Kollege und sagt: “Also eigentlich...”. Du kannst nicht verhindern, dass er dich unterbricht, aber du kannst seine Aussage ändern. Er kann entweder sagen: “Ich unterbreche dich nur ungern, aber...” oder “<BLANK>”.\r\nWelche Phrase lässt du den Unterbrecher sagen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du holst einen Hund für deine Kinder. Nach einer Woche erhält der Hund die Fähigkeit zu sprechen...",
+      "v": "Du holst einen Hund für deine Kinder. Nach einer Woche erhält der Hund die Fähigkeit zu sprechen,",
       "n": "ScenarioText1"
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "t": "S",
-      "v": "reden. Er verspricht wieder zu verstummen, wenn du dein Heimbüro, in sein Spielzimmer verwandelst.",
+      "v": "reden. Er verspricht wieder zu verstummen, wenn du dein Heimbüro in sein Spielzimmer verwandelst.",
       "n": "ScenarioText4"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.88",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.92",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.52",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.43",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du holst einen Hund für deine Kinder. Nach einer Woche erhält der Hund die Fähigkeit zu sprechen... aber er kann nur über <BLANK> reden. Er verspricht wieder zu verstummen, wenn du dein Heimbüro, in sein Spielzimmer verwandelst.\r\nMachst du es?",
+      "s": "Du holst einen Hund für deine Kinder. Nach einer Woche erhält der Hund die Fähigkeit zu sprechen, aber er kann nur über <BLANK> reden. Er verspricht wieder zu verstummen, wenn du dein Heimbüro in sein Spielzimmer verwandelst.\r\nMachst du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

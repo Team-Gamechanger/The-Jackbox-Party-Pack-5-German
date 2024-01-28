@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du ziehst um. Es existiert ein Gerät, dass alle deine Besitztümer in das neue Haus beamen kann.",
+      "v": "Du ziehst um. Es existiert ein Gerät, das all deine Besitztümer in das neue Haus beamen kann.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.65",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.72",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.26",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.35",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du ziehst um. Es existiert ein Gerät, dass alle deine Besitztümer in das neue Haus beamen kann. Doch deine Möbel werden durch den Prozess einen leichten Geruch von <BLANK> annehmen.\r\nBenutzt du es?",
+      "s": "Du ziehst um. Es existiert ein Gerät, das all deine Besitztümer in das neue Haus beamen kann. Doch deine Möbel werden durch den Prozess einen leichten Geruch von <BLANK> annehmen.\r\nBenutzt du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

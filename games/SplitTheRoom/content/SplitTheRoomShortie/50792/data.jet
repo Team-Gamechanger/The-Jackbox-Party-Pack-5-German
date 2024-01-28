@@ -42,12 +42,12 @@
     },
     {
       "t": "S",
-      "v": "Wenn du deinen Eltern beim Akt zusiehst, wirst du mit der Fähigkeit",
+      "v": "Wenn du deinen Eltern beim Akt zusiehst, wirst du mit der Fähigkeit,",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "<BLANK>",
+      "v": "<BLANK>,",
       "n": "ScenarioText3"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.11",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+3.64",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.19",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.57",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wirst in den Moment zurückversetzt, kurz bevor du gezeugt wurdest. Wenn du deinen Eltern beim Akt zusiehst, wirst du mit der Fähigkeit <BLANK> geboren. Doch du musst jede einzelne Sekunde zusehen.\r\nSchaust du zu?",
+      "s": "Du wirst in den Moment zurückversetzt, kurz bevor du gezeugt wurdest. Wenn du deinen Eltern beim Akt zusiehst, wirst du mit der Fähigkeit, <BLANK>, geboren. Doch du musst jede einzelne Sekunde zusehen.\r\nSchaust du zu?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "<BLANK>,",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.56",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.80",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.72",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.57",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast den modernsten Roboter der Welt entwickelt. Für deine Kinder gehört er zur Familie. Eines Tages bietet dir ein Technologieunternehmen <BLANK>, als Austausch für die Maschine.\r\nNimmst du den Deal an?",
+      "s": "Du hast den modernsten Roboter der Welt entwickelt. Für deine Kinder gehört er zur Familie. Eines Tages bietet dir ein Technologieunternehmen <BLANK> als Austausch für die Maschine.\r\nNimmst du den Deal an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

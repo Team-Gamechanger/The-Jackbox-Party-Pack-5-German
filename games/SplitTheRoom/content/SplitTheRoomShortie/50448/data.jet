@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "ein Hintern | ein Daumen der nach unten zeigt | ein Penis | ein Auberginen Emoji | “Du bist scheisse”",
+      "v": "ein Hintern | ein Daumen der nach unten zeigt | ein Penis | ein Auberginen-Emoji | “Du bist scheiße”",
       "n": "Decoys"
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "t": "S",
-      "v": "In High-Definition Auflösung.",
+      "v": "In High-Definition-Auflösung.",
       "n": "ScenarioText4"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.72",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.97",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.75",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.53",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Jedes Mal, wenn jemand zu dir “Bitte!” sagt, nachdem du dich bedankt hast, wird <BLANK> auf deine Stirn projiziert. In High-Definition Auflösung.\r\nBedankst du dich jemals wieder bei jemandem?",
+      "s": "Jedes Mal, wenn jemand zu dir “Bitte!” sagt, nachdem du dich bedankt hast, wird <BLANK> auf deine Stirn projiziert. In High-Definition-Auflösung.\r\nBedankst du dich jemals wieder bei jemandem?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

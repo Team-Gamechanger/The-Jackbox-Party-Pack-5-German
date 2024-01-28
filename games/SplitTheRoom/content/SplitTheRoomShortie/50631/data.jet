@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "auf deiner Stirn muss ein Tattoo mit diesem Motiv gestochen werden:",
+      "v": "Auf deiner Stirn muss ein Tattoo mit diesem Motiv gestochen werden:",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.36",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.44",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.32",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bekommst für den Rest deines Lebens jede Woche 2.000 Euro in bar - unter der Bedingung: auf deiner Stirn muss ein Tattoo mit diesem Motiv gestochen werden: “<BLANK>”\r\nLässt du dir das Tattoo stechen?",
+      "s": "Du bekommst für den Rest deines Lebens jede Woche 2.000 Euro in bar - unter der Bedingung: Auf deiner Stirn muss ein Tattoo mit diesem Motiv gestochen werden: “<BLANK>”\r\nLässt du dir das Tattoo stechen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Du hast im Lotto gewonnen!",
+      "v": "Glückwunsch, du hast im Lotto gewonnen!",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Allerdings bekommst du deinen Gewinn nicht in Geldform. Du bekommst entweder Batterien oder",
+      "v": "Allerdings bekommst du deinen Gewinn nicht in Geldform. Du erhälst entweder Batterien oder",
       "n": "ScenarioText2"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Alternative Lotteriegewinne",
+      "s": "Wie gewonnen...",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast im Lotto gewonnen! Allerdings bekommst du deinen Gewinn nicht in Geldform. Du bekommst entweder Batterien oder <BLANK> im Wert von einer Million Euro.\r\nIn welcher Form nimmst du den Gewinn an?",
+      "s": "Glückwunsch, du hast im Lotto gewonnen! Allerdings bekommst du deinen Gewinn nicht in Geldform. Du erhälst entweder Batterien oder <BLANK> im Wert von einer Million Euro.\r\nIn welcher Form nimmst du den Gewinn an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

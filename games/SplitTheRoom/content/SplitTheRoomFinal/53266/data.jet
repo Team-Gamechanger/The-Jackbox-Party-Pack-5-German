@@ -32,12 +32,12 @@
     },
     {
       "t": "S",
-      "v": "",
+      "v": "SPLIT",
       "n": "Keywords"
     },
     {
       "t": "S",
-      "v": "Du bist Chef-Redakteur einer großen Zeitung.",
+      "v": "Du bist Chefredakteur einer großen Zeitung.",
       "n": "ScenarioText1"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Du kannst deine gesamte Titelseite entweder dafür verwenden, dass Elvis Presley noch lebt oder",
+      "v": "Du kannst deine gesamte Titelseite entweder für die Schlagzeile verwenden, dass Elvis Presley noch lebt oder",
       "n": "ScenarioText3"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist Chef-Redakteur einer großen Zeitung. Deine beiden Star-Reporter reichen jeweils eine unglaubliche Geschichte ein. Du kannst deine gesamte Titelseite entweder dafür verwenden, dass Elvis Presley noch lebt oder <BLANK>.\r\nWelche Geschichte bringst du auf die Titelseite?",
+      "s": "Du bist Chefredakteur einer großen Zeitung. Deine beiden Star-Reporter reichen jeweils eine unglaubliche Geschichte ein. Du kannst deine gesamte Titelseite entweder für die Schlagzeile verwenden, dass Elvis Presley noch lebt oder <BLANK>.\r\nWelche Geschichte bringst du auf die Titelseite?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Und wie überzeugen wir die Leser nun das es kein falsch getimter Aprilscherz war?",
+      "s": "Und nein, beides passt nicht gleichzeitig auf die Titelseite, wo wäre da noch Platz für Werbung?",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

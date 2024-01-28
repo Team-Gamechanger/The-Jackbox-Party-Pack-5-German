@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Doch als du die Etiketten prüfst, bemerkst du, dass alles zu 100% aus",
+      "v": "Doch als du das Etikett prüfst, bemerkst du, dass alles zu 100% aus",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.08",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.52",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.78",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.72",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist in einer Boutique, die umwerfend schöne Kleidung verkauft, die noch dazu perfekt zu deiner Figur passt. Doch als du die Etiketten prüfst, bemerkst du, dass alles zu 100% aus <BLANK> hergestellt ist.\r\nKaufst du dir ein Outfit?",
+      "s": "Du bist in einer Boutique, die umwerfend schöne Kleidung verkauft, die noch dazu perfekt zu deiner Figur passt. Doch als du das Etikett prüfst, bemerkst du, dass alles zu 100% aus <BLANK> hergestellt ist.\r\nKaufst du dir ein Outfit?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

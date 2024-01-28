@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Deine Fusspflegerin bietet dir ein neues Behandlungsverfahren an.",
+      "v": "Deine Fußpflegerin bietet dir ein neues Behandlungsverfahren an.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Du musst deine Zehennägel, für den Rest deines Lebens, nie wieder kürzen - wenn du sie nur einmal mit",
+      "v": "Du musst deine Zehennägel für den Rest deines Lebens nie wieder kürzen - wenn du sie nur einmal mit",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.48",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+3.30",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.57",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.47",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Deine Fusspflegerin bietet dir ein neues Behandlungsverfahren an. Du musst deine Zehennägel, für den Rest deines Lebens, nie wieder kürzen - wenn du sie nur einmal mit <BLANK> schneidest.\r\nMachst du es?",
+      "s": "Deine Fußpflegerin bietet dir ein neues Behandlungsverfahren an. Du musst deine Zehennägel für den Rest deines Lebens nie wieder kürzen - wenn du sie nur einmal mit <BLANK> schneidest.\r\nMachst du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

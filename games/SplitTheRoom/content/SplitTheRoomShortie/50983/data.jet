@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.84",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,21 +67,21 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.88",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.05",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.92",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Keine Bilder, Keine Zeugen",
+      "s": "Keine Bilder, keine Zeugen",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

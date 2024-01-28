@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Dir werden 100.000 Euro angeboten, für die letzten Erinnerungen an",
+      "v": "Dir werden 100.000 Euro angeboten, für die letzte Erinnerung an",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.49",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+3.81",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.08",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.12",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Reiche Menschen können nun Erinnerungen von Personen kaufen. Dir werden 100.000 Euro angeboten, für die letzten Erinnerungen an <BLANK>. Du könntest das Geld verwenden, um deinem Kind eine gute Ausbildung zu ermöglichen.\r\nVerkaufst du deine Erinnerung?",
+      "s": "Reiche Menschen können nun Erinnerungen von Personen kaufen. Dir werden 100.000 Euro angeboten, für die letzte Erinnerung an <BLANK>. Du könntest das Geld verwenden, um deinem Kind eine gute Ausbildung zu ermöglichen.\r\nVerkaufst du deine Erinnerung?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
