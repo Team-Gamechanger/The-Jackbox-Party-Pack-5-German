@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Hälst du ihn auf?",
+      "v": "Hältst du ihn auf?",
       "n": "QuestionText"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.70",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.00",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.78",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Dein Erzfeind heuert einen Himmelsschreiber an, der morgen deinem Lebensgefährten “HEIRATE MICH” in den Himmel schreibt. Er erweitert aber um die Worte <BLANK>.\r\nHälst du ihn auf?",
+      "s": "Dein Erzfeind heuert einen Himmelsschreiber an, der morgen deinem Lebensgefährten “HEIRATE MICH” in den Himmel schreibt. Er erweitert aber um die Worte <BLANK>.\r\nHältst du ihn auf?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

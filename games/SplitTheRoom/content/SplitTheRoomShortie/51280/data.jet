@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Übst du den nötigen Elan aus um diese Nachricht zu senden?",
+      "v": "Traust du dich, diese Botschaft zu senden?",
       "n": "QuestionText"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "These Shoes Are Made For Talkin’",
+      "s": "Das sprechende Schuhwerk",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Jedes Mal, wenn du mit dem Joggen fertig bist, wird die Route an deinen Feind gesendet. Die Person wäre sehr verletzt, wenn die Route - aus der Luft gesehen - “<BLANK>” schreiben würde.\r\nÜbst du den nötigen Elan aus um diese Nachricht zu senden?",
+      "s": "Jedes Mal, wenn du mit dem Joggen fertig bist, wird die Route an deinen Feind gesendet. Die Person wäre sehr verletzt, wenn die Route - aus der Luft gesehen - “<BLANK>” schreiben würde.\r\nTraust du dich, diese Botschaft zu senden?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

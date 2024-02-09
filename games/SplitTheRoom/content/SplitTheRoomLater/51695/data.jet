@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "weist du auf hässliche Kinder hin | wirst du ohnmächtig | stiehlst du Süssigkeiten | wirfst du den nächstgelegenen Tisch um | bekommst du einen Niesanfall",
+      "v": "weist du auf hässliche Kinder hin | wirst du ohnmächtig | stiehlst du Süssigkeiten | wirfst du einen Tisch um | bekommst du einen Niesanfall",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Du hast gerade den ersten Platz bei einem Kinder-Wohltätigkeitsrennen belegt.",
+      "v": "Du hast gerade ein Unentschieden bei einem Kinder-Wohltätigkeitsrennen erzielt.",
       "n": "ScenarioText3"
     },
     {
@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Immer, wenn eine Münze auf Kopf landet, <BLANK>. Du hast gerade den ersten Platz bei einem Kinder-Wohltätigkeitsrennen belegt. Der Hauptpreis ist kostenlose Pizza für ein Jahr. Der Gewinner wird durch einen Münzwurf bekannt gegeben.\r\nVerziehst du dich?",
+      "s": "Immer, wenn eine Münze auf Kopf landet, <BLANK>. Du hast gerade ein Unentschieden bei einem Kinder-Wohltätigkeitsrennen erzielt. Der Hauptpreis ist kostenlose Pizza für ein Jahr. Der Gewinner wird durch einen Münzwurf bekannt gegeben.\r\nVerziehst du dich?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

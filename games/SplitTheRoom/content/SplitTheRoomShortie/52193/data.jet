@@ -37,27 +37,27 @@
     },
     {
       "t": "S",
-      "v": "Du schläfst versehentlich 100 Jahre lang. Als du aufwachst, stellst du fest, dass die Gesellschaft sich völlig verändert hat.",
+      "v": "Du schläfst versehentlich 100 Jahre lang.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Anstelle des Staatsystems, reagiert/regieren nun",
+      "v": "Als du aufwachst, stellst du fest, dass die Gesellschaft sich völlig verändert hat.",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "<BLANK>.",
+      "v": "Anstelle des Staatsystems, regiert nun",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText4"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.86",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+2.75",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.10",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.91",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du schläfst versehentlich 100 Jahre lang. Als du aufwachst, stellst du fest, dass die Gesellschaft sich völlig verändert hat. Anstelle des Staatsystems, reagiert/regieren nun <BLANK>.\r\nGehst du wieder schlafen und schaust, was die Zukunft bereithält?",
+      "s": "Du schläfst versehentlich 100 Jahre lang. Als du aufwachst, stellst du fest, dass die Gesellschaft sich völlig verändert hat. Anstelle des Staatsystems, regiert nun <BLANK>.\r\nGehst du wieder schlafen und schaust, was die Zukunft bereithält?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

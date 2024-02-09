@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "R. Kelly | Bugs Bunny | Crash Bandicoot | Mussolini | dem Papst",
+      "v": "Angela Merkel | Bugs Bunny | Crash Bandicoot | Mussolini | dem Papst",
       "n": "Decoys"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Nach einem neuen Gesetz ist man verpflichtet, über seinem Bett ein Porträt von",
+      "v": "Einem neuen Gesetz nach ist man verpflichtet, über seinem Bett ein Porträt von",
       "n": "ScenarioText1"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Nach einem neuen Gesetz ist man verpflichtet, über seinem Bett ein Porträt von <OTHERPLAYER> oder <BLANK> aufzuhängen.\r\nWelches Portrait hängst du über dein Bett?",
+      "s": "Einem neuen Gesetz nach ist man verpflichtet, über seinem Bett ein Porträt von <OTHERPLAYER> oder <BLANK> aufzuhängen.\r\nWelches Portrait hängst du über dein Bett?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ich hoffe eure Beziehungen sind stabil.",
+      "s": "Aber schön gerade aufhängen, sonst hängt mehr als nur der Haussegen schief.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

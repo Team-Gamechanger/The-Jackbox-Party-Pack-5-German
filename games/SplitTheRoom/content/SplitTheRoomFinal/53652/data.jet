@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Kondome | Unterwäsche | Hamster | Plastikstrohhalme | E-Zigaretten-Liquid",
+      "v": "Kondome | Unterwäsche | Hamster | Plastikstrohhalme | Zigarillos",
       "n": "Decoys"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "ausliefern. Jedesmal, wenn du auslieferst, musst du sagen: “Ich bin stolz, Ihnen das überreichen zu dürfen”.",
+      "v": "ausliefern. Jedesmal, wenn ein Paket ausgibst, musst du sagen: “Ich bin stolz, Ihnen das überreichen zu dürfen”.",
       "n": "ScenarioText4"
     },
     {
@@ -81,13 +81,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Liefermöglichkeiten",
+      "s": "Geliefert",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Es ist das Jahr 2062 und 90% der Bevölkerung haben einen Vollzeitjob, bei dem sie seltsame Produkte an reiche Menschen ausliefern. Du kannst entweder Sauerkraut oder <BLANK> ausliefern. Jedesmal, wenn du auslieferst, musst du sagen: “Ich bin stolz, Ihnen das überreichen zu dürfen”.\r\nWelchen Gegenstand lieferst du an reiche Menschen?",
+      "s": "Es ist das Jahr 2062 und 90% der Bevölkerung haben einen Vollzeitjob, bei dem sie seltsame Produkte an reiche Menschen ausliefern. Du kannst entweder Sauerkraut oder <BLANK> ausliefern. Jedesmal, wenn ein Paket ausgibst, musst du sagen: “Ich bin stolz, Ihnen das überreichen zu dürfen”.\r\nWelchen Gegenstand lieferst du an reiche Menschen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

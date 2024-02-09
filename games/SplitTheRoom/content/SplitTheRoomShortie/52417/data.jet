@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Als Teenager bist du auf eine damals unentdeckte Höhlenmalerei gestossen. Zum Spass hast du deinen Finger in etwas Lehm getaucht und eine Zeichnung von",
+      "v": "Als Teenager bist du auf eine damals unentdeckte Höhlenmalerei gestoßen. Zum Spaß hast du deinen Finger in etwas Lehm getaucht und eine Zeichnung von",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+16.00",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.29",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.08",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.11",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Als Teenager bist du auf eine damals unentdeckte Höhlenmalerei gestossen. Zum Spass hast du deinen Finger in etwas Lehm getaucht und eine Zeichnung von <BLANK> hinzugefügt. Jahre später ändert deine dumme Aktion die Lehrmeinung über primitive Kulturen an Schulen.\r\nGibst du zu, was du getan hast?",
+      "s": "Als Teenager bist du auf eine damals unentdeckte Höhlenmalerei gestoßen. Zum Spaß hast du deinen Finger in etwas Lehm getaucht und eine Zeichnung von <BLANK> hinzugefügt. Jahre später ändert deine dumme Aktion die Lehrmeinung über primitive Kulturen an Schulen.\r\nGibst du zu, was du getan hast?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

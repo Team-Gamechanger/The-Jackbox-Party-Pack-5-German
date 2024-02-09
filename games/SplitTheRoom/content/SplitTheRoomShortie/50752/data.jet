@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Verwendest du den Spray?",
+      "v": "Verwendest du das Spray?",
       "n": "QuestionText"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Spinnen sind zu sehr mächtigen Wesen geworden, wodurch die meisten Pestizide nun wirkungslos sind. Das einzige Spray, das noch funktioniert, trägt das Warnetikett “WARNUNG: KANN <BLANK> VERURSACHEN.“ Dein Haus ist mit Spinnen befallen.\r\nVerwendest du den Spray?",
+      "s": "Spinnen sind zu sehr mächtigen Wesen geworden, wodurch die meisten Pestizide nun wirkungslos sind. Das einzige Spray, das noch funktioniert, trägt das Warnetikett “WARNUNG: KANN <BLANK> VERURSACHEN.“ Dein Haus ist mit Spinnen befallen.\r\nVerwendest du das Spray?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Alles läuft super, bis du herausfindest, dass er/sie als DJ namens",
+      "v": "Alles läuft super, bis du herausfindest, dass die Person als DJ namens",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.65",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+2.90",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.87",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.78",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast drei Dates mit einer wirklich netten Person. Alles läuft super, bis du herausfindest, dass er/sie als DJ namens <BLANK> auftritt.\r\nGehst du auf ein viertes Date?",
+      "s": "Du hast drei Dates mit einer wirklich netten Person. Alles läuft super, bis du herausfindest, dass die Person als DJ namens <BLANK> auftritt.\r\nGehst du auf ein viertes Date?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

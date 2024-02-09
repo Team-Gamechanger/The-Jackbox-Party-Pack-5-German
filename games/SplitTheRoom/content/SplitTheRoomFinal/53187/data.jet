@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Leider oder eher glücklicherweise hast du kein Schwarzlicht dabei.",
+      "s": "Leider oder eher glücklicherweise habt ihr kein Schwarzlicht dabei.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

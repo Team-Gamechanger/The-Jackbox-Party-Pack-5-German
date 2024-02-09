@@ -52,12 +52,12 @@
     },
     {
       "t": "S",
-      "v": "Dein/e beste/r Freund/in bittet dich, seine/ihre Hochzeit zu feiern.",
+      "v": "Dein bester Freund bittet dich, seine Hochzeit zu feiern.",
       "n": "ScenarioText4"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.22",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+2.04",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.53",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.87",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast einen seltsamen Zustand. Wann immer du Leute weinen siehst, musst du <BLANK>. Dein/e beste/r Freund/in bittet dich, seine/ihre Hochzeit zu feiern.\r\nSagst du Ja?",
+      "s": "Du hast einen seltsamen Zustand. Wann immer du Leute weinen siehst, musst du <BLANK>. Dein bester Freund bittet dich, seine Hochzeit zu feiern.\r\nSagst du Ja?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Dein/e Verlobte/r hat ein bestimmtes Lied für den Hochzeitstanz gewählt.",
+      "v": "Dein Partner hat ein bestimmtes Lied für den Hochzeitstanz gewählt.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.23",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+3.75",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.06",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.05",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Dein/e Verlobte/r hat ein bestimmtes Lied für den Hochzeitstanz gewählt. Unglücklicherweise ist es ein Akustik-Cover des Songs <BLANK> - gesungen von <OTHERPLAYER>.\r\nMachst du die beiden glücklich, indem du ja sagst?",
+      "s": "Dein Partner hat ein bestimmtes Lied für den Hochzeitstanz gewählt. Unglücklicherweise ist es ein Akustik-Cover des Songs <BLANK> - gesungen von <OTHERPLAYER>.\r\nMachst du die beiden glücklich, indem du ja sagst?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

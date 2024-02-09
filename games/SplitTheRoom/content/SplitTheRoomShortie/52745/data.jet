@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Nach Verhandelungen mit ihrer Königin stimmen sie zu, im Austausch gegen",
+      "v": "Nach Verhandlungen mit ihrer Königin stimmen sie zu, im Austausch gegen",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.77",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+3.02",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.72",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.61",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du findest das Versteck all der verschwundenen Bienen. Nach Verhandelungen mit ihrer Königin stimmen sie zu, im Austausch gegen <BLANK> zurückzukommen.\r\nNimmst du das Angebot der Bienen an?",
+      "s": "Du findest das Versteck all der verschwundenen Bienen. Nach Verhandlungen mit ihrer Königin stimmen sie zu, im Austausch gegen <BLANK> zurückzukommen.\r\nNimmst du das Angebot der Bienen an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

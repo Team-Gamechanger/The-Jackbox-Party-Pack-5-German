@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Wissenschafter haben herausgefunden, dass Regen erstaunlich gesundheitliche Auswirkungen hat.",
+      "v": "Wissenschafter haben herausgefunden, dass Regen erstaunliche gesundheitliche Auswirkungen hat.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.91",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.29",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.23",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.93",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Wissenschafter haben herausgefunden, dass Regen erstaunlich gesundheitliche Auswirkungen hat. Wenn du dich mindestens 10-mal im Jahr, 10 Minuten in kaltem Regenwasser tränkst, erhöht sich die Chance <BLANK> erheblich.\r\nBeginnst du damit, dich in den Regen zu stellen?",
+      "s": "Wissenschafter haben herausgefunden, dass Regen erstaunliche gesundheitliche Auswirkungen hat. Wenn du dich mindestens 10-mal im Jahr, 10 Minuten in kaltem Regenwasser tränkst, erhöht sich die Chance <BLANK> erheblich.\r\nBeginnst du damit, dich in den Regen zu stellen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

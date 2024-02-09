@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Nimmst du es in Kauf?",
+      "v": "Machst du es trotzdem?",
       "n": "QuestionText"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "dein Onkel | dein Nachbar | dein/e dich noch immer liebende/r Ex | dein Vermieter | dein Chef",
+      "v": "dein Onkel | dein Nachbar | dein Ex | dein Vermieter | dein Chef",
       "n": "Decoys"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hilfst deinem besten Freund bei einem Aktionskunstwerk im Museum. Deine Aufgabe besteht darin, die Wange jedes Besuchers zu streicheln und ihnen “Ich sehne mich nach dir” zuzuflüstern. Binnen einer Stunde kommt <BLANK> herein.\r\nNimmst du es in Kauf?",
+      "s": "Du hilfst deinem besten Freund bei einem Aktionskunstwerk im Museum. Deine Aufgabe besteht darin, die Wange jedes Besuchers zu streicheln und ihnen “Ich sehne mich nach dir” zuzuflüstern. Binnen einer Stunde kommt <BLANK> herein.\r\nMachst du es trotzdem?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

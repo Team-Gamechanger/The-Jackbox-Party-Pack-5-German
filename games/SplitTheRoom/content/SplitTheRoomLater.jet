@@ -4,7 +4,7 @@
     {
       "answerText": "",
       "scenarioText": "Deine Lieblingswebsite integriert plötzlich eine Paywall. Doch statt einer Geldgebühr verlangt sie von den Abonnenten jährlich <BLANK>.",
-      "decoys": "Haare | einen Zahn | ein Party-Abo | Tränen | das Lieblingshemd",
+      "decoys": "Haare | einen Zahn | ein selbstkomponiertes Lied | 100ml Tränen | das Lieblingshemd",
       "x": false,
       "id": 50381,
       "category": "Homepage-Horror",
@@ -21,7 +21,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Es gibt einen Toiletten-Pass, der es ermöglicht, bei jedem Open-Air-Event einen sofortigen Zugang zu einer sauberen Toilette zu bekommen. Die einmalige Gebühr für dieses Angebot beträgt <BLANK> Euro.",
+      "scenarioText": "Es gibt einen Toiletten-Pass, der es ermöglicht, bei jedem Open-Air-Event einen sofortigen Zugang zu einer sauberen Toilette zu erhalten. Die einmalige Gebühr für dieses Angebot beträgt <BLANK> Euro.",
       "decoys": "100 | 200 | 250 | 5.000 | 10.000",
       "x": false,
       "id": 50422,
@@ -43,13 +43,13 @@
       "decoys": "Panda | Hirsch | Einhorn | Wildkatze | Dodo",
       "x": false,
       "id": 50501,
-      "category": "Jagen oder gejagt werden",
+      "category": "Der Jäger",
       "questionText": "Tötest du es?"
     },
     {
       "answerText": "",
-      "scenarioText": "Du entdeckst eine äußerst ungewöhnliche Zeitmaschine. Sie kann nur zwei Stunden zurückreisen, und landet immer <BLANK>. Die Maschine kostet 20.000 Euro.",
-      "decoys": "in einem Klärwerk | auf einem Friedhof | auf einem See | in Amsterdam | in einem Gefängnis",
+      "scenarioText": "Du entdeckst eine äußerst ungewöhnliche Zeitmaschine. Sie kann nur zwei Stunden zurückreisen und landet immer <BLANK>. Die Maschine kostet 20.000 Euro.",
+      "decoys": "in einem Klärwerk | auf einem Friedhof | in einem See | in Amsterdam | in einem Gefängnis",
       "x": false,
       "id": 50512,
       "category": "Zeit und Ort",
@@ -67,7 +67,7 @@
     {
       "answerText": "",
       "scenarioText": "Du bist dabei, einen gnadenlosen Diktator zu treffen. Es wird von dir erwartet, dass du seine Füße küsst. Solltest du ablehnen, musst du zur Strafe <BLANK>. Deine öffentliche Ablehnung könnte eine Revolution auslösen.",
-      "decoys": "einen Monat lang einen Schlafanzug tragen | mit dem Anführer Schuhe shoppen | deinen eigenen Urin trinken | einen Haustier-Alligator adoptieren | nie wieder Unterwäsche tragen",
+      "decoys": "einen Monat nur Schlafanzug tragen | mit dem Anführer Schuhe shoppen | deinen eigenen Urin trinken | einen Haustier-Alligator adoptieren | nie wieder Unterwäsche tragen",
       "x": false,
       "id": 50667,
       "category": "Zweifelhafte Autorität",
@@ -79,16 +79,16 @@
       "decoys": "Bob der Baumeister | Friends | The Big Bang Theory | Cosmo und Wanda | Spongebob Schwammkopf",
       "x": false,
       "id": 50755,
-      "category": "Der Wettbewerb",
+      "category": "Wer zuletzt lacht...",
       "questionText": "Nimmst du am Wettbewerb teil?"
     },
     {
       "answerText": "",
-      "scenarioText": "Du kommst im Büro an, und bemerkst, dass es sich nicht um einen Bring-deine-Tochter-mit-zur-Arbeit-Tag handelt, sondern dem Bring-<BLANK>-mit-zur-Arbeit-Tag. Wenn du dein kleines Mädchen wieder nach Hause bringst, wird sie am Boden zerstört sein.",
+      "scenarioText": "Du kommst im Büro an und bemerkst, dass es sich nicht um den Bring-deine-Tochter-mit-zur-Arbeit-Tag handelt, sondern um den Bring-<BLANK>-mit-zur-Arbeit-Tag. Wenn du dein kleines Mädchen wieder nach Hause bringst, wird sie am Boden zerstört sein.",
       "decoys": "deinen-Anwalt | deine-Waffen | deine-Schlangen | deinen-Pfannkuchen | deine-Horrorfilme",
       "x": false,
       "id": 50761,
-      "category": "Eine Familienangelegenheit",
+      "category": "Der besondere Tag",
       "questionText": "Lässt du sie bleiben?"
     },
     {
@@ -103,7 +103,7 @@
     {
       "answerText": "",
       "scenarioText": "Du erwachst im alten Ägypten und wirst als Gott angepriesen. Alle deine Wünsche und Bedürfnisse werden erfüllt, aber du musst während einer wöchentlichen Zeremonie <BLANK>.",
-      "decoys": "jemanden opfern | nackt tanzen | auf heissen Kohlen gehen | mit Krokodilen baden | Trauungen vollziehen",
+      "decoys": "jemanden opfern | nackt tanzen | auf heißen Kohlen gehen | mit Krokodilen baden | Trauungen vollziehen",
       "x": false,
       "id": 50913,
       "category": "Gott spielen",
@@ -111,8 +111,8 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Wenn dir in den sozialen Medien jemand mit einem grammatikalischen Fehler antwortet, fühlst du dich, als ob du <BLANK>. Dir wird plötzlich ein lukrativer Job in der Medienbranche angeboten. Gemäss deines Vertrags musst du deine Präsenz in den sozialen Medien pflegen.",
-      "decoys": "einen kleinen Stromschlag erlitten hast | innerlich leer bist | Erbrochenes im Hals hast | ausgetrocknet bist | als hättest du einen Sonnenbrand",
+      "scenarioText": "Wenn dir in den sozialen Medien jemand eine Antwort unter deine Posts schreibt, die einen grammatikalischen Fehler enthält, fühlst du dich, als ob du <BLANK>. Dir wird plötzlich ein lukrativer Job in der Medienbranche angeboten. Gemäß deines Vertrags musst du deine Präsenz in den sozialen Medien pflegen.",
+      "decoys": "einen kleinen Stromschlag bekommst | innerlich leer bist | Erbrochenes im Hals hast | ausgetrocknet bist | einen Sonnenbrand hättest",
       "x": false,
       "id": 50921,
       "category": "Du seien ein Idiot",
@@ -124,7 +124,7 @@
       "decoys": "eine Arsch-Ansaugung | schnupfen | eine Infusion | eine Hyperventilation | spritzen in die Augen",
       "x": false,
       "id": 51040,
-      "category": "Außerirdische Umgangsformen",
+      "category": "Der außerirdische Knigge",
       "questionText": "“Isst” du es auf diese Weise?"
     },
     {
@@ -138,11 +138,11 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Es sind die 1960er Jahre. Dir wurde gerade ein lukrativer Model-Deal angeboten, als Werbegesicht von <BLANK>. Dieser Job wird dich für den Rest deines Lebens finanziell unterstützen… aber du wirst für Jahrzehnte auf dem Produkt sein.",
+      "scenarioText": "Es sind die 1960er-Jahre. Dir wurde gerade ein lukrativer Model-Deal angeboten, als Werbegesicht von <BLANK>. Mit diesem Job hast du für den Rest deines Lebens finanziell ausgesorgt… aber man wird dein Gesicht für Jahrzehnte auf dem Produkt sehen.",
       "decoys": "einem Toilettenreiniger | Tampons | Marlboro | Barbie | Cola Zero",
       "x": false,
       "id": 51528,
-      "category": "Das Antlitz des Bedauerns",
+      "category": "Antlitz des Bedauerns",
       "questionText": "Nimmst du den Deal an?"
     },
     {
@@ -151,44 +151,44 @@
       "decoys": "Feuer furzen | aggressiv schreien | dir selbst ins Gesicht schlagen | Familiengeheimnisse offenbaren | kleine Tröpfchen pinkeln",
       "x": false,
       "id": 51565,
-      "category": "Sprungtag",
+      "category": "In die Bresche springen",
       "questionText": "Nimmst du an den Olympischen Spielen teil?"
     },
     {
       "answerText": "",
       "scenarioText": "Wann immer du versucht, still in deinem Kopf zu rechnen, schreist du: “<BLANK>!”. Du gehst zu einem schicken Essen mit deinem Bruder und seiner Verlobten ...die sehr unzuverlässig ist. Sie sagt dir, was du für das Essen bezahlen musst.",
-      "decoys": "Du kannst keine Kinder haben | Uggghhhhh, Zahlen | Verlass sie | Zeit, ein paar Zahlen krachen zu lassen | Ich gebe kein Trinkgeld",
+      "decoys": "Ich bin unfruchtbar | Uggghhhhh, Zahlen | Trenn dich | Das ist ein Überfall | Ich liebe dich",
       "x": false,
       "id": 51606,
-      "category": "Plus Trinkgeld",
+      "category": "Trinkgeld nicht vergessen",
       "questionText": "Überprüfst du ihre Rechnung?"
     },
     {
       "answerText": "",
-      "scenarioText": "Du bist ein verfluchter Koch. Jedes Mal, wenn du Butter verwendest, <BLANK>. Unglücklicherweise bist du Chefkoch in einem Restaurant, dass südländisches Essen serviert.",
-      "decoys": "wirst du dir aller deine Fehler bewusst | bekommst du Schluckauf für drei Monate | schwitzt du Ketchup | bekommst du fettiges Haar | musst du beatboxen",
+      "scenarioText": "Du bist ein verfluchter Koch. Jedes Mal, wenn du Nudeln zubereitest, musst du <BLANK>. Unglücklicherweise bist du Chefkoch in einem italienischen Restaurant.",
+      "decoys": "in das Essen spucken | jemanden ausrauben | weinen | 5 Klimmzüge machen | beatboxen",
       "x": false,
       "id": 51608,
-      "category": "Südliche Unbehagen",
-      "questionText": "Kochst du mit Butter?"
+      "category": "Zum Italiener?",
+      "questionText": "Kochst du die Nudeln?"
     },
     {
       "answerText": "",
       "scenarioText": "Wenn du <BLANK> von dir abschneidest, kannst du das Körperteil für 5.000 Euro verkaufen. Es wird nach 30 Tagen wieder nachwachsen. Du hast Schulden und könntest dein Haus verlieren.",
-      "decoys": "Arsch | Ellbogen | Beinhaut | Kniescheiben | linkes Nasenloch",
+      "decoys": "deinen Hintern | deinen Ellbogen | deine Beinhaut | deine Kniescheiben | dein linkes Nasenloch",
       "x": false,
       "id": 51658,
-      "category": "Amputieren 4 Ca$h",
+      "category": "Schnipp Schnapp",
       "questionText": "Nimmst du das Geld?"
     },
     {
       "answerText": "",
-      "scenarioText": "Es gibt ein neues umweltfreundliches Auto, welches nicht mit Benzin oder Elektro fährt. Merkwürdigerweise läuft es mit <BLANK>. Du bist dabei, eine lange Fahrt zu planen und musst ein Auto mieten.",
-      "decoys": "Hundekot | Jazz-Musik | Tränen | persönlichen Geschichten, die man erzählt | gebrauchten Socken",
+      "scenarioText": "Es gibt ein neues umweltfreundliches Auto, welches nicht mit herkömmlichen Treibstoffen fährt. Merkwürdigerweise läuft es mit <BLANK>. Du bist dabei, eine lange Fahrt zu planen und musst ein Auto mieten.",
+      "decoys": "Hundekot | Jazz-Musik | Tränen | Liebesgeschichten, die man erzählt | gebrauchten Socken",
       "x": false,
       "id": 51672,
       "category": "Spritsorge",
-      "questionText": "Wählst du das neue Auto?"
+      "questionText": "Wählst du das umweltfreundliche Auto?"
     },
     {
       "answerText": "",
@@ -201,17 +201,17 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Deine Indie-Band hat gerade eine große Tour durch den Südwesten gebucht. Doch leider immer, wenn du einen Kaktus siehst, <BLANK>. Diese Tour könnte dir viele Möglichkeiten eröffnen.",
-      "decoys": "alterst du 2 Monate | übergibst du dich | musst du ein dunkles Geheimnis teilen | musst du ihn berühren | musst du mit offenem Mund sabbern",
+      "scenarioText": "Deine Indie-Band hat gerade eine große Tour durch Süddeutschland gebucht. Doch leider immer, wenn du eine Kirche oder Kapelle siehst, <BLANK>. Diese Tour könnte dir viele Möglichkeiten eröffnen.",
+      "decoys": "alterst du 2 Monate | übergibst du dich | musst du ein Geheimnis teilen | musst du abfackeln | musst du mit offenem Mund sabbern",
       "x": false,
       "id": 51693,
-      "category": "Band der Schwierigkeiten",
+      "category": "Musik in deinen Ohren",
       "questionText": "Gehst du auf Tour?"
     },
     {
       "answerText": "",
-      "scenarioText": "Immer, wenn eine Münze auf Kopf landet, <BLANK>. Du hast gerade den ersten Platz bei einem Kinder-Wohltätigkeitsrennen belegt. Der Hauptpreis ist kostenlose Pizza für ein Jahr. Der Gewinner wird durch einen Münzwurf bekannt gegeben.",
-      "decoys": "weist du auf hässliche Kinder hin | wirst du ohnmächtig | stiehlst du Süssigkeiten | wirfst du den nächstgelegenen Tisch um | bekommst du einen Niesanfall",
+      "scenarioText": "Immer, wenn eine Münze auf Kopf landet, <BLANK>. Du hast gerade ein Unentschieden bei einem Kinder-Wohltätigkeitsrennen erzielt. Der Hauptpreis ist kostenlose Pizza für ein Jahr. Der Gewinner wird durch einen Münzwurf bekannt gegeben.",
+      "decoys": "weist du auf hässliche Kinder hin | wirst du ohnmächtig | stiehlst du Süssigkeiten | wirfst du einen Tisch um | bekommst du einen Niesanfall",
       "x": false,
       "id": 51695,
       "category": "Alles für eine gute Pizza",
@@ -220,7 +220,7 @@
     {
       "answerText": "",
       "scenarioText": "Du entdeckst eine Crowdfunding-Seite mit deinem Namen und Foto. Sie bittet um Spenden, um dir bei <BLANK> zu helfen… Das ist eine Lüge. Der Aufruf hat bereits 10.000 Euro gesammelt und der Betrag wird auf dein Bankkonto eingezahlt.",
-      "decoys": "einer seltenen Krankheit | deiner abgebrannten Wohnung | der juristischen Fakultät | deinem wegelaufenden Hund | der Kandidierung eines Amts",
+      "decoys": "einer seltenen Krankheit | deiner abgebrannten Wohnung | deinem Jurastudium | deinem weggelaufenden Hund | der Kanzlerkandidatur",
       "x": false,
       "id": 51782,
       "category": "Selbstfinanzierung",
@@ -228,11 +228,11 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du nimmst an einem Schönheitswettbewerb teil. Der Hauptpreis beträgt 25.000 Euro. Ein Jurymitglied hat deutlich gemacht, sich bestechen zu lassen. Statt einem Badeanzug-Wettkampf, ist die letzte Aufgabe <BLANK>.",
+      "scenarioText": "Du nimmst an einem Schönheitswettbewerb teil. Der Hauptpreis beträgt 25.000 Euro. Ein Jurymitglied hat deutlich gemacht, bestechbar zu sein. Statt einem Badeanzug-Wettkampf, ist die letzte Aufgabe <BLANK>.",
       "decoys": "ein Wortspiel-Wettkampf | ein Liegestützen-Wettkampf | eine Philosophie-Debatte | ein Völkerballspiel | ein Schachspiel",
       "x": false,
       "id": 51851,
-      "category": "Bestechung",
+      "category": "Unlautere Mittel",
       "questionText": "Bietest du eine Bestechung an?"
     },
     {
@@ -241,13 +241,13 @@
       "decoys": "Zombies | einem wütenden Hund | einer Vögelschar | einem Kind mit Kettensäge | einem Stier",
       "x": false,
       "id": 51853,
-      "category": "Die Ehre unter Dieben",
+      "category": "Ehre unter Dieben",
       "questionText": "Verwirfst du den Plan und verlässt dein Team?"
     },
     {
       "answerText": "",
       "scenarioText": "Dein aktuelles Videospiel beinhaltet eine Familie, die deiner eigenen unheimlich ähnlich ist. Eines Nachts geht deine digitale “Schwester” auf ein Date und <BLANK>. In der Nacht darauf verlässt deine echte Schwester das Haus für ein Date, mit dem exakt gleichen Outfit.",
-      "decoys": "ihre Kleidung fällt ihr ab | wird von einem Eichhörnchen angegriffen | hat eine allergische Reaktion auf das Essen | stösst auf ihren Ex | spuckt versehentlich auf ihr Date",
+      "decoys": "ihre Kleidung fällt ihr ab | wird von einem Hasen attackiert | wird im Internet bloßgestellt | stößt auf ihren Ex | spuckt versehentlich auf ihr Date",
       "x": false,
       "id": 51962,
       "category": "Ein virtuelles Desaster",
@@ -256,20 +256,20 @@
     {
       "answerText": "",
       "scenarioText": "Du bist Zuschauer bei einem Basketballspiel und bist auf der “Kiss Cam” zu sehen. Der Preis für den besten Kuss sind Dauerkarten. Doch du sitzt neben <BLANK>. Die Person macht mit, wenn du auch dabei bist.",
-      "decoys": "Jörg Pilawa | einem deiner Stief-Geschwister | deinem besten Freund | deinem Chef | deinem zweiten Cousin",
+      "decoys": "Jörg Pilawa | deinem Stief-Geschwisterchen | deinem besten Freund | deinem Chef | deinem Cousin 2. Grades",
       "x": false,
       "id": 51969,
-      "category": "Küss mich, ich bin bereit",
+      "category": "Küss mich",
       "questionText": "Küsst du die Person?"
     },
     {
       "answerText": "",
       "scenarioText": "Während du deiner alten Nachbarin beim Kühlschrank verschieben hilfst, bemerkst du, dass sie ein wenig ihren Verstand verliert. Nach erledigter Arbeit bietet sie dir <BLANK> an.",
-      "decoys": "300 Euro | ihren atemberaubenden Hund | eine alte, gruselige Puppe ohne Augen | 25 Cent | einen verschimmelten Kuchen",
+      "decoys": "300 Euro | ihren atemberaubenden Hund | eine gruselige Puppe ohne Augen | 25 Cent | einen verschimmelten Kuchen",
       "x": false,
       "id": 51989,
-      "category": "Alte Probleme",
-      "questionText": "Akzeptierst du?"
+      "category": "Hilfreiche Hand",
+      "questionText": "Akzeptierst du das Angebot?"
     },
     {
       "answerText": "",
@@ -277,7 +277,7 @@
       "decoys": "eine Keramik-Clownmaske | eine Büste des Kindes | eine teure Flasche Wein | ein Globus | ein Klavier",
       "x": false,
       "id": 52003,
-      "category": "Umzugsschmerz",
+      "category": "Tollpatsch am Werk",
       "questionText": "Schiebst du es auf den Hund?"
     },
     {

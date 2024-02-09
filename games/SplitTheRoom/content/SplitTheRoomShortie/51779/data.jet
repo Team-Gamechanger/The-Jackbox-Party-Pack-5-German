@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.71",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,21 +67,21 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+2.55",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.04",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.95",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Du hast, das nicht kommen gesehen",
+      "s": "Das hast du nicht kommen sehen",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

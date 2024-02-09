@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Wirst du Freiwilliger?",
+      "v": "Meldest du dich freiwillig?",
       "n": "QuestionText"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.62",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.86",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.36",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Eine wissenschaftliche Schlafstudie bietet Freiwilligen 2.000 Euro, die schlafen, während <BLANK>. Die Studie dauert sieben aufeinanderfolgende Nächte.\r\nWirst du Freiwilliger?",
+      "s": "Eine wissenschaftliche Schlafstudie bietet Freiwilligen 2.000 Euro, die schlafen, während <BLANK>. Die Studie dauert sieben aufeinanderfolgende Nächte.\r\nMeldest du dich freiwillig?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

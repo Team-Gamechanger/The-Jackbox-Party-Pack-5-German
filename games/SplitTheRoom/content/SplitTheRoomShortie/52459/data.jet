@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Bleibst du bei ihm/ihr?",
+      "v": "Bleibst du deinem Partner treu?",
       "n": "QuestionText"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Er/Sie wurde beauftragt,",
+      "v": "Im geheimen",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.95",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.40",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.47",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.71",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Nach drei Jahren Ehe verrät dir dein Ehepartner ein Geheimagent zu sein. Die Mission? Er/Sie wurde beauftragt, <BLANK> zu beseitigen.\r\nBleibst du bei ihm/ihr?",
+      "s": "Nach drei Jahren Ehe verrät dir dein Ehepartner ein Geheimagent zu sein. Die Mission? Im geheimen <BLANK> zu beseitigen.\r\nBleibst du deinem Partner treu?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

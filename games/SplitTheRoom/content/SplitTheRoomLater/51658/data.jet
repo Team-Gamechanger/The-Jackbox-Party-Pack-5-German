@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Arsch | Ellbogen | Beinhaut | Kniescheiben | linkes Nasenloch",
+      "v": "deinen Hintern | deinen Ellbogen | deine Beinhaut | deine Kniescheiben | dein linkes Nasenloch",
       "n": "Decoys"
     },
     {
@@ -76,7 +76,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Amputieren 4 Ca$h",
+      "s": "Schnipp Schnapp",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

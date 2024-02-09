@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du bekommst unbegrenzt kostenlose Probepakete deiner Lieblingssüssigkeit.",
+      "v": "Du bekommst unbegrenzt kostenlose Probepakete deiner Lieblingssüßigkeit.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.82",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.13",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.21",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.05",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bekommst unbegrenzt kostenlose Probepakete deiner Lieblingssüssigkeit. Aber nur, wenn du dafür in Gesprächen einmal am Tag “<BLANK>” sagst.\r\nAkzeptierst du die Bedingung?",
+      "s": "Du bekommst unbegrenzt kostenlose Probepakete deiner Lieblingssüßigkeit. Aber nur, wenn du dafür in Gesprächen einmal am Tag “<BLANK>” sagst.\r\nAkzeptierst du die Bedingung?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

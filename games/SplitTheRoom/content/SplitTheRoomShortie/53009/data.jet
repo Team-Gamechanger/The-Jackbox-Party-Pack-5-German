@@ -52,12 +52,12 @@
     },
     {
       "t": "S",
-      "v": "Er/Sie verliert sie für immer, aber wird nie erfahren, dass du es warst.",
+      "v": "Der Spieler verliert sie für immer, aber wird nie erfahren, dass du es warst.",
       "n": "ScenarioText4"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.40",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+1.39",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+2.40",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.83",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du kannst die Fähigkeit <BLANK> von <OTHERPLAYER> stehlen. Er/Sie verliert sie für immer, aber wird nie erfahren, dass du es warst.\r\nStiehlst du die Fähigkeit?",
+      "s": "Du kannst die Fähigkeit <BLANK> von <OTHERPLAYER> stehlen. Der Spieler verliert sie für immer, aber wird nie erfahren, dass du es warst.\r\nStiehlst du die Fähigkeit?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

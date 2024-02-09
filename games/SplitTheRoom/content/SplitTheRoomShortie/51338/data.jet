@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "drastisch schrumpfen | ständig jucken | singen | verschwinden | schweissig werden",
+      "v": "drastisch schrumpfen | ständig jucken | singen | verschwinden |konstant schwitzen",
       "n": "Decoys"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.63",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.87",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.54",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.77",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {

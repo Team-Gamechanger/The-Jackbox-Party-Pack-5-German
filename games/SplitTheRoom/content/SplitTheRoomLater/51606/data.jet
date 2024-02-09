@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Du kannst keine Kinder haben | Uggghhhhh, Zahlen | Verlass sie | Zeit, ein paar Zahlen krachen zu lassen | Ich gebe kein Trinkgeld",
+      "v": "Ich bin unfruchtbar | Uggghhhhh, Zahlen | Trenn dich | Das ist ein Überfall | Ich liebe dich",
       "n": "Decoys"
     },
     {
@@ -76,7 +76,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Plus Trinkgeld",
+      "s": "Trinkgeld nicht vergessen",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

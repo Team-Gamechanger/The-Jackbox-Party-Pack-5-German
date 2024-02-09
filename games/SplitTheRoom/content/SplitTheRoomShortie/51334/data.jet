@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Bittest du ihn/sie herein?",
+      "v": "Bittest du den Partner herein?",
       "n": "QuestionText"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Als ihr danach zu dir nachhause geht und du den Schlüssel in die Tür steckst, erinnerst du dich, dass mitten im Wohnzimmer",
+      "v": "Als ihr danach zu dir nach Hause geht und du den Schlüssel in die Tür steckst, erinnerst du dich, dass mitten im Wohnzimmer",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.63",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+2.78",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.71",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast ein Date mit jemandem, den du sehr magst. Als ihr danach zu dir nachhause geht und du den Schlüssel in die Tür steckst, erinnerst du dich, dass mitten im Wohnzimmer <BLANK>.\r\nBittest du ihn/sie herein?",
+      "s": "Du hast ein Date mit jemandem, den du sehr magst. Als ihr danach zu dir nach Hause geht und du den Schlüssel in die Tür steckst, erinnerst du dich, dass mitten im Wohnzimmer <BLANK>.\r\nBittest du den Partner herein?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

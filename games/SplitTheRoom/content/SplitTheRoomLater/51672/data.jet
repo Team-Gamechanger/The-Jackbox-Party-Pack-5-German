@@ -17,12 +17,12 @@
     },
     {
       "t": "S",
-      "v": "Wählst du das neue Auto?",
+      "v": "Wählst du das umweltfreundliche Auto?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Hundekot | Jazz-Musik | Tränen | persönlichen Geschichten, die man erzählt | gebrauchten Socken",
+      "v": "Hundekot | Jazz-Musik | Tränen | Liebesgeschichten, die man erzählt | gebrauchten Socken",
       "n": "Decoys"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Es gibt ein neues umweltfreundliches Auto, welches nicht mit Benzin oder Elektro fährt.",
+      "v": "Es gibt ein neues umweltfreundliches Auto, welches nicht mit herkömmlichen Treibstoffen fährt.",
       "n": "ScenarioText1"
     },
     {
@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Es gibt ein neues umweltfreundliches Auto, welches nicht mit Benzin oder Elektro fährt. Merkwürdigerweise läuft es mit <BLANK>. Du bist dabei, eine lange Fahrt zu planen und musst ein Auto mieten.\r\nWählst du das neue Auto?",
+      "s": "Es gibt ein neues umweltfreundliches Auto, welches nicht mit herkömmlichen Treibstoffen fährt. Merkwürdigerweise läuft es mit <BLANK>. Du bist dabei, eine lange Fahrt zu planen und musst ein Auto mieten.\r\nWählst du das umweltfreundliche Auto?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

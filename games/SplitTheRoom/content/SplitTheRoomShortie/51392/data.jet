@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Ich habe meine Frau betrogen | Ich habe einen Hund getötet | Die Erde ist flach | Ich weigere mich meine Steuern zu zahlen",
+      "v": "Ich habe meine Frau betrogen | Ich habe einen Hund getötet | Die Erde ist flach | Ich hinterziehe Steuern",
       "n": "Decoys"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Du warst einer der Besatzungsmitglieder, bei der ersten Mondlandung 1969.",
+      "v": "Du warst eines der Besatzungsmitglieder, bei der ersten Mondlandung 1969.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Du besitzt Filmmaterial, dass der Verschwörungstheorie ein Ende setzen kann...",
+      "v": "Du besitzt Filmmaterial, dass der Verschwörungstheorie ein Ende setzen könnte...",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.96",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.63",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.00",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.04",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du warst einer der Besatzungsmitglieder, bei der ersten Mondlandung 1969. Du besitzt Filmmaterial, dass der Verschwörungstheorie ein Ende setzen kann... aber in diesem Clip hört man dich rufen: “<BLANK>!”\r\nWirst du es veröffentlichen?",
+      "s": "Du warst eines der Besatzungsmitglieder, bei der ersten Mondlandung 1969. Du besitzt Filmmaterial, dass der Verschwörungstheorie ein Ende setzen könnte... aber in diesem Clip hört man dich rufen: “<BLANK>!”\r\nWirst du es veröffentlichen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

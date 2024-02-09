@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Es gibt eine Pille, die bewirkt dich wahnsinnig attraktiv zu machen.",
+      "v": "Es gibt eine Pille, die bewirkt, dich wahnsinnig attraktiv zu machen.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.32",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+3.75",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.39",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.18",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Es gibt eine Pille, die bewirkt dich wahnsinnig attraktiv zu machen. Aber sie wird deine Stimme wie <BLANK> klingen lassen. Du bist dabei, zu deinem 20-jährigen Klassentreffen zu gehen.\r\nNimmst du eine?",
+      "s": "Es gibt eine Pille, die bewirkt, dich wahnsinnig attraktiv zu machen. Aber sie wird deine Stimme wie <BLANK> klingen lassen. Du bist dabei, zu deinem 20-jährigen Klassentreffen zu gehen.\r\nNimmst du eine?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

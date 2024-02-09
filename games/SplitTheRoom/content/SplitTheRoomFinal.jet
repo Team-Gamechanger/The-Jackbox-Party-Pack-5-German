@@ -21,7 +21,7 @@
     },
     {
       "answerText": "Dein/e Ex",
-      "scenarioText": "Du bist ein Rettungsschwimmer, der Hilfeschreie hört. Zwei Menschen sind dabei zu ertrinken. Einer davon ist dein Ex, der mit dir Schluss gemacht hat. Der andere ist <BLANK>. Alle am Strand schauen dich an.",
+      "scenarioText": "Du bist ein Rettungsschwimmer, der Hilfeschreie hört. Zwei Menschen sind dabei zu ertrinken. Einer davon ist dein/e Ex, der mit dir Schluss gemacht hat. Der andere ist <BLANK>. Alle am Strand schauen dich an.",
       "decoys": "der Gründer von Nestle | ein gruseliger Typ | Vladimir Putin | dein Schwarm | der Zwilling deines Ex",
       "x": true,
       "id": 50460,
@@ -822,7 +822,7 @@
     },
     {
       "answerText": "Immunität gegen Koffein",
-      "scenarioText": "Ein Militärexperiment gibt dir Superkräfte, es hat jedoch seinen Preis. Nachdem deine Gene verändert wurden, erhälst du folgende Schwäche: Immunität gegen Koffein oder <BLANK>.",
+      "scenarioText": "Ein Militärexperiment gibt dir Superkräfte, es hat jedoch seinen Preis. Nachdem deine Gene verändert wurden, erhältst du folgende Schwäche: Immunität gegen Koffein oder <BLANK>.",
       "decoys": "Allergie gegen alle Tiere | Anfälligkeit für Dad-Jokes | du kannst nur noch Cargo-Hosen tragen | unheilbare Schuppen | sehr kitzelig sein",
       "x": false,
       "id": 53186,
@@ -1039,7 +1039,7 @@
     {
       "answerText": "Delfine, die deinen Namen singen",
       "scenarioText": "Du fährst auf einem geheimnisvollen Fluss, der sich bald teilt. In der einen Richtung singen Delphine im Chor deinen Namen, in der anderen <BLANK>.",
-      "decoys": "eine Glitzerdschungel | Leute, die mit dir über Gott reden | ein Chor dicker Engel | ein einfacher Wasserfall | ein buntes Piratenschiff",
+      "decoys": "ein Glitzerdschungel | sind hundert Zeugen Jehovas | ein Chor dicker Engel | ein einfacher Wasserfall | ein buntes Piratenschiff",
       "x": false,
       "id": 53312,
       "category": "Es geht den Bach runter",
@@ -1056,7 +1056,7 @@
     },
     {
       "answerText": "Batterien",
-      "scenarioText": "Glückwunsch, du hast im Lotto gewonnen! Allerdings bekommst du deinen Gewinn nicht in Geldform. Du erhälst entweder Batterien oder <BLANK> im Wert von einer Million Euro.",
+      "scenarioText": "Glückwunsch, du hast im Lotto gewonnen! Allerdings bekommst du deinen Gewinn nicht in Geldform. Du erhältst entweder Batterien oder <BLANK> im Wert von einer Million Euro.",
       "decoys": "Schuhe | Pizza | Bücher | Geschirr | Katzenstreu",
       "x": false,
       "id": 53327,
@@ -1075,7 +1075,7 @@
     {
       "answerText": "Was ist mit den Flamingos los?",
       "scenarioText": "Du begegnest einem gütigen und allwissenden Wesen. Du darfst eine Frage stellen...aber sie muss entweder \"Was ist mit den Flamingos los?\" oder \"<BLANK>\" lauten.",
-      "decoys": "Wie wird das Wetter morgen | Wie geht es dir | Verstehst du mich | Liebt mich meine Katze | Bin ich GUT",
+      "decoys": "Wie wird das Wetter morgen | Wie geht es dir | Verstehst du mich | Liebt mich meine Katze | Bin ich BÖSE",
       "x": false,
       "id": 53329,
       "category": "Göttliche Antworten",
@@ -1083,26 +1083,26 @@
     },
     {
       "answerText": "bei den Nachbarn herumschnüffeln",
-      "scenarioText": "Für eine Stunde verschwinden alle Menschen von der Welt, nur du nicht. Du könntest das Haus deines Nachbarn durchsuchen oder <BLANK>.",
+      "scenarioText": "Für eine Stunde verschwinden alle Menschen von der Welt, nur du nicht. Du könntest in der Zeit im Haus deines Nachbarn herumschnüffeln oder <BLANK>.",
       "decoys": "ein Nickerchen machen | nackt durch die Strassen spazieren | eine Tonne an Elektronik stehlen | eine Spritztour machen | laute Partymusik abspielen",
       "x": false,
       "id": 53330,
-      "category": "Allein zu Haus",
+      "category": "Nur eine Stunde",
       "questionText": "Wie verbringst du deine wertvolle Stunde?"
     },
     {
-      "answerText": "auf Stühlen zu sitzen",
-      "scenarioText": "Du erhältst die Gabe der Superbalance; du wirst nie wieder fallen oder stolpern. Als Nebeneffekt entwickelt du die Unfähigkeit, auf einem Stuhl zu sitzen, oder die Unfähigkeit, <BLANK>.",
-      "decoys": "Babys anzulächeln | öffentliche Toiletten zu benutzen | Nickerchen zu machen | Hüte zu tragen | an Türen zu klingeln",
+      "answerText": "auf Stühlen sitzen",
+      "scenarioText": "Du erhältst die Gabe der Superbalance und wirst nie wieder fallen oder stolpern. Als Nebeneffekt kannst du jedoch nie wieder auf einen Stuhl sitzen oder nie wieder <BLANK>.",
+      "decoys": "Babys anlächeln | öffentliche Toiletten benutzen | Nickerchen machen | Hüte tragen | an Türen klingeln",
       "x": false,
       "id": 53335,
-      "category": "Perfekter Balanceaustausch",
+      "category": "Der perfekte Tausch",
       "questionText": "Welche Fähigkeit gibst du auf?"
     },
     {
       "answerText": "eine Ziege heiraten",
-      "scenarioText": "Die Medizin hat bei dir versagt... aber ein schamanischer Heiler meint, er könnte dich heilen. Du wirst vollkommen gesund, wenn du entweder eine Ziege heiratest oder <BLANK>.",
-      "decoys": "ein menschliches Herz isst | eine Nacht in einem vergrabenen Sarg verbringst | ein magisches Artefakt von einem Museum stiehlst | nur schwarze Kleidung trägst | nur noch Volksmusik hörst",
+      "scenarioText": "Klassische Medizin hat bei dir versagt... aber ein schamanischer Heiler meint, er könnte dich heilen. Du wirst vollkommen gesund, wenn du entweder eine Ziege heiratest oder <BLANK>.",
+      "decoys": "ein menschliches Herz isst | ab jetzt in einem Sarg schläfst | Artefakte  aus dem Museum stiehlst | nur schwarze Kleidung trägst | nur Volksmusik hörst",
       "x": false,
       "id": 53341,
       "category": "Bizarre Heilung",
@@ -1110,7 +1110,7 @@
     },
     {
       "answerText": "Tiere als Kinder zu bezeichnen",
-      "scenarioText": "Du bist in das höchste Gericht des Landes gewählt worden. Zu deinem Amtsantritt kannst du ein neues Gesetz erlassen. Du kannst entweder verbieten, Tiere als “Kinder” zu bezeichnen oder <BLANK>.",
+      "scenarioText": "Du bist in das höchste Gericht des Landes gewählt worden. Zu deinem Amtsantritt darfst du einfach so ein Verbot erlassen. Du kannst entweder verbieten, Tiere als die eigenen Kinder zu bezeichnen oder <BLANK>.",
       "decoys": "Small Talk in Fahrstühlen zu führen | Ghettofäuste | Emojis | Autoaufkleber | Klettverschluss-Geldbörsen",
       "x": false,
       "id": 53343,
@@ -1120,7 +1120,7 @@
     {
       "answerText": "Matratze",
       "scenarioText": "Du bist ein einsamer Mann, der mitten im Wald lebt... aber eine Fee kann einen deiner leblosen Gegenstände zum Leben erwecken. Sie kann entweder deine Matratze oder <BLANK> zum Leben erwecken.",
-      "decoys": "deinem Laptop | einem Burrito | deiner Badematte | deinem Mülleimer | deiner Zahnbürste",
+      "decoys": "deinen Laptop | einen Burrito | deine Badematte | deinen Mülleimer | deine Zahnbürste",
       "x": false,
       "id": 53345,
       "category": "Dein neuer Freund",
@@ -1132,22 +1132,22 @@
       "decoys": "Bin ich ein guter Mensch? | Würdest du mit mir schlafen? | Wie ist mein Haar? | Bin ich langweilig? | Wie ist mein Modegeschmack?",
       "x": false,
       "id": 53361,
-      "category": "Persönliches Feedback",
+      "category": "Ehrlichkeit ist eine Tugend",
       "questionText": "Welche Frage lässt du deine Freunde beantworten?"
     },
     {
-      "answerText": "Alte Fahrradhupe",
-      "scenarioText": "Dein neues solarbetriebenes Smartphone hat eine unbegrenzte Akkulaufzeit. Leider sind die einzigen verfügbaren Klingeltöne “Alte Fahrradhupe” oder “<BLANK>”. Nach der Auswahl kann der Klingelton nicht mehr geändert werden.",
-      "decoys": "“Macarena” | Hundebellen | “Jingle Bells” | “Brüllendes Faultier” | “HEY LEUTE!” | “Yankee Doodle” | “Cha Cha Slide”",
+      "answerText": "Alte Fahrradklingel",
+      "scenarioText": "Dein neues solarbetriebenes Smartphone hat eine unbegrenzte Akkulaufzeit. Leider sind die einzigen verfügbaren Klingeltöne “Alte Fahrradklingel” oder “<BLANK>”. Nach der Auswahl kann der Klingelton nicht mehr geändert werden.",
+      "decoys": "“Macarena” | Hundebellen | “Jingle Bells” | “Brüllendes Faultier” | “HEY LEUTE!” | “Yankee Doodle” | “Furztuba”",
       "x": false,
       "id": 53365,
-      "category": "Klingeltaub",
+      "category": "Tücken der Technik",
       "questionText": "Welchen Klingelton wählst du aus?"
     },
     {
-      "answerText": "Buchstabier-Champions",
-      "scenarioText": "Deine Stadt hat keine Jungfrauen mehr, also müsst ihr etwas anderes opfern. Du kannst zwischen Buchstabier-Champions oder <BLANK> wählen.",
-      "decoys": "YouTube-Stars | wirklich süssen Hunden | kalten Fusions-Motoren | Uni-Athleten | Radiomoderatoren",
+      "answerText": "Buchstabier-Meister",
+      "scenarioText": "Deine Stadt hat keine Jungfrauen mehr, also müsst ihr etwas anderes opfern. Du kannst zwischen Buchstabier-Meister oder <BLANK> wählen.",
+      "decoys": "YouTube-Stars | wirklich süssen Hunden | Hautärzte | Skiprung-Weltmeister | Radiomoderatoren",
       "x": true,
       "id": 53374,
       "category": "Opferlamm",
@@ -1155,17 +1155,17 @@
     },
     {
       "answerText": "Seilbahntour",
-      "scenarioText": "Du planst seit Monaten, dich von deinem Partner zu trennen. Du musst es JETZT im Urlaub tun, weil du befürchtest, dass er/sie dir einen Heiratsantrag machen wird. Du kannst es ihm/ihr entweder während einer Seilbahnfahrt im Dschungel oder während <BLANK> sagen.",
-      "decoys": "ihr im Whirlpool sitzt | eines Pferdeausritts bei Sonnenuntergang | einer Massage | einer Tandemradfahrt | dem Schwimmen mit Delfinen",
+      "scenarioText": "Du planst seit Monaten, dich von deinem Partner zu trennen. Du musst es JETZT im Urlaub tun, weil du befürchtest, dass er/sie dir einen Heiratsantrag machen wird. Du kannst es entweder während einer Seilbahnfahrt im Dschungel oder während <BLANK> gestehen.",
+      "decoys": "ihr im Whirlpool sitzt | am Strand beim Sonnenuntergang | einer Massage | einer Tandemradfahrt | dem Schwimmen mit Delfinen",
       "x": false,
       "id": 53375,
       "category": "Unangenehme Heimreise",
-      "questionText": "Was ist der bessere Trennungsort?"
+      "questionText": "Welches ist der bessere Trennungsort?"
     },
     {
       "answerText": "von <OTHERPLAYER>",
-      "scenarioText": "Ein Bruchstück eines Meteoriten ist in deinem Garten gelandet. Wenn du ihn berührst, kannst du die Gedanken von <OTHERPLAYER> oder <BLANK> lesen.",
-      "decoys": "Carlos Mencia | des Regierungschefs | einem Serienmörder | deinem Chef",
+      "scenarioText": "Ein Bruchstück eines Meteoriten ist in deinem Garten gelandet. Wenn du ihn berührst, kannst du entweder die Gedanken von <OTHERPLAYER> oder <BLANK> lesen.",
+      "decoys": "Dieter Bohlen | Donald Trump | einem Serienmörder | deinem Chef | Carmen Geiss",
       "x": false,
       "id": 53381,
       "category": "Ein offenes Buch",
@@ -1174,7 +1174,7 @@
     {
       "answerText": "mit Small Talk",
       "scenarioText": "Du bist zur Hölle gefahren... aber der Teufel erweist sich als vernünftiger Kerl. Er gibt dir zwei Möglichkeiten, die Ewigkeit zu verbringen. Entweder mit Small Talk oder mit <BLANK>.",
-      "decoys": "Mainstream-Radio | Ameisen, die auf dir krabbeln | Werbesendungen | nur Weissbrot zum Essen | ein endloses Monopoly-Spiel",
+      "decoys": "Radio-Morgenmagazinen | Ameisen, die auf dir krabbeln | Werbesendungen | nur Weißbrot zum Essen | ein endloses Monopoly-Spiel",
       "x": false,
       "id": 53575,
       "category": "Nicht so schlimm",
@@ -1182,35 +1182,35 @@
     },
     {
       "answerText": "Sugar Daddys",
-      "scenarioText": "Es ist deine erste Nacht im Gefängnis und du brauchst eine Gruppe von Häftlingen, die dich beschützen. Schließt du dich einer Gruppe namens “Sugar Daddys” oder lieber “<BLANK>” an?",
-      "decoys": "Die Bestrafer | Der Kitzel-Trupp | Das Karaoke Kommando | Die Bulligen Buben | Die Kichernden Mädels",
+      "scenarioText": "Es ist deine erste Nacht im Gefängnis und du brauchst eine Gruppe von Häftlingen, die dich beschützt. Schließt du dich einer Gruppe mit dem Namen “Sugar Daddy's” oder einer namens “<BLANK>” an?",
+      "decoys": "Die Bestrafer | Der Kitzel-Trupp | Das Karaoke-Kommando | Die bulligen Buben | Die kichernden Mädels",
       "x": true,
       "id": 53590,
       "category": "Hinter Gittern",
-      "questionText": "Welcher Gruppe schliesst du dich an?"
+      "questionText": "Welcher Gruppe schließt du dich an?"
     },
     {
       "answerText": "sehr kräftig applaudieren",
-      "scenarioText": "Ein neues Fitnesstraining gibt dir den perfekten Körper, dafür musst du nur 50 Mal am Tag folgendes tun: sehr kräftig applaudieren oder <BLANK>.",
+      "scenarioText": "Ein neues Fitnesstraining gibt dir den perfekten Körper, für den du nur 50 Mal am Tag folgendes tun musst: sehr kräftig applaudieren oder <BLANK>.",
       "decoys": "tief verbeugen | auf jeden um dich herum zeigen | dich selbst filzen | Kniebeugen im Freien machen | einen Baum erklimmen",
       "x": false,
       "id": 53591,
-      "category": "Wie gemeißelt",
-      "questionText": "Wie willst du dein Six-Pack erreichen?"
+      "category": "Körperkult",
+      "questionText": "Wie willst du deinen Traumkörper erreichen?"
     },
     {
-      "answerText": "“WAS WOHL ALS NÄCHSTES PASSIERT?”",
+      "answerText": "“WAS PASSIERT ALS NÄCHSTES?”",
       "scenarioText": "Du kannst unbegrenzt Freikarten fürs Kino bekommen. Vorraussetzung dafür ist, dass du irgendwann während des Films aufstehst und “WAS PASSIERT ALS NÄCHSTES?” oder “<BLANK>” schreist.",
-      "decoys": "IST DAS GAME OF THRONES? | WIE LAUTET DAS WI-FI PASSWORT? | HAN HAT ZUERST GESCHOSSEN | WO IST ALEC BALDWIN? | IST NOCH JEMANDEM HEISS HIER?",
+      "decoys": "IST DAS GAME OF THRONES? | WIE LAUTET DAS WLAN-PASSWORT? | HAN HAT ZUERST GESCHOSSEN | WO IST TIL SCHWEIGER? | IST NOCH JEMANDEM HEISS HIER?",
       "x": false,
       "id": 53592,
-      "category": "Scream",
+      "category": "Immer raus damit",
       "questionText": "Welchen Spruch schreist du?"
     },
     {
       "answerText": "<OTHERPLAYER>",
-      "scenarioText": "Nach einem neuen Gesetz ist man verpflichtet, über seinem Bett ein Porträt von <OTHERPLAYER> oder <BLANK> aufzuhängen.",
-      "decoys": "R. Kelly | Bugs Bunny | Crash Bandicoot | Mussolini | dem Papst",
+      "scenarioText": "Einem neuen Gesetz nach ist man verpflichtet, über seinem Bett ein Porträt von <OTHERPLAYER> oder <BLANK> aufzuhängen.",
+      "decoys": "Angela Merkel | Bugs Bunny | Crash Bandicoot | Mussolini | dem Papst",
       "x": false,
       "id": 53635,
       "category": "Süße Träume",
@@ -1219,16 +1219,16 @@
     {
       "answerText": "<OTHERPLAYER>",
       "scenarioText": "Du bist der Geschäftsführer einer Parfümfirma. Du kannst grünes Licht für ein neues Parfüm geben, das nach <OTHERPLAYER> oder <BLANK> riecht.",
-      "decoys": "New York | Schinkensandwich | Waschsalon | Seetang | Bergwerk",
+      "decoys": "Autobahntoilette | Schinkensandwich | Waschsalon | Seetang | Bergwerk",
       "x": false,
       "id": 53636,
-      "category": "Sensible Gerüche",
+      "category": "Gerücheküche",
       "questionText": "Wonach soll dein neues Parfüm riechen?"
     },
     {
       "answerText": "<OTHERPLAYER>",
-      "scenarioText": "Du bist Geschäftsführer einer Plattenfirma. Der nächste Künstler, den du unter Vertrag nimmst, muss entweder <OTHERPLAYER> oder <BLANK> sein. Du hast eine große Hypothek und fünf kleine Kinder.",
-      "decoys": "eine zufällige Person von der Strasse | das Mädchen von “Schnappi, das kleine Krokodil” | deine Mutter | der Gewinner des Dschungelcamps | du selbst",
+      "scenarioText": "Du bist Geschäftsführer einer Plattenfirma. Der nächste Künstler, den du unter Vertrag nimmst, muss entweder <OTHERPLAYER> oder <BLANK> sein. Du hast eine teure Hypothek und fünf kleine Kinder.",
+      "decoys": "Irgendwen von der Straße | Schnappi, das kleine Krokodil | deine Mutter | der letzte Dschungelkönig | dich selbst",
       "x": false,
       "id": 53637,
       "category": "Spiel mir das Lied der Not",
@@ -1244,26 +1244,26 @@
       "questionText": "Mit wem vermeidest du den Augenkontakt für den Rest deines Lebens?"
     },
     {
-      "answerText": "von <OTHERPLAYER>",
+      "answerText": "Von <OTHERPLAYER>",
       "scenarioText": "Eine seltene neurologische Erkrankung führt dazu, dass du die körperlichen Schmerzen von <OTHERPLAYER> und <BLANK> spürst. Durch eine Operation kann eine der beiden Verbindungen getrennt werden.",
-      "decoys": "Patrick Ewing | deiner Mutter | Tom Cruise | einem alten Hund | einem Cirque du Soleil-Künstler",
+      "decoys": "Barbara Salesch | deiner Mutter | Tom Cruise | einem alten Hund | einem Cirque du Soleil-Künstler",
       "x": false,
       "id": 53640,
-      "category": "Geteiltes Leid",
+      "category": "Geteiltes Leid...",
       "questionText": "Wessen Schmerzen erträgst du tagtäglich?"
     },
     {
-      "answerText": "<OTHERPLAYER>’s",
+      "answerText": "Von <OTHERPLAYER>",
       "scenarioText": "Du hast die Macht, die Kochfähigkeiten von jemandem zu stehlen. Diese Macht wirkt entweder auf <OTHERPLAYER> oder <BLANK>.",
-      "decoys": "Guy Fieri | deinem Vater | Gordon Ramsey | Ralf Zacherl | deiner Ur-Grossmutter |",
+      "decoys": "Steffen Henssler | deinem Vater | Gordon Ramsey | Ralf Zacherl | deiner Ur-Grossmutter |",
       "x": false,
       "id": 53641,
-      "category": "Nur noch Mikrowelle",
+      "category": "Ein geklautes Mahl",
       "questionText": "Wessen Koch-Fähigkeiten stiehlst du?"
     },
     {
       "answerText": "<OTHERPLAYER>",
-      "scenarioText": "Du bist ein bekannter Politiker. Du kannst deine Biographie von einer von zwei Personen schreiben lassen: <OTHERPLAYER> oder <BLANK>.",
+      "scenarioText": "Du bist ein bekannter Politiker. Du kannst deine Biographie von einer dieser beiden Personen schreiben lassen: <OTHERPLAYER> oder <BLANK>.",
       "decoys": "Til Schweiger | Heidi Klum | Florian Silbereisen | Angela Merkel | Lena Meyer-Landrut",
       "x": false,
       "id": 53643,
@@ -1271,9 +1271,9 @@
       "questionText": "Von wem lässt du deine Biographie schreiben?"
     },
     {
-      "answerText": "Ohne Hosen",
-      "scenarioText": "Nach einem neuen Gesetz muss jeder heimlich fotografiert werden, um eine Online-Landkarte zu erstellen. Entweder du lässt dich ohne Hose beim Post holen fotografieren oder wie du <BLANK>.",
-      "decoys": "betrunken in einen Busch pinkelst | erbrichst | einen streunenden Hund schlägst | den Nachbarn durchs Fenster beobachtest | eine Rasendeko stiehlst",
+      "answerText": "Ohne Hosen Post holen",
+      "scenarioText": "Nach einem neuen Gesetz muss jeder heimlich fotografiert werden, um daraus eine Online-Landkarte zu erstellen. Entweder du lässt dich ohne Hose beim Post holen fotografieren oder wie du <BLANK>.",
+      "decoys": "betrunken in einen Busch pinkelst | erbrichst | einen streunenden Hund schlägst | den Nachbarn durchs Fenster beobachtest | einen Gartenzwerg stiehlst",
       "x": false,
       "id": 53647,
       "category": "In Flagranti",
@@ -1281,11 +1281,11 @@
     },
     {
       "answerText": "Sauerkraut",
-      "scenarioText": "Es ist das Jahr 2062 und 90% der Bevölkerung haben einen Vollzeitjob, bei dem sie seltsame Produkte an reiche Menschen ausliefern. Du kannst entweder Sauerkraut oder <BLANK> ausliefern. Jedesmal, wenn du auslieferst, musst du sagen: “Ich bin stolz, Ihnen das überreichen zu dürfen”.",
-      "decoys": "Kondome | Unterwäsche | Hamster | Plastikstrohhalme | E-Zigaretten-Liquid",
+      "scenarioText": "Es ist das Jahr 2062 und 90% der Bevölkerung haben einen Vollzeitjob, bei dem sie seltsame Produkte an reiche Menschen ausliefern. Du kannst entweder Sauerkraut oder <BLANK> ausliefern. Jedesmal, wenn ein Paket ausgibst, musst du sagen: “Ich bin stolz, Ihnen das überreichen zu dürfen”.",
+      "decoys": "Kondome | Unterwäsche | Hamster | Plastikstrohhalme | Zigarillos",
       "x": false,
       "id": 53652,
-      "category": "Liefermöglichkeiten",
+      "category": "Geliefert",
       "questionText": "Welchen Gegenstand lieferst du an reiche Menschen?"
     }
   ]

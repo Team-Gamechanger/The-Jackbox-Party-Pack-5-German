@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "<OTHERPLAYER>’s",
+      "v": "Von <OTHERPLAYER>",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "Guy Fieri | deinem Vater | Gordon Ramsey | Ralf Zacherl | deiner Ur-Grossmutter |",
+      "v": "Steffen Henssler | deinem Vater | Gordon Ramsey | Ralf Zacherl | deiner Ur-Grossmutter |",
       "n": "Decoys"
     },
     {
@@ -81,7 +81,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Nur noch Mikrowelle",
+      "s": "Ein geklautes Mahl",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

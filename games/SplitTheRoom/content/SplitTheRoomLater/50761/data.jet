@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Du kommst im Büro an, und bemerkst, dass es sich nicht um einen Bring-deine-Tochter-mit-zur-Arbeit-Tag handelt, sondern dem",
+      "v": "Du kommst im Büro an und bemerkst, dass es sich nicht um den Bring-deine-Tochter-mit-zur-Arbeit-Tag handelt, sondern um den",
       "n": "ScenarioText1"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Eine Familienangelegenheit",
+      "s": "Der besondere Tag",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du kommst im Büro an, und bemerkst, dass es sich nicht um einen Bring-deine-Tochter-mit-zur-Arbeit-Tag handelt, sondern dem Bring-<BLANK>-mit-zur-Arbeit-Tag. Wenn du dein kleines Mädchen wieder nach Hause bringst, wird sie am Boden zerstört sein.\r\nLässt du sie bleiben?",
+      "s": "Du kommst im Büro an und bemerkst, dass es sich nicht um den Bring-deine-Tochter-mit-zur-Arbeit-Tag handelt, sondern um den Bring-<BLANK>-mit-zur-Arbeit-Tag. Wenn du dein kleines Mädchen wieder nach Hause bringst, wird sie am Boden zerstört sein.\r\nLässt du sie bleiben?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

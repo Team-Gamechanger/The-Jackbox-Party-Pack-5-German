@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Ein magischer Kompass lenkt dich zu guten Entscheidungen im Leben - die richtige Karriere, die besten Freunde, etc..",
+      "v": "Ein magischer Kompass lenkt dich zu guten Entscheidungen im Leben - die richtige Karriere, die besten Freunde, usw..",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.89",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.65",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.56",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.70",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein magischer Kompass lenkt dich zu guten Entscheidungen im Leben - die richtige Karriere, die besten Freunde, etc.. Doch die Magie geht zur Neige. Damit es wieder funktioniert, musst du <BLANK>.\r\nMachst du es… jede Nacht?",
+      "s": "Ein magischer Kompass lenkt dich zu guten Entscheidungen im Leben - die richtige Karriere, die besten Freunde, usw.. Doch die Magie geht zur Neige. Damit es wieder funktioniert, musst du <BLANK>.\r\nMachst du es… jede Nacht?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

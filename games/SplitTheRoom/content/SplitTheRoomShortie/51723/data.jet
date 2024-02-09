@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Doch jedes Paket enthält einen 30-tägigen Verlauf deiner letzten Bestellungen, somit bemerkt deine Mutter, dass du",
+      "v": "Doch jedes Paket enthält einen 30-tägigen Verlauf deiner letzten Bestellungen, somit würde deine Mutter bemerken, dass du",
       "n": "ScenarioText2"
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "t": "S",
-      "v": "in grossen Mengen bestellt hast.",
+      "v": "in großen Mengen bestellt hast.",
       "n": "ScenarioText4"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+17.30",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.44",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+14.72",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+15.54",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast den Geburtstag deiner Mutter vergessen. Also bestellst du ein Geschenk bei einem neuen Service namens Flambazon, welches noch am selben Tag geliefert wird. Doch jedes Paket enthält einen 30-tägigen Verlauf deiner letzten Bestellungen, somit bemerkt deine Mutter, dass du <BLANK> in grossen Mengen bestellt hast.\r\nStornierst du die Bestellung?",
+      "s": "Du hast den Geburtstag deiner Mutter vergessen. Also bestellst du ein Geschenk bei einem neuen Service namens Flambazon, welches noch am selben Tag geliefert wird. Doch jedes Paket enthält einen 30-tägigen Verlauf deiner letzten Bestellungen, somit würde deine Mutter bemerken, dass du <BLANK> in großen Mengen bestellt hast.\r\nStornierst du die Bestellung?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

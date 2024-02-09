@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "alterst du 2 Monate | übergibst du dich | musst du ein dunkles Geheimnis teilen | musst du ihn berühren | musst du mit offenem Mund sabbern",
+      "v": "alterst du 2 Monate | übergibst du dich | musst du ein Geheimnis teilen | musst du abfackeln | musst du mit offenem Mund sabbern",
       "n": "Decoys"
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "t": "S",
-      "v": "Deine Indie-Band hat gerade eine große Tour durch den Südwesten gebucht.",
+      "v": "Deine Indie-Band hat gerade eine große Tour durch Süddeutschland gebucht.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Doch leider immer, wenn du einen Kaktus siehst,",
+      "v": "Doch leider immer, wenn du eine Kirche oder Kapelle siehst,",
       "n": "ScenarioText2"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Band der Schwierigkeiten",
+      "s": "Musik in deinen Ohren",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Deine Indie-Band hat gerade eine große Tour durch den Südwesten gebucht. Doch leider immer, wenn du einen Kaktus siehst, <BLANK>. Diese Tour könnte dir viele Möglichkeiten eröffnen.\r\nGehst du auf Tour?",
+      "s": "Deine Indie-Band hat gerade eine große Tour durch Süddeutschland gebucht. Doch leider immer, wenn du eine Kirche oder Kapelle siehst, <BLANK>. Diese Tour könnte dir viele Möglichkeiten eröffnen.\r\nGehst du auf Tour?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

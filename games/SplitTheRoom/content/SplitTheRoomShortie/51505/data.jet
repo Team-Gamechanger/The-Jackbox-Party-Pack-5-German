@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du verdienst ein volles Jahresgehalt, indem du eine Woche im Jahr, als Krabbenfischer arbeitest.",
+      "v": "Du verdienst ein volles Jahresgehalt, indem du eine Woche im Jahr als Krabbenfischer arbeitest.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+15.29",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.05",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.79",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.61",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du verdienst ein volles Jahresgehalt, indem du eine Woche im Jahr, als Krabbenfischer arbeitest. In dieser Woche ziehst du das Netz hoch und stellst fest, dass du <BLANK> gefangen hast. Sein Leben zu retten bedeutet, dass du jeden gefangenen Krebs zurückwerfen musst.\r\nRettest du sein Leben?",
+      "s": "Du verdienst ein volles Jahresgehalt, indem du eine Woche im Jahr als Krabbenfischer arbeitest. In dieser Woche ziehst du das Netz hoch und stellst fest, dass du <BLANK> gefangen hast. Sein Leben zu retten bedeutet, dass du jeden gefangenen Krebs zurückwerfen musst.\r\nRettest du sein Leben?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

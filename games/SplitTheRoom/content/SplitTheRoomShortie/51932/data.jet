@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du bist einer von hundert Personen, die ein Augmented-Reality-Spiel testen dürfen. Du gehst durch die Stadt und benutzt deine Handykamera, um Cartoon-Figuren zu finden.",
+      "v": "Du bist eine von hundert Personen, die ein Augmented-Reality-Spiel testen dürfen. Du gehst durch die Stadt und benutzt deine Handykamera, um Cartoon-Figuren zu finden.",
       "n": "ScenarioText1"
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "t": "S",
-      "v": "zu schiessen. Der höchste Highscore bekommt 500 Euro.",
+      "v": "zu schießen. Der höchste Highscore bekommt 500 Euro.",
       "n": "ScenarioText4"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+16.41",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.04",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.05",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.95",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist einer von hundert Personen, die ein Augmented-Reality-Spiel testen dürfen. Du gehst durch die Stadt und benutzt deine Handykamera, um Cartoon-Figuren zu finden. Das Spiel animiert dich dazu, Fotos von <BLANK> zu schiessen. Der höchste Highscore bekommt 500 Euro.\r\nSpielst du weiter?",
+      "s": "Du bist eine von hundert Personen, die ein Augmented-Reality-Spiel testen dürfen. Du gehst durch die Stadt und benutzt deine Handykamera, um Cartoon-Figuren zu finden. Das Spiel animiert dich dazu, Fotos von <BLANK> zu schießen. Der höchste Highscore bekommt 500 Euro.\r\nSpielst du weiter?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

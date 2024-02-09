@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Er meint es gut, aber wenn er sich in grossen Menschengruppen befindet, spricht er durchgehend über",
+      "v": "Er meint es gut, aber wenn er sich in großen Menschengruppen befindet, spricht er durchgehend über",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.73",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.23",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.09",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.98",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Einer deiner guten Kindheitsfreunde ist kürzlich zu dir in die Stadt gezogen. Er meint es gut, aber wenn er sich in grossen Menschengruppen befindet, spricht er durchgehend über <BLANK>. Auch, wenn niemand fragt.\r\nLädst du ihn zu deiner Geburtstagsfeier ein?",
+      "s": "Einer deiner guten Kindheitsfreunde ist kürzlich zu dir in die Stadt gezogen. Er meint es gut, aber wenn er sich in großen Menschengruppen befindet, spricht er durchgehend über <BLANK>. Auch, wenn niemand fragt.\r\nLädst du ihn zu deiner Geburtstagsfeier ein?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du wurdest verflucht. Unter jedem Online-Video, dass du dir ansiehst, musst du den Kommentar",
+      "v": "Du wurdest verflucht. Unter jedem Online-Video, das du dir ansiehst, musst du in den Kommentaren",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.67",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.33",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.15",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.17",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wurdest verflucht. Unter jedem Online-Video, dass du dir ansiehst, musst du den Kommentar “<BLANK>” hinterlassen. Dein Freund behauptet, das süsseste Baby-Video aller Zeiten gesehen zu haben.\r\nSchaust du es dir an?",
+      "s": "Du wurdest verflucht. Unter jedem Online-Video, das du dir ansiehst, musst du in den Kommentaren “<BLANK>” hinterlassen. Dein Freund behauptet, das süsseste Baby-Video aller Zeiten gesehen zu haben.\r\nSchaust du es dir an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

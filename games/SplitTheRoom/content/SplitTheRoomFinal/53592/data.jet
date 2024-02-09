@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "“WAS WOHL ALS NÄCHSTES PASSIERT?”",
+      "v": "“WAS PASSIERT ALS NÄCHSTES?”",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "IST DAS GAME OF THRONES? | WIE LAUTET DAS WI-FI PASSWORT? | HAN HAT ZUERST GESCHOSSEN | WO IST ALEC BALDWIN? | IST NOCH JEMANDEM HEISS HIER?",
+      "v": "IST DAS GAME OF THRONES? | WIE LAUTET DAS WLAN-PASSWORT? | HAN HAT ZUERST GESCHOSSEN | WO IST TIL SCHWEIGER? | IST NOCH JEMANDEM HEISS HIER?",
       "n": "Decoys"
     },
     {
@@ -81,7 +81,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Scream",
+      "s": "Immer raus damit",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ich mein, die Frage ist berechtigt.",
+      "s": "Ich mein', ja, es ist eine berechtigte Frage.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

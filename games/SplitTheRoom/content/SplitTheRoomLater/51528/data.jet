@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Es sind die 1960er Jahre. Dir wurde gerade ein lukrativer Model-Deal angeboten, als Werbegesicht von",
+      "v": "Es sind die 1960er-Jahre. Dir wurde gerade ein lukrativer Model-Deal angeboten, als Werbegesicht von",
       "n": "ScenarioText1"
     },
     {
@@ -42,12 +42,12 @@
     },
     {
       "t": "S",
-      "v": "Dieser Job wird dich für den Rest deines Lebens finanziell unterstützen…",
+      "v": "Mit diesem Job hast du für den Rest deines Lebens finanziell ausgesorgt…",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "aber du wirst für Jahrzehnte auf dem Produkt sein.",
+      "v": "aber man wird dein Gesicht für Jahrzehnte auf dem Produkt sehen.",
       "n": "ScenarioText4"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Das Antlitz des Bedauerns",
+      "s": "Antlitz des Bedauerns",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Es sind die 1960er Jahre. Dir wurde gerade ein lukrativer Model-Deal angeboten, als Werbegesicht von <BLANK>. Dieser Job wird dich für den Rest deines Lebens finanziell unterstützen… aber du wirst für Jahrzehnte auf dem Produkt sein.\r\nNimmst du den Deal an?",
+      "s": "Es sind die 1960er-Jahre. Dir wurde gerade ein lukrativer Model-Deal angeboten, als Werbegesicht von <BLANK>. Mit diesem Job hast du für den Rest deines Lebens finanziell ausgesorgt… aber man wird dein Gesicht für Jahrzehnte auf dem Produkt sehen.\r\nNimmst du den Deal an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "einem öffentlichen Urinal | einem Tankstellen-Sushi-Restaurant | einer Flasche heisse Sauce | dem Boden eines Umkleideraums | einem Kanalrohr",
+      "v": "einem öffentlichen Urinal | gekochten Eiern | einer Flasche Chilisauce | dem Boden eines Umkleideraums | einem Klärwerk",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Eine Nebenwirkung ist, dass deine Geschmacksnerven nach/zu",
+      "v": "Eine Nebenwirkung ist jedoch, dass einfach alles an diesem Ort für dich nach",
       "n": "ScenarioText2"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "transportiert werden.",
+      "v": "riechen wird.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Eine tiefgreifende Operation, gibt dir die Möglichkeit, alles zu sehen. Schliesse dein Augen und du erblickst den Ort. Eine Nebenwirkung ist, dass deine Geschmacksnerven nach/zu <BLANK> transportiert werden.\r\nMachst du die Operation?",
+      "s": "Eine tiefgreifende Operation, gibt dir die Möglichkeit, alles zu sehen. Schliesse dein Augen und du erblickst den Ort. Eine Nebenwirkung ist jedoch, dass einfach alles an diesem Ort für dich nach <BLANK> riechen wird.\r\nMachst du die Operation?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

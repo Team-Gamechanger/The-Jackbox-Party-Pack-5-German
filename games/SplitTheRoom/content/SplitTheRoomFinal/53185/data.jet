@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Nein, du kannst es nicht einfach als Scherz erklären.",
+      "s": "Nein, ihr könnt nicht einfach so tun, als wäre es ein Scherz.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

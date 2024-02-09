@@ -52,12 +52,12 @@
     },
     {
       "t": "S",
-      "v": "Dein Partner ist kein grosser Fan davon.",
+      "v": "Dein Partner ist kein großer Fan davon.",
       "n": "ScenarioText4"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.32",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.19",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.04",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.98",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Wenn du beim Sex den Höhepunkt erreichst, kannst du dich nicht beherrschen zehn Sekunden lang “<BLANK>!” zu rufen. Dein Partner ist kein grosser Fan davon.\r\nTrägst du eine Maske um dein Schreien abzudämpfen?",
+      "s": "Wenn du beim Sex den Höhepunkt erreichst, kannst du dich nicht beherrschen zehn Sekunden lang “<BLANK>!” zu rufen. Dein Partner ist kein großer Fan davon.\r\nTrägst du eine Maske um dein Schreien abzudämpfen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

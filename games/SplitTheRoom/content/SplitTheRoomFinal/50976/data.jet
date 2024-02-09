@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Das bemerkenswerte hier ist, dass du einen Kobold gefangen hast!",
+      "s": "Das bemerkenswerte hier ist, dass ihr einen Kobold gefangen habt!",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

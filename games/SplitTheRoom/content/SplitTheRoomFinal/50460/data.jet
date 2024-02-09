@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du bist ein Rettungsschwimmer, der Hilfeschreie hört. Zwei Menschen sind dabei zu ertrinken. Einer davon ist dein Ex, der mit dir Schluss gemacht hat.",
+      "v": "Du bist ein Rettungsschwimmer, der Hilfeschreie hört. Zwei Menschen sind dabei zu ertrinken. Einer davon ist dein/e Ex, der mit dir Schluss gemacht hat.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein Rettungsschwimmer, der Hilfeschreie hört. Zwei Menschen sind dabei zu ertrinken. Einer davon ist dein Ex, der mit dir Schluss gemacht hat. Der andere ist <BLANK>. Alle am Strand schauen dich an.\r\nWen rettest du?",
+      "s": "Du bist ein Rettungsschwimmer, der Hilfeschreie hört. Zwei Menschen sind dabei zu ertrinken. Einer davon ist dein/e Ex, der mit dir Schluss gemacht hat. Der andere ist <BLANK>. Alle am Strand schauen dich an.\r\nWen rettest du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

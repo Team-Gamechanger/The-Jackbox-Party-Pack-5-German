@@ -27,12 +27,12 @@
     },
     {
       "t": "S",
-      "v": "deinem Laptop | einem Burrito | deiner Badematte | deinem Mülleimer | deiner Zahnbürste",
+      "v": "deinen Laptop | einen Burrito | deine Badematte | deinen Mülleimer | deine Zahnbürste",
       "n": "Decoys"
     },
     {
       "t": "S",
-      "v": "SPLIT",
+      "v": "ALL_YES",
       "n": "Keywords"
     },
     {
@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Vertrau mir, niemand möchte eine sprechende Matratze",
+      "s": "Großer Fehler. Vertraut mir, niemand möchte eine sprechende Matratze.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

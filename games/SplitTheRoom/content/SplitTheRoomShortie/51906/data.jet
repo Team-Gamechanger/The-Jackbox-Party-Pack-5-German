@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Während eines Arbeitsausflugs zu einem Basketballspiel, zoomt die Grossbildleinwand in deinen Sitzbereich.",
+      "v": "Während eines Arbeitsausflugs zu einem Basketballspiel, zoomt die Großbildleinwand in deinen Sitzbereich.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.47",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,27 +67,27 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.04",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.36",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.91",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Eine grosse Chance",
+      "s": "Eine große Chance",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Während eines Arbeitsausflugs zu einem Basketballspiel, zoomt die Grossbildleinwand in deinen Sitzbereich. 1.000 Euro sollen an die Person gehen, die als erster <BLANK>. Du sitzt neben deinem Chef.\r\nMachst du es?",
+      "s": "Während eines Arbeitsausflugs zu einem Basketballspiel, zoomt die Großbildleinwand in deinen Sitzbereich. 1.000 Euro sollen an die Person gehen, die als erster <BLANK>. Du sitzt neben deinem Chef.\r\nMachst du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

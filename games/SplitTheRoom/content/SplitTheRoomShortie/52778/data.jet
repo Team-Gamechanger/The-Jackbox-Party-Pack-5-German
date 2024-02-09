@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.21",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,21 +67,21 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.32",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.45",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Du musst so gross sein, um wählen zu können",
+      "s": "Du musst so groß sein, um wählen zu können",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

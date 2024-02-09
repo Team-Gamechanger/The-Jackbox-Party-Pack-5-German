@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "von <OTHERPLAYER>",
+      "v": "Von <OTHERPLAYER>",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "Patrick Ewing | deiner Mutter | Tom Cruise | einem alten Hund | einem Cirque du Soleil-Künstler",
+      "v": "Barbara Salesch | deiner Mutter | Tom Cruise | einem alten Hund | einem Cirque du Soleil-Künstler",
       "n": "Decoys"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "t": "S",
-      "v": "Eine seltene neurologische Erkrankung führt dazu, dass du die körperlichen Schmerzen von",
+      "v": "Eine seltene neurologische Erkrankung führt dazu, dass du die körperlichen Schmerzen von <OTHERPLAYER> und",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "<OTHERPLAYER> und <BLANK> spürst.",
+      "v": "<BLANK>",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "Durch eine Operation kann eine der beiden Verbindungen getrennt werden.",
+      "v": "spürst.",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Durch eine Operation kann eine der beiden Verbindungen getrennt werden.",
       "n": "ScenarioText4"
     },
     {
@@ -81,7 +81,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Geteiltes Leid",
+      "s": "Geteiltes Leid...",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ach ja, hier gibt es keine Schmerzmittel.",
+      "s": "Ach ja, Schmerzmittel helfen nicht.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

@@ -52,12 +52,12 @@
     },
     {
       "t": "S",
-      "v": "- wenn sie dein Kind “sponsern” dürfen. Das bedeutet, dein Kind muss bis 18 Jahre subtile Markenkleidung tragen.",
+      "v": "- wenn sie dein Kind “sponsern” dürfen. Das bedeutet, dein Kind muss bis zum 18. Lebensjahr subtile Markenkleidung tragen.",
       "n": "ScenarioText4"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+16.43",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.97",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.82",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.63",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist kurz davor, dein erstes Kind zu bekommen. Im Rahmen einer neuen Kampagne, bietet dir <BLANK> an, für Essen, Kleidung und Ausbildung deines Kindes zu bezahlen - wenn sie dein Kind “sponsern” dürfen. Das bedeutet, dein Kind muss bis 18 Jahre subtile Markenkleidung tragen.\r\nNimmst du das Geld?",
+      "s": "Du bist kurz davor, dein erstes Kind zu bekommen. Im Rahmen einer neuen Kampagne, bietet dir <BLANK> an, für Essen, Kleidung und Ausbildung deines Kindes zu bezahlen - wenn sie dein Kind “sponsern” dürfen. Das bedeutet, dein Kind muss bis zum 18. Lebensjahr subtile Markenkleidung tragen.\r\nNimmst du das Geld?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

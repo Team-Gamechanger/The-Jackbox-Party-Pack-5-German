@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Ein berühmter Graffitikünstler besprüht die Vorderseite deines Haues mit Motiven von/vom",
+      "v": "Ein berühmter Graffitikünstler besprüht die Vorderseite deines Haues mit Motiven von",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.35",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.92",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.78",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein berühmter Graffitikünstler besprüht die Vorderseite deines Haues mit Motiven von/vom <BLANK>. Mit einem Schlag steigert sich der Wert deines Hauses um 10%.\r\nBewahrst du es?",
+      "s": "Ein berühmter Graffitikünstler besprüht die Vorderseite deines Haues mit Motiven von <BLANK>. Mit einem Schlag steigert sich der Wert deines Hauses um 10%.\r\nBewahrst du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

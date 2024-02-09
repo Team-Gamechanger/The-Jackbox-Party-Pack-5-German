@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Freak-Show-Reiniger | Elefantenschläger | bärtige Hundefrisörin | Leute-Zersäger Assistent | Schwertschlucker",
+      "v": "Der Ring-Reiniger | Elefantenschläger | bärtige Hundefrisörin | Leute-Zersäger Assistent | Schwertschlucker",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Eines Tages kommt ein Zirkusdirektor zu dir, und bietet dir einen Job bei ihm an.",
+      "v": "Eines Tages kommt ein Zirkusdirektor zu dir und bietet dir einen Job bei ihm an.",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.76",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+3.45",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.57",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.79",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du erwachst im Jahre 1850 als Landarbeiter. Eines Tages kommt ein Zirkusdirektor zu dir, und bietet dir einen Job bei ihm an. Dein Titel wäre <BLANK>.\r\nAkzeptierst du das Angebot?",
+      "s": "Du erwachst im Jahre 1850 als Landarbeiter. Eines Tages kommt ein Zirkusdirektor zu dir und bietet dir einen Job bei ihm an. Dein Titel wäre <BLANK>.\r\nAkzeptierst du das Angebot?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

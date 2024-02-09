@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du bist Zeuge in einem Prozess bezüglich eines Kleindiebstahls. In der Nacht vor deiner Aussage, droht dir der Bruder des Verdächtigen.",
+      "v": "Du bist Zeuge in einem Prozess bezüglich eines Kleindiebstahls. In der Nacht vor deiner Aussage droht dir der Bruder des Verdächtigen.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+15.41",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.54",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.18",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.66",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist Zeuge in einem Prozess bezüglich eines Kleindiebstahls. In der Nacht vor deiner Aussage, droht dir der Bruder des Verdächtigen. Wenn du den Geschworenen die Wahrheit sagst, wird er dein schreckliches Geheimnis, dass du <BLANK>, in der Zeitung veröffentlichen.\r\nSagst du die Wahrheit?",
+      "s": "Du bist Zeuge in einem Prozess bezüglich eines Kleindiebstahls. In der Nacht vor deiner Aussage droht dir der Bruder des Verdächtigen. Wenn du den Geschworenen die Wahrheit sagst, wird er dein schreckliches Geheimnis, dass du <BLANK>, in der Zeitung veröffentlichen.\r\nSagst du die Wahrheit?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

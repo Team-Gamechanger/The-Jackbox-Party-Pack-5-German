@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Hast du jemanden, der einen Block nach dir wirft?",
+      "v": "Fragst du jemanden, einen Block nach dir zu werfen?",
       "n": "QuestionText"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Es besteht eine 80%-ige Chance, dass du zu einem Experten im/in",
+      "v": "Es besteht eine 80%-ige Chance, dass du zu einem Experten über",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.16",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+3.91",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.73",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Es besteht eine 80%-ige Chance, dass du zu einem Experten im/in <BLANK> wirst, wenn du von einem Betonblock am Kopf getroffen wirst.\r\nHast du jemanden, der einen Block nach dir wirft?",
+      "s": "Es besteht eine 80%-ige Chance, dass du zu einem Experten über <BLANK> wirst, wenn du von einem Betonblock am Kopf getroffen wirst.\r\nFragst du jemanden, einen Block nach dir zu werfen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

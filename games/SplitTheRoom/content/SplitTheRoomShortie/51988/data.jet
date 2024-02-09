@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Hälst du drei Stunden durch?",
+      "v": "Hältst du drei Stunden durch?",
       "n": "QuestionText"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn du drei grausame Stunden bei einem Heimtrainer-Kurs verbringst, besteht eine 50%-ige Chance, dass du zwei Unzen Gold erbrichst.",
+      "v": "Wenn du drei grausame Stunden bei einem Heimtrainer-Kurs verbringst, besteht eine 50%-ige Chance, dass du 50 Milliliter Gold erbrichst.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Wenn du drei grausame Stunden bei einem Heimtrainer-Kurs verbringst, besteht eine 50%-ige Chance, dass du zwei Unzen Gold erbrichst. Die andere Hälfte der Zeit wirst du <BLANK>.\r\nHälst du drei Stunden durch?",
+      "s": "Wenn du drei grausame Stunden bei einem Heimtrainer-Kurs verbringst, besteht eine 50%-ige Chance, dass du 50 Milliliter Gold erbrichst. Die andere Hälfte der Zeit wirst du <BLANK>.\r\nHältst du drei Stunden durch?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

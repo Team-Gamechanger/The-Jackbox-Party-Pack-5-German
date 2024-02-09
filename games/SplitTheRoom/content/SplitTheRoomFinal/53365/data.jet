@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Alte Fahrradhupe",
+      "v": "Alte Fahrradklingel",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "“Macarena” | Hundebellen | “Jingle Bells” | “Brüllendes Faultier” | “HEY LEUTE!” | “Yankee Doodle” | “Cha Cha Slide”",
+      "v": "“Macarena” | Hundebellen | “Jingle Bells” | “Brüllendes Faultier” | “HEY LEUTE!” | “Yankee Doodle” | “Furztuba”",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Leider sind die einzigen verfügbaren Klingeltöne “Alte Fahrradhupe” oder",
+      "v": "Leider sind die einzigen verfügbaren Klingeltöne “Alte Fahrradklingel” oder",
       "n": "ScenarioText2"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Klingeltaub",
+      "s": "Tücken der Technik",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Dein neues solarbetriebenes Smartphone hat eine unbegrenzte Akkulaufzeit. Leider sind die einzigen verfügbaren Klingeltöne “Alte Fahrradhupe” oder “<BLANK>”. Nach der Auswahl kann der Klingelton nicht mehr geändert werden.\r\nWelchen Klingelton wählst du aus?",
+      "s": "Dein neues solarbetriebenes Smartphone hat eine unbegrenzte Akkulaufzeit. Leider sind die einzigen verfügbaren Klingeltöne “Alte Fahrradklingel” oder “<BLANK>”. Nach der Auswahl kann der Klingelton nicht mehr geändert werden.\r\nWelchen Klingelton wählst du aus?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Nach 4 Jahren gewöhnst du dich sicher dran.",
+      "s": "Nach 4 Jahren gewöhnst ihr euch sicher daran.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

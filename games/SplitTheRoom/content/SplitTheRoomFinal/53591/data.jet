@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Wie willst du dein Six-Pack erreichen?",
+      "v": "Wie willst du deinen Traumkörper erreichen?",
       "n": "QuestionText"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "dafür musst du nur 50 Mal am Tag folgendes tun:",
+      "v": "für den du nur 50 Mal am Tag folgendes tun musst:",
       "n": "ScenarioText2"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Wie gemeißelt",
+      "s": "Körperkult",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein neues Fitnesstraining gibt dir den perfekten Körper, dafür musst du nur 50 Mal am Tag folgendes tun: sehr kräftig applaudieren oder <BLANK>.\r\nWie willst du dein Six-Pack erreichen?",
+      "s": "Ein neues Fitnesstraining gibt dir den perfekten Körper, für den du nur 50 Mal am Tag folgendes tun musst: sehr kräftig applaudieren oder <BLANK>.\r\nWie willst du deinen Traumkörper erreichen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Naja immerhin wird es nicht so lachhaft wie Crossfit aussehen.",
+      "s": "Naja, beides besser als Crossfit.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

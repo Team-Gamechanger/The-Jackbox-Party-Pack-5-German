@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du bist Präsident der Vereinten Nationen (UN).",
+      "v": "Du bist Präsident der Vereinten Nationen.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.40",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+2.66",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.34",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.94",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist Präsident der Vereinten Nationen (UN). In einem überraschenden Schritt, hat jedes sanktionierte Land Frieden gelobt… solange du ihnen versprichst, <BLANK>.\r\nAkzeptierst du ihre Bedingungen?",
+      "s": "Du bist Präsident der Vereinten Nationen. In einem überraschenden Schritt, hat jedes sanktionierte Land Frieden gelobt… solange du ihnen versprichst, <BLANK>.\r\nAkzeptierst du ihre Bedingungen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

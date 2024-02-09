@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "dass er/sie nur mit einem White-Noise-Gerät einschlafen kann, welches die Geräusche von",
+      "v": "dass sie nur mit einem White-Noise-Gerät einschlafen kann, welches die Geräusche von",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.62",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.30",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.64",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.57",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du verliebst dich Hals über Kopf. Als du zum ersten Mal bei dieser Person übernachtest, erfährst du, dass er/sie nur mit einem White-Noise-Gerät einschlafen kann, welches die Geräusche von <BLANK> wiedergibt.\r\nTriffst du dich weiter mit der Person?",
+      "s": "Du verliebst dich Hals über Kopf. Als du zum ersten Mal bei dieser Person übernachtest, erfährst du, dass sie nur mit einem White-Noise-Gerät einschlafen kann, welches die Geräusche von <BLANK> wiedergibt.\r\nTriffst du dich weiter mit der Person?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

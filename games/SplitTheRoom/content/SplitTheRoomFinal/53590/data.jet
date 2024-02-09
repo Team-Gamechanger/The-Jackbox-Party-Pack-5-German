@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Welcher Gruppe schliesst du dich an?",
+      "v": "Welcher Gruppe schließt du dich an?",
       "n": "QuestionText"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Die Bestrafer | Der Kitzel-Trupp | Das Karaoke Kommando | Die Bulligen Buben | Die Kichernden Mädels",
+      "v": "Die Bestrafer | Der Kitzel-Trupp | Das Karaoke-Kommando | Die bulligen Buben | Die kichernden Mädels",
       "n": "Decoys"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Es ist deine erste Nacht im Gefängnis und du brauchst eine Gruppe von Häftlingen, die dich beschützen.",
+      "v": "Es ist deine erste Nacht im Gefängnis und du brauchst eine Gruppe von Häftlingen, die dich beschützt.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Schließt du dich einer Gruppe namens “Sugar Daddys” oder lieber",
+      "v": "Schließt du dich einer Gruppe mit dem Namen “Sugar Daddy's” oder einer namens",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Es ist deine erste Nacht im Gefängnis und du brauchst eine Gruppe von Häftlingen, die dich beschützen. Schließt du dich einer Gruppe namens “Sugar Daddys” oder lieber “<BLANK>” an?\r\nWelcher Gruppe schliesst du dich an?",
+      "s": "Es ist deine erste Nacht im Gefängnis und du brauchst eine Gruppe von Häftlingen, die dich beschützt. Schließt du dich einer Gruppe mit dem Namen “Sugar Daddy's” oder einer namens “<BLANK>” an?\r\nWelcher Gruppe schließt du dich an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

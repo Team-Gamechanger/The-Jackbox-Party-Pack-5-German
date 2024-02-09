@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Kein Internet, ja? Möchtest du noch etwas sagen, bevor du in die Zeitmaschine ins Mittelalter steigst?",
+      "s": "Kein Internet, ja? Möchtet ihr noch etwas sagen, bevor ihr in die Zeitmaschine ins Mittelalter steigt?",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

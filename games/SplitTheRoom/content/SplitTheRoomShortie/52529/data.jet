@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du kannst fliegen! Jedoch stösst dein Hintern dabei ununterbrochen",
+      "v": "Du kannst fliegen! Jedoch stößt dein Hintern dabei ununterbrochen",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.26",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+3.90",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.73",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.52",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du kannst fliegen! Jedoch stösst dein Hintern dabei ununterbrochen <BLANK> aus. Du bist unter einer Menschenmasse und kommst zu spät zu einer Besprechung.\r\nFliegst du davon?",
+      "s": "Du kannst fliegen! Jedoch stößt dein Hintern dabei ununterbrochen <BLANK> aus. Du bist unter einer Menschenmasse und kommst zu spät zu einer Besprechung.\r\nFliegst du davon?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Carlos Mencia | des Regierungschefs | einem Serienmörder | deinem Chef",
+      "v": "Dieter Bohlen | Donald Trump | einem Serienmörder | deinem Chef | Carmen Geiss",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn du ihn berührst, kannst du die Gedanken von <OTHERPLAYER> oder",
+      "v": "Wenn du ihn berührst, kannst du entweder die Gedanken von <OTHERPLAYER> oder",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein Bruchstück eines Meteoriten ist in deinem Garten gelandet. Wenn du ihn berührst, kannst du die Gedanken von <OTHERPLAYER> oder <BLANK> lesen.\r\nWessen Gedanken liest du?",
+      "s": "Ein Bruchstück eines Meteoriten ist in deinem Garten gelandet. Wenn du ihn berührst, kannst du entweder die Gedanken von <OTHERPLAYER> oder <BLANK> lesen.\r\nWessen Gedanken liest du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

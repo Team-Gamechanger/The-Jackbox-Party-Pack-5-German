@@ -27,12 +27,12 @@
     },
     {
       "t": "S",
-      "v": "Mainstream-Radio | Ameisen, die auf dir krabbeln | Werbesendungen | nur Weissbrot zum Essen | ein endloses Monopoly-Spiel",
+      "v": "Radio-Morgenmagazinen | Ameisen, die auf dir krabbeln | Werbesendungen | nur Weißbrot zum Essen | ein endloses Monopoly-Spiel",
       "n": "Decoys"
     },
     {
       "t": "S",
-      "v": "ALL_NO",
+      "v": "",
       "n": "Keywords"
     },
     {
@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Viel gibt’s bei 2000 Grad Celsius eh nicht zu tun.",
+      "s": "Arg viel mehr gibt es bei mehreren hundert Grad Celsius Durchschnittstemperatur eh nicht zu tun.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

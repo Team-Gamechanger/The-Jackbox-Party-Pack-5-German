@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Es gibt einen Toiletten-Pass, der es ermöglicht, bei jedem Open-Air-Event einen sofortigen Zugang zu einer sauberen Toilette zu bekommen.",
+      "v": "Es gibt einen Toiletten-Pass, der es ermöglicht, bei jedem Open-Air-Event einen sofortigen Zugang zu einer sauberen Toilette zu erhalten.",
       "n": "ScenarioText1"
     },
     {
@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Es gibt einen Toiletten-Pass, der es ermöglicht, bei jedem Open-Air-Event einen sofortigen Zugang zu einer sauberen Toilette zu bekommen. Die einmalige Gebühr für dieses Angebot beträgt <BLANK> Euro.\r\nKaufst du den Pass?",
+      "s": "Es gibt einen Toiletten-Pass, der es ermöglicht, bei jedem Open-Air-Event einen sofortigen Zugang zu einer sauberen Toilette zu erhalten. Die einmalige Gebühr für dieses Angebot beträgt <BLANK> Euro.\r\nKaufst du den Pass?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

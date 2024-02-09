@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "In der Tüte, die du von der Wäscherei mitgenommen hast, findest du einen handgeschriebenen Zettel mit der Nachricht:",
+      "v": "In der Wäsche, die du von der Wäscherei mitgenommen hast, findest du einen handgeschriebenen Zettel mit der Nachricht:",
       "n": "ScenarioText1"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Die einzigen anderen Reinigungen, in deiner Nähe, berechnen doppelt so viel.",
+      "v": "Die einzigen anderen Wäschereien, in deiner Nähe, berechnen doppelt so viel.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "In der Tüte, die du von der Wäscherei mitgenommen hast, findest du einen handgeschriebenen Zettel mit der Nachricht: “<BLANK>.” Die einzigen anderen Reinigungen, in deiner Nähe, berechnen doppelt so viel.\r\nWechselst du die Wäscherei?",
+      "s": "In der Wäsche, die du von der Wäscherei mitgenommen hast, findest du einen handgeschriebenen Zettel mit der Nachricht: “<BLANK>.” Die einzigen anderen Wäschereien, in deiner Nähe, berechnen doppelt so viel.\r\nWechselst du die Wäscherei?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

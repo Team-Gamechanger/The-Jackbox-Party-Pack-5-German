@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Ein Militärexperiment gibt dir Superkräfte, es hat jedoch seinen Preis. Nachdem deine Gene verändert wurden, erhälst du folgende Schwäche:",
+      "v": "Ein Militärexperiment gibt dir Superkräfte, es hat jedoch seinen Preis. Nachdem deine Gene verändert wurden, erhältst du folgende Schwäche:",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein Militärexperiment gibt dir Superkräfte, es hat jedoch seinen Preis. Nachdem deine Gene verändert wurden, erhälst du folgende Schwäche: Immunität gegen Koffein oder <BLANK>.\r\nWelche Schwäche wählst du?",
+      "s": "Ein Militärexperiment gibt dir Superkräfte, es hat jedoch seinen Preis. Nachdem deine Gene verändert wurden, erhältst du folgende Schwäche: Immunität gegen Koffein oder <BLANK>.\r\nWelche Schwäche wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

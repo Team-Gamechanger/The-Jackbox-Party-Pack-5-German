@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Lässt du ihn/sie fallen?",
+      "v": "Lässt du sie fallen?",
       "n": "QuestionText"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Dein/e Freund/in fasst deine Hand und hängt an einer kleinen Klippe.",
+      "v": "Deine beste Freundin hängt von einer kleinen Klippe und hällt sich nur an deiner Hand fest.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Er/Sie schaut dir in die Augen und sagt",
+      "v": "Sie schaut dir in die Augen und sagt",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.06",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.31",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.26",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.16",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Dein/e Freund/in fasst deine Hand und hängt an einer kleinen Klippe. Er/Sie schaut dir in die Augen und sagt “<BLANK>.” Die Klippe ist neun Meter hoch.\r\nLässt du ihn/sie fallen?",
+      "s": "Deine beste Freundin hängt von einer kleinen Klippe und hällt sich nur an deiner Hand fest. Sie schaut dir in die Augen und sagt “<BLANK>.” Die Klippe ist neun Meter hoch.\r\nLässt du sie fallen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

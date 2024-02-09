@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Doch er/sie bestimmt den Namen:",
+      "v": "Doch die Person bestimmt den Namen:",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.41",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.25",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.39",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Dein Kind kommt bald auf die Welt. <OTHERPLAYER> bietet dir eine kostenlose Kinderbetreuung für die ersten sieben Jahre deines Kindes. Doch er/sie bestimmt den Namen: <BLANK>.\r\nNimmst du das Angebot an?",
+      "s": "Dein Kind kommt bald auf die Welt. <OTHERPLAYER> bietet dir eine kostenlose Kinderbetreuung für die ersten sieben Jahre deines Kindes. Doch die Person bestimmt den Namen: <BLANK>.\r\nNimmst du das Angebot an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

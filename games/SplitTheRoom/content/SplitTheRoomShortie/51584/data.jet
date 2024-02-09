@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Das Kind, dass du in den letzten drei Jahren unterrichtet hast, schliesst das College mit Auszeichnung ab.",
+      "v": "Das Kind, das du in den letzten drei Jahren unterrichtet hast, hat die Universität mit Auszeichnung abgeschlossen.",
       "n": "ScenarioText1"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Bedauerlicherweise musst du immer, wenn du ein Lufthorn hörst, ungewollt",
+      "v": "Bedauerlicherweise musst du immer, wenn jemand dem Kind gratuliert, ungewollt",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Das Kind, dass du in den letzten drei Jahren unterrichtet hast, schliesst das College mit Auszeichnung ab. Mit Tränen in den Augen bittet es dich der Zeremonie beizuwohnen. Bedauerlicherweise musst du immer, wenn du ein Lufthorn hörst, ungewollt <BLANK>.\r\nErscheinst du?",
+      "s": "Das Kind, das du in den letzten drei Jahren unterrichtet hast, hat die Universität mit Auszeichnung abgeschlossen. Mit Tränen in den Augen bittet es dich der Zeremonie beizuwohnen. Bedauerlicherweise musst du immer, wenn jemand dem Kind gratuliert, ungewollt <BLANK>.\r\nErscheinst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

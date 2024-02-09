@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "einen kleinen Stromschlag erlitten hast | innerlich leer bist | Erbrochenes im Hals hast | ausgetrocknet bist | als hättest du einen Sonnenbrand",
+      "v": "einen kleinen Stromschlag bekommst | innerlich leer bist | Erbrochenes im Hals hast | ausgetrocknet bist | einen Sonnenbrand hättest",
       "n": "Decoys"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn dir in den sozialen Medien jemand mit einem grammatikalischen Fehler antwortet, fühlst du dich, als ob du",
+      "v": "Wenn dir in den sozialen Medien jemand eine Antwort unter deine Posts schreibt, die einen grammatikalischen Fehler enthält, fühlst du dich, als ob du",
       "n": "ScenarioText1"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Gemäss deines Vertrags musst du deine Präsenz in den sozialen Medien pflegen.",
+      "v": "Gemäß deines Vertrags musst du deine Präsenz in den sozialen Medien pflegen.",
       "n": "ScenarioText4"
     },
     {
@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Wenn dir in den sozialen Medien jemand mit einem grammatikalischen Fehler antwortet, fühlst du dich, als ob du <BLANK>. Dir wird plötzlich ein lukrativer Job in der Medienbranche angeboten. Gemäss deines Vertrags musst du deine Präsenz in den sozialen Medien pflegen.\r\nNimmst du den Job an?",
+      "s": "Wenn dir in den sozialen Medien jemand eine Antwort unter deine Posts schreibt, die einen grammatikalischen Fehler enthält, fühlst du dich, als ob du <BLANK>. Dir wird plötzlich ein lukrativer Job in der Medienbranche angeboten. Gemäß deines Vertrags musst du deine Präsenz in den sozialen Medien pflegen.\r\nNimmst du den Job an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

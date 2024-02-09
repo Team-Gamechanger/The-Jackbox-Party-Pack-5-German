@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Hälst du die Rede trotzdem?",
+      "v": "Hältst du die Rede trotzdem?",
       "n": "QuestionText"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+14.39",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.97",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.99",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.97",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du tauschst deinen Körper mit einer Person, die eine Fachrede über Technologie, Entertainment und Design halten muss. Der Titel deines Vortrags lautet “<BLANK>.” Jedes Wort steht auf einem Teleprompter. Nach einer Stunde kehrst du in deinen Körper zurück.\r\nHälst du die Rede trotzdem?",
+      "s": "Du tauschst deinen Körper mit einer Person, die eine Fachrede über Technologie, Entertainment und Design halten muss. Der Titel deines Vortrags lautet “<BLANK>.” Jedes Wort steht auf einem Teleprompter. Nach einer Stunde kehrst du in deinen Körper zurück.\r\nHältst du die Rede trotzdem?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

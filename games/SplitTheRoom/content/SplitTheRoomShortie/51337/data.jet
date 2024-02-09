@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Am Todesbett bietet dir deine Großmutter ein Gemälde an, das seit Generationen im Besitz der Familie ist.",
+      "v": "Am Sterbebett bietet dir deine Großmutter ein Gemälde an, das seit Generationen im Besitz der Familie ist.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Am Todesbett bietet dir deine Großmutter ein Gemälde an, das seit Generationen im Besitz der Familie ist. Es zeigt <BLANK>. Ihre letzten Worte an dich sind: “Bitte hänge es im Wohnzimmer auf.”\r\nHängst du es auf?",
+      "s": "Am Sterbebett bietet dir deine Großmutter ein Gemälde an, das seit Generationen im Besitz der Familie ist. Es zeigt <BLANK>. Ihre letzten Worte an dich sind: “Bitte hänge es im Wohnzimmer auf.”\r\nHängst du es auf?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "in einem Klärwerk | auf einem Friedhof | auf einem See | in Amsterdam | in einem Gefängnis",
+      "v": "in einem Klärwerk | auf einem Friedhof | in einem See | in Amsterdam | in einem Gefängnis",
       "n": "Decoys"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Du entdeckst eine äußerst ungewöhnliche Zeitmaschine. Sie kann nur zwei Stunden zurückreisen, und landet immer",
+      "v": "Du entdeckst eine äußerst ungewöhnliche Zeitmaschine. Sie kann nur zwei Stunden zurückreisen und landet immer",
       "n": "ScenarioText1"
     },
     {
@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du entdeckst eine äußerst ungewöhnliche Zeitmaschine. Sie kann nur zwei Stunden zurückreisen, und landet immer <BLANK>. Die Maschine kostet 20.000 Euro.\r\nKaufst du sie?",
+      "s": "Du entdeckst eine äußerst ungewöhnliche Zeitmaschine. Sie kann nur zwei Stunden zurückreisen und landet immer <BLANK>. Die Maschine kostet 20.000 Euro.\r\nKaufst du sie?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

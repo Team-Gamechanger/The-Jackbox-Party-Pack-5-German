@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "ein menschliches Herz isst | eine Nacht in einem vergrabenen Sarg verbringst | ein magisches Artefakt von einem Museum stiehlst | nur schwarze Kleidung trägst | nur noch Volksmusik hörst",
+      "v": "ein menschliches Herz isst | ab jetzt in einem Sarg schläfst | Artefakte  aus dem Museum stiehlst | nur schwarze Kleidung trägst | nur Volksmusik hörst",
       "n": "Decoys"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Die Medizin hat bei dir versagt... aber ein schamanischer Heiler meint, er könnte dich heilen.",
+      "v": "Klassische Medizin hat bei dir versagt... aber ein schamanischer Heiler meint, er könnte dich heilen.",
       "n": "ScenarioText1"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Die Medizin hat bei dir versagt... aber ein schamanischer Heiler meint, er könnte dich heilen. Du wirst vollkommen gesund, wenn du entweder eine Ziege heiratest oder <BLANK>.\r\nWas wirst du tun?",
+      "s": "Klassische Medizin hat bei dir versagt... aber ein schamanischer Heiler meint, er könnte dich heilen. Du wirst vollkommen gesund, wenn du entweder eine Ziege heiratest oder <BLANK>.\r\nWas wirst du tun?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ach als ob du zu wichtig für ne Ziegenhochzeit wärst.",
+      "s": "Ach, schaut euch an, zu wichtig für eine Ziegenhochzeit.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

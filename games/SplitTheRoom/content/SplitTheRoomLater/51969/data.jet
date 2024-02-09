@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Jörg Pilawa | einem deiner Stief-Geschwister | deinem besten Freund | deinem Chef | deinem zweiten Cousin",
+      "v": "Jörg Pilawa | deinem Stief-Geschwisterchen | deinem besten Freund | deinem Chef | deinem Cousin 2. Grades",
       "n": "Decoys"
     },
     {
@@ -76,7 +76,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Küss mich, ich bin bereit",
+      "s": "Küss mich",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

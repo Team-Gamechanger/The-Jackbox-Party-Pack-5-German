@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du bist auf einem Karneval, in der Zukunft.",
+      "v": "Du bist auf einem Karneval in der Zukunft.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.83",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+2.32",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.75",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist auf einem Karneval, in der Zukunft. Eine der Hauptattraktionen ist ein Hebel, der - sobald er gezogen wird - eine Minute lang schreckliche Schmerzen verursacht, gefolgt von fünf Minuten <BLANK>.\r\nStellst du dich bei der Schlange an?",
+      "s": "Du bist auf einem Karneval in der Zukunft. Eine der Hauptattraktionen ist ein Hebel, der - sobald er gezogen wird - eine Minute lang schreckliche Schmerzen verursacht, gefolgt von fünf Minuten <BLANK>.\r\nStellst du dich bei der Schlange an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

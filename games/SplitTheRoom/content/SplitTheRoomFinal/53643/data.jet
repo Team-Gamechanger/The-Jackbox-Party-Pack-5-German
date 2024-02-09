@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Du kannst deine Biographie von einer von zwei Personen schreiben lassen:",
+      "v": "Du kannst deine Biographie von einer dieser beiden Personen schreiben lassen:",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein bekannter Politiker. Du kannst deine Biographie von einer von zwei Personen schreiben lassen: <OTHERPLAYER> oder <BLANK>.\r\nVon wem lässt du deine Biographie schreiben?",
+      "s": "Du bist ein bekannter Politiker. Du kannst deine Biographie von einer dieser beiden Personen schreiben lassen: <OTHERPLAYER> oder <BLANK>.\r\nVon wem lässt du deine Biographie schreiben?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

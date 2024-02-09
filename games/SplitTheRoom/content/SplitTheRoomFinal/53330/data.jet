@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Du könntest das Haus deines Nachbarn durchsuchen oder",
+      "v": "Du könntest in der Zeit im Haus deines Nachbarn herumschnüffeln oder",
       "n": "ScenarioText2"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Allein zu Haus",
+      "s": "Nur eine Stunde",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Für eine Stunde verschwinden alle Menschen von der Welt, nur du nicht. Du könntest das Haus deines Nachbarn durchsuchen oder <BLANK>.\r\nWie verbringst du deine wertvolle Stunde?",
+      "s": "Für eine Stunde verschwinden alle Menschen von der Welt, nur du nicht. Du könntest in der Zeit im Haus deines Nachbarn herumschnüffeln oder <BLANK>.\r\nWie verbringst du deine wertvolle Stunde?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Immer schön auf die Uhr achten.",
+      "s": "Währenddessen aber immer schön auf die Uhr achten.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

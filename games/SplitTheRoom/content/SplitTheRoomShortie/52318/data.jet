@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du arbeitest in einer kleinen und dunklen Box in einem Grossraumbüro. Eines Tages wird dir ein grosses Eckbüro mit Fenster angeboten.",
+      "v": "Du arbeitest in einer kleinen und dunklen Box in einem Großraumbüro. Eines Tages wird dir ein großes Eckbüro mit Fenster angeboten.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.89",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.09",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.80",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.78",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du arbeitest in einer kleinen und dunklen Box in einem Grossraumbüro. Eines Tages wird dir ein grosses Eckbüro mit Fenster angeboten. Unglücklicherweise blickt die Aussicht auf <BLANK>. Du kannst keine Vorhänge anbringen.\r\nNimmst du das Büro?",
+      "s": "Du arbeitest in einer kleinen und dunklen Box in einem Großraumbüro. Eines Tages wird dir ein großes Eckbüro mit Fenster angeboten. Unglücklicherweise blickt die Aussicht auf <BLANK>. Du kannst keine Vorhänge anbringen.\r\nNimmst du das Büro?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

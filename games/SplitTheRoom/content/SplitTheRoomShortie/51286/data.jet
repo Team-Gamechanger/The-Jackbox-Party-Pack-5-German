@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Benachrichtigst du seinen Chef?",
+      "v": "Informierst du seinen Chef darüber?",
       "n": "QuestionText"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Deine neue intelligente Türklingel erkennt, welche Person vor der Tür steht und was ihm gerade durch den Kopf geht.",
+      "v": "Deine neue intelligente Türklingel erkennt, welche Person vor der Tür steht und was ihr gerade durch den Kopf geht.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Deine neue intelligente Türklingel erkennt, welche Person vor der Tür steht und was ihm gerade durch den Kopf geht. Eines Tages steht dein Postbote vor der Tür, und überlegt <BLANK>.\r\nBenachrichtigst du seinen Chef?",
+      "s": "Deine neue intelligente Türklingel erkennt, welche Person vor der Tür steht und was ihr gerade durch den Kopf geht. Eines Tages steht dein Postbote vor der Tür, und überlegt <BLANK>.\r\nInformierst du seinen Chef darüber?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

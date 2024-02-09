@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Ohne Hosen",
+      "v": "Ohne Hosen Post holen",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "betrunken in einen Busch pinkelst | erbrichst | einen streunenden Hund schlägst | den Nachbarn durchs Fenster beobachtest | eine Rasendeko stiehlst",
+      "v": "betrunken in einen Busch pinkelst | erbrichst | einen streunenden Hund schlägst | den Nachbarn durchs Fenster beobachtest | einen Gartenzwerg stiehlst",
       "n": "Decoys"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Nach einem neuen Gesetz muss jeder heimlich fotografiert werden, um eine Online-Landkarte zu erstellen.",
+      "v": "Nach einem neuen Gesetz muss jeder heimlich fotografiert werden, um daraus eine Online-Landkarte zu erstellen.",
       "n": "ScenarioText1"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Nach einem neuen Gesetz muss jeder heimlich fotografiert werden, um eine Online-Landkarte zu erstellen. Entweder du lässt dich ohne Hose beim Post holen fotografieren oder wie du <BLANK>.\r\nBei welcher Situation würdest du lieber erwischt werden?",
+      "s": "Nach einem neuen Gesetz muss jeder heimlich fotografiert werden, um daraus eine Online-Landkarte zu erstellen. Entweder du lässt dich ohne Hose beim Post holen fotografieren oder wie du <BLANK>.\r\nBei welcher Situation würdest du lieber erwischt werden?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ich hab gehört man kann auch mit Papiertüten auf dem Kopf leben.",
+      "s": "Ich hab gehört, man könnte auch mit Papiertüten auf dem Kopf gut leben.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

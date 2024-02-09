@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Was ist der bessere Trennungsort?",
+      "v": "Welches ist der bessere Trennungsort?",
       "n": "QuestionText"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "ihr im Whirlpool sitzt | eines Pferdeausritts bei Sonnenuntergang | einer Massage | einer Tandemradfahrt | dem Schwimmen mit Delfinen",
+      "v": "ihr im Whirlpool sitzt | am Strand beim Sonnenuntergang | einer Massage | einer Tandemradfahrt | dem Schwimmen mit Delfinen",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Du kannst es ihm/ihr entweder während einer Seilbahnfahrt im Dschungel oder während",
+      "v": "Du kannst es entweder während einer Seilbahnfahrt im Dschungel oder während",
       "n": "ScenarioText2"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "sagen.",
+      "v": "gestehen.",
       "n": "ScenarioText4"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du planst seit Monaten, dich von deinem Partner zu trennen. Du musst es JETZT im Urlaub tun, weil du befürchtest, dass er/sie dir einen Heiratsantrag machen wird. Du kannst es ihm/ihr entweder während einer Seilbahnfahrt im Dschungel oder während <BLANK> sagen.\r\nWas ist der bessere Trennungsort?",
+      "s": "Du planst seit Monaten, dich von deinem Partner zu trennen. Du musst es JETZT im Urlaub tun, weil du befürchtest, dass er/sie dir einen Heiratsantrag machen wird. Du kannst es entweder während einer Seilbahnfahrt im Dschungel oder während <BLANK> gestehen.\r\nWelches ist der bessere Trennungsort?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Das wird eine tolle Zeit im Flugzeug.",
+      "s": "Viel Spaß beim Rückflug.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

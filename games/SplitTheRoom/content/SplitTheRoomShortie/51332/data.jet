@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "dich von einem Boxer schlagen lassen | fünf Tage hungern | fünf Liter Milch trinken | vom Internet ausgesperrt | 5 Jahre eingesperrt",
+      "v": "dich von einem Boxer schlagen lassen | fünf Tage hungern | fünf Liter Milch trinken | Senioren boxen | 5 Jahre ins Gefängnis",
       "n": "Decoys"
     },
     {
@@ -42,12 +42,12 @@
     },
     {
       "t": "S",
-      "v": "Du darfst Hilfsmittel benutzen, und hast eine maximal vorgebene Zeit von 10 Minuten.",
+      "v": "Du darfst Hilfsmittel benutzen und hast eine maximal vorgebene Zeit von 10 Minuten.",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "Schaffst du es nicht, musst/wirst du",
+      "v": "Schaffst du es nicht, musst du",
       "n": "ScenarioText3"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+15.61",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.12",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.10",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+14.10",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Dir werden eine Millionen Euro angeboten, wenn du es schaffst ein ganzes Spiel zu bowlen, ohne eine Kugel in der Rinne zu versenken. Du darfst Hilfsmittel benutzen, und hast eine maximal vorgebene Zeit von 10 Minuten. Schaffst du es nicht, musst/wirst du <BLANK>.\r\nVersuchst du es?",
+      "s": "Dir werden eine Millionen Euro angeboten, wenn du es schaffst ein ganzes Spiel zu bowlen, ohne eine Kugel in der Rinne zu versenken. Du darfst Hilfsmittel benutzen und hast eine maximal vorgebene Zeit von 10 Minuten. Schaffst du es nicht, musst du <BLANK>.\r\nVersuchst du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

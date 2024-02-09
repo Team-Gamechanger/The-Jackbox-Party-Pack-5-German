@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Deine Familie hilft deiner Grossmutter, im Haus nach ihrem verlorenen Hochzeitsring zu suchen.",
+      "v": "Deine Familie hilft deiner Großmutter, im Haus nach ihrem verlorenen Hochzeitsring zu suchen.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.53",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.47",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.90",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.82",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Deine Familie hilft deiner Grossmutter, im Haus nach ihrem verlorenen Hochzeitsring zu suchen. Du findest ihn, er klebt jedoch an <BLANK> fest.\r\nSagst du deiner Grossmutter, dass du ihn gefunden hast?",
+      "s": "Deine Familie hilft deiner Großmutter, im Haus nach ihrem verlorenen Hochzeitsring zu suchen. Du findest ihn, er klebt jedoch an <BLANK> fest.\r\nSagst du deiner Grossmutter, dass du ihn gefunden hast?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "eine zufällige Person von der Strasse | das Mädchen von “Schnappi, das kleine Krokodil” | deine Mutter | der Gewinner des Dschungelcamps | du selbst",
+      "v": "Irgendwen von der Straße | Schnappi, das kleine Krokodil | deine Mutter | der letzte Dschungelkönig | dich selbst",
       "n": "Decoys"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "sein. Du hast eine große Hypothek und fünf kleine Kinder.",
+      "v": "sein. Du hast eine teure Hypothek und fünf kleine Kinder.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist Geschäftsführer einer Plattenfirma. Der nächste Künstler, den du unter Vertrag nimmst, muss entweder <OTHERPLAYER> oder <BLANK> sein. Du hast eine große Hypothek und fünf kleine Kinder.\r\nWen nimmst du unter Vertrag?",
+      "s": "Du bist Geschäftsführer einer Plattenfirma. Der nächste Künstler, den du unter Vertrag nimmst, muss entweder <OTHERPLAYER> oder <BLANK> sein. Du hast eine teure Hypothek und fünf kleine Kinder.\r\nWen nimmst du unter Vertrag?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

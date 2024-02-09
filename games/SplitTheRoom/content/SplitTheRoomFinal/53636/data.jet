@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "New York | Schinkensandwich | Waschsalon | Seetang | Bergwerk",
+      "v": "Autobahntoilette | Schinkensandwich | Waschsalon | Seetang | Bergwerk",
       "n": "Decoys"
     },
     {
@@ -81,7 +81,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Sensible Gerüche",
+      "s": "Gerücheküche",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

@@ -42,12 +42,12 @@
     },
     {
       "t": "S",
-      "v": "Zu deinem Amtsantritt kannst du ein neues Gesetz erlassen.",
+      "v": "Zu deinem Amtsantritt darfst du einfach so ein Verbot erlassen.",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "Du kannst entweder verbieten, Tiere als “Kinder” zu bezeichnen oder",
+      "v": "Du kannst entweder verbieten, Tiere als die eigenen Kinder zu bezeichnen oder",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist in das höchste Gericht des Landes gewählt worden. Zu deinem Amtsantritt kannst du ein neues Gesetz erlassen. Du kannst entweder verbieten, Tiere als “Kinder” zu bezeichnen oder <BLANK>.\r\nWas verbietest du?",
+      "s": "Du bist in das höchste Gericht des Landes gewählt worden. Zu deinem Amtsantritt darfst du einfach so ein Verbot erlassen. Du kannst entweder verbieten, Tiere als die eigenen Kinder zu bezeichnen oder <BLANK>.\r\nWas verbietest du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

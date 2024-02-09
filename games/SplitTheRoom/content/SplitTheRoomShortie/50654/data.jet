@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Hälst du die Workshops ohne ein Wort zu sprechen?",
+      "v": "Hältst du die Workshops ohne ein Wort zu sprechen?",
       "n": "QuestionText"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du verdienst deinen Lebensunterhalt, indem du Workshops über sexuelle Belästigung hältst. Unglücklicherweise hast du gerade eine seltene neurologische Krankheit entwickelt, bei der du immer wieder <BLANK> zitieren musst.\r\nHälst du die Workshops ohne ein Wort zu sprechen?",
+      "s": "Du verdienst deinen Lebensunterhalt, indem du Workshops über sexuelle Belästigung hältst. Unglücklicherweise hast du gerade eine seltene neurologische Krankheit entwickelt, bei der du immer wieder <BLANK> zitieren musst.\r\nHältst du die Workshops ohne ein Wort zu sprechen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

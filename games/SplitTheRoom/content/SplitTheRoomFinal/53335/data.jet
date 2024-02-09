@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "auf Stühlen zu sitzen",
+      "v": "auf Stühlen sitzen",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "Babys anzulächeln | öffentliche Toiletten zu benutzen | Nickerchen zu machen | Hüte zu tragen | an Türen zu klingeln",
+      "v": "Babys anlächeln | öffentliche Toiletten benutzen | Nickerchen machen | Hüte tragen | an Türen klingeln",
       "n": "Decoys"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Du erhältst die Gabe der Superbalance; du wirst nie wieder fallen oder stolpern.",
+      "v": "Du erhältst die Gabe der Superbalance und wirst nie wieder fallen oder stolpern.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Als Nebeneffekt entwickelt du die Unfähigkeit, auf einem Stuhl zu sitzen, oder die Unfähigkeit,",
+      "v": "Als Nebeneffekt kannst du jedoch nie wieder auf einen Stuhl sitzen oder nie wieder",
       "n": "ScenarioText2"
     },
     {
@@ -81,19 +81,19 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Perfekter Balanceaustausch",
+      "s": "Der perfekte Tausch",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du erhältst die Gabe der Superbalance; du wirst nie wieder fallen oder stolpern. Als Nebeneffekt entwickelt du die Unfähigkeit, auf einem Stuhl zu sitzen, oder die Unfähigkeit, <BLANK>.\r\nWelche Fähigkeit gibst du auf?",
+      "s": "Du erhältst die Gabe der Superbalance und wirst nie wieder fallen oder stolpern. Als Nebeneffekt kannst du jedoch nie wieder auf einen Stuhl sitzen oder nie wieder <BLANK>.\r\nWelche Fähigkeit gibst du auf?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Das brauchst du bei deiner Karriere im Zirkus dann eh nicht.",
+      "s": "Keine Sorge, bei eurer kommenden Karriere im Zirkus braucht ihr sowas nicht.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Du wurdest aus der Stadt New York verbannt.",
+      "v": "Du wurdest aus der Stadt Berlin verbannt.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Um es jemals wieder betreten zu dürfen, musst du",
+      "v": "Um sie jemals wieder betreten zu dürfen, musst du",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.29",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,27 +67,27 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+2.15",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.92",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Ich liebe/hasse New York",
+      "s": "Ich liebe/hasse Berlin",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wurdest aus der Stadt New York verbannt. Um es jemals wieder betreten zu dürfen, musst du <BLANK>.\r\nMachst du es?",
+      "s": "Du wurdest aus der Stadt Berlin verbannt. Um sie jemals wieder betreten zu dürfen, musst du <BLANK>.\r\nMachst du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

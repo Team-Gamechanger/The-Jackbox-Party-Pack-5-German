@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Du nimmst an einem Schönheitswettbewerb teil. Der Hauptpreis beträgt 25.000 Euro. Ein Jurymitglied hat deutlich gemacht, sich bestechen zu lassen.",
+      "v": "Du nimmst an einem Schönheitswettbewerb teil. Der Hauptpreis beträgt 25.000 Euro. Ein Jurymitglied hat deutlich gemacht, bestechbar zu sein.",
       "n": "ScenarioText1"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Bestechung",
+      "s": "Unlautere Mittel",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du nimmst an einem Schönheitswettbewerb teil. Der Hauptpreis beträgt 25.000 Euro. Ein Jurymitglied hat deutlich gemacht, sich bestechen zu lassen. Statt einem Badeanzug-Wettkampf, ist die letzte Aufgabe <BLANK>.\r\nBietest du eine Bestechung an?",
+      "s": "Du nimmst an einem Schönheitswettbewerb teil. Der Hauptpreis beträgt 25.000 Euro. Ein Jurymitglied hat deutlich gemacht, bestechbar zu sein. Statt einem Badeanzug-Wettkampf, ist die letzte Aufgabe <BLANK>.\r\nBietest du eine Bestechung an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

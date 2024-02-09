@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Es findet die grosse Jahrestag-Feier deiner Eltern statt. Alles was sie wollten, war ein privater Karaoke-Raum für sie und einer Grupper ihrer Nachbarn.",
+      "v": "Es findet die große Jahrestag-Feier deiner Eltern statt. Alles was sie wollten, war ein privater Karaoke-Raum für sie und einer Grupper ihrer Nachbarn.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+17.00",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.83",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.27",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.28",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Es findet die grosse Jahrestag-Feier deiner Eltern statt. Alles was sie wollten, war ein privater Karaoke-Raum für sie und einer Grupper ihrer Nachbarn. Als du auf der Feier erscheinst, bemerkst du, dass alle Monitore Videos von <BLANK> zeigen. Es gibt keine Möglichkeit, die Videos abzuschalten.\r\nLässt du deine Eltern an das Mikrofon?",
+      "s": "Es findet die große Jahrestag-Feier deiner Eltern statt. Alles was sie wollten, war ein privater Karaoke-Raum für sie und einer Grupper ihrer Nachbarn. Als du auf der Feier erscheinst, bemerkst du, dass alle Monitore Videos von <BLANK> zeigen. Es gibt keine Möglichkeit, die Videos abzuschalten.\r\nLässt du deine Eltern an das Mikrofon?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

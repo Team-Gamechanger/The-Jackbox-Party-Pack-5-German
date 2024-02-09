@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Sofern du Werbung von/für",
+      "v": "Sofern du Werbung von",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.86",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.33",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.91",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.77",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Mit deinem neuen Handy-Tarif musst du nie wieder für dein Netz oder dein Datenvolumen zahlen, ein Leben lang. Sofern du Werbung von/für <BLANK> erlaubst, die an jede deiner Nachricht angefügt wird.\r\nUnterschreibst du den Vertrag?",
+      "s": "Mit deinem neuen Handy-Tarif musst du nie wieder für dein Netz oder dein Datenvolumen zahlen, ein Leben lang. Sofern du Werbung von <BLANK> erlaubst, die an jede deiner Nachricht angefügt wird.\r\nUnterschreibst du den Vertrag?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

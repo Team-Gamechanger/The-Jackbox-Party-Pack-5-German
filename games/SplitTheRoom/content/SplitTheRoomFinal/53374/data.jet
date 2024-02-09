@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Buchstabier-Champions",
+      "v": "Buchstabier-Meister",
       "n": "Answer"
     },
     {
       "t": "S",
-      "v": "YouTube-Stars | wirklich süssen Hunden | kalten Fusions-Motoren | Uni-Athleten | Radiomoderatoren",
+      "v": "YouTube-Stars | wirklich süssen Hunden | Hautärzte | Skiprung-Weltmeister | Radiomoderatoren",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Du kannst zwischen Buchstabier-Champions oder",
+      "v": "Du kannst zwischen Buchstabier-Meister oder",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Deine Stadt hat keine Jungfrauen mehr, also müsst ihr etwas anderes opfern. Du kannst zwischen Buchstabier-Champions oder <BLANK> wählen.\r\nWas oder wen opferst du, um einen ausbrechenden Vulkan zu besänftigen?",
+      "s": "Deine Stadt hat keine Jungfrauen mehr, also müsst ihr etwas anderes opfern. Du kannst zwischen Buchstabier-Meister oder <BLANK> wählen.\r\nWas oder wen opferst du, um einen ausbrechenden Vulkan zu besänftigen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

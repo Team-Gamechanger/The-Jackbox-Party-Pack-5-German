@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Behälst du das Spielzeug?",
+      "v": "Nimmst du ihm das Spielzeug wieder weg?",
       "n": "QuestionText"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.58",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.56",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.47",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.45",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Dein alter Hund hatte sein Interesse an allem verloren, bis du ihm ein neues Quietsch-Spielzeug gekauft hast. Bei jedem Biss schreit es: “<BLANK>!”. Dein Hund spielt dauernd damit.\r\nBehälst du das Spielzeug?",
+      "s": "Dein alter Hund hatte sein Interesse an allem verloren, bis du ihm ein neues Quietsch-Spielzeug gekauft hast. Bei jedem Biss schreit es: “<BLANK>!”. Dein Hund spielt dauernd damit.\r\nNimmst du ihm das Spielzeug wieder weg?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

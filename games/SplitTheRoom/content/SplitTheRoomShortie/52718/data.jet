@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Bei einem Ausflug mit deinem Auto hast du ein Schild einer 50 Meilen entfernten Stadt entdeckt.",
+      "v": "Bei einem Ausflug mit deinem Auto hast du ein Schild einer 40 Kilometer entfernten Stadt entdeckt.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Bei einem Ausflug mit deinem Auto hast du ein Schild einer 50 Meilen entfernten Stadt entdeckt. Diese wird auf deinem GPS nicht angezeigt. Eine Werbetafel dieser Stadt bietet <BLANK>.\r\nUntersuchst du die Stadt?",
+      "s": "Bei einem Ausflug mit deinem Auto hast du ein Schild einer 40 Kilometer entfernten Stadt entdeckt. Diese wird auf deinem GPS nicht angezeigt. Eine Werbetafel dieser Stadt bietet <BLANK>.\r\nUntersuchst du die Stadt?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

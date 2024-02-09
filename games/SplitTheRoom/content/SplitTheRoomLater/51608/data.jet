@@ -17,12 +17,12 @@
     },
     {
       "t": "S",
-      "v": "Kochst du mit Butter?",
+      "v": "Kochst du die Nudeln?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "wirst du dir aller deine Fehler bewusst | bekommst du Schluckauf für drei Monate | schwitzt du Ketchup | bekommst du fettiges Haar | musst du beatboxen",
+      "v": "in das Essen spucken | jemanden ausrauben | weinen | 5 Klimmzüge machen | beatboxen",
       "n": "Decoys"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Du bist ein verfluchter Koch. Jedes Mal, wenn du Butter verwendest,",
+      "v": "Du bist ein verfluchter Koch. Jedes Mal, wenn du Nudeln zubereitest, musst du",
       "n": "ScenarioText1"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Unglücklicherweise bist du Chefkoch in einem Restaurant, dass südländisches Essen serviert.",
+      "v": "Unglücklicherweise bist du Chefkoch in einem italienischen Restaurant.",
       "n": "ScenarioText3"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Südliche Unbehagen",
+      "s": "Zum Italiener?",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein verfluchter Koch. Jedes Mal, wenn du Butter verwendest, <BLANK>. Unglücklicherweise bist du Chefkoch in einem Restaurant, dass südländisches Essen serviert.\r\nKochst du mit Butter?",
+      "s": "Du bist ein verfluchter Koch. Jedes Mal, wenn du Nudeln zubereitest, musst du <BLANK>. Unglücklicherweise bist du Chefkoch in einem italienischen Restaurant.\r\nKochst du die Nudeln?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

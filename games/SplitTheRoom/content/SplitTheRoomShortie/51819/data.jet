@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Es ist gefüllt mit Fotos von",
+      "v": "Er ist gefüllt mit Fotos von",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.50",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.78",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.64",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "In der Nacht vor deiner Gehaltsverhandlung stolperst du über den geheimen Instagram-Account deines Chefs. Es ist gefüllt mit Fotos von <BLANK>.\r\nSprichst du es beim Gespräch an?",
+      "s": "In der Nacht vor deiner Gehaltsverhandlung stolperst du über den geheimen Instagram-Account deines Chefs. Er ist gefüllt mit Fotos von <BLANK>.\r\nSprichst du es beim Gespräch an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du erhälst einen Anruf – von deiner eigenen Nummer.",
+      "v": "Du erhältst einen Anruf – von deiner eigenen Nummer.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.73",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+2.90",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.15",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.17",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du erhälst einen Anruf – von deiner eigenen Nummer. Die Person am anderen Ende hört sich genauso an wie du. Sie rät dir, dass du sofort <BLANK>.\r\nMachst du es?",
+      "s": "Du erhältst einen Anruf – von deiner eigenen Nummer. Die Person am anderen Ende hört sich genauso an wie du. Sie rät dir, dass du sofort <BLANK>.\r\nMachst du es?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

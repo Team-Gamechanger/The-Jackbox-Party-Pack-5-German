@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.72",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,21 +67,21 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.19",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.83",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Dinner auf Twitter",
+      "s": "Dinner auf Twitter (X)",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

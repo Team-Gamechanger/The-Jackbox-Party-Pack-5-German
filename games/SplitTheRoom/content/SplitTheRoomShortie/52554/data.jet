@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du lebst in einer Welt, in der Menschen die 30 Jahre alt werden, zu/zum/zur",
+      "v": "Du lebst in einer Welt, in der Menschen die 30 Jahre alt werden, zu",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.92",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.53",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.48",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.80",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du lebst in einer Welt, in der Menschen die 30 Jahre alt werden, zu/zum/zur <BLANK> gezwungen werden. Bei Verweigerung wird ein Jahr gesetzlicher Hausarrest verordnet. Du wirst morgen 30...\r\nErledigst du morgen die Aufgabe?",
+      "s": "Du lebst in einer Welt, in der Menschen die 30 Jahre alt werden, zu <BLANK> gezwungen werden. Bei Verweigerung wird ein Jahr gesetzlicher Hausarrest verordnet. Du wirst morgen 30...\r\nErledigst du morgen die Aufgabe?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

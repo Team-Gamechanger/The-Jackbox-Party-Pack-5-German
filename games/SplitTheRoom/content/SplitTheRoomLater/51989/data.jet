@@ -17,12 +17,12 @@
     },
     {
       "t": "S",
-      "v": "Akzeptierst du?",
+      "v": "Akzeptierst du das Angebot?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "300 Euro | ihren atemberaubenden Hund | eine alte, gruselige Puppe ohne Augen | 25 Cent | einen verschimmelten Kuchen",
+      "v": "300 Euro | ihren atemberaubenden Hund | eine gruselige Puppe ohne Augen | 25 Cent | einen verschimmelten Kuchen",
       "n": "Decoys"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Alte Probleme",
+      "s": "Hilfreiche Hand",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Während du deiner alten Nachbarin beim Kühlschrank verschieben hilfst, bemerkst du, dass sie ein wenig ihren Verstand verliert. Nach erledigter Arbeit bietet sie dir <BLANK> an.\r\nAkzeptierst du?",
+      "s": "Während du deiner alten Nachbarin beim Kühlschrank verschieben hilfst, bemerkst du, dass sie ein wenig ihren Verstand verliert. Nach erledigter Arbeit bietet sie dir <BLANK> an.\r\nAkzeptierst du das Angebot?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
