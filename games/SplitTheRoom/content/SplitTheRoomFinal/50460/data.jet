@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Du bist ein Rettungsschwimmer, der Hilfeschreie hört. Zwei Menschen sind dabei zu ertrinken. Einer davon ist dein/e Ex, der mit dir Schluss gemacht hat.",
+      "v": "Du bist ein Rettungsschwimmer, der Hilfeschreie hört. Zwei Personen sind dabei zu ertrinken. Eine davon ist mal mit dir zusammen gewesen, aber hat Schluss gemacht.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Der andere ist",
+      "v": "Die andere ist",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.57",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.29",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.57",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.52",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein Rettungsschwimmer, der Hilfeschreie hört. Zwei Menschen sind dabei zu ertrinken. Einer davon ist dein/e Ex, der mit dir Schluss gemacht hat. Der andere ist <BLANK>. Alle am Strand schauen dich an.\r\nWen rettest du?",
+      "s": "Du bist ein Rettungsschwimmer, der Hilfeschreie hört. Zwei Personen sind dabei zu ertrinken. Eine davon ist mal mit dir zusammen gewesen, aber hat Schluss gemacht. Die andere ist <BLANK>. Alle am Strand schauen dich an.\r\nWen rettest du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
