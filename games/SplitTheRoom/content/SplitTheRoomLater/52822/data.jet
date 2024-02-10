@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Schmerzen | Alterung | Bakterien | Fäulnis | Kopfschmerzen",
+      "v": "Schmerz | Alterungs | Bakterien | Fäulnis | Kopfschmerzen",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Doch es gibt keine Beschilderung, es könnte genauso die Quelle der",
+      "v": "Doch es gibt keine Beschilderung, es könnte genauso die",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "<BLANK> sein.",
+      "v": "<BLANK>-Quelle",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "sein.",
       "n": "ScenarioText4"
     },
     {
@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du näherst dich dem Ende deines Lebens und suchst die Quelle der Jugend. Du verläufst dich im Dschungel und stößt auf einen wunderschönen Geysir… Doch es gibt keine Beschilderung, es könnte genauso die Quelle der <BLANK> sein.\r\nTrinkst du davon?",
+      "s": "Du näherst dich dem Ende deines Lebens und suchst die Quelle der Jugend. Du verläufst dich im Dschungel und stößt auf einen wunderschönen Geysir… Doch es gibt keine Beschilderung, es könnte genauso die <BLANK>-Quelle sein.\r\nTrinkst du davon?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

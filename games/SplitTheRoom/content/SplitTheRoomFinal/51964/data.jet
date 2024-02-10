@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Für welche Sendungentscheidest du dich?",
+      "v": "Für welche Sendung entscheidest du dich?",
       "n": "QuestionText"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.44",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+2.39",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.00",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.25",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du sitzt auf einer verlassenen Insel fest. Eines von zwei Tablets kann per Fallschirm zu dir gesendet werden. Auf dem einen ist die neunte Staffel von <i>Let’s Dance</i> gespeichert, auf dem anderen <BLANK>.\r\nFür welche Sendungentscheidest du dich?",
+      "s": "Du sitzt auf einer verlassenen Insel fest. Eines von zwei Tablets kann per Fallschirm zu dir gesendet werden. Auf dem einen ist die neunte Staffel von <i>Let’s Dance</i> gespeichert, auf dem anderen <BLANK>.\r\nFür welche Sendung entscheidest du dich?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

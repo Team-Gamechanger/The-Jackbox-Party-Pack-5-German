@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "drei <i>Coldplay</i>-Songs hintereinander zu singen ODER",
+      "v": "Drei <i>Coldplay</i>-Songs hintereinander zu singen ODER",
       "n": "ScenarioText3"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.76",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+2.32",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.13",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.84",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du stehst einem Brücken-Troll gegenüber. Es gibt nur zwei Möglichkeiten, ihn zu besiegen: drei <i>Coldplay</i>-Songs hintereinander zu singen ODER <BLANK>.\r\nWie entscheidest du dich?",
+      "s": "Du stehst einem Brücken-Troll gegenüber. Es gibt nur zwei Möglichkeiten, ihn zu besiegen: Drei <i>Coldplay</i>-Songs hintereinander zu singen ODER <BLANK>.\r\nWie entscheidest du dich?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Die Regierung bietet jedem Zuflucht, der einen Mathe-Test auf Realschul-Niveau bestehen oder",
+      "v": "Die Regierung bietet jedem Zuflucht, der einen Mathe-Test auf Realschul-Niveau besteht oder",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.14",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+3.44",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.32",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.29",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein riesiger Meteorit wird auf der Erde einschlagen. Die Regierung bietet jedem Zuflucht, der einen Mathe-Test auf Realschul-Niveau bestehen oder <BLANK> kann.\r\nWelchen Test absolvierst du?",
+      "s": "Ein riesiger Meteorit wird auf der Erde einschlagen. Die Regierung bietet jedem Zuflucht, der einen Mathe-Test auf Realschul-Niveau besteht oder <BLANK> kann.\r\nWelchen Test absolvierst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

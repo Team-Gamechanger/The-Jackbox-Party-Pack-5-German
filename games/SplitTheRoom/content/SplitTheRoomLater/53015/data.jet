@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Meldest du es den Vorgesetzten?",
+      "v": "Meldest du es deinen Vorgesetzten?",
       "n": "QuestionText"
     },
     {
@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du und <OTHERPLAYER> konkurriert um die Beförderung für den gleichen Job. Gestern hast du bemerkt, wie <OTHERPLAYER> im Pausenraum verbotenerweise <BLANK>.\r\nMeldest du es den Vorgesetzten?",
+      "s": "Du und <OTHERPLAYER> konkurriert um die Beförderung für den gleichen Job. Gestern hast du bemerkt, wie <OTHERPLAYER> im Pausenraum verbotenerweise <BLANK>.\r\nMeldest du es deinen Vorgesetzten?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

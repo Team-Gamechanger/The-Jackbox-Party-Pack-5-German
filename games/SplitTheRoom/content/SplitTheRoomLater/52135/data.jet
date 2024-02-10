@@ -17,12 +17,12 @@
     },
     {
       "t": "S",
-      "v": "Verfolgst du ihn, obwohl dein Stop eigentlich noch nicht gekommen ist?",
+      "v": "Verfolgst du ihn, obwohl dein Stopp eigentlich noch nicht gekommen ist?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Brieftasche | Fotoalbum | Katzenkorb | Lebensmittel | Stock",
+      "v": "seine Brieftasche | ein Fotoalbum | Einen Korb voller Kätzchen | seinen Proviant | Einen Gehstock",
       "n": "Decoys"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Unmittelbar nach dem Aussteigen bemerkst du, dass er sein/e/n",
+      "v": "Unmittelbar nach dem Aussteigen bemerkst du, dass er",
       "n": "ScenarioText2"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Türen öffnen rechts",
+      "s": "Ausstieg in Fahrtrichtung rechts",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du befindest dich im letzten Zug dieser Nacht. Dir gegenüber sitzt ein rüstiger, alter Mann. Unmittelbar nach dem Aussteigen bemerkst du, dass er sein/e/n <BLANK> zurückgelassen hat.\r\nVerfolgst du ihn, obwohl dein Stop eigentlich noch nicht gekommen ist?",
+      "s": "Du befindest dich im letzten Zug dieser Nacht. Dir gegenüber sitzt ein rüstiger, alter Mann. Unmittelbar nach dem Aussteigen bemerkst du, dass er <BLANK> zurückgelassen hat.\r\nVerfolgst du ihn, obwohl dein Stopp eigentlich noch nicht gekommen ist?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

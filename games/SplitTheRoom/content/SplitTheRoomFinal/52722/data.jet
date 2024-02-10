@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du bist für die Währung deines Landes verantwortlich und musst das Bild auf der neusten Banknote auswählen, bevor es millionenhaft in den Druck geht.",
+      "v": "Du bist für die Währung deines Landes verantwortlich und musst das Bild auf der neusten Banknote auswählen, bevor es millionenfach in den Druck geht.",
       "n": "ScenarioText1"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.42",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist für die Währung deines Landes verantwortlich und musst das Bild auf der neusten Banknote auswählen, bevor es millionenhaft in den Druck geht.  Du hast die Wahl zwischen einem Anglerfisch oder <BLANK>.\r\nWelches Bild bringst du auf den Geldschein?",
+      "s": "Du bist für die Währung deines Landes verantwortlich und musst das Bild auf der neusten Banknote auswählen, bevor es millionenfach in den Druck geht.  Du hast die Wahl zwischen einem Anglerfisch oder <BLANK>.\r\nWelches Bild bringst du auf den Geldschein?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

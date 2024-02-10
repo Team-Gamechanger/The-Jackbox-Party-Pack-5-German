@@ -42,22 +42,22 @@
     },
     {
       "t": "S",
-      "v": "Du kannst zwischen zwei Stunts wählen: dem Sprung in ein rasantes Auto oder",
+      "v": "Du kannst zwischen zwei Stunts wählen:",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "<BLANK>.",
+      "v": "Dem Sprung in ein rasantes Auto oder",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText4"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.38",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.57",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.89",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.18",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist ein Stunt-Double für einen Action-Schauspieler. Du wirst für eine von zwei Szenen gebraucht. Du kannst zwischen zwei Stunts wählen: dem Sprung in ein rasantes Auto oder <BLANK>.\r\nWelchen Stunt übernimmst du?",
+      "s": "Du bist ein Stunt-Double für einen Action-Schauspieler. Du wirst für eine von zwei Szenen gebraucht. Du kannst zwischen zwei Stunts wählen: Dem Sprung in ein rasantes Auto oder <BLANK>.\r\nWelchen Stunt übernimmst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

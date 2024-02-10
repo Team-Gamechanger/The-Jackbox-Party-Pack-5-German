@@ -17,12 +17,12 @@
     },
     {
       "t": "S",
-      "v": "Unterschreibst du einen Zwei-Jahresvertrag?",
+      "v": "Unterschreibst du den Mietvertrag?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "einem Mc Donald’s | einer Essensausgabe für Bedürftige | einer Autowaschanlage | einem Kasino | bei einer Busstation",
+      "v": "neben einem McDonald’s | in einer Autobahntoilette | neben einer Autowaschanlage | in einem Kasino | in einem Bahnhof",
       "n": "Decoys"
     },
     {
@@ -37,17 +37,17 @@
     },
     {
       "t": "S",
-      "v": "Die Wohnung ist wunderschön gelegen,",
+      "v": "Die Wohnung ist wunderschön gelegen, doch der Eingangsbereich befindet sich",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "doch der Eingangsbereich befindet sich in",
+      "v": "<BLANK>.",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "<BLANK>.",
+      "v": "Die Mindestlaufzeit beträgt zwei Jahre.",
       "n": "ScenarioText4"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Wohnungsjagd",
+      "s": "Wohnungssuche",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du findest eine fantastische Wohnung, die nur die Hälfte deiner jetzigen Miete kostet. Die Wohnung ist wunderschön gelegen, doch der Eingangsbereich befindet sich in <BLANK>.\r\nUnterschreibst du einen Zwei-Jahresvertrag?",
+      "s": "#REF!",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

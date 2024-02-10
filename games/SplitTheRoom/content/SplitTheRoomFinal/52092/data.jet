@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Du hast die Wahl zwischen Madenzüchter und",
+      "v": "Du hast die Wahl zwischen Madenzüchter oder",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.04",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.13",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.95",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "In Zukunft wirst du mit 16 Jahren vom Staat eine Arbeit zugewiesen bekommen. Du hast die Wahl zwischen Madenzüchter und <BLANK>.\r\nWelchen zugewiesenen Job übernimmst du?",
+      "s": "In Zukunft wirst du mit 16 Jahren vom Staat eine Arbeit zugewiesen bekommen. Du hast die Wahl zwischen Madenzüchter oder <BLANK>.\r\nWelchen zugewiesenen Job übernimmst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

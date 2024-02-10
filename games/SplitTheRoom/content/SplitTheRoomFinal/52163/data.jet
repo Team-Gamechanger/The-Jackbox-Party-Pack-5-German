@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "entweder immer das perfekte Geschenk für jede Person zu finden oder",
+      "v": "Entweder immer das perfekte Geschenk für jede Person zu finden oder",
       "n": "ScenarioText3"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+18.11",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.32",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.89",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+17.00",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du erwischt den Weihnachtsmann in deiner Wohnung. Er will seine Existenz geheim halten und du willigst ein, gegen einen kleinen Gefallen Stillschweigen zu bewahren. Du kannst zwischen zwei Fähigkeiten wählen: entweder immer das perfekte Geschenk für jede Person zu finden oder <BLANK>.\r\nWelche Fähigkeit nimmst du vom Weihnachtsmann an?",
+      "s": "Du erwischt den Weihnachtsmann in deiner Wohnung. Er will seine Existenz geheim halten und du willigst ein, gegen einen kleinen Gefallen Stillschweigen zu bewahren. Du kannst zwischen zwei Fähigkeiten wählen: Entweder immer das perfekte Geschenk für jede Person zu finden oder <BLANK>.\r\nWelche Fähigkeit nimmst du vom Weihnachtsmann an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

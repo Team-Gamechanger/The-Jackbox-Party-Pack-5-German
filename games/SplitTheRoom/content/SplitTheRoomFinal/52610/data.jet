@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Nr. 1 hat eine Yacht mit 3 Schlafzimmern, Nr. 2 hat",
+      "v": "Nr. 1 hat eine Yacht mit drei Schlafzimmern, Nr. 2 hat",
       "n": "ScenarioText3"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.02",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+3.96",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.61",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.08",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist hin- und hergerissen zwischen zwei potenziellen Liebhabern. Sie sind in jeder Hinsicht gleichwertig, mit einer Ausnahme: Nr. 1 hat eine Yacht mit 3 Schlafzimmern, Nr. 2 hat <BLANK>.\r\nWelcher Vorteil überzeugt dich mehr?",
+      "s": "Du bist hin- und hergerissen zwischen zwei potenziellen Liebhabern. Sie sind in jeder Hinsicht gleichwertig, mit einer Ausnahme: Nr. 1 hat eine Yacht mit drei Schlafzimmern, Nr. 2 hat <BLANK>.\r\nWelcher Vorteil überzeugt dich mehr?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

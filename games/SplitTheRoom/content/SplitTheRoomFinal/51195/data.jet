@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Deine Optionen sind: für den Rest deines Lebens offline zu gehen oder",
+      "v": "Deine Optionen sind: Für den Rest deines Lebens offline zu gehen oder",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+15.07",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.54",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.72",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.13",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Das Internet wurde durch ein neues Online-Netzwerk ersetzt, das ausschließlich für Kriminelle zugänglich ist. Deine Optionen sind: für den Rest deines Lebens offline zu gehen oder <BLANK>, um kriminell zu werden.\r\nFür was entscheidest du dich?",
+      "s": "Das Internet wurde durch ein neues Online-Netzwerk ersetzt, das ausschließlich für Kriminelle zugänglich ist. Deine Optionen sind: Für den Rest deines Lebens offline zu gehen oder <BLANK>, um kriminell zu werden.\r\nFür was entscheidest du dich?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

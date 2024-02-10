@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+14.42",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,21 +67,21 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.05",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.74",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.05",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Letzter Aufruf für's Weltall",
+      "s": "Letzter Aufruf fürs Weltall",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

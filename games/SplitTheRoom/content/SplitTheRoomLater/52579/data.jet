@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Monopoly | Hippo Flipp | Candyland | Risiko | Scene It? Twilight",
+      "v": "Monopoly | Lotti Karotti | Das verrückte Labyrinth | Risiko | Cluedo",
       "n": "Decoys"
     },
     {
@@ -76,7 +76,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Eine Welt voller Spass",
+      "s": "Eine Welt voller Spaß",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

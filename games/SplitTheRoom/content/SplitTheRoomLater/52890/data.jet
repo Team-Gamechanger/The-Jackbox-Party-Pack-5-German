@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Disneyland | einer Pärchen-Therme | einer Honeymoon-Suite in Paris | der Gamsecom | einem Pärchen-Badeort",
+      "v": "einem feuchten Bergwerk | einer Pärchen-Therme | einer Luxussuite in Paris | einem nordkoreanischen Hotel | einem Pärchen-Badeort",
       "n": "Decoys"
     },
     {
@@ -32,22 +32,22 @@
     },
     {
       "t": "S",
-      "v": "Du und <OTHERPLAYER> habt gemeinsam eine Game-Show gewonnen.",
+      "v": "Du und <OTHERPLAYER> habt gemeinsam in einer Spielshow gewonnen.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Als Hauptpreis könnt ihr zwischen 500 Euro pro Person oder einer All-Inclusive-Woche zusammen bei/in",
+      "v": "Als Hauptpreis könnt ihr zwischen 1500 Euro pro Person oder einer gemeinsamen All-Inclusive-Woche in",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "<BLANK> wählen.",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "wählen.",
       "n": "ScenarioText4"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Ein Match auf Kanal 7",
+      "s": "Scheck oder weg",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du und <OTHERPLAYER> habt gemeinsam eine Game-Show gewonnen. Als Hauptpreis könnt ihr zwischen 500 Euro pro Person oder einer All-Inclusive-Woche zusammen bei/in <BLANK> wählen.\r\nNimmst du das Geld?",
+      "s": "Du und <OTHERPLAYER> habt gemeinsam in einer Spielshow gewonnen. Als Hauptpreis könnt ihr zwischen 1500 Euro pro Person oder einer gemeinsamen All-Inclusive-Woche in <BLANK> wählen.\r\nNimmst du das Geld?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

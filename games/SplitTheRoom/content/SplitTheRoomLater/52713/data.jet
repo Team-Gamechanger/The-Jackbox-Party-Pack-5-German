@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Ich kann nicht weiter lügen… | Meine wahre Identität ist… | Es ist entschieden: ich werde morden… | Ich hab mir immer gewünscht, ich könnte… | Zu meinem Geburtstag möchte ich…",
+      "v": "Ich kann nicht weiter lügen… | Meine wahre Identität ist… | Meine letzte Option ist Mord | Ich wollte das alles nicht… | Zu meinem Geburtstag möchte ich…",
       "n": "Decoys"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Dein/e Partner/in hat sonst immer sein/ihr Tagebuch dabei, aber heute findest du es aufgeschlagen auf dem Schreibtisch.",
+      "v": "Dein Partner hat sonst immer das persönliche Tagebuch dabei, aber heute findest du es aufgeschlagen auf dem Schreibtisch.",
       "n": "ScenarioText1"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Privatsphäre?",
+      "s": "Das Tagebuch",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Dein/e Partner/in hat sonst immer sein/ihr Tagebuch dabei, aber heute findest du es aufgeschlagen auf dem Schreibtisch. Du blickst auf den letzten Eintrag, der mit \"<BLANK>\" beginnt.\r\nLiest du weiter?",
+      "s": "Dein Partner hat sonst immer das persönliche Tagebuch dabei, aber heute findest du es aufgeschlagen auf dem Schreibtisch. Du blickst auf den letzten Eintrag, der mit \"<BLANK>\" beginnt.\r\nLiest du weiter?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

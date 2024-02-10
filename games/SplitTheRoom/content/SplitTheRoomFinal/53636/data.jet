@@ -93,7 +93,7 @@
       "n": "ScenarioAudio"
     },
     {
-      "s": "Bitte keine von beiden auf den Boden fallen lassen.",
+      "s": "Bitte keins von beiden auf den Boden fallen lassen.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

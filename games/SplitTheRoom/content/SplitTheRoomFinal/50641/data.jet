@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Zwei Ampullen mit Viren fallen von verschiedenen Seiten auf deine Arbeitsfläche: der eine Virus lässt Menschen schnell altern, der andere Virus verursacht",
+      "v": "Zwei Ampullen mit Viren fallen von verschiedenen Seiten auf deine Arbeitsfläche: Der eine Virus lässt Menschen schnell altern, der andere Virus verursacht",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+19.23",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.31",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+14.91",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+15.95",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,13 +87,13 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist Forscher in einem biochemischen Labor, als sich plötzlich ein Erdbeben ereignet. Zwei Ampullen mit Viren fallen von verschiedenen Seiten auf deine Arbeitsfläche: der eine Virus lässt Menschen schnell altern, der andere Virus verursacht <BLANK>. Du kannst nur eine Ampulle vor dem Zerbrechen bewahren.\r\nWelchen Virus lässt du auf die Menschheit los?",
+      "s": "Du bist Forscher in einem biochemischen Labor, als sich plötzlich ein Erdbeben ereignet. Zwei Ampullen mit Viren fallen von verschiedenen Seiten auf deine Arbeitsfläche: Der eine Virus lässt Menschen schnell altern, der andere Virus verursacht <BLANK>. Du kannst nur eine Ampulle vor dem Zerbrechen bewahren.\r\nWelchen Virus lässt du auf die Menschheit los?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
     },
     {
-      "s": "Ein Teil von euch hat richtig gewählt. Ihr wisst, wer.",
+      "s": "Ein Teil von euch hat richtig gewählt. Ihr wisst, welcher.",
       "t": "A",
       "v": "response",
       "n": "ResponseAudio"

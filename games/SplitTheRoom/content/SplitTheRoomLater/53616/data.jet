@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "seinen Kopf abzurasieren | Vegetarier zu werden| monatlich Blut zu spenden | Barfuss zu laufen | Geschäftskleidung zu tragen",
+      "v": "seinen Kopf abzurasieren | Vegetarier zu werden| monatlich Blut zu spenden | Barfuß zu laufen | Geschäftskleidung zu tragen",
       "n": "Decoys"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Du erhältst ein Vollzeitstipendium für eine Hochschule, an der jeder Student AUSSER DIR dazu verpflichtet ist,",
+      "v": "Du erhältst ein Vollzeitstipendium für eine Hochschule, an der jeder Student außer dir dazu verpflichtet ist,",
       "n": "ScenarioText1"
     },
     {
@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du erhältst ein Vollzeitstipendium für eine Hochschule, an der jeder Student AUSSER DIR dazu verpflichtet ist, <BLANK>. Alle werden wissen, dass diese Regel auf dich nicht zutrifft.\r\nNimmst du das Stipendium an?",
+      "s": "Du erhältst ein Vollzeitstipendium für eine Hochschule, an der jeder Student außer dir dazu verpflichtet ist, <BLANK>. Alle werden wissen, dass diese Regel auf dich nicht zutrifft.\r\nNimmst du das Stipendium an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

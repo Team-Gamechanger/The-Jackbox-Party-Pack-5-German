@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Der Test, um festzustellen, ob <OTHERPLAYER> noch ein Mensch ist, beinhaltet",
+      "v": "Der Test, um festzustellen, ob jemand ein Mensch ist, beinhaltet",
       "n": "ScenarioText3"
     },
     {
@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du sitzt in einer Raumstation fest, die von einem außerirdischen Gestaltwandler infiltriert worden sein könnte. <OTHERPLAYER> beginnt sich verdächtig zu verhalten. Der Test, um festzustellen, ob <OTHERPLAYER> noch ein Mensch ist, beinhaltet <BLANK>.\r\nFührst du ihn durch?",
+      "s": "Du sitzt in einer Raumstation fest, die von einem außerirdischen Gestaltwandler infiltriert worden sein könnte. <OTHERPLAYER> beginnt sich verdächtig zu verhalten. Der Test, um festzustellen, ob jemand ein Mensch ist, beinhaltet <BLANK>.\r\nFührst du ihn durch?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

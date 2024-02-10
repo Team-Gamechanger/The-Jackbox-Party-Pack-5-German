@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Du hast zwei Möglichkeiten: die Persönlichkeit von Heidi Klum ODER",
+      "v": "Du hast zwei Möglichkeiten: Die Persönlichkeit von Heidi Klum ODER",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+14.24",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.89",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.92",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast deine Persönlichkeit verloren, weil beim MRT-Scan etwas schiefgelaufen ist. Die Ärzte bieten dir eine neue Persönlichkeit an. Du hast zwei Möglichkeiten: die Persönlichkeit von Heidi Klum ODER <BLANK>.\r\nWelche neue Persönlichkeit wirst du wählen?",
+      "s": "Du hast deine Persönlichkeit verloren, weil beim MRT-Scan etwas schiefgelaufen ist. Die Ärzte bieten dir eine neue Persönlichkeit an. Du hast zwei Möglichkeiten: Die Persönlichkeit von Heidi Klum ODER <BLANK>.\r\nWelche neue Persönlichkeit wirst du wählen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

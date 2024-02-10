@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Doch du musst die ersten zwei Jahre damit verbringen, es als Zufluchtsort für",
+      "v": "Doch du wirst für die ersten zwei Jahre dazu verpflichtet, das Gelände als Zufluchtsort für",
       "n": "ScenarioText2"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Grundstückspreis",
+      "s": "Haben oder nicht haben",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Im Rahmen einer neuen Gesetzesinitiative werden dir 150 Hektar an wunderschönen Landschaften angeboten. Doch du musst die ersten zwei Jahre damit verbringen, es als Zufluchtsort für <BLANK> zur Verfügung zu stellen.\r\nNimmst du das “kostenlose” Land?",
+      "s": "Im Rahmen einer neuen Gesetzesinitiative werden dir 150 Hektar an wunderschönen Landschaften angeboten. Doch du wirst für die ersten zwei Jahre dazu verpflichtet, das Gelände als Zufluchtsort für <BLANK> zur Verfügung zu stellen.\r\nNimmst du das “kostenlose” Land?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

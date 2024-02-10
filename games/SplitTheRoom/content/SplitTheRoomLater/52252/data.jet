@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "eine Schaufensterpuppe, die wie du aussieht | ein totes Eichhörnchen von einem Baum hängend | ein “Nein”, geschrieben mit Donuts | bewegende Schatten | Augen in den Bäumen",
+      "v": "Eine Puppe, die wie du aussieht | 20 tote Eichhörnchen | ein aus Donuts geschriebenes “Nein” | tanzende Schatten | Augen in den Bäumen",
       "n": "Decoys"
     },
     {
@@ -76,7 +76,7 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Hexen-Plätze",
+      "s": "Der Hexenwald",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

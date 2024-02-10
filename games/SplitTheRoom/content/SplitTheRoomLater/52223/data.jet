@@ -17,12 +17,12 @@
     },
     {
       "t": "S",
-      "v": "Lügst du?",
+      "v": "Lügst du sie an?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Gute Pornos | Mami soll damit aufhören | Ich bin betrunken | Weglaufen | Skandalzeitschriften",
+      "v": "Gute Pornos | Nie wieder mit Mami reden zu müssen | Ich bin betrunken | Einen neuen Papa | Der neue Playboy",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "<BLANK>",
+      "v": "\"<BLANK>\"",
       "n": "ScenarioText3"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Weihnachtswunsch",
+      "s": "Frohe Weihnachten",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Du arbeitest als Weihnachtsmann in einem Einkaufszentrum. Ein vierjähriges Kind klettert auf deinen Schoss. Als du es fragst, was es sich zu Weihnachten wünscht, antwortet es: <BLANK> Die Mutter will wissen, was es sich gewünscht hat.\r\nLügst du?",
+      "s": "Du arbeitest als Weihnachtsmann in einem Einkaufszentrum. Ein vierjähriges Kind klettert auf deinen Schoss. Als du es fragst, was es sich zu Weihnachten wünscht, antwortet es: \"<BLANK>\" Die Mutter will wissen, was es sich gewünscht hat.\r\nLügst du sie an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

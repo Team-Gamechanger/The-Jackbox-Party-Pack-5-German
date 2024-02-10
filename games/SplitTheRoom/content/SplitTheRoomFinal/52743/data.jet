@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Du kannst zwischen zwei Rollen wählen: mit dem Vater der Braut ringen oder",
+      "v": "Du kannst zwischen zwei Rollen wählen: Mit dem Vater der Braut ringen oder",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.95",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.20",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.87",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wurdest eingeladen, an der untraditionellen Hochzeit deines besten Freundes teilzunehmen. Du kannst zwischen zwei Rollen wählen: mit dem Vater der Braut ringen oder <BLANK>.\r\nWelche Funktion übst du bei dieser bizarren Hochzeit aus?",
+      "s": "Du wurdest eingeladen, an der untraditionellen Hochzeit deines besten Freundes teilzunehmen. Du kannst zwischen zwei Rollen wählen: Mit dem Vater der Braut ringen oder <BLANK>.\r\nWelche Funktion übst du bei dieser bizarren Hochzeit aus?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

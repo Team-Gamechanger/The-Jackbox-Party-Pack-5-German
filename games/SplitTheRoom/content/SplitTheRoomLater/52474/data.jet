@@ -17,12 +17,12 @@
     },
     {
       "t": "S",
-      "v": "Wirst du die Karte regelmäßig benutzen?",
+      "v": "Benutzt du die Karte regelmäßig?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "dich, auf der Toilette | “Despacito” | Kinderschreie | “Turn Down For What” | Zitate aus “Shrek”",
+      "v": "deine Fürze | “Despacito” | Kinderschreie | “Turn Down For What” | Zitate aus “Shrek”",
       "n": "Decoys"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Bitte Karte einstecken",
+      "s": "Bar oder mit Karte?",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein Kreditkartenunternehmen bietet dir eine Rückerstattung von 10% des Kaufpreises auf alle Einkäufe an. Das Problem: Sobald du die Karte benutzt, ertönt ein seltsames Geräusch und das Lesegerät spielt <BLANK> ab.\r\nWirst du die Karte regelmäßig benutzen?",
+      "s": "Ein Kreditkartenunternehmen bietet dir eine Rückerstattung von 10% des Kaufpreises auf alle Einkäufe an. Das Problem: Sobald du die Karte benutzt, ertönt ein seltsames Geräusch und das Lesegerät spielt <BLANK> ab.\r\nBenutzt du die Karte regelmäßig?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

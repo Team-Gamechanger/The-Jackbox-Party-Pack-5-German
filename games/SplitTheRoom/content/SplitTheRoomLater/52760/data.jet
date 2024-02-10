@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "einen lauten Alarm von sich geben kann | Funken sprüht | hasserfüllte Musik spielt | Schleim aussondert | stroboskopische Partybeleutung von sich gibt",
+      "v": "mit Sardinen eingerieben werden muss | Funken sprüht | hasserfüllte Musik spielt | Schleim aussondert | stroboskopische Partybeleutung von sich gibt",
       "n": "Decoys"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Statt in deiner Gebärmutter kann dein Kind nun alternativ in einem Ei heranwachsen, welches sich in einem Brutkasten bei dir zu Hause befindet.",
+      "v": "Statt in deiner Gebärmutter kann dein Kind neuerdings alternativ in einem Ei heranwachsen, welches sich in einem Brutkasten bei dir zu Hause befindet.",
       "n": "ScenarioText2"
     },
     {
@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist schwanger. Statt in deiner Gebärmutter kann dein Kind nun alternativ in einem Ei heranwachsen, welches sich in einem Brutkasten bei dir zu Hause befindet. Das einzige Problem ist, dass das Ei ab und zu <BLANK>.\r\nWählst du diese neue Methode?",
+      "s": "Du bist schwanger. Statt in deiner Gebärmutter kann dein Kind neuerdings alternativ in einem Ei heranwachsen, welches sich in einem Brutkasten bei dir zu Hause befindet. Das einzige Problem ist, dass das Ei ab und zu <BLANK>.\r\nWählst du diese neue Methode?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

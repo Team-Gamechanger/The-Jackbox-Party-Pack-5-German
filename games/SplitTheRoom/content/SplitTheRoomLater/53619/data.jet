@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Furzenden Ottern | deiner eigenen LinkedIn-Seite | diesem einen oberkörperfreien Putin-Foto | deinen Babybildern| “Never Gonna Give You Up”",
+      "v": "Furzenden Ottern | deiner eigenen LinkedIn-Seite | einem oberkörperfreien Putin-Foto | deinen Babybildern| “Never Gonna Give You Up”",
       "n": "Decoys"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Aber upsi, anstelle des Links zu einem relevanten Artikel, hast du einen Link zu",
+      "v": "Hättest du lieber nochmal drübergelesen, denn anstelle des Links zu einem relevanten Artikel, hast du einen Link zu",
       "n": "ScenarioText2"
     },
     {
@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Es ist 17 Uhr an einem Freitag und du hast in dieser Sekunde eine E-Mail an das gesamte Unternehmen abgeschickt. Aber upsi, anstelle des Links zu einem relevanten Artikel, hast du einen Link zu <BLANK> eingefügt. Glücklicherweise befindet sich dieser erst im sechsten Absatz.\r\nVersendest du eine Entschuldigungs-Mail?",
+      "s": "Es ist 17 Uhr an einem Freitag und du hast in dieser Sekunde eine E-Mail an das gesamte Unternehmen abgeschickt. Hättest du lieber nochmal drübergelesen, denn anstelle des Links zu einem relevanten Artikel, hast du einen Link zu <BLANK> eingefügt. Glücklicherweise befindet sich dieser erst im sechsten Absatz.\r\nVersendest du eine Entschuldigungs-Mail?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

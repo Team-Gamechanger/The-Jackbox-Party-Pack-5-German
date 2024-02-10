@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du bist in einer grausamen Spielshow, in der du deinen Gegner töten musst.",
+      "v": "Du bist in einer grausamen Spielshow, in der du deinen Gegner zum Weinen bringen musst.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.71",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.58",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.61",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist in einer grausamen Spielshow, in der du deinen Gegner töten musst. Du hast zwei Informationen über deinen Gegner: Er besitzt einen blinden, dreibeinigen Hund und <BLANK>.\r\nAuf was konzentrierst du dich, um ihn zum Weinen zu bringen?",
+      "s": "Du bist in einer grausamen Spielshow, in der du deinen Gegner zum Weinen bringen musst. Du hast zwei Informationen über deinen Gegner: Er besitzt einen blinden, dreibeinigen Hund und <BLANK>.\r\nAuf was konzentrierst du dich, um ihn zum Weinen zu bringen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

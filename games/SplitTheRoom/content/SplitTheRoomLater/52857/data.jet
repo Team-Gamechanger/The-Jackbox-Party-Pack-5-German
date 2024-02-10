@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "eine lebende Schlange zu fangen | dich nackt auszuziehen | dir selbst Handschellen anzulegen | die Zombies zu umarmen | zu breakdancen",
+      "v": "eine lebende Schlange fangen | dich nackt ausziehen | dir selbst Handschellen anlegen | die Zombies umarmen | breakdancen",
       "n": "Decoys"
     },
     {
@@ -32,22 +32,22 @@
     },
     {
       "t": "S",
-      "v": "Zombies greifen deine Stadt an. <OTHERPLAYER> sagt, sie haben einen Plan, um sicher zu entkommen.",
+      "v": "Zombies greifen deine Stadt an. <OTHERPLAYER> behauptet einen Plan zu haben, um sicher entkommen zu können.",
       "n": "ScenarioText1"
     },
     {
       "t": "S",
-      "v": "Sie können dir nicht alles erzählen, aber bitten dich,",
+      "v": "Zum Erklären des gesamten Plans bleibt keine Zeit. ",
       "n": "ScenarioText2"
     },
     {
       "t": "S",
-      "v": "<BLANK>.",
+      "v": "Du kennst nur deine Aufgabe: Du musst",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "<BLANK>.",
       "n": "ScenarioText4"
     },
     {
@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Zombies greifen deine Stadt an. <OTHERPLAYER> sagt, sie haben einen Plan, um sicher zu entkommen. Sie können dir nicht alles erzählen, aber bitten dich, <BLANK>.\r\nVerlässt du die Unterkunft und folgst ihnen?",
+      "s": "Zombies greifen deine Stadt an. <OTHERPLAYER> behauptet einen Plan zu haben, um sicher entkommen zu können. Zum Erklären des gesamten Plans bleibt keine Zeit.  Du kennst nur deine Aufgabe: Du musst <BLANK>.\r\nVerlässt du die Unterkunft und folgst ihnen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

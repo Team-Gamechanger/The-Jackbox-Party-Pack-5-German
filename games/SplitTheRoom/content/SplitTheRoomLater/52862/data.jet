@@ -17,12 +17,12 @@
     },
     {
       "t": "S",
-      "v": "Wettest du 100 Euro auf den Ausgang?",
+      "v": "Wettest du 100 Euro auf deinen Sieg?",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Tischtennis | einem Buchstabierwettbewerb | Breakdancen | Marathon | einem Hotdog-Wettessen",
+      "v": "Tischtennis | einem Buchstabierwettbewerb | Breakdancen | einem Marathon | einem Hotdog-Wettessen",
       "n": "Decoys"
     },
     {
@@ -42,12 +42,12 @@
     },
     {
       "t": "S",
-      "v": "<BLANK> heraus.",
+      "v": "<BLANK>",
       "n": "ScenarioText3"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "heraus.",
       "n": "ScenarioText4"
     },
     {
@@ -76,13 +76,13 @@
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Wozu Freunde da sind",
+      "s": "Echte Kumpel",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"
     },
     {
-      "s": "Dein Freundschaftsamulett ermöglicht es, die Fähigkeiten von <OTHERPLAYER> zu erlangen. Eines Tages fordert dich ein Fremder zu <BLANK> heraus.\r\nWettest du 100 Euro auf den Ausgang?",
+      "s": "Dein Freundschaftsamulett ermöglicht es, die Fähigkeiten von <OTHERPLAYER> zu erlangen. Eines Tages fordert dich ein Fremder zu <BLANK> heraus.\r\nWettest du 100 Euro auf deinen Sieg?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
