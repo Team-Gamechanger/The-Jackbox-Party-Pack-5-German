@@ -212,7 +212,7 @@
             "prizeGate": 80000,
             "selectable": true,
             "unlockType": "Gemetzel",
-            "unlockTitle": "Medium",
+            "unlockTitle": "Mittel",
             "unlockDescription": "Arbeitet zusammen, um FARBBARRIEREN zu durchqueren!"
             
         },
@@ -367,7 +367,7 @@
             "selectable": false,
             "unlockType": "Schwierigkeit",
             "unlockTitle": "Blanker Wahnsinn",
-            "unlockDescription": "Blanker Wahnsinn! Überlebt MEDIUM oder GESTÖRT, um dieses Gemetzel zu erreichen!"
+            "unlockDescription": "Blanker Wahnsinn! Überlebt MITTEL oder GESTÖRT, um dieses Gemetzel zu erreichen!"
         },
         {
             "id":"XXtreme",
