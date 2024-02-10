@@ -54,7 +54,7 @@
         "SAME_PLAYERS": "GLEICHE SPIELER",
         "LOBBY_OR": "ODER",
         "NEW_PLAYERS": "ANDERE SPIELER",
-        "NEXT_GAUNTLET": "NÄCHSTES HANDGEMENGE",
+        "NEXT_GAUNTLET": "NÄCHSTE PHASE",
         "QUIT_SERIES": "BEENDEN",
         "FULL_SCREEN": "Vollbildmodus",
         "FULL_SCREEN_DESCRIPTION": "Schaltet das Spiel auf Vollbild.",
@@ -113,7 +113,7 @@
         "TRUE_FACT_TITLE": "TRUE FACT #",
         "CURRENT_PRIZES": "Preise",
         "CURRENT_MONEY": "Gesamtgewinn",
-        "GAUNTLET_BONUS": "Handgemenge-Bonus",
+        "GAUNTLET_BONUS": "Phasen-Bonus",
         
         "WINNER_DESCRIPTION": "<PlayerScore> Points",
         "MOST_LIKES_DESCRIPTION": "<PlayerLikes> Likes",
