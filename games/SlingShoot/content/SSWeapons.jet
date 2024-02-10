@@ -2,8 +2,8 @@
     "content":[
         {
             "id":"PlayerWeapon",
-            "title":"Standard-Angriff",
-            "description":"Ein Standard-Schadensangriff",
+            "title":"Standardangriff",
+            "description":"Ein einfacher Angriff",
             "group":"weapon",
             "behaviorClass":"jackboxgames.slingshoot.model.weapon.PlayerWeapon",
             "trail": "SS_PlayerTrail",
@@ -24,8 +24,8 @@
         },
         {
             "id":"Stun",
-            "title":"Betäubungsangriff",
-            "description":"Angriff mit einer Chance, Gegner zu betäuben",
+            "title":"Paralyse",
+            "description":"Ein Angriff, der Gegner paralysieren kann",
             "group":"effect",
             "explosion": "SS_StunExplosion",
             "audioLinkage": "sfx/explosion_stun",
@@ -35,13 +35,13 @@
             "stunTime": 10,
             "prizeGate": 0,
             "unlockType": "Waffe",
-            "unlockTitle": "Elektroschocker",
-            "unlockDescription": "Muss nicht freigeschaltet werden"
+            "unlockTitle": "Electro Shocker",
+            "unlockDescription": "This doesnt need to be unlocked"
         },
         {
             "id":"RainbowCannon",
-            "title":"Regenbogen-Kanonen-Angriff",
-            "description":"Angriff, der die Geschwindigkeit von Sprüngen erhöht und den Spieler als alle Farben zählen lässt",
+            "title":"Farbkanone",
+            "description":"Ein Angriff, der das Schleudern beschleunigt und dem Spieler alle Farben verleiht",
             "group":"effect",
             "behaviorClass":"jackboxgames.slingshoot.model.weapon.RainbowCannonEffect",
             "trail": "SS_RainbowCannonTrail",
@@ -59,26 +59,26 @@
             "rainbowCenter": 128,
             "rainbowLength": 21,
             "unlockType": "Waffe",
-            "unlockTitle": "Prisma-Kanone",
-            "unlockDescription": "Das Team bekommt jede Farbe!"
+            "unlockTitle": "Farbkanone",
+            "unlockDescription": "Verleiht euch jede Farbe!"
         },
         {
             "id":"Shield",
-            "title":"Schild-Attacke",
-            "description":"Erzeugt bei Stillstand eine schützende Aura, die alle Spieler darin beschützt",
+            "title":"Schutzschild",
+            "description":"Erschafft ein Schutzschild, das jeden Spieler beschützt",
             "group":"effect",
             "behaviorClass":"jackboxgames.slingshoot.model.weapon.ShieldEffect",
             "trail": "SS_ShieldTrail",
             "prizeGate": 35000,
             "percentOfDamageTaken": 0.0,
             "unlockType": "Waffe",
-            "unlockTitle": "Schild-Aura",
-            "unlockDescription": "Macht das Team unbesiegbar!"
+            "unlockTitle": "Schutzschild",
+            "unlockDescription": "Verleiht euch Unsterblichkeit!"
         },
         {
             "id":"SuperBlaster",
-            "title":"Super-Blaster-Angriff",
-            "description":"Verleiht dem Spieler eine viel stärkere Explosion",
+            "title":"Pulverisierung",
+            "description":"Ein Angriff, der sehr viel stärkere Explosionen verleiht",
             "group":"effect",
             "explosion":"SS_SuperBlasterExplosion",
             "audioLinkage": "sfx/explosion_super_blaster_3d",
@@ -88,13 +88,13 @@
             "prizeGate": 500000,
             "damageBuff": 3.0,
             "unlockType": "Waffe",
-            "unlockTitle": "Zerstörer",
-            "unlockDescription": "Gib deinem Team die ultimative Waffe!"
+            "unlockTitle": "Pulverisierer",
+            "unlockDescription": "Verleiht euch die ultimative Waffe!"
         },
         {
             "id": "ClusterBombs",
-            "title":"Splitterbomben-Angriff",
-            "description":"Wirf zusätzliche Splitterbomben ab, wenn du explodierst!",
+            "title":"Bombenhagel",
+            "description":"Ein Angriff, der bei Gegnerkontakt Bomben zündet",
             "group": "effect",
             "explosion": "SS_ClusterExplosion",
             "audioLinkage": "sfx/explosion_cluster_mini_3d",
@@ -107,9 +107,9 @@
             "bombReleaseDelay": 0.0,
             "prizeGate": 0,
             "impulse": 0.0009,
-            "unlockType": "Schwierigkeit",
-            "unlockTitle": "XXXtrem",
-            "unlockDescription": "Das hört sich sehr xxxtrem an!"
+            "unlockType": "difficulty",
+            "unlockTitle": "XXXtreme",
+            "unlockDescription": "This looks pretty xxxtreme!"
         },
         {
             "id":"ClusterBomb",

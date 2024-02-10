@@ -3,10 +3,10 @@
         {
             "id":"Tutorial",
             "difficulty": 0,
-            "titles": ["Warte, was mache ich hier?","Ähh... wie funktioniert das?","Was? Wo bin ich?"],
+            "titles": ["Moment, was mache ich hier?","Ähh... wie funktioniert das hier?","Was? Wo bin ich?"],
             "minChallenges":4,
             "maxChallenges":4,
-            "mission": "Schließe alle Herausforderungen ab",
+            "mission": "Beendet alle Missionen",
             "gauntletBonus": 4000,
             "enemiesPerChallenge": {
                 "1": {
@@ -69,10 +69,10 @@
         {
             "id":"Easy",
             "difficulty": 1,
-            "titles": [ "Autsch! Meine Knochen!", "Die Qualen! Die Qualen!", "Die Qualen sind unendlich!","Es brennt! Es brennt!","Ich bin verletzt!" ],
+            "titles": [ "Autsch! Meine Knochen!", "Die Qualen hören nie auf!", "Es schmerzt!", "Ich hab' Angst!" ],
             "minChallenges":4,
             "maxChallenges":4,
-            "mission": "Schließe alle Herausforderungen ab",
+            "mission": "Beendet alle Missionen",
             "gauntletBonus": 6000,
             "enemiesPerChallenge": {
                 "1": {
@@ -136,17 +136,17 @@
             ],
             "prizeGate": 4500,
             "selectable": true,
-            "unlockType": "Phase",
+            "unlockType": "Gemetzel",
             "unlockTitle": "Einfach",
-            "unlockDescription": "Zeit für den Ernstfall! Pralle von BUMPERN ab, um mit härteren Feinden fertig zu werden"
+            "unlockDescription": "Zeit fürs Eingemachte! Nutzt die PRALLBÄLLE, um schwierigere Gegner besser besiegen zu können!"
         },
         {
             "id":"Medium",
             "difficulty": 2,
-            "titles": [ "Ahhh! So viel Blut!", "Bitte, bitte, bitte, Schluss damit!", "Warum tut ihr uns das an?!","Alles explodiert!","Der unerträgliche Schmerz!","Lasst mich bitte nach Hause!", "Wer steht auf Trauma?"],
+            "titles": [ "Ahhh! So viel Blut!", "Bitte nicht!", "Warum tut ihr mir das an?!","Alles und jeder explodiert!","Der unertragbare Schmerz!","Bitte lasst mich doch einfach gehen!", "Wer mag Traumata?"],
             "minChallenges":5,
             "maxChallenges":5,
-            "mission": "Schließe alle Herausforderungen ab",
+            "mission": "Beendet alle Missionen",
             "gauntletBonus": 10000,
             "enemiesPerChallenge": {
                 "1": {
@@ -211,18 +211,18 @@
             ],
             "prizeGate": 80000,
             "selectable": true,
-            "unlockType": "Phase",
-            "unlockTitle": "Mittel",
-            "unlockDescription": "Stimme dich mit deinem Team ab, um die FARBBBARRIEREN zu passieren!"
+            "unlockType": "Gemetzel",
+            "unlockTitle": "Medium",
+            "unlockDescription": "Arbeitet zusammen, um FARBBARRIEREN zu durchqueren!"
             
         },
         {
             "id":"Hard",
             "difficulty": 3,
-            "titles": [ "Überall Leichen!", "Ich spüre meine Beine nicht mehr!", "Ich brenne!!!","Mein Fleisch ist weg!","Bitte töte mich!","Tod! Tod! Tod!","So viel Gemetzel!","Heilung! Heilung!" ],
+            "titles": [ "Leichen überall!", "Ich kann meine Beine nicht mehr spüren!", "Ich brenne!!!","Bitte tötet mich!","Tod! Tod! Tod!", "So viel Gemetzel!","Holt einen Arzt!","Ich will zu Mami!" ],
             "minChallenges":5,
             "maxChallenges":5,
-            "mission": "Schließe alle Herausforderungen ab",
+            "mission": "Beendet alle Missionen",
             "gauntletBonus": 15000,
             "enemiesPerChallenge": {
                 "1": {
@@ -288,18 +288,18 @@
             ],
             "prizeGate": 200000,
             "selectable": true,
-            "unlockType": "Phase",
-            "unlockTitle": "Wahnsinnig",
-            "unlockDescription": "Flieg durch ein Portal und komme aus dem anderen wieder heraus!"
+            "unlockType": "Gemetzel",
+            "unlockTitle": "Gestört",
+            "unlockDescription": "Schleudert euch durch ein PORTAL und springt aus dem anderen heraus!"
             
         },
         {
             "id":"Xtreme",
             "difficulty": 4,
-            "titles": [ "Das unsagbare Grauen!", "Macht dass es aufhört!", "AAAAAAAHHHHH!!!!" ],
+            "titles": [ "Der blanke Horror!", "Lasst es enden!", "AAAAAAAHHHHH!!!!" ],
             "minChallenges":6,
             "maxChallenges":6,
-            "mission": "Schließe alle Herausforderungen ab",
+            "mission": "Beendet alle Missionen",
             "gauntletBonus": 20000,
             "enemiesPerChallenge": {
                 "1": {
@@ -366,16 +366,16 @@
             "prizeGate": 400000,
             "selectable": false,
             "unlockType": "Schwierigkeit",
-            "unlockTitle": "Völliger Wahnsinn",
-            "unlockDescription": "Völliger Wahnsinn! Überlebe MITTEL oder WAHNSINNIG, um diese Phase zu erreichen"
+            "unlockTitle": "Blanker Wahnsinn",
+            "unlockDescription": "Blanker Wahnsinn! Überlebt MEDIUM oder GESTÖRT, um dieses Gemetzel zu erreichen!"
         },
         {
             "id":"XXtreme",
             "difficulty": 5,
-            "titles": [ "Ich kann es nicht ertragen!", "Aua, mein Becken!", "Bin ich schon tot?" ],
+            "titles": [ "Ich halte es nicht aus!", "Au, mein Becken!", "Bin ich schon tot?" ],
             "minChallenges":5,
             "maxChallenges":5,
-            "mission": "Schließe alle Herausforderungen ab",
+            "mission": "Beende alle Missionen",
             "gauntletBonus": 25000,
             "enemiesPerChallenge": {
                 "1": {
@@ -442,8 +442,8 @@
             "prizeGate": 600000,
             "selectable": false,
             "unlockType": "Schwierigkeit",
-            "unlockTitle": "Hölle",
-            "unlockDescription": "Überlebe VÖLLIGER WAHNSINN, um diese letzte Herausforderung zu erreichen!"
+            "unlockTitle": "Hölle Hölle Hölle Hölle",
+            "unlockDescription": "Das ist Wahnsinn! Überlebt GESTÖRT, um diese finale Mission zu erreichen!"
         }
     ]
 }

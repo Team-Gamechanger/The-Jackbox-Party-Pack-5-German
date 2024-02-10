@@ -182,8 +182,8 @@
             "rewardDifficultyBuff": 0,
             "prizeGate": 10000,
             "unlockType": "Gegner",
-            "unlockTitle": "Yawg-Bomber",
-            "unlockDescription": "Die explodieren, wenn sie sterben!"
+            "unlockTitle": "Glotzbomber",
+            "unlockDescription": "Diese Viecher explodieren, wenn sie sterben!"
         },
         {
             "id":"ConnectedEnemy",
@@ -229,8 +229,8 @@
             "rewardDifficultyBuff": 0,
             "prizeGate": 100000,
             "unlockType": "Gegner",
-            "unlockTitle": "Glurb Tracker",
-            "unlockDescription": "Weiche aus, wenn sie dich anvisieren!"
+            "unlockTitle": "Schmeißfliege",
+            "unlockDescription": "Schleudert euch davon, wenn sie euch anvisieren!"
         },
         {
             "id":"SpawnerEnemy",
@@ -276,8 +276,8 @@
             "rewardDifficultyBuff": 0,
             "prizeGate": 300000,
             "unlockType": "Gegner",
-            "unlockTitle": "Chu-Chon",
-            "unlockDescription": "Macht kleine Chu-Chons! Nutze ihre Farbe, um sie zu töten, bevor sie angreifen!"
+            "unlockTitle": "Zirkularum",
+            "unlockDescription": "Erschafft viele kleine Zirkulis! Greift sie mit der passenden Farbe an, bevor sie angreifen!"
         },
         {
             "id":"MinionEnemy",
@@ -331,9 +331,9 @@
             "reward": 0,
             "rewardDifficultyBuff": 0,
             "prizeGate": 0,
-            "unlockType": "Gegner",
+            "unlockType": "Enemy",
             "unlockTitle": "Critter",
-            "unlockDescription": "Dieser sollte niemals erscheinen"
+            "unlockDescription": "This should never appear"
         },
         {
             "id":"InhalerEnemy",
@@ -394,8 +394,8 @@
             "rewardDifficultyBuff": 0,
             "prizeGate": 350000,
             "unlockType": "Gegner",
-            "unlockTitle": "Hargon-Jäger",
-            "unlockDescription": "Rette deinen Freund, wenn ein Hargon ihn frisst!"
+            "unlockTitle": "Raffzahn",
+            "unlockDescription": "Rettet eure Kameraden, wenn sie von einem Raffzahn gefressen werden!"
         },
         {
             "id":"AbsorberEnemy",
@@ -445,8 +445,8 @@
             "rewardDifficultyBuff": 0,
             "prizeGate": 175000,
             "unlockType": "Gegner",
-            "unlockTitle": "Stunley",
-            "unlockDescription": "Treffe deinen Freund, um ihn aufzuwecken, wenn er betäubt wird!"
+            "unlockTitle": "Narcosius",
+            "unlockDescription": "Stoßt gegen paralysierte Kameraden, um sie aufzuwecken!"
             
         }
     ]
