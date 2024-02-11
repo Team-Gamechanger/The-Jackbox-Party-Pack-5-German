@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": " Bedauerlicherweise hätten es beide verdient, weiterzukommen.",
+      "v": "Bedauerlicherweise hätten es beide verdient, weiterzukommen.",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+14.43",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.42",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.06",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.97",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist Juror bei einer Talentshow und es ist an dir einen Kandidaten rauszuschmeißen.  Bedauerlicherweise hätten es beide verdient, weiterzukommen. Du hast die Wahl zwischen einem fünfjährigen Tänzer oder <BLANK>.\r\nWelchen Kandidaten wirfst du raus?",
+      "s": "Du bist Juror bei einer Talentshow und es ist an dir einen Kandidaten rauszuschmeißen. Bedauerlicherweise hätten es beide verdient, weiterzukommen. Du hast die Wahl zwischen einem fünfjährigen Tänzer oder <BLANK>.\r\nWelchen Kandidaten wirfst du raus?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

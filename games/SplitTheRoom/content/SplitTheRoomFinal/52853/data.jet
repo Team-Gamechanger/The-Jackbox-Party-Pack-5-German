@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Du kannst zwischen Smartphones mit diesen Apps wählen: Mahjongg oder",
+      "v": "Du kannst zwischen Smartphones mit diesen Apps wählen: Mahjong oder",
       "n": "ScenarioText3"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+14.26",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.19",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.12",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.94",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Alle Smartphones kommen vorinstalliert mit nur noch einer App, die nicht gelöscht werden kann. Der Speicherplatz reicht nur für diese eine App. Du kannst zwischen Smartphones mit diesen Apps wählen: Mahjongg oder <BLANK>\r\nWelche App soll sich auf dem Smartphone befinden?",
+      "s": "Alle Smartphones kommen vorinstalliert mit nur noch einer App, die nicht gelöscht werden kann. Der Speicherplatz reicht nur für diese eine App. Du kannst zwischen Smartphones mit diesen Apps wählen: Mahjong oder <BLANK>\r\nWelche App soll sich auf dem Smartphone befinden?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

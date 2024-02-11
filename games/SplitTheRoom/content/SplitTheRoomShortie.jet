@@ -84,6 +84,24 @@
     },
     {
       "answerText": "",
+      "scenarioText": "Du bist derzeit auf dem zweiten Platz, bei einer landesweit ausgestrahlten Fernseh-Spielshow. Du weißt zufällig, dass das Wort “<BLANK>” beim Erstplatzierten einen Gedächnisverlust auslöst.",
+      "decoys": "Papi | Lulu | feucht | Krautsalat | Makel",
+      "x": false,
+      "id": 50305,
+      "category": "Das Geheimnis des Konkurrenten",
+      "questionText": "Probierst du, das Wort in einem deiner Sätze unterzubringen?"
+    },
+    {
+      "answerText": "",
+      "scenarioText": "Ein großer Verlag bietet dir einen Job als angestellten Journalisten an. Du wirst Romane, Kurzgeschichten, Drehbücher und alles was du willst schreiben, solange das Thema <BLANK> ist.",
+      "decoys": "Elefantenkacke | Justin Bieber | Mathematik | Marvel-Fanfictions | 2016",
+      "x": false,
+      "id": 50306,
+      "category": "Wer schreibt, der bleibt",
+      "questionText": "Nimmst du den Job an?"
+    },
+    {
+      "answerText": "",
       "scenarioText": "Ein neues Steuergesetz erlaubt es, Abzüge zu verlangen, wenn du <BLANK> hast. Dies trifft auf dich zu, und würde deine Steuerlast um 80% senken. Allerdings würde diese Info, verordnet vom Gesetz, auf Anschlagtafeln überall im Land angebracht werden.",
       "decoys": "eine geheime Familie | Fruchtbarkeitsprobleme | jemanden getötet | Brandstiftung begangen | deinen Partner betrogen",
       "x": false,
@@ -135,6 +153,15 @@
       "id": 50323,
       "category": "Schämend schlank",
       "questionText": "Benutzt du es?"
+    },
+    {
+      "answerText": "",
+      "scenarioText": "Der neuste Renner im Weihnachtsgeschäft ist ein niedlicher Roboter-Otter, der programmiert wurde, deine Hand zu halten und nette Dinge zu sagen. Durch einen Fehler in der Software, der bei jeder 100.000sten Verwendung auftritt, flüstert er dir “<BLANK>” zu. Du bist der Chef der Firma.",
+      "decoys": "Daddy mag das | Ich kenne deine Geheimnisse | Bestehle deine Mutter | Vergifte das Wasserwerk | Wir beobachten dich",
+      "x": false,
+      "id": 50325,
+      "category": "Der Feiertagsfehler",
+      "questionText": "Lässt du eine Rückrufaktion starten?"
     },
     {
       "answerText": "",
@@ -234,6 +261,15 @@
       "id": 50411,
       "category": "Arschpräsentation",
       "questionText": "Zeigst du deinen Hintern?"
+    },
+    {
+      "answerText": "",
+      "scenarioText": "Immer wenn du ein unangenehmes Familienmitglied auf sozialen Netzwerken blockierst, führt es dazu, dass diese Person <BLANK>. Der Angehörige wird sich schließlich davon erholen, aber nie erfahren dass du der Verursacher warst. Doch du wirst es wissen.",
+      "decoys": "einer Salmonellenvergiftung erleidet | die Treppe herunterfällt | schwere Akne bekommt | Malware herunterlädt | eine einzelnene Träne vergiesst",
+      "x": false,
+      "id": 50426,
+      "category": "Vor der Öffentlichkeit verstecken",
+      "questionText": "Blockierst du sie trotzdem?"
     },
     {
       "answerText": "",
@@ -417,12 +453,30 @@
     },
     {
       "answerText": "",
+      "scenarioText": "Du wirst gleich eine kleine Herzoperation durchlaufen. Während du in den Operationssaal gebrachst wirst, merkst du, dass dein Chirurg <BLANK>. Unglücklicherweise ist es der einzige Arzt, den deine Krankenkasse übernimmt.",
+      "decoys": "Tiere quält | E-Zigarette raucht | mit deinem Partner rummacht | Das Buch “Wie man operiert” liest | eine Kettensäge vorbereitet",
+      "x": false,
+      "id": 50660,
+      "category": "Doktorspiele",
+      "questionText": "Stoppst du die Operation?"
+    },
+    {
+      "answerText": "",
       "scenarioText": "Du bist ein Lehrer, der Wissenschaftsprojekte beurteilt. Eines der Kinder hat zufällig ein Heilmittel für <BLANK> entdeckt, ohne es zu wissen. Du bist der einzige Erwachsene, der es bemerkt hat.",
       "decoys": "das Stottern | Herzerkrankungen | Windpocken | Gehirnkrebs | Depressionen",
       "x": false,
       "id": 50662,
       "category": "Die wissenschaftliche Methode",
       "questionText": "Stiehlst du das Projekt des Kindes?"
+    },
+    {
+      "answerText": "",
+      "scenarioText": "Bei der Präsidentschaftswahl wird dir eine überraschend hohe Dichte an Wählerstimmen zuteil. Schließlich gewinnst du das Rennen knapp gegen <BLANK>.",
+      "decoys": "Matthias Schweighöfer | Roseanne | Stefan Raab | einen Eigenbrötler | ein Pferd",
+      "x": false,
+      "id": 50748,
+      "category": "Qual der Wahl",
+      "questionText": "Nimmst du die Wahl an?"
     },
     {
       "answerText": "",
@@ -477,6 +531,15 @@
       "id": 50789,
       "category": "Namensliebe",
       "questionText": "Machst du es?"
+    },
+    {
+      "answerText": "",
+      "scenarioText": "An jedem Tag, an dem du deinen Vater “<BLANK>” nennst, werden 100 Euro auf dein Konto eingezahlt. Doch, wenn er von den Überweisungen erfährt, stoppt der Geldfluss. Er hat vor kurzem seinen Job verloren.",
+      "decoys": "Mutter | Verlierer | Miranda | Entäuschung | nicht liebenswert",
+      "x": false,
+      "id": 50791,
+      "category": "Witze über Papa",
+      "questionText": "Nennst du ihn so?"
     },
     {
       "answerText": "",
@@ -624,6 +687,15 @@
     },
     {
       "answerText": "",
+      "scenarioText": "Du bist in der Zukunft und wurdest, wegen Filmpiraterie schuldig gesprochen. Der Richter macht dir ein Angebot. Anstelle von 6 Monaten Gefängnis, kannst du zwei Stunden im Film <i><BLANK></i> verbringen.",
+      "decoys": "“The Purge” | “Dunkirk” | “Entourage” | “A Quiet Place” | “Krieg der Welten”",
+      "x": false,
+      "id": 50959,
+      "category": "Filmgefängnis",
+      "questionText": "Nimmst du das Angebot an?"
+    },
+    {
+      "answerText": "",
       "scenarioText": "Du bist mit deinem nervtötenden Chef im Fahrstuhl gefangen. Eine Fee, die nur du sehen kannst, befiehlt dir <BLANK>. Andernfalls wird es 18 Stunden dauern, bis ihr gerettet werdet.",
       "decoys": "wild zu fluchen | dich ausziehen | deinen Chef auf die Stirn zu küssen | zu kündigen | dir in die Hose zu machen",
       "x": false,
@@ -696,6 +768,15 @@
     },
     {
       "answerText": "",
+      "scenarioText": "Du hältst eine Ansprache auf der Hochzeit deiner Schwester. Du erzählst hundert wunderbare Dinge über sie, doch als es um ihren Mann geht, kommt dir nicht das geringste in den Sinn. Das Einzige, woran du dich erinnerst, ist, dass er <BLANK>.",
+      "decoys": "Käse mag | mich mit seinem Auto angefahren hat | Angst vor Kindern hat | sich mit dir verabredet hatte | an Bigfoot glaubt",
+      "x": false,
+      "id": 51024,
+      "category": "Das verwirrte Paar",
+      "questionText": "Plauderst du es aus?"
+    },
+    {
+      "answerText": "",
       "scenarioText": "Du überwachst dein Haus mit einer Sicherheitskamera. Eines Nachts erfasst sie den unwiderlegbaren Beweis für Bigfoot… doch man sieht dich im Hintergrund <BLANK>.",
       "decoys": "nackt | einen Hasen treten | beim Veruntreuen von Geldern | eine rote Ampel überfahren | beim Stehlen vom Nachbarsgrundstück",
       "x": false,
@@ -705,12 +786,30 @@
     },
     {
       "answerText": "",
+      "scenarioText": "Dir wird angeboten, bei einem Box-Kampf gegen den amtierenden Weltmeister anzutreten. Du hast keine Chance, jedoch bekommst du für deine Teilnahme <BLANK>.",
+      "decoys": "eine Luxus-Kabine in jedem Stadion | ein Strandhaus | einen Tesla | ein Heimkino-System | eine Yacht",
+      "x": false,
+      "id": 51039,
+      "category": "Der Box-Kampf",
+      "questionText": "Trittst du gegen den Weltmeister an?"
+    },
+    {
+      "answerText": "",
       "scenarioText": "Dein Gebiss ist voller Löcher. Der Zahnarzt wird alle deine Zähne ziehen müssen… es sei denn, du putzt sie zweimal täglich mit <BLANK>, anstelle von Zahnpasta.",
       "decoys": "Rasendünger | Rindfleisch-Chili | saurer Milch | Paprikasaft | Bleiche",
       "x": false,
       "id": 51056,
       "category": "Der Zahnarzt",
       "questionText": "Wendest du diese neue Technik an?"
+    },
+    {
+      "answerText": "",
+      "scenarioText": "Ein Algorithmus hat den perfekten Partner für dich auserwählt… aber mit einem Haken. Du trägst den Kosenamen “<BLANK>.” Du wirst tagtäglich so genannt.",
+      "decoys": "kleiner Scheißer | Daddy | Liebesknödel | Dickerchen | Schatz | Cousin",
+      "x": false,
+      "id": 51102,
+      "category": "Der perfekte Treffer",
+      "questionText": "Heiratet ihr?"
     },
     {
       "answerText": "",
@@ -747,6 +846,15 @@
       "id": 51119,
       "category": "Telefon-Jagd",
       "questionText": "Holst du dir eine?"
+    },
+    {
+      "answerText": "",
+      "scenarioText": "Hacker haben einen Phising-Betrug entwickelt, der so ausgeklügelt ist, dass er durch das blosse Öffnen der E-Mail <BLANK> bewirkt. Du hast soeben eine Nachricht von deiner Mutter, mit der Betreffzeile “Hilfe!”, erhalten. Sie geht nicht an’s Telefon.",
+      "decoys": "Ersticken an schwarzer Lackritze | ein ununterbrochenes Schreien | schweres stürzen | singen in der Öffentlichkeit | das Zerbrechen von Geschirr",
+      "x": true,
+      "id": 51120,
+      "category": "Deine Mutter",
+      "questionText": "Öffnest du sie?"
     },
     {
       "answerText": "",
@@ -849,6 +957,15 @@
     },
     {
       "answerText": "",
+      "scenarioText": "Jedes Mal, wenn du mit dem Joggen fertig bist, wird die Route an deinen Feind gesendet. Die Person wäre sehr verletzt, wenn die Route - aus der Luft gesehen - “<BLANK>” schreiben würde.",
+      "decoys": "Du bist genau wie dein Vater | Ashley hat dich betrogen | Du riechst nach Käse | Du bist nur ausreichend | Ich wünschte, du wärst hier",
+      "x": false,
+      "id": 51280,
+      "category": "Das sprechende Schuhwerk",
+      "questionText": "Traust du dich, diese Botschaft zu senden?"
+    },
+    {
+      "answerText": "",
       "scenarioText": "Wissenschafter haben ein schönes und fremdes Ökosystem in deinem Mund entdeckt. Die Existenz hängt ganz von dir ab, aber es wird ausgelöscht, sobald du <BLANK> konsumierst.",
       "decoys": "Weissbrot | Maiskolben | Chips | Kaffee | Pizza",
       "x": false,
@@ -867,6 +984,24 @@
     },
     {
       "answerText": "",
+      "scenarioText": "Du bist mit einem neuen Bakterium infiziert. Das Hauptsymptom ist eine tägliche Gewichtszunahme... aber eine positive Nebenwirkung ist, dass du <BLANK> kannst. Du kannst sofort Antibiotika nehmen oder eine Woche warten.",
+      "decoys": "Wasser in Wein verwandeln | 5 Sprachen sprechen | einen Tag in die Zukunft schauen | unter Wasser atmen | Feuer bändigen",
+      "x": false,
+      "id": 51285,
+      "category": "Klarkommen mit der Krankheit",
+      "questionText": "Wartest du?"
+    },
+    {
+      "answerText": "",
+      "scenarioText": "Deine neue intelligente Türklingel erkennt, welche Person vor der Tür steht und was ihr gerade durch den Kopf geht. Eines Tages steht dein Postbote vor der Tür, und überlegt <BLANK>.",
+      "decoys": "wie der Mensch schmeckt | dich zu verprügeln | wie er die Post wegwirft | über Feuer",
+      "x": false,
+      "id": 51286,
+      "category": "Die Türklingel-Bedrohung",
+      "questionText": "Informierst du seinen Chef darüber?"
+    },
+    {
+      "answerText": "",
       "scenarioText": "Du entdeckst, dass du die Macht hast, einer Tierspezies Befehle zu erteilen. Deine Kräfte wirken bei <BLANK>. Ein Schurke terrorisiert deine Stadt.",
       "decoys": "Hirschen | Tauben | Fischen | Hasen | kanadischen Gänsen",
       "x": false,
@@ -882,6 +1017,15 @@
       "id": 51291,
       "category": "Liebesschrei",
       "questionText": "Schreist du es heraus?"
+    },
+    {
+      "answerText": "",
+      "scenarioText": "Eine tiefgreifende Operation, gibt dir die Möglichkeit, alles zu sehen. Schliesse dein Augen und du erblickst den Ort. Eine Nebenwirkung ist jedoch, dass einfach alles an diesem Ort für dich nach <BLANK> riechen wird.",
+      "decoys": "einem öffentlichen Urinal | gekochten Eiern | einer Flasche Chilisauce | dem Boden eines Umkleideraums | einem Klärwerk",
+      "x": false,
+      "id": 51293,
+      "category": "Sinneswandel",
+      "questionText": "Machst du die Operation?"
     },
     {
       "answerText": "",
@@ -921,6 +1065,15 @@
     },
     {
       "answerText": "",
+      "scenarioText": "Am Sterbebett bietet dir deine Großmutter ein Gemälde an, das seit Generationen im Besitz der Familie ist. Es zeigt <BLANK>. Ihre letzten Worte an dich sind: “Bitte hänge es im Wohnzimmer auf.”",
+      "decoys": "sie nackt | Jesus mit einem Maschinengewehr | sie händeschüttelnd mit Hitler | viele, viele Clowns | die Geburt deines Vaters",
+      "x": false,
+      "id": 51337,
+      "category": "Ein letzter Wunsch",
+      "questionText": "Hängst du es auf?"
+    },
+    {
+      "answerText": "",
       "scenarioText": "Ein genialer Arzt kann deine gesunde und aktive Lebensspanne um 10 Jahre verlängern. Es gibt jedoch einen Haken. Für die Prozedur ist es nötig, dass deine Genitalien <BLANK>.",
       "decoys": "drastisch schrumpfen | ständig jucken | singen | verschwinden |konstant schwitzen",
       "x": true,
@@ -936,6 +1089,15 @@
       "id": 51339,
       "category": "Liebe auf den ersten Byte",
       "questionText": "Registrierst du dich?"
+    },
+    {
+      "answerText": "",
+      "scenarioText": "Du hilfst deinem besten Freund bei einem Aktionskunstwerk im Museum. Deine Aufgabe besteht darin, die Wange jedes Besuchers zu streicheln und ihnen “Ich sehne mich nach dir” zuzuflüstern. Binnen einer Stunde kommt <BLANK> herein.",
+      "decoys": "dein Onkel | dein Nachbar | dein Ex | dein Vermieter | dein Chef",
+      "x": false,
+      "id": 51352,
+      "category": "Tu es für die Kunst",
+      "questionText": "Machst du es trotzdem?"
     },
     {
       "answerText": "",
@@ -963,6 +1125,15 @@
       "id": 51392,
       "category": "Ein kleiner Fehltritt",
       "questionText": "Wirst du es veröffentlichen?"
+    },
+    {
+      "answerText": "",
+      "scenarioText": "In der Wäsche, die du von der Wäscherei mitgenommen hast, findest du einen handgeschriebenen Zettel mit der Nachricht: “<BLANK>.” Die einzige andere Wäscherei in deiner Nähe berechnet doppelt so viel.",
+      "decoys": "Du bist etwas Besonderes | Ich mag deine Haut | Ich weiss, wo du wohnst | Ich werde dich nie verlassen | Ich will deine Klamotten",
+      "x": false,
+      "id": 51417,
+      "category": "Die Nachricht der Wäscherei",
+      "questionText": "Wechselst du die Wäscherei?"
     },
     {
       "answerText": "",
@@ -1071,6 +1242,15 @@
       "id": 51572,
       "category": "Wiedervereint, und es fühlt sich ganz OK an",
       "questionText": "Nimmst du eine?"
+    },
+    {
+      "answerText": "",
+      "scenarioText": "Das Kind, das du in den letzten drei Jahren unterrichtet hast, hat die Universität mit Auszeichnung abgeschlossen. Mit Tränen in den Augen bittet es dich der Zeremonie beizuwohnen. Bedauerlicherweise musst du immer, wenn jemand dem Kind gratuliert, ungewollt <BLANK>.",
+      "decoys": "schreien: “Ich beende den Unterricht!” | schluchzen | bei jedem Taktschlag furzen | eine Person ohrfeigen | einen 20 Euro Schein essen",
+      "x": false,
+      "id": 51584,
+      "category": "Beglückwünschungen",
+      "questionText": "Erscheinst du?"
     },
     {
       "answerText": "",
@@ -1461,6 +1641,15 @@
     },
     {
       "answerText": "",
+      "scenarioText": "Wenn du drei grausame Stunden bei einem Heimtrainer-Kurs verbringst, besteht eine 50%-ige Chance, dass du 50 Gramm Gold erbrichst. Die andere Hälfte der Zeit wirst du <BLANK>.",
+      "decoys": "nur erbrechen | einen Ausschlag bekommen | um einen Zentimeter schrumpfen | in Ohnmacht fallen | einen Kilogramm zunehmen",
+      "x": false,
+      "id": 51988,
+      "category": "Ein wenig Sport",
+      "questionText": "Hältst du drei Stunden durch?"
+    },
+    {
+      "answerText": "",
       "scenarioText": "Einer deiner guten Kindheitsfreunde ist kürzlich zu dir in die Stadt gezogen. Er meint es gut, aber wenn er sich in großen Menschengruppen befindet, spricht er durchgehend über <BLANK>. Auch, wenn niemand fragt.",
       "decoys": "den Dickdarm | die Redefreiheit | die Beziehung zu seiner Mutter | die Geschichte des Betons | die Architektur der spanischen Stadt Toledo",
       "x": false,
@@ -1818,6 +2007,15 @@
       "id": 52665,
       "category": "Und noch eine Tüte Chips",
       "questionText": "Akzeptierst du die Bedingung?"
+    },
+    {
+      "answerText": "",
+      "scenarioText": "Bei einem Ausflug mit deinem Auto hast du ein Schild einer 40 Kilometer entfernten Stadt entdeckt. Diese wird auf deinem GPS nicht angezeigt. Eine Werbetafel dieser Stadt bietet <BLANK>.",
+      "decoys": "kostenlose Süssigkeiten | eine seltene Hunderasse | einen Zirkus | einen kostenlosen Wasserpark | Kirmes",
+      "x": false,
+      "id": 52718,
+      "category": "Unbekannter Zielort",
+      "questionText": "Untersuchst du die Stadt?"
     },
     {
       "answerText": "",

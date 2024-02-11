@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn du drei grausame Stunden bei einem Heimtrainer-Kurs verbringst, besteht eine 50%-ige Chance, dass du 50 Milliliter Gold erbrichst.",
+      "v": "Wenn du drei grausame Stunden bei einem Heimtrainer-Kurs verbringst, besteht eine 50%-ige Chance, dass du 50 Gramm Gold erbrichst.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.57",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.79",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.01",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Wenn du drei grausame Stunden bei einem Heimtrainer-Kurs verbringst, besteht eine 50%-ige Chance, dass du 50 Milliliter Gold erbrichst. Die andere Hälfte der Zeit wirst du <BLANK>.\r\nHältst du drei Stunden durch?",
+      "s": "Wenn du drei grausame Stunden bei einem Heimtrainer-Kurs verbringst, besteht eine 50%-ige Chance, dass du 50 Gramm Gold erbrichst. Die andere Hälfte der Zeit wirst du <BLANK>.\r\nHältst du drei Stunden durch?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

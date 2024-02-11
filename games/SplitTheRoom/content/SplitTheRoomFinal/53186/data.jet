@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.91",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,21 +67,21 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.02",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.89",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Mach mich zum Superheld",
+      "s": "Mach mich zum Superhelden",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

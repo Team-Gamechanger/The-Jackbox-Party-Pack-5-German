@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Du hast zwei Möglichkeiten, seine Asche zu verstreuen: in ein Sofa oder",
+      "v": "Du hast zwei Möglichkeiten, seine Asche zu verstreuen: In ein Sofa oder",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.27",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.71",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.86",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Dein Großvater hat seltsame Wünsche, was seine sterblichen Überreste angeht. Du hast zwei Möglichkeiten, seine Asche zu verstreuen: in ein Sofa oder <BLANK>.\r\nWas machst du mit der Asche deines Grossvaters?",
+      "s": "Dein Großvater hat seltsame Wünsche, was seine sterblichen Überreste angeht. Du hast zwei Möglichkeiten, seine Asche zu verstreuen: In ein Sofa oder <BLANK>.\r\nWas machst du mit der Asche deines Grossvaters?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

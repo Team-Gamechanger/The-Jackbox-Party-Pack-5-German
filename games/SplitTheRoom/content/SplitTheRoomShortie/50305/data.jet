@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Legst du dir das Wort bei einer Antwort zurecht?",
+      "v": "Probierst du, das Wort in einem deiner Sätze unterzubringen?",
       "n": "QuestionText"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.04",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.28",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.61",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.60",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist derzeit auf dem zweiten Platz, bei einer landesweit ausgestrahlten Fernseh-Spielshow. Du weißt zufällig, dass das Wort “<BLANK>” beim Erstplatzierten einen Gedächnisverlust auslöst.\r\nLegst du dir das Wort bei einer Antwort zurecht?",
+      "s": "Du bist derzeit auf dem zweiten Platz, bei einer landesweit ausgestrahlten Fernseh-Spielshow. Du weißt zufällig, dass das Wort “<BLANK>” beim Erstplatzierten einen Gedächnisverlust auslöst.\r\nProbierst du, das Wort in einem deiner Sätze unterzubringen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Die einzigen anderen Wäschereien, in deiner Nähe, berechnen doppelt so viel.",
+      "v": "Die einzige andere Wäscherei in deiner Nähe berechnet doppelt so viel.",
       "n": "ScenarioText3"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.19",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.92",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.33",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "In der Wäsche, die du von der Wäscherei mitgenommen hast, findest du einen handgeschriebenen Zettel mit der Nachricht: “<BLANK>.” Die einzigen anderen Wäschereien, in deiner Nähe, berechnen doppelt so viel.\r\nWechselst du die Wäscherei?",
+      "s": "In der Wäsche, die du von der Wäscherei mitgenommen hast, findest du einen handgeschriebenen Zettel mit der Nachricht: “<BLANK>.” Die einzige andere Wäscherei in deiner Nähe berechnet doppelt so viel.\r\nWechselst du die Wäscherei?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Du hast die Wahl zwischen zwei Hosen, auf der einen steht: “Saftiger Körper” und auf der anderen",
+      "v": "Du hast die Wahl zwischen zwei Hosen. Auf der einen steht: “Saftiger Körper” und auf der anderen",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+14.76",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.69",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.70",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist Schulleiter eines Gymnasiums. Wegen eines \"Zwischenfalls\" musst du eine Jogginghose aus dem Fundbüro anziehen. Du hast die Wahl zwischen zwei Hosen, auf der einen steht: “Saftiger Körper” und auf der anderen “<BLANK>”.\r\nWelche Jogginghose trägst du beim Verlassen des Gebäudes?",
+      "s": "Du bist Schulleiter eines Gymnasiums. Wegen eines \"Zwischenfalls\" musst du eine Jogginghose aus dem Fundbüro anziehen. Du hast die Wahl zwischen zwei Hosen. Auf der einen steht: “Saftiger Körper” und auf der anderen “<BLANK>”.\r\nWelche Jogginghose trägst du beim Verlassen des Gebäudes?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
