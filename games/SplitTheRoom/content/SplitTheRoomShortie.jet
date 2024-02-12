@@ -1119,7 +1119,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du warst eines der Besatzungsmitglieder, bei der ersten Mondlandung 1969. Du besitzt Filmmaterial, dass der Verschwörungstheorie ein Ende setzen könnte... aber in diesem Clip hört man dich rufen: “<BLANK>!”",
+      "scenarioText": "Du warst eines der Besatzungsmitglieder, bei der ersten Mondlandung 1969. Du besitzt Filmmaterial, das der Verschwörungstheorie ein Ende setzen könnte... aber in diesem Clip hört man dich rufen: “<BLANK>!”",
       "decoys": "Ich habe meine Frau betrogen | Ich habe einen Hund getötet | Die Erde ist flach | Ich hinterziehe Steuern",
       "x": false,
       "id": 51392,
@@ -1129,7 +1129,7 @@
     {
       "answerText": "",
       "scenarioText": "In der Wäsche, die du von der Wäscherei mitgenommen hast, findest du einen handgeschriebenen Zettel mit der Nachricht: “<BLANK>.” Die einzige andere Wäscherei in deiner Nähe berechnet doppelt so viel.",
-      "decoys": "Du bist etwas Besonderes | Ich mag deine Haut | Ich weiss, wo du wohnst | Ich werde dich nie verlassen | Ich will deine Klamotten",
+      "decoys": "Du bist etwas Besonderes | Ich mag deine Haut | Ich weiß, wo du wohnst | Ich werde dich nie verlassen | Ich will deine Klamotten",
       "x": false,
       "id": 51417,
       "category": "Die Nachricht der Wäscherei",
@@ -1147,7 +1147,7 @@
     {
       "answerText": "",
       "scenarioText": "Du hast ein längst in Vergessenheit geratenes Mumiengrab gefunden. Die Entdeckung könnte dich zu einer Berühmtheit machen, doch es gibt einen vermeintlichen Fluch. Der Entdecker wird <BLANK>, wenn die Mumie bewegt wird.",
-      "decoys": "kein Haarwachstum mehr haben | alle Liedtexte vergessen | in genau 30 Jahre sterben | sein Bankkonto gelöscht bekommen | vom Blitz getroffen werden",
+      "decoys": "kein Haarwachstum mehr haben | alle Liedtexte vergessen | in genau 30 Jahren sterben | sein Bankkonto gelöscht bekommen | vom Blitz getroffen werden",
       "x": false,
       "id": 51430,
       "category": "Versiegel dein Grab",
@@ -1183,7 +1183,7 @@
     {
       "answerText": "",
       "scenarioText": "Du kämpfst in einem Boxkampf, bei dem ein 10.000 Euro Preisgeld winkt. Du bist nur noch einen kleinen Schritt vom Sieg entfernt, doch dann flüstert dir dein Gegner “<BLANK>” ins Ohr.",
-      "decoys": "Ich werde mein Haus verlieren | Ich brauche das Geld für Insulin | Meine Familie hungert | Meine Grossmutter brauchen einen Bürge | Ich werde den Gewinn teilen",
+      "decoys": "Ich werde mein Haus verlieren | Ich brauche das Geld für Insulin | Meine Familie hungert | Meine Oma liegt im sterben | Ich werde den Gewinn spenden",
       "x": false,
       "id": 51440,
       "category": "Schlag dir den Weg frei",
@@ -1192,7 +1192,7 @@
     {
       "answerText": "",
       "scenarioText": "Bei jedem Schiss kommt ein 50-Euro-Schein aus deinem Hintern. Leider aber auch <BLANK>.",
-      "decoys": "Drei Esslöffel mit scharfer Sauce | jede Menge Blut | ein Ping-Pong-Ball | ein Flaschenverschluss | ein Garnknäudel",
+      "decoys": "Drei Esslöffel scharfe Sauce | jede Menge Blut | ein Tischtennis-Ball | ein Flaschenverschluss | ein Garnknäuel",
       "x": true,
       "id": 51441,
       "category": "Geldscheißer",
@@ -1210,7 +1210,7 @@
     {
       "answerText": "",
       "scenarioText": "Du hast dir eine 24-Stunden-Magen-Darm-Grippe zugezogen. Du kannst eine Pille nehmen und sofort gesund werden, allerdings wirst du stattdessen 24 Stunden <BLANK>.",
-      "decoys": "über den Klimawandel weinen | dauerhaft lächeln | alle drei Minuten“Mais zum Abendessen” sagen | nichts essen können | ununterbrochen schwitzen",
+      "decoys": "über den Klimawandel weinen | dauerhaft lächeln | alle drei Minuten “Mais zum Abendessen” sagen | nichts essen können | ununterbrochen schwitzen",
       "x": false,
       "id": 51445,
       "category": "Die irritierende Pille",
@@ -1219,7 +1219,7 @@
     {
       "answerText": "",
       "scenarioText": "Du verdienst ein volles Jahresgehalt, indem du eine Woche im Jahr als Krabbenfischer arbeitest. In dieser Woche ziehst du das Netz hoch und stellst fest, dass du <BLANK> gefangen hast. Sein Leben zu retten bedeutet, dass du jeden gefangenen Krebs zurückwerfen musst.",
-      "decoys": "Donald Trump | Angela Merkel | Logan Paul | eine Meerjungfrau | einen grossen weissen Hai",
+      "decoys": "Donald Trump | Angela Merkel | Logan Paul | eine Meerjungfrau | einen großn weißen Hai",
       "x": true,
       "id": 51505,
       "category": "Der tödlichste Fang",
@@ -1237,7 +1237,7 @@
     {
       "answerText": "",
       "scenarioText": "Es gibt eine Pille, die bewirkt, dich wahnsinnig attraktiv zu machen. Aber sie wird deine Stimme wie <BLANK> klingen lassen. Du bist dabei, zu deinem 20-jährigen Klassentreffen zu gehen.",
-      "decoys": "tausend Möwen | Gilbert Gottfried | einen Zeichentrick-Hund | einen Sportmoderator | ein Kleinkind",
+      "decoys": "tausend Möwen | Til Schweiger | einen Zeichentrick-Hund | einen Sportkommentator | ein Kleinkind",
       "x": false,
       "id": 51572,
       "category": "Wiedervereint, und es fühlt sich ganz OK an",
@@ -1246,7 +1246,7 @@
     {
       "answerText": "",
       "scenarioText": "Das Kind, das du in den letzten drei Jahren unterrichtet hast, hat die Universität mit Auszeichnung abgeschlossen. Mit Tränen in den Augen bittet es dich der Zeremonie beizuwohnen. Bedauerlicherweise musst du immer, wenn jemand dem Kind gratuliert, ungewollt <BLANK>.",
-      "decoys": "schreien: “Ich beende den Unterricht!” | schluchzen | bei jedem Taktschlag furzen | eine Person ohrfeigen | einen 20 Euro Schein essen",
+      "decoys": "schreien: “Ich beende den Unterricht!” | schluchzen | furzen | eine Person ohrfeigen | einen 20 Euro Schein essen",
       "x": false,
       "id": 51584,
       "category": "Beglückwünschungen",
@@ -1255,7 +1255,7 @@
     {
       "answerText": "",
       "scenarioText": "Du öffnest deine Haustür und siehst direkt vor dir <BLANK> sitzen. Wenn du es behältst, wirst du nicht erwischt... aber es darf nie jemand wissen, dass du es hast - du musst dich alleine daran erfreuen.",
-      "decoys": "Davids Statue | einen LKW voller Schokolade | einen Raketenrucksack | eine Zeitmaschine | ein Schlagzeug-Set",
+      "decoys": "Davids Statue | einen LKW voller Schokolade | ein Jetpack | eine Zeitmaschine | ein Schlagzeug-Set",
       "x": false,
       "id": 51587,
       "category": "Gestohlene Geheimnisse",
@@ -1264,7 +1264,7 @@
     {
       "answerText": "",
       "scenarioText": "Wenn du beim Sex den Höhepunkt erreichst, kannst du dich nicht beherrschen zehn Sekunden lang “<BLANK>!” zu rufen. Dein Partner ist kein großer Fan davon.",
-      "decoys": "Ich liebe Käse | Elvis hat das Gebäude verlassen | Shama-Lama-Ding-Dong | Another One Bites The Dust | Wir haben es getan",
+      "decoys": "Ich liebe Käse | Ich muss rauuus | Shama-Lama-Ding-Dong | Another One Bites The Dust | Das nenne ich einen Epischen Sieg",
       "x": true,
       "id": 51596,
       "category": "Intime Schreie",
@@ -1300,7 +1300,7 @@
     {
       "answerText": "",
       "scenarioText": "Wann immer du ein Lachen vortäuscht, verschwindet <BLANK> aus deinem Haus. Es ist dein erster Tag in einem neuen Job und dein Chef erzählt seit zwei Minuten einen furchtbar schlechten Witz.",
-      "decoys": "der Fernseher | der Kühlschrank | ein 100 Euro Schein | Schnickschnack | eine Tür",
+      "decoys": "der Fernseher | der Kühlschrank | ein 100 Euro Schein | eine Rolle Toilettenpapier | eine Tür",
       "x": false,
       "id": 51653,
       "category": "Lachen ist das Schmiermittel der Gesellschaft",
@@ -1309,7 +1309,7 @@
     {
       "answerText": "",
       "scenarioText": "Du tauschst deinen Körper mit einer Person, die eine Fachrede über Technologie, Entertainment und Design halten muss. Der Titel deines Vortrags lautet “<BLANK>.” Jedes Wort steht auf einem Teleprompter. Nach einer Stunde kehrst du in deinen Körper zurück.",
-      "decoys": "Paarungsverhalten von Würmern | Schrei-Therapie hat mein Leben verändert | Dinosaurier sind erfunden | Warum ich 2016 liebte | Hunde, überbewertet?",
+      "decoys": "Paarungsverhalten von Würmern | Schrei-Therapie hat mein Leben verändert | Dinosaurier sind erfunden | Warum ich 2020 liebte | Hunde, überbewertet?",
       "x": false,
       "id": 51661,
       "category": "DIE Rede halten",
@@ -1345,7 +1345,7 @@
     {
       "answerText": "",
       "scenarioText": "Es ist die Nacht, deiner letzten Online-Prüfung an der Wirtschaftsschule, gekommen. Dein Internet funktioniert nicht, und der einzige Ort an dem du - ob du des glaubst oder nicht - ein freies WLAN hast, ist <BLANK>. Wenn du den Test verpasst, schliesst du automatisch mit einem Notengrad tiefer ab.",
-      "decoys": "bei einer Schulbandprobe | in der Wohnung deines Ex-Partners | mitten in der New Yorker Börse | ein Maisfeld | eine verlassene Mine",
+      "decoys": "bei einer Schulbandprobe | in der Wohnung deines Ex-Partners | mitten in der Frankfurter Börse | ein Maisfeld | eine verlassene Mine",
       "x": false,
       "id": 51717,
       "category": "Teste deine Geduld",
@@ -1354,7 +1354,7 @@
     {
       "answerText": "",
       "scenarioText": "Du bist kurz davor, dein erstes Kind zu bekommen. Im Rahmen einer neuen Kampagne, bietet dir <BLANK> an, für Essen, Kleidung und Ausbildung deines Kindes zu bezahlen - wenn sie dein Kind “sponsern” dürfen. Das bedeutet, dein Kind muss bis zum 18. Lebensjahr subtile Markenkleidung tragen.",
-      "decoys": "Aldi | die Vereinten Nationen | Ikea | Cosco | Red Bull",
+      "decoys": "Aldi | das europäische Parlament | Ikea | METRO Großhandel | Red Bull",
       "x": false,
       "id": 51720,
       "category": "Der Tochter-Coupon",
@@ -1363,7 +1363,7 @@
     {
       "answerText": "",
       "scenarioText": "Deine Lieblings-Social-Media-Plattform kostet ab sofort 4,99 Euro im Monat. Wenn du es weiterhin kostenlos verwenden willst, musst du einmal im Monat ein Selfie mit der Überschrift “<BLANK>” posten.",
-      "decoys": "Ich spare 4,99 Euro | Lobe mich in den Kommentaren | Hier ist eure monatliche Dosis an AWESOME!!!! | Ich bin besser als ihr | Ich kann die Hater nicht hören",
+      "decoys": "Ich spare 4,99 Euro | Lobe mich in den Kommentaren | Hier ist eure monatliche Dosis EROTIK!!!! | Ich bin besser als ihr | Ihr seid alles nur Hater",
       "x": false,
       "id": 51721,
       "category": "Zahlen für’s Posten",
@@ -1372,7 +1372,7 @@
     {
       "answerText": "",
       "scenarioText": "Eine kleine Sekte zieht in die Stadt, nicht weit entfernt von dir. Anhand deiner Erfahrungen sind sie eine ehrliche, respektvolle und freundliche Gruppe… doch sie beten jeden Tag eine Stunde zu <BLANK>.",
-      "decoys": "einer Schaufensterpuppe | Kai Pflaume | einer Hunde-Taxidermie | Hundewelpen",
+      "decoys": "einer Schaufensterpuppe | Kai Pflaume | einer Katzen-Statue | Hundewelpen",
       "x": false,
       "id": 51722,
       "category": "Frieden schließen",
@@ -1426,7 +1426,7 @@
     {
       "answerText": "",
       "scenarioText": "Indem du dich mit einem magischen Spray besprühst, kannst du dich für eine Stunde zu <BLANK> verwandeln. Wenn diese Person bei einem öffentlichen Nevenzusammenbruch erwischt wird, ist es das Ende ihrer Karriere.",
-      "decoys": "Justin Bieber | Kim Kardashian | Sean Penn | Gwyneth Paltrow | Mitt Romney",
+      "decoys": "Justin Bieber | Kim Kardashian | Lena Meyer-Landrut | Anne Will | Joachim Löw",
       "x": false,
       "id": 51759,
       "category": "Der Doppelgänger-Anfall",
@@ -1453,7 +1453,7 @@
     {
       "answerText": "",
       "scenarioText": "Du leidest an einem schweren Fall von Déjà-vu. Jeden Tag erlebst du intensive Phasen dieses Phänomens. Der einzige Weg, es zu stoppen, ist <BLANK>.",
-      "decoys": "für 36 Stunden nicht zu schlafen | dir deine Augenbrauen abzurasieren | ein ganzes Ei (mit Schale) zu schlucken | eine Akupunktur machen zu lassen | das Gehalt eines ganzen Monats zu spenden",
+      "decoys": "für 36 Stunden nicht zu schlafen | dir deine Augenbrauen abzurasieren | ein ganzes Ei mit Schale zu schlucken | eine Akupunktur machen zu lassen | das Gehalt eines ganzen Monats zu spenden",
       "x": false,
       "id": 51779,
       "category": "Das hast du nicht kommen sehen",
@@ -1498,7 +1498,7 @@
     {
       "answerText": "",
       "scenarioText": "Du bist in einem futuristischen Vergnügungspark. Für den gesamten Park arbeiten Roboter, die darauf programmiert sind, <BLANK> nachzuahmen. Einer davon zieht dich zu sich und bittet dich ihn zu befreien.",
-      "decoys": "Bürgerkriegssoldaten | Jim Carrey | Austin Powers | Boy Bands | Zirkusclowns",
+      "decoys": "Bürgerkriegssoldaten | Jan Böhmermann | den Wendler | Boy Bands | Zirkusclowns",
       "x": false,
       "id": 51832,
       "category": "Nördlich von Northwest World",

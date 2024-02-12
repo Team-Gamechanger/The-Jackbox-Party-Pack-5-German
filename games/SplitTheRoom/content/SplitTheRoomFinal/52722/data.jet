@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": " Du hast die Wahl zwischen einem Anglerfisch oder",
+      "v": "Du hast die Wahl zwischen einem Anglerfisch oder",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.61",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+7.42",
+      "v": "S+7.57",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.40",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist für die Währung deines Landes verantwortlich und musst das Bild auf der neusten Banknote auswählen, bevor es millionenfach in den Druck geht.  Du hast die Wahl zwischen einem Anglerfisch oder <BLANK>.\r\nWelches Bild bringst du auf den Geldschein?",
+      "s": "Du bist für die Währung deines Landes verantwortlich und musst das Bild auf der neusten Banknote auswählen, bevor es millionenfach in den Druck geht. Du hast die Wahl zwischen einem Anglerfisch oder <BLANK>.\r\nWelches Bild bringst du auf den Geldschein?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

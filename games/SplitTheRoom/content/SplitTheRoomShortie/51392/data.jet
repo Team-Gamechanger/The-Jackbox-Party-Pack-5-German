@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Du besitzt Filmmaterial, dass der Verschwörungstheorie ein Ende setzen könnte...",
+      "v": "Du besitzt Filmmaterial, das der Verschwörungstheorie ein Ende setzen könnte...",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du warst eines der Besatzungsmitglieder, bei der ersten Mondlandung 1969. Du besitzt Filmmaterial, dass der Verschwörungstheorie ein Ende setzen könnte... aber in diesem Clip hört man dich rufen: “<BLANK>!”\r\nWirst du es veröffentlichen?",
+      "s": "Du warst eines der Besatzungsmitglieder, bei der ersten Mondlandung 1969. Du besitzt Filmmaterial, das der Verschwörungstheorie ein Ende setzen könnte... aber in diesem Clip hört man dich rufen: “<BLANK>!”\r\nWirst du es veröffentlichen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

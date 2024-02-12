@@ -587,6 +587,15 @@
       "questionText": "Für welche Möglichkeit, entscheidest du dich, dein Handy zu entsperren?"
     },
     {
+      "answerText": "Einen Anglerfisch",
+      "scenarioText": "Du bist für die Währung deines Landes verantwortlich und musst das Bild auf der neusten Banknote auswählen, bevor es millionenfach in den Druck geht. Du hast die Wahl zwischen einem Anglerfisch oder <BLANK>.",
+      "decoys": "deine Schwester | einen Berg Wäsche | einen wütenden Hund | Banksy | den Weihnachtsmann",
+      "x": false,
+      "id": 52722,
+      "category": "Nur Bares ist Wahres",
+      "questionText": "Welches Bild bringst du auf den Geldschein?"
+    },
+    {
       "answerText": "Jemanden in sozialen Medien überzeugen",
       "scenarioText": "Die Aufnahmeprüfungen an den Universitäten sind noch härter geworden. Um studieren zu können, muss man jetzt entweder jemanden argumentativ in den sozialen Medien überzeugen oder <BLANK>.",
       "decoys": "einer Katze Vorwärtsrolle beibringen | einen Roman schreiben | in einer TV-Quizshow mitspielen | es in eine Broadway-Show schaffen | ein Geigensolo spielen",
@@ -1037,6 +1046,15 @@
       "questionText": "Was trägst du, um herauszustechen?"
     },
     {
+      "answerText": "Batterien",
+      "scenarioText": "Glückwunsch, du hast im Lotto gewonnen! Allerdings bekommst du deinen Gewinn nicht in Geldform. Du erhältst entweder Batterien oder <BLANK> im Wert von einer Million Euro.",
+      "decoys": "Schuhe | Pizza | Bücher | Geschirr | Katzenstreu",
+      "x": false,
+      "id": 53327,
+      "category": "Wie gewonnen...",
+      "questionText": "In welcher Form nimmst du den Gewinn an?"
+    },
+    {
       "answerText": "<OTHERPLAYER>",
       "scenarioText": "Du hast ein Gerät entwickelt, mit dem Katzen wie Menschen sprechen können. Allerdings klingt ihre Stimme genau wie <OTHERPLAYER> oder <BLANK>.",
       "decoys": "Til Schweiger | Donald Trump | Spongebob Schwammkopf | Ein Nachrichtensprecher | Heidi Klum",
@@ -1080,6 +1098,15 @@
       "id": 53341,
       "category": "Bizarre Heilung",
       "questionText": "Was wirst du tun?"
+    },
+    {
+      "answerText": "Tiere als Kinder zu bezeichnen",
+      "scenarioText": "Du bist in das höchste Gericht des Landes gewählt worden. Zu deinem Amtsantritt darfst du einfach so ein Verbot erlassen. Du kannst entweder verbieten, Tiere als die eigenen Kinder zu bezeichnen oder <BLANK>.",
+      "decoys": "Small Talk in Fahrstühlen zu führen | Ghettofäuste | Emojis | Autoaufkleber | Klettverschluss-Geldbörsen",
+      "x": false,
+      "id": 53343,
+      "category": "Neues Gesetz",
+      "questionText": "Was verbietest du?"
     },
     {
       "answerText": "Matratze",
