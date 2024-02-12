@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Schließt du dich einer Gruppe mit dem Namen “Sugar Daddy's” oder einer namens",
+      "v": "Schließt du dich einer Gruppe mit dem Namen “Sugar Daddys” oder einer namens",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.61",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.77",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.13",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.00",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Es ist deine erste Nacht im Gefängnis und du brauchst eine Gruppe von Häftlingen, die dich beschützt. Schließt du dich einer Gruppe mit dem Namen “Sugar Daddy's” oder einer namens “<BLANK>” an?\r\nWelcher Gruppe schließt du dich an?",
+      "s": "Es ist deine erste Nacht im Gefängnis und du brauchst eine Gruppe von Häftlingen, die dich beschützt. Schließt du dich einer Gruppe mit dem Namen “Sugar Daddys” oder einer namens “<BLANK>” an?\r\nWelcher Gruppe schließt du dich an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

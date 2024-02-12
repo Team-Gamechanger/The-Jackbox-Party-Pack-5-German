@@ -41,7 +41,7 @@
       "answerText": "",
       "scenarioText": "Du hast dich seit Wochen im Wald verirrt und bist am Verhungern. Plötzlich siehst du ein <BLANK>-Baby auf dem Boden kauernd vor dir. Es scheint kein anderes Tier in der Nähe zu sein. Alles was du hast, ist dein Gürtel.",
       "decoys": "Panda | Hirsch | Einhorn | Wildkatze | Dodo",
-      "x": false,
+      "x": true,
       "id": 50501,
       "category": "Der Jäger",
       "questionText": "Tötest du es?"
@@ -363,7 +363,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Ein neues Café in deiner Stadt bietet seinen Gästen die Möglichkeit, jeden der sich im Café befindet, an einen zufälligen Ort zu teleportieren. Alles was du dafür machen musst, ist laut einen bestimmten Code zu sagen. Du bemerkst einen jungen Mann, der das Café betritt und dabei <BLANK>.",
+      "scenarioText": "Ein neues Café in deiner Stadt bietet seinen Gästen die Möglichkeit, jeden der sich im Café befindet, an einen zufälligen Ort zu teleportieren. Aber was du dafür machen musst, ist laut einen bestimmten Code zu sagen. Du bemerkst einen jungen Mann, der das Café betritt und dabei <BLANK>.",
       "decoys": "sehr laut telefoniert | weint | schmatzend Kaugummi kaut | Live-Vlogging betreibt | laut “Tokio Hotel” mit Kopfhörern hört",
       "x": false,
       "id": 52714,
@@ -475,7 +475,7 @@
       "decoys": "100.000 Euro | eine Titelgeschichte | 250.000 Euro | den Stein der Weisen | ein Haus am See",
       "x": false,
       "id": 52951,
-      "category": "Verschwiegenheit um jeden Preis?",
+      "category": "Verschwiegenheit um jeden Preis",
       "questionText": "Gibst du den Namen preis?"
     },
     {
@@ -491,7 +491,7 @@
       "answerText": "",
       "scenarioText": "Du und <OTHERPLAYER> seid mit Handschellen aneinander gekettet. Ihr werdet von einer Bande von <BLANK> verfolgt. Du hast zwar eine Säge, sie kann den Handschellen allerdings keinerlei Schäden zufügen.",
       "decoys": "Kannibalen | Killerrobotern | Kettensägen-Clowns | Drohnen | schnellen Zombies",
-      "x": false,
+      "x": true,
       "id": 53024,
       "category": "Fesselndes Erlebnis",
       "questionText": "Sägst du dir die Hand ab?"
@@ -590,7 +590,7 @@
       "answerText": "",
       "scenarioText": "Du bist in den letzten Vorbereitungen für eine Party in deinem Haus, bei der eine Menge Prominente teilnehmen werden. Plötzlich entdeckst du ein totes Pferd in deinem Wohnzimmer. Die einzige Möglichkeit, es zu verstecken, ist <BLANK>. Die ersten Gäste werden jede Minute da sein.",
       "decoys": "es in die Dusche zu legen | es in den Pool zu schmeißen | es zu zerschneiden | es als Essen zu servieren | es unter die Couch zu schieben",
-      "x": false,
+      "x": true,
       "id": 53594,
       "category": "Partytiere",
       "questionText": "Sagst du die Party kurz vor knapp ab?"
@@ -644,7 +644,7 @@
       "answerText": "",
       "scenarioText": "Dein Arzt rät dir dringend davon ab, deine normalen Unterhosen zu tragen. Stattdessen musst du fortan <BLANK> anziehen… oder gar nichts.",
       "decoys": "kratzige Wollhöschen | Strings | leicht feuchte Slips | ein Bandana | einen Lendenschurz",
-      "x": false,
+      "x": true,
       "id": 53664,
       "category": "Kurz und bündig",
       "questionText": "Trägst du einfach keine Unterwäsche?"

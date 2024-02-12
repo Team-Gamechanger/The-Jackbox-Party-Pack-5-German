@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du bist in der Zukunft und wurdest, wegen Filmpiraterie schuldig gesprochen. Der Richter macht dir ein Angebot.",
+      "v": "Du bist in der Zukunft und wurdest wegen Filmpiraterie schuldig gesprochen. Der Richter macht dir ein Angebot.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist in der Zukunft und wurdest, wegen Filmpiraterie schuldig gesprochen. Der Richter macht dir ein Angebot. Anstelle von 6 Monaten Gefängnis, kannst du zwei Stunden im Film <i><BLANK></i> verbringen.\r\nNimmst du das Angebot an?",
+      "s": "Du bist in der Zukunft und wurdest wegen Filmpiraterie schuldig gesprochen. Der Richter macht dir ein Angebot. Anstelle von 6 Monaten Gefängnis, kannst du zwei Stunden im Film <i><BLANK></i> verbringen.\r\nNimmst du das Angebot an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

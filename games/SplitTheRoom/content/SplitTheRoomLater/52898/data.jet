@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.24",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -62,17 +62,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+5.95",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.86",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.82",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {

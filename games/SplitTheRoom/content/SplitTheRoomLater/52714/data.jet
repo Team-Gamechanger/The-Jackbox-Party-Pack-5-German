@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Alles was du dafür machen musst, ist laut einen bestimmten Code zu sagen.",
+      "v": "Aber was du dafür machen musst, ist laut einen bestimmten Code zu sagen.",
       "n": "ScenarioText2"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+16.32",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -62,17 +62,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.63",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.55",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+14.91",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein neues Café in deiner Stadt bietet seinen Gästen die Möglichkeit, jeden der sich im Café befindet, an einen zufälligen Ort zu teleportieren. Alles was du dafür machen musst, ist laut einen bestimmten Code zu sagen. Du bemerkst einen jungen Mann, der das Café betritt und dabei <BLANK>.\r\nSchleichst du dich ins Badezimmer und benutzt den Code?",
+      "s": "Ein neues Café in deiner Stadt bietet seinen Gästen die Möglichkeit, jeden der sich im Café befindet, an einen zufälligen Ort zu teleportieren. Aber was du dafür machen musst, ist laut einen bestimmten Code zu sagen. Du bemerkst einen jungen Mann, der das Café betritt und dabei <BLANK>.\r\nSchleichst du dich ins Badezimmer und benutzt den Code?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

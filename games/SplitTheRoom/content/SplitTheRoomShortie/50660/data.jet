@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Tiere quält | E-Zigarette raucht | mit deinem Partner rummacht | Das Buch “Wie man operiert” liest | eine Kettensäge vorbereitet",
+      "v": "Tiere quält | E-Zigarette raucht | mit deinem Partner fremdgeht | Das Buch “Wie man operiert” liest | eine Kettensäge vorbereitet",
       "n": "Decoys"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Während du in den Operationssaal gebrachst wirst, merkst du, dass dein Chirurg",
+      "v": "Während du in den Operationssaal gebracht wirst, merkst du, dass dein Chirurg",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wirst gleich eine kleine Herzoperation durchlaufen. Während du in den Operationssaal gebrachst wirst, merkst du, dass dein Chirurg <BLANK>. Unglücklicherweise ist es der einzige Arzt, den deine Krankenkasse übernimmt.\r\nStoppst du die Operation?",
+      "s": "Du wirst gleich eine kleine Herzoperation durchlaufen. Während du in den Operationssaal gebracht wirst, merkst du, dass dein Chirurg <BLANK>. Unglücklicherweise ist es der einzige Arzt, den deine Krankenkasse übernimmt.\r\nStoppst du die Operation?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

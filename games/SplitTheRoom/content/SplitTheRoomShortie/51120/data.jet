@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Ersticken an schwarzer Lackritze | ein ununterbrochenes Schreien | schweres stürzen | singen in der Öffentlichkeit | das Zerbrechen von Geschirr",
+      "v": "Ersticken an schwarzer Lakritze | ein ununterbrochenes Schreien | juckenden Hautausschlag | singen in der Öffentlichkeit | das Zerbrechen von Geschirr",
       "n": "Decoys"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Hacker haben einen Phising-Betrug entwickelt, der so ausgeklügelt ist, dass er durch das blosse Öffnen der E-Mail",
+      "v": "Hacker haben einen Phising-Betrug entwickelt, der so ausgeklügelt ist, dass er durch das bloße Öffnen der E-Mail",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Hacker haben einen Phising-Betrug entwickelt, der so ausgeklügelt ist, dass er durch das blosse Öffnen der E-Mail <BLANK> bewirkt. Du hast soeben eine Nachricht von deiner Mutter, mit der Betreffzeile “Hilfe!”, erhalten. Sie geht nicht an’s Telefon.\r\nÖffnest du sie?",
+      "s": "Hacker haben einen Phising-Betrug entwickelt, der so ausgeklügelt ist, dass er durch das bloße Öffnen der E-Mail <BLANK> bewirkt. Du hast soeben eine Nachricht von deiner Mutter, mit der Betreffzeile “Hilfe!”, erhalten. Sie geht nicht an’s Telefon.\r\nÖffnest du sie?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

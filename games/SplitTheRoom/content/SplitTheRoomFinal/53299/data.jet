@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Du kannst entweder \"It’s Raining Men\" oder",
+      "v": "Du kannst entweder \"It's Raining Men\" oder",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.62",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.28",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+11.92",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+12.73",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du wählst aus einer magischen Jukebox. Der Barkeeper warnt dich, dass die Liedtexte deine kommenden Lebensereignisse für die nächste Woche vorhersagen. Du kannst entweder \"It’s Raining Men\" oder \"<BLANK>\" spielen.\r\nWelches prophetische Lied wählst du aus?",
+      "s": "Du wählst aus einer magischen Jukebox. Der Barkeeper warnt dich, dass die Liedtexte deine kommenden Lebensereignisse für die nächste Woche vorhersagen. Du kannst entweder \"It's Raining Men\" oder \"<BLANK>\" spielen.\r\nWelches prophetische Lied wählst du aus?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

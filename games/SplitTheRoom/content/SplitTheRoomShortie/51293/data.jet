@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Eine tiefgreifende Operation, gibt dir die Möglichkeit, alles zu sehen. Schliesse dein Augen und du erblickst den Ort.",
+      "v": "Eine tiefgreifende Operation, gibt dir die Möglichkeit, alles zu sehen. Schließe dein Augen und du erblickst den Ort.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Eine tiefgreifende Operation, gibt dir die Möglichkeit, alles zu sehen. Schliesse dein Augen und du erblickst den Ort. Eine Nebenwirkung ist jedoch, dass einfach alles an diesem Ort für dich nach <BLANK> riechen wird.\r\nMachst du die Operation?",
+      "s": "Eine tiefgreifende Operation, gibt dir die Möglichkeit, alles zu sehen. Schließe dein Augen und du erblickst den Ort. Eine Nebenwirkung ist jedoch, dass einfach alles an diesem Ort für dich nach <BLANK> riechen wird.\r\nMachst du die Operation?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

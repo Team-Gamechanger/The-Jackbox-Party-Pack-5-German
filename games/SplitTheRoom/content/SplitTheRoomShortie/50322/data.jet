@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Der neue heisse Modetrend, ob du es glaubst oder nicht, ist das Tragen von",
+      "v": "Der neue heiße Modetrend, ob du es glaubst oder nicht, ist das Tragen von",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Der neue heisse Modetrend, ob du es glaubst oder nicht, ist das Tragen von <BLANK>. Du hast ein Vorstellungsgespräch bei einem hippen und jungen Büro. Es ist der einzige vielversprechende Job, seit Wochen. Du hast eine Familie.\r\nTrägst du es zum Bewerbungsgespräch?",
+      "s": "Der neue heiße Modetrend, ob du es glaubst oder nicht, ist das Tragen von <BLANK>. Du hast ein Vorstellungsgespräch bei einem hippen und jungen Büro. Es ist der einzige vielversprechende Job, seit Wochen. Du hast eine Familie.\r\nTrägst du es zum Bewerbungsgespräch?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

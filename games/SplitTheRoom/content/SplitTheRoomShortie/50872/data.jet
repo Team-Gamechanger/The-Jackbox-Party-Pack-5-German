@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Schiesst du?",
+      "v": "Schießt du?",
       "n": "QuestionText"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Durchfall bekommen | 5-fach lauter | unbesiegbar | auch deine Familie verfolgen | zwei mal so gross",
+      "v": "Durchfall bekommen | 5-mal lauter | unbesiegbar | auch deine Familie verfolgen | zwei mal so groß",
       "n": "Decoys"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Wo auch immer du hingehst, wirst du von Krähen verfolgt. Wenn du den größten Vogel erschießt, werden sie verschwinden. Wenn du aber einen anderen erwischst, werden sie <BLANK>. Sie sind immer als Gruppe unterwegs.\r\nSchiesst du?",
+      "s": "Wo auch immer du hingehst, wirst du von Krähen verfolgt. Wenn du den größten Vogel erschießt, werden sie verschwinden. Wenn du aber einen anderen erwischst, werden sie <BLANK>. Sie sind immer als Gruppe unterwegs.\r\nSchießt du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

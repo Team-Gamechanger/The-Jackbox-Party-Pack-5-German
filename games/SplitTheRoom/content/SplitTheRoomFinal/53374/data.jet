@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Du kannst zwischen Buchstabier-Meister oder",
+      "v": "Du kannst zwischen Buchstabier-Meistern oder",
       "n": "ScenarioText2"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+9.48",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+4.45",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.55",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.65",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Deine Stadt hat keine Jungfrauen mehr, also müsst ihr etwas anderes opfern. Du kannst zwischen Buchstabier-Meister oder <BLANK> wählen.\r\nWas oder wen opferst du, um einen ausbrechenden Vulkan zu besänftigen?",
+      "s": "Deine Stadt hat keine Jungfrauen mehr, also müsst ihr etwas anderes opfern. Du kannst zwischen Buchstabier-Meistern oder <BLANK> wählen.\r\nWas oder wen opferst du, um einen ausbrechenden Vulkan zu besänftigen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

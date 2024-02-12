@@ -587,15 +587,6 @@
       "questionText": "Für welche Möglichkeit, entscheidest du dich, dein Handy zu entsperren?"
     },
     {
-      "answerText": "Einen Anglerfisch",
-      "scenarioText": "Du bist für die Währung deines Landes verantwortlich und musst das Bild auf der neusten Banknote auswählen, bevor es millionenfach in den Druck geht.  Du hast die Wahl zwischen einem Anglerfisch oder <BLANK>.",
-      "decoys": "deine Schwester | einen Berg Wäsche | einen wütenden Hund | Banksy | den Weihnachtsmann",
-      "x": false,
-      "id": 52722,
-      "category": "Nur Bares ist Wahres",
-      "questionText": "Welches Bild bringst du auf den Geldschein?"
-    },
-    {
       "answerText": "Jemanden in sozialen Medien überzeugen",
       "scenarioText": "Die Aufnahmeprüfungen an den Universitäten sind noch härter geworden. Um studieren zu können, muss man jetzt entweder jemanden argumentativ in den sozialen Medien überzeugen oder <BLANK>.",
       "decoys": "einer Katze Vorwärtsrolle beibringen | einen Roman schreiben | in einer TV-Quizshow mitspielen | es in eine Broadway-Show schaffen | ein Geigensolo spielen",
@@ -965,15 +956,6 @@
       "questionText": "Welche Hirnfunktion verlierst du?"
     },
     {
-      "answerText": "Weisskopfseeadler",
-      "scenarioText": "Du stapfst spät nachts durchs Gebüsch und hörst ein Rascheln. Verängstigt zielst du mit deinem Gewehr und schießt. Im Morgenlicht erkennst du, dass du entweder einen prächtigen Weißkopfseeadler oder <BLANK> getötet hast.",
-      "decoys": "einen bereits sterbenden alten Mann | eine Waschbärfamilie | die Davidstatue | einen Velociraptor | ein Boot, das nun sinkt",
-      "x": true,
-      "id": 53263,
-      "category": "Die Jagd beginnt",
-      "questionText": "Wessen Blut hättest du lieber an deinen Händen?"
-    },
-    {
       "answerText": "Elvis Presley lebt noch",
       "scenarioText": "Du bist Chefredakteur einer großen Zeitung. Deine beiden Star-Reporter reichen jeweils eine unglaubliche Geschichte ein. Du kannst deine gesamte Titelseite entweder für die Schlagzeile verwenden, dass Elvis Presley noch lebt oder <BLANK>.",
       "decoys": "Russland in Kanada einmarschiert | Tupac noch lebt | Atlantis unter Miami gefunden wurde | ein neuer bewohnbarer Planet gefunden wurde | ein sprechender Hund gefunden wurde",
@@ -1020,7 +1002,7 @@
     },
     {
       "answerText": "\"It’s Raining Men\"",
-      "scenarioText": "Du wählst aus einer magischen Jukebox. Der Barkeeper warnt dich, dass die Liedtexte deine kommenden Lebensereignisse für die nächste Woche vorhersagen. Du kannst entweder \"It’s Raining Men\" oder \"<BLANK>\" spielen.",
+      "scenarioText": "Du wählst aus einer magischen Jukebox. Der Barkeeper warnt dich, dass die Liedtexte deine kommenden Lebensereignisse für die nächste Woche vorhersagen. Du kannst entweder \"It's Raining Men\" oder \"<BLANK>\" spielen.",
       "decoys": "I Would Walk 500 Miles | 99 Luftballons | Skandal im Sperrbezirk | Männer sind Schweine | Ein Bett im Kornfeld",
       "x": false,
       "id": 53299,
@@ -1053,15 +1035,6 @@
       "id": 53314,
       "category": "Aus der Masse heraus",
       "questionText": "Was trägst du, um herauszustechen?"
-    },
-    {
-      "answerText": "Batterien",
-      "scenarioText": "Glückwunsch, du hast im Lotto gewonnen! Allerdings bekommst du deinen Gewinn nicht in Geldform. Du erhältst entweder Batterien oder <BLANK> im Wert von einer Million Euro.",
-      "decoys": "Schuhe | Pizza | Bücher | Geschirr | Katzenstreu",
-      "x": false,
-      "id": 53327,
-      "category": "Wie gewonnen...",
-      "questionText": "In welcher Form nimmst du den Gewinn an?"
     },
     {
       "answerText": "<OTHERPLAYER>",
@@ -1109,15 +1082,6 @@
       "questionText": "Was wirst du tun?"
     },
     {
-      "answerText": "Tiere als Kinder zu bezeichnen",
-      "scenarioText": "Du bist in das höchste Gericht des Landes gewählt worden. Zu deinem Amtsantritt darfst du einfach so ein Verbot erlassen. Du kannst entweder verbieten, Tiere als die eigenen Kinder zu bezeichnen oder <BLANK>.",
-      "decoys": "Small Talk in Fahrstühlen zu führen | Ghettofäuste | Emojis | Autoaufkleber | Klettverschluss-Geldbörsen",
-      "x": false,
-      "id": 53343,
-      "category": "Neues Gesetz",
-      "questionText": "Was verbietest du?"
-    },
-    {
       "answerText": "Matratze",
       "scenarioText": "Du bist ein einsamer Mann, der mitten im Wald lebt... aber eine Fee kann einen deiner leblosen Gegenstände zum Leben erwecken. Sie kann entweder deine Matratze oder <BLANK> zum Leben erwecken.",
       "decoys": "deinen Laptop | einen Burrito | deine Badematte | deinen Mülleimer | deine Zahnbürste",
@@ -1146,7 +1110,7 @@
     },
     {
       "answerText": "Buchstabier-Meister",
-      "scenarioText": "Deine Stadt hat keine Jungfrauen mehr, also müsst ihr etwas anderes opfern. Du kannst zwischen Buchstabier-Meister oder <BLANK> wählen.",
+      "scenarioText": "Deine Stadt hat keine Jungfrauen mehr, also müsst ihr etwas anderes opfern. Du kannst zwischen Buchstabier-Meistern oder <BLANK> wählen.",
       "decoys": "YouTube-Stars | wirklich süssen Hunden | Hautärzte | Skiprung-Weltmeister | Radiomoderatoren",
       "x": true,
       "id": 53374,
@@ -1155,7 +1119,7 @@
     },
     {
       "answerText": "Seilbahntour",
-      "scenarioText": "Du planst seit Monaten, dich von deinem Partner zu trennen. Du musst es JETZT im Urlaub tun, weil du befürchtest, dass er/sie dir einen Heiratsantrag machen wird. Du kannst es entweder während einer Seilbahnfahrt im Dschungel oder während <BLANK> gestehen.",
+      "scenarioText": "Du planst seit Monaten, dich von deinem Partner zu trennen. Du musst es JETZT im Urlaub tun, weil du befürchtest, dass dein Partner dir einen Heiratsantrag machen wird. Du kannst es entweder während einer Seilbahnfahrt im Dschungel oder während <BLANK> gestehen.",
       "decoys": "ihr im Whirlpool sitzt | am Strand beim Sonnenuntergang | einer Massage | einer Tandemradfahrt | dem Schwimmen mit Delfinen",
       "x": false,
       "id": 53375,
@@ -1182,7 +1146,7 @@
     },
     {
       "answerText": "Sugar Daddys",
-      "scenarioText": "Es ist deine erste Nacht im Gefängnis und du brauchst eine Gruppe von Häftlingen, die dich beschützt. Schließt du dich einer Gruppe mit dem Namen “Sugar Daddy's” oder einer namens “<BLANK>” an?",
+      "scenarioText": "Es ist deine erste Nacht im Gefängnis und du brauchst eine Gruppe von Häftlingen, die dich beschützt. Schließt du dich einer Gruppe mit dem Namen “Sugar Daddys” oder einer namens “<BLANK>” an?",
       "decoys": "Die Bestrafer | Der Kitzel-Trupp | Das Karaoke-Kommando | Die bulligen Buben | Die kichernden Mädels",
       "x": true,
       "id": 53590,
@@ -1272,7 +1236,7 @@
     },
     {
       "answerText": "Ohne Hosen Post holen",
-      "scenarioText": "Nach einem neuen Gesetz muss jeder heimlich fotografiert werden, um daraus eine Online-Landkarte zu erstellen. Entweder du lässt dich ohne Hose beim Post holen fotografieren oder wie du <BLANK>.",
+      "scenarioText": "Nach einem neuen Gesetz muss jeder heimlich fotografiert werden, um daraus eine Online-Landkarte zu erstellen. Entweder du lässt dich ohne Hose beim Post Holen fotografieren oder wie du <BLANK>.",
       "decoys": "betrunken in einen Busch pinkelst | erbrichst | einen streunenden Hund schlägst | den Nachbarn durchs Fenster beobachtest | einen Gartenzwerg stiehlst",
       "x": false,
       "id": 53647,

@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+10.01",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -62,21 +62,21 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+6.09",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+7.81",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.76",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
-      "s": "Verschwiegenheit um jeden Preis?",
+      "s": "Verschwiegenheit um jeden Preis",
       "t": "A",
       "v": "category",
       "n": "CategoryAudio"

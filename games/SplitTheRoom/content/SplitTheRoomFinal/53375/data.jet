@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du planst seit Monaten, dich von deinem Partner zu trennen. Du musst es JETZT im Urlaub tun, weil du befürchtest, dass er/sie dir einen Heiratsantrag machen wird.",
+      "v": "Du planst seit Monaten, dich von deinem Partner zu trennen. Du musst es JETZT im Urlaub tun, weil du befürchtest, dass dein Partner dir einen Heiratsantrag machen wird.",
       "n": "ScenarioText1"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+15.23",
       "n": "$ScenarioAudio$QuestionTextCue"
     },
     {
@@ -67,17 +67,17 @@
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+8.82",
       "n": "$ScenarioAudio$ScenarioTextCue2"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+13.42",
       "n": "$ScenarioAudio$ScenarioTextCue3"
     },
     {
       "t": "S",
-      "v": "S+0.00",
+      "v": "S+14.32",
       "n": "$ScenarioAudio$ScenarioTextCue4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du planst seit Monaten, dich von deinem Partner zu trennen. Du musst es JETZT im Urlaub tun, weil du befürchtest, dass er/sie dir einen Heiratsantrag machen wird. Du kannst es entweder während einer Seilbahnfahrt im Dschungel oder während <BLANK> gestehen.\r\nWelches ist der bessere Trennungsort?",
+      "s": "Du planst seit Monaten, dich von deinem Partner zu trennen. Du musst es JETZT im Urlaub tun, weil du befürchtest, dass dein Partner dir einen Heiratsantrag machen wird. Du kannst es entweder während einer Seilbahnfahrt im Dschungel oder während <BLANK> gestehen.\r\nWelches ist der bessere Trennungsort?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
