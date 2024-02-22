@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Ein Fahrgast im Bus benötigt eine Mund-zu-Mund-Beatmung, und du hast ein Herz-Lungen-Wiederbelebungstraining abgeschlossen.",
+      "v": "Ein Fahrgast im Bus benötigt eine Mund-zu-Mund-Beatmung und du hast ein Herz-Lungen-Wiederbelebungstraining abgeschlossen.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein Fahrgast im Bus benötigt eine Mund-zu-Mund-Beatmung, und du hast ein Herz-Lungen-Wiederbelebungstraining abgeschlossen. Allerdings hat diese Person <BLANK>, statt eines Mundes.\r\nVersuchst du, sein Leben zu retten?",
+      "s": "Ein Fahrgast im Bus benötigt eine Mund-zu-Mund-Beatmung und du hast ein Herz-Lungen-Wiederbelebungstraining abgeschlossen. Allerdings hat diese Person <BLANK>, statt eines Mundes.\r\nVersuchst du, sein Leben zu retten?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

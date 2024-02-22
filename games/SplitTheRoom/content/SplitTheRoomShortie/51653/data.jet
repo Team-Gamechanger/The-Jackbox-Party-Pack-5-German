@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Wann immer du ein Lachen vortäuscht, verschwindet",
+      "v": "Wann immer du ein Lachen vortäuschst, verschwindet",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Wann immer du ein Lachen vortäuscht, verschwindet <BLANK> aus deinem Haus. Es ist dein erster Tag in einem neuen Job und dein Chef erzählt seit zwei Minuten einen furchtbar schlechten Witz.\r\nLachst du?",
+      "s": "Wann immer du ein Lachen vortäuschst, verschwindet <BLANK> aus deinem Haus. Es ist dein erster Tag in einem neuen Job und dein Chef erzählt seit zwei Minuten einen furchtbar schlechten Witz.\r\nLachst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

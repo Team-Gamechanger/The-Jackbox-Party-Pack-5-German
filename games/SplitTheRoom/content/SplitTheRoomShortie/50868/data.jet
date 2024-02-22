@@ -52,7 +52,7 @@
     },
     {
       "t": "S",
-      "v": "hinein, und jetzt wirst du es nicht mehr los.",
+      "v": "hinein und jetzt wirst du es nicht mehr los.",
       "n": "ScenarioText4"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Dein Smart-Kühlschrank ist zu intelligent geworden. Immer, wenn du etwas rausnimmst, wird es sofort ersetzt. Eines Tages tut jemand <BLANK> hinein, und jetzt wirst du es nicht mehr los.\r\nHolst du dir einen neuen Kühlschrank?",
+      "s": "Dein Smart-Kühlschrank ist zu intelligent geworden. Immer, wenn du etwas rausnimmst, wird es sofort ersetzt. Eines Tages tut jemand <BLANK> hinein und jetzt wirst du es nicht mehr los.\r\nHolst du dir einen neuen Kühlschrank?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

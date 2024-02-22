@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du und deiner bester Freund werden von einem primitiven Stamm gefangen genommen, und von diesen zum Zweikampf gezwungen.",
+      "v": "Du und deiner bester Freund werden von einem primitiven Stamm gefangen genommen und von diesen zum Zweikampf gezwungen.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du und deiner bester Freund werden von einem primitiven Stamm gefangen genommen, und von diesen zum Zweikampf gezwungen. Ihr werdet euch mit Holzkeulen bekämpfen. Der Verlierer wird mit <BLANK> bestraft.\r\nLässt du deinen besten Freund gewinnen?",
+      "s": "Du und deiner bester Freund werden von einem primitiven Stamm gefangen genommen und von diesen zum Zweikampf gezwungen. Ihr werdet euch mit Holzkeulen bekämpfen. Der Verlierer wird mit <BLANK> bestraft.\r\nLässt du deinen besten Freund gewinnen?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

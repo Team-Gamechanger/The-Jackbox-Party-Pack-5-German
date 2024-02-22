@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "hast. Dies trifft auf dich zu, und würde deine Steuerlast um 80% senken.",
+      "v": "hast. Dies trifft auf dich zu und würde deine Steuerlast um 80% senken.",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Ein neues Steuergesetz erlaubt es, Abzüge zu verlangen, wenn du <BLANK> hast. Dies trifft auf dich zu, und würde deine Steuerlast um 80% senken. Allerdings würde diese Info, verordnet vom Gesetz, auf Anschlagtafeln überall im Land angebracht werden.\r\nNutzt du den Steuerabzug?",
+      "s": "Ein neues Steuergesetz erlaubt es, Abzüge zu verlangen, wenn du <BLANK> hast. Dies trifft auf dich zu und würde deine Steuerlast um 80% senken. Allerdings würde diese Info, verordnet vom Gesetz, auf Anschlagtafeln überall im Land angebracht werden.\r\nNutzt du den Steuerabzug?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

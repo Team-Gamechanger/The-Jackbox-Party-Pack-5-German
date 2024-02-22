@@ -3,7 +3,7 @@
   "content": [
     {
       "answerText": "",
-      "scenarioText": "Du bist glücklich verlobt, doch machst dir Sorgen um die Kosten der Hochzeit. Ein wohlhabender Geldgeber taucht aus dem Nichts auf, und macht dir einen Deal. Er bezahlt deine Hochzeit, bestimmt aber den Ort: <BLANK>.",
+      "scenarioText": "Du bist glücklich verlobt, doch machst dir Sorgen um die Kosten der Hochzeit. Ein wohlhabender Geldgeber taucht aus dem Nichts auf und macht dir einen Deal. Er bezahlt deine Hochzeit, bestimmt aber den Ort: <BLANK>.",
       "decoys": "ein McDonald's | ein Friedhof | ein Bus | ein Fischerboot | im Live-TV",
       "x": false,
       "id": 50326,
@@ -102,7 +102,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Ein neues Steuergesetz erlaubt es, Abzüge zu verlangen, wenn du <BLANK> hast. Dies trifft auf dich zu, und würde deine Steuerlast um 80% senken. Allerdings würde diese Info, verordnet vom Gesetz, auf Anschlagtafeln überall im Land angebracht werden.",
+      "scenarioText": "Ein neues Steuergesetz erlaubt es, Abzüge zu verlangen, wenn du <BLANK> hast. Dies trifft auf dich zu und würde deine Steuerlast um 80% senken. Allerdings würde diese Info, verordnet vom Gesetz, auf Anschlagtafeln überall im Land angebracht werden.",
       "decoys": "eine geheime Familie | Fruchtbarkeitsprobleme | jemanden getötet | Brandstiftung begangen | deinen Partner betrogen",
       "x": false,
       "id": 50307,
@@ -399,7 +399,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Ein Fahrgast im Bus benötigt eine Mund-zu-Mund-Beatmung, und du hast ein Herz-Lungen-Wiederbelebungstraining abgeschlossen. Allerdings hat diese Person <BLANK>, statt eines Mundes.",
+      "scenarioText": "Ein Fahrgast im Bus benötigt eine Mund-zu-Mund-Beatmung und du hast ein Herz-Lungen-Wiederbelebungstraining abgeschlossen. Allerdings hat diese Person <BLANK>, statt eines Mundes.",
       "decoys": "Sardinen | Zehen | einen winzigen Hintern | schimmeligen Käse | Hot Dogs",
       "x": false,
       "id": 50500,
@@ -588,7 +588,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Dein Smart-Kühlschrank ist zu intelligent geworden. Immer, wenn du etwas rausnimmst, wird es sofort ersetzt. Eines Tages tut jemand <BLANK> hinein, und jetzt wirst du es nicht mehr los.",
+      "scenarioText": "Dein Smart-Kühlschrank ist zu intelligent geworden. Immer, wenn du etwas rausnimmst, wird es sofort ersetzt. Eines Tages tut jemand <BLANK> hinein und jetzt wirst du es nicht mehr los.",
       "decoys": "einen menschlichen Kopf | ein aktives Feuer | ein aufblasbares Floß | faule Milch | gebrauchte Windeln",
       "x": false,
       "id": 50868,
@@ -759,7 +759,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Deine Mutter ist zu Besuch. Letzte Nacht schlafwandelte sie in dein Zimmer, sah dir tief in die Augen, und sagte: “<BLANK>.”",
+      "scenarioText": "Deine Mutter ist zu Besuch. Letzte Nacht schlafwandelte sie in dein Zimmer, sah dir tief in die Augen und sagte: “<BLANK>.”",
       "decoys": "Du bist adoptiert | Ich habe deinen Vater betrogen | Du bist mein zweitliebstes Kind | Ich verkaufe das Haus | Du hast einen geheimen Zwillingsbruder",
       "x": false,
       "id": 51023,
@@ -993,7 +993,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Deine neue intelligente Türklingel erkennt, welche Person vor der Tür steht und was ihr gerade durch den Kopf geht. Eines Tages steht dein Postbote vor der Tür, und überlegt <BLANK>.",
+      "scenarioText": "Deine neue intelligente Türklingel erkennt, welche Person vor der Tür steht und was ihr gerade durch den Kopf geht. Eines Tages steht dein Postbote vor der Tür und überlegt <BLANK>.",
       "decoys": "wie Menschen schmecken | dich zu verprügeln | dein Paket zu stehlen | die Bank zu überfallen",
       "x": false,
       "id": 51286,
@@ -1299,7 +1299,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Wann immer du ein Lachen vortäuscht, verschwindet <BLANK> aus deinem Haus. Es ist dein erster Tag in einem neuen Job und dein Chef erzählt seit zwei Minuten einen furchtbar schlechten Witz.",
+      "scenarioText": "Wann immer du ein Lachen vortäuschst, verschwindet <BLANK> aus deinem Haus. Es ist dein erster Tag in einem neuen Job und dein Chef erzählt seit zwei Minuten einen furchtbar schlechten Witz.",
       "decoys": "der Fernseher | der Kühlschrank | ein 100 Euro Schein | eine Rolle Toilettenpapier | eine Tür",
       "x": false,
       "id": 51653,
@@ -1749,7 +1749,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du und deiner bester Freund werden von einem primitiven Stamm gefangen genommen, und von diesen zum Zweikampf gezwungen. Ihr werdet euch mit Holzkeulen bekämpfen. Der Verlierer wird mit <BLANK> bestraft.",
+      "scenarioText": "Du und deiner bester Freund werden von einem primitiven Stamm gefangen genommen und von diesen zum Zweikampf gezwungen. Ihr werdet euch mit Holzkeulen bekämpfen. Der Verlierer wird mit <BLANK> bestraft.",
       "decoys": "10 Peitschenhieben | drei Schokokuchen, die er essen muss, | Kopf rasieren | einer Woche hungern | 500 Klimmzügen",
       "x": false,
       "id": 52198,

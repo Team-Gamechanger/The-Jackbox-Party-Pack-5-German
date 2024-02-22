@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Eines Tages steht dein Postbote vor der Tür, und überlegt",
+      "v": "Eines Tages steht dein Postbote vor der Tür und überlegt",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Deine neue intelligente Türklingel erkennt, welche Person vor der Tür steht und was ihr gerade durch den Kopf geht. Eines Tages steht dein Postbote vor der Tür, und überlegt <BLANK>.\r\nInformierst du seinen Chef darüber?",
+      "s": "Deine neue intelligente Türklingel erkennt, welche Person vor der Tür steht und was ihr gerade durch den Kopf geht. Eines Tages steht dein Postbote vor der Tür und überlegt <BLANK>.\r\nInformierst du seinen Chef darüber?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

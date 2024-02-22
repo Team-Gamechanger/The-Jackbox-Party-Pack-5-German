@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Ein wohlhabender Geldgeber taucht aus dem Nichts auf, und macht dir einen Deal.",
+      "v": "Ein wohlhabender Geldgeber taucht aus dem Nichts auf und macht dir einen Deal.",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist glücklich verlobt, doch machst dir Sorgen um die Kosten der Hochzeit. Ein wohlhabender Geldgeber taucht aus dem Nichts auf, und macht dir einen Deal. Er bezahlt deine Hochzeit, bestimmt aber den Ort: <BLANK>.\r\nAkzeptierst du die Bedingung?",
+      "s": "Du bist glücklich verlobt, doch machst dir Sorgen um die Kosten der Hochzeit. Ein wohlhabender Geldgeber taucht aus dem Nichts auf und macht dir einen Deal. Er bezahlt deine Hochzeit, bestimmt aber den Ort: <BLANK>.\r\nAkzeptierst du die Bedingung?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Letzte Nacht schlafwandelte sie in dein Zimmer, sah dir tief in die Augen, und sagte:",
+      "v": "Letzte Nacht schlafwandelte sie in dein Zimmer, sah dir tief in die Augen und sagte:",
       "n": "ScenarioText2"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Deine Mutter ist zu Besuch. Letzte Nacht schlafwandelte sie in dein Zimmer, sah dir tief in die Augen, und sagte: “<BLANK>.”\r\nSprichst du es beim Frühstück an?",
+      "s": "Deine Mutter ist zu Besuch. Letzte Nacht schlafwandelte sie in dein Zimmer, sah dir tief in die Augen und sagte: “<BLANK>.”\r\nSprichst du es beim Frühstück an?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
