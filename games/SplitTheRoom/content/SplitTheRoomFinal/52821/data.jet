@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "#REF!",
+      "s": "Ein Ninja-Clan schuldet dir einen Gefallen, den du bald einlösen musst. Sie können dir bei zwei Dingen helfen: Die Geburtstagsparty deines zehnjährigen Neffen zu einem unvergesslichen Erlebnis machen oder <BLANK>.\r\nWie kann der Ninja-Klan den Gefallen erwidern?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

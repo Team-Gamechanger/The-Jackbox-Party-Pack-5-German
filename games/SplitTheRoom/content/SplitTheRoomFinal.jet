@@ -408,7 +408,7 @@
     },
     {
       "answerText": "eine Woche in einem Geisterhaus",
-      "scenarioText": "#REF!",
+      "scenarioText": "Ein entfernter Verwandter hinterlässt dir ein kleines Vermögen. Um es zu erben, musst du entweder eine Woche in einem Geisterhaus verbringen oder <BLANK>.",
       "decoys": "lebenslang eine Blutfläschen-Kette tragen | dich einem fünfstündigen Exorzismus aussetzen | eine Puppe als dein Kind adoptieren | nie Hüte tragen | einen Monat lang campen gehen",
       "x": false,
       "id": 52395,
@@ -611,7 +611,7 @@
       "x": false,
       "id": 52727,
       "category": "Mehr als nur eine Uhr",
-      "questionText": "Welches Smart-Watch Feature wählst du?"
+      "questionText": "Welches Smartwatch-Feature wählst du?"
     },
     {
       "answerText": "Bienen niesen",
@@ -669,7 +669,7 @@
     },
     {
       "answerText": "Neffen am Geburtstag beglücken",
-      "scenarioText": "#REF!",
+      "scenarioText": "Ein Ninja-Clan schuldet dir einen Gefallen, den du bald einlösen musst. Sie können dir bei zwei Dingen helfen: Die Geburtstagsparty deines zehnjährigen Neffen zu einem unvergesslichen Erlebnis machen oder <BLANK>.",
       "decoys": "dir beim Verloben helfen | einen Bankraub zu begehen | an einer Talentshow teilzunehmen | ein Mode-Umstyling zu erhalten | dein Traumhaus zu finden",
       "x": false,
       "id": 52821,

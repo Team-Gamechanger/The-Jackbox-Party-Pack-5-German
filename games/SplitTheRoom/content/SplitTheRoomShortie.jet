@@ -849,7 +849,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Hacker haben einen Phising-Betrug entwickelt, der so ausgeklügelt ist, dass er durch das bloße Öffnen der E-Mail <BLANK> bewirkt. Du hast soeben eine Nachricht von deiner Mutter, mit der Betreffzeile “Hilfe!”, erhalten. Sie geht nicht an’s Telefon.",
+      "scenarioText": "Hacker haben einen Phishing-Betrug entwickelt, der so ausgeklügelt ist, dass er durch das bloße Öffnen der E-Mail <BLANK> bewirkt. Du hast soeben eine Nachricht von deiner Mutter mit der Betreffzeile “Hilfe!” erhalten. Sie geht nicht an’s Telefon.",
       "decoys": "Ersticken an schwarzer Lakritze | ein ununterbrochenes Schreien | juckenden Hautausschlag | singen in der Öffentlichkeit | das Zerbrechen von Geschirr",
       "x": true,
       "id": 51120,
@@ -1380,7 +1380,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Du hast den Geburtstag deiner Mutter vergessen. Also bestellst du ein Geschenk bei einem neuen Service namens Flambazon, welches noch am selben Tag geliefert wird. Doch jedes Paket enthält einen 30-tägigen Verlauf deiner letzten Bestellungen, somit würde deine Mutter bemerken, dass du <BLANK> in großen Mengen bestellt hast.",
+      "scenarioText": "Du hast den Geburtstag deiner Mutter vergessen. Also bestellst du ein Geschenk bei einem neuen Service, welches noch am selben Tag geliefert wird. Doch jedes Paket enthält einen 30-tägigen Verlauf deiner letzten Bestellungen, somit würde deine Mutter bemerken, dass du <BLANK> in großen Mengen bestellt hast.",
       "decoys": "winzige Gleitgel-Tuben | das Buch “Wie man Freunde findet” | Anime Bodypillows | Speck-Socken | Cosplay-Perücken",
       "x": false,
       "id": 51723,

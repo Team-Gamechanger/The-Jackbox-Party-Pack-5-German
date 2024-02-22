@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "#REF!",
+      "s": "Ein entfernter Verwandter hinterlässt dir ein kleines Vermögen. Um es zu erben, musst du entweder eine Woche in einem Geisterhaus verbringen oder <BLANK>.\r\nWelche Aufgabe wählst du, um das Geld zu erben?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

@@ -300,7 +300,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "#REF!",
+      "scenarioText": "Du findest eine fantastische Wohnung, die nur die Hälfte deiner jetzigen Miete kostet. Die Wohnung ist wunderschön gelegen, doch der Eingangsbereich befindet sich <BLANK>. Die Mindestlaufzeit beträgt zwei Jahre.",
       "decoys": "neben einem McDonald’s | in einer Autobahntoilette | neben einer Autowaschanlage | in einem Kasino | in einem Bahnhof",
       "x": false,
       "id": 52146,

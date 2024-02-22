@@ -82,7 +82,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "#REF!",
+      "s": "Du findest eine fantastische Wohnung, die nur die Hälfte deiner jetzigen Miete kostet. Die Wohnung ist wunderschön gelegen, doch der Eingangsbereich befindet sich <BLANK>. Die Mindestlaufzeit beträgt zwei Jahre.\r\nUnterschreibst du den Mietvertrag?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

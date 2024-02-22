@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Welches Smart-Watch Feature wählst du?",
+      "v": "Welches Smartwatch-Feature wählst du?",
       "n": "QuestionText"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du konfigurierst deine Smartwatch. Du kannst zwischen zwei Funktionen wählen. Die eine sagt dir, was die Leute um dich herum denken. Die andere sagt dir <BLANK>.\r\nWelches Smart-Watch Feature wählst du?",
+      "s": "Du konfigurierst deine Smartwatch. Du kannst zwischen zwei Funktionen wählen. Die eine sagt dir, was die Leute um dich herum denken. Die andere sagt dir <BLANK>.\r\nWelches Smartwatch-Feature wählst du?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"

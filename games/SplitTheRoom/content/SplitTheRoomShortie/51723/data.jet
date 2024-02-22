@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Du hast den Geburtstag deiner Mutter vergessen. Also bestellst du ein Geschenk bei einem neuen Service namens Flambazon, welches noch am selben Tag geliefert wird.",
+      "v": "Du hast den Geburtstag deiner Mutter vergessen. Also bestellst du ein Geschenk bei einem neuen Service, welches noch am selben Tag geliefert wird.",
       "n": "ScenarioText1"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du hast den Geburtstag deiner Mutter vergessen. Also bestellst du ein Geschenk bei einem neuen Service namens Flambazon, welches noch am selben Tag geliefert wird. Doch jedes Paket enthält einen 30-tägigen Verlauf deiner letzten Bestellungen, somit würde deine Mutter bemerken, dass du <BLANK> in großen Mengen bestellt hast.\r\nStornierst du die Bestellung?",
+      "s": "Du hast den Geburtstag deiner Mutter vergessen. Also bestellst du ein Geschenk bei einem neuen Service, welches noch am selben Tag geliefert wird. Doch jedes Paket enthält einen 30-tägigen Verlauf deiner letzten Bestellungen, somit würde deine Mutter bemerken, dass du <BLANK> in großen Mengen bestellt hast.\r\nStornierst du die Bestellung?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
