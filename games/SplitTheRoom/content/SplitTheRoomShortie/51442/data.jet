@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Laufst du davon?",
+      "v": "Läufst du davon?",
       "n": "QuestionText"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du bist im alten Ägypten und wurdest auserwählt, der nächste Pharao zu sein. Du wirst dein ganzes Leben alles haben was du willst. Doch wenn die Götter entscheiden, dass deine Herrschaft vorbei ist, wirst du durch <BLANK> getötet.\r\nLaufst du davon?",
+      "s": "Du bist im alten Ägypten und wurdest auserwählt, der nächste Pharao zu sein. Du wirst dein ganzes Leben alles haben was du willst. Doch wenn die Götter entscheiden, dass deine Herrschaft vorbei ist, wirst du durch <BLANK> getötet.\r\nLäufst du davon?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
