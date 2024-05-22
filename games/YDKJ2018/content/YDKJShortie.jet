@@ -7487,38 +7487,6 @@
             ]
         },
         {
-            "id": "10220",
-            "category": {
-                "text": "Der neue <i>Super Mario<\/i>"
-            },
-            "choices": [
-                {
-                    "text": "Die Auftriebskraft",
-                    "isCorrect": true
-                },
-                {
-                    "text": "Die Trägheitskraft",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Die Bodenreaktionskraft",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Die Gewichtskraft",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Welche der folgenden physikalischen Kräfte wirkt beim Sprung und der darauffolgenden Kollision NICHT auf Ihren Körper?"
-                }
-            ]
-        },
-        {
             "id": "10221",
             "category": {
                 "text": "Dit is Sterneküche, wa?"
