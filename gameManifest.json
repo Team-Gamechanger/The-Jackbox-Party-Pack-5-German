@@ -1,0 +1,22 @@
+{
+    "gameName": "The Jackbox Party Pack 5",
+    "mainSwf": "TJPPLoader.swf",
+    "pauseSwf": "PauseDialog.swf",
+    "managerSwf": "Manager.swf",
+    "fallbackSwf": "games/Picker/Picker.swf",
+    "pauseStyle": "channels",
+
+    "win":{
+        "sentryDsn": "https://31732992bc2e4a12b1f1faa693496e49@o420318.ingest.us.sentry.io/6161440"
+    },
+
+    "steam":{
+        "appId": 2652000
+    },
+
+    "samsung":{
+        "ads":[
+        ]
+    }
+
+}
