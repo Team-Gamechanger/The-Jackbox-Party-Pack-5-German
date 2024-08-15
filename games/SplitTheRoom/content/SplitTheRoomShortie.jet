@@ -1461,7 +1461,7 @@
     },
     {
       "answerText": "",
-      "scenarioText": "Mit deinem neuen Handy-Tarif musst du nie wieder für dein Netz oder dein Datenvolumen zahlen, ein Leben lang. Sofern du Werbung von <BLANK> erlaubst, die an jede deiner Nachricht angefügt wird.",
+      "scenarioText": "Mit deinem neuen Handy-Tarif musst du nie wieder für dein Netz oder dein Datenvolumen zahlen, ein Leben lang. Sofern du Werbung von <BLANK> erlaubst, die an jede deiner Nachrichten angefügt wird.",
       "decoys": "Antidepressiva | Tierquälervideos von PETA | Windeln für Erwachsene | Gebrauchtwagen | Lokal-Politikern",
       "x": false,
       "id": 51780,
@@ -1489,7 +1489,7 @@
     {
       "answerText": "",
       "scenarioText": "In der Nacht vor deiner Gehaltsverhandlung stolperst du über den geheimen Instagram-Account deines Chefs. Er ist gefüllt mit Fotos von <BLANK>.",
-      "decoys": "Cosplays zu “Frozen” | oberkörperfreiem Essen von Rippchen | Kindern, die ihn zusammen schlagen | Bewertungen der Mitarbeiter | Gehältserhöhungen, die er sich selbst gibt",
+      "decoys": "Cosplays zu “Frozen” | oberkörperfreiem Essen von Rippchen | Kindern, die ihn zusammenschlagen | Bewertungen der Mitarbeiter | Gehältserhöhungen, die er sich selbst gibt",
       "x": false,
       "id": 51819,
       "category": "Die Oberhand",
