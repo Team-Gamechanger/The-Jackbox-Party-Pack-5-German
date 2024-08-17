@@ -291,7 +291,7 @@
     },
     {
       "answerText": "IT-Thema",
-      "scenarioText": "Du und dein Partner wollen eine Woche in einem tollen Themen-Hotel verbringen. Es sind nur noch zwei Suiten verfügbar. Ihr könnt zwischen einem Zimmer mit dem Thema \"Informatik\" und einem Zimmer mit dem Thema \"BLANK\" wählen.",
+      "scenarioText": "Du und dein Partner wollen eine Woche in einem tollen Themen-Hotel verbringen. Es sind nur noch zwei Suiten verfügbar. Ihr könnt zwischen einem Zimmer mit dem Thema \"Informatik\" und einem Zimmer mit dem Thema \"<BLANK>\" wählen.",
       "decoys": "Verdauung| Tierheim | Steuererklärung | Zweiter Weltkrieg | Öl-Industrie",
       "x": false,
       "id": 52051,

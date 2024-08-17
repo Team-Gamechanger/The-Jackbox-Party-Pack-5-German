@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "\"BLANK\"",
+      "v": "\"<BLANK>\"",
       "n": "ScenarioText3"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CategoryAudio"
     },
     {
-      "s": "Du und dein Partner wollen eine Woche in einem tollen Themen-Hotel verbringen. Es sind nur noch zwei Suiten verfügbar. Ihr könnt zwischen einem Zimmer mit dem Thema \"Informatik\" und einem Zimmer mit dem Thema \"BLANK\" wählen.\r\nWelchen Raum nehmt ihr?",
+      "s": "Du und dein Partner wollen eine Woche in einem tollen Themen-Hotel verbringen. Es sind nur noch zwei Suiten verfügbar. Ihr könnt zwischen einem Zimmer mit dem Thema \"Informatik\" und einem Zimmer mit dem Thema \"<BLANK>\" wählen.\r\nWelchen Raum nehmt ihr?",
       "t": "A",
       "v": "scenario",
       "n": "ScenarioAudio"
