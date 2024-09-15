@@ -3967,6 +3967,68 @@
             ],
             "id": "12064",
             "minEpisodes": 35
+        },
+        {
+            "commercialImage": "",
+            "questions": [
+                {
+                    "num": 0,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 1,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 2,
+                    "id": "RANDOM",
+                    "type": "DisOrDat"
+                },
+                {
+                    "num": 3,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 4,
+                    "id": "10792",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 5,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 6,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 7,
+                    "id": "RANDOM",
+                    "type": "PlayersChoice"
+                },
+                {
+                    "num": 8,
+                    "id": "SPECIALTY",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 9,
+                    "id": "RANDOM",
+                    "type": "Shortie"
+                },
+                {
+                    "num": 11,
+                    "id": "RANDOM",
+                    "type": "JackAttack"
+                }
+            ],
+            "id": "12065",
+            "minEpisodes": 5
         }
     ]
 }

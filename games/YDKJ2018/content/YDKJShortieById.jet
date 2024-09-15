@@ -2791,32 +2791,36 @@
         {
             "id": "10792",
             "category": {
-                "text": "Na dann: Prost!"
+                "text": "Die Festung des Niederschlags"
             },
             "choices": [
                 {
-                    "text": "Alkoholische Gärung",
+                    "text": "\u201cWia woin de ganzn Hess'n weg hom!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cWia woin, dass de ganzn Saggsn do bleim, wo's hear kemman!\u201d",
+                    "isCorrect": false
+                },
+                {
+                    "text": "\u201cWia woin de ganzn Rheinland-Pfoiza draussn hoidn!\u201d",
                     "isCorrect": true
                 },
                 {
-                    "text": "Flüssigkeitskondensation",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Schock-Kühlung",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Atmosphärischer Druck",
+                    "text": "\u201cWia woin, dass de ganzn Thüringa fern bleim!\u201d",
                     "isCorrect": false
                 }
             ],
             "bumper": "NONE",
-            "oneResponse": true,
+            "oneResponse": false,
             "questionText": [
                 {
                     "timing": "S + 0.00",
-                    "text": "Warum ist das denn eigentlich passiert?"
+                    "text": "Angenommen, Bayern wird nun doch endlich zu einem eigenen Land und baut eine riesige Mauer rund um seine Landesgrenze."
+                },
+                {
+                    "timing": "S + 31.70",
+                    "text": "Welche Rechtfertigung könnte man an der Grenze wahrscheinlich NICHT hören, weil besagtes Land nicht an Bayern grenzt?"
                 }
             ]
         },
