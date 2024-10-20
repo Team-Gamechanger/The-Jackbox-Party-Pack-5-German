@@ -6330,42 +6330,6 @@
             ]
         },
         {
-            "id": "10186",
-            "category": {
-                "text": "Grenzenüberschreitende Namenspaten"
-            },
-            "choices": [
-                {
-                    "text": "Beim Überschreiten der Schallgeschwindigkeit <i>Ferrero Rocher<\/i> essen",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Während des Grenzübertritts zwischen Frankreich und Andorra <i>Ferrero Rocher<\/i> essen",
-                    "isCorrect": false
-                },
-                {
-                    "text": "Während des Erdatmosphäreneintritts <i>Ferrero Rocher<\/i> essen",
-                    "isCorrect": true
-                },
-                {
-                    "text": "So viel <i>Ferrero Rocher<\/i> essen, bis Sie mit 0,5 Promille nicht mehr fahrtüchtig sind",
-                    "isCorrect": false
-                }
-            ],
-            "bumper": "NONE",
-            "oneResponse": false,
-            "questionText": [
-                {
-                    "timing": "S + 0.00",
-                    "text": "Sie möchten während des exzessiven Genusses von <i>Ferrero Rocher<\/i> die Roche-Grenze überwinden."
-                },
-                {
-                    "timing": "S + 5.11",
-                    "text": "Was müssen Sie dafür tun?"
-                }
-            ]
-        },
-        {
             "id": "10187",
             "category": {
                 "text": "Greise Labertaschen & eine göttliche Beförderung"
