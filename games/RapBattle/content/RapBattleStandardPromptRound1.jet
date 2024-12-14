@@ -72,16 +72,16 @@
       {
          "a":{
             "examples":[
-               "Satellit",
-               "Mond",
-               "Planet"
+               "Satelliten",
+               "Monde",
+               "Planeten"
             ],
-            "text":"Ich bin eine kosmische Kraft, nenn mich große/r <BLANK>.",
-            "type":"Nomen Einzahl - Ding aus dem Weltraum"
+            "text":"Ich bin eine kosmische Kraft, bin wie große <BLANK>.",
+            "type":"Nomen Mehrzahl - Dinge aus dem Weltraum"
          },
          "gene":[
-            "Schockwelle",
-            "Denn ich verteile regelmäßig ne Schelle."
+            "Schockwellen",
+            "Denn ich verteile regelmäßig Schellen."
          ],
          "x":false,
          "id":51771
@@ -89,12 +89,12 @@
       {
          "a":{
             "examples":[
-               "Nonne",
+               "Bademeister",
                "Tischler",
                "Arzt"
             ],
-            "text":"Ich bin erwachsen, wahrhaft ein/e <BLANK>.",
-            "type":"eine Berufsbezeichnung"
+            "text":"Ich bin erwachsen, wahrhaftig ein <BLANK>.",
+            "type":"Ein Beruf"
          },
          "gene":[
             "Sekretär",
@@ -1228,11 +1228,11 @@
       {
          "a":{
             "examples":[
-               "lied",
-               "schrei",
-               "hymne"
+               "Lied",
+               "Schrei",
+               "Hymne"
             ],
-            "text":"Wah-ka-bam-zoo ist mein/e Kampf<BLANK>.",
+            "text":"Wah-ka-bam-zoo sag ich als Kampf-<BLANK>.",
             "type":"Nomen Einzahl - Ein Laut"
          },
          "gene":[
@@ -1300,7 +1300,7 @@
                "Schüssel",
                "Box"
             ],
-            "text":"Bin knietief in Reimen, hol dir lieber eine/n <BLANK>.",
+            "text":"Bin knietief in Reimen, hol dir lieber \u2019n <BLANK>.",
             "type":"Nomen - Ein Behälter"
          },
          "gene":[
@@ -1364,16 +1364,16 @@
       {
          "a":{
             "examples":[
-               "Hund",
-               "Pinguin",
-               "Fisch"
+               "Hunde",
+               "Pinguine",
+               "Fische"
             ],
-            "text":"Ich zerstöre das Viertel wie ein gigantischer <BLANK>.",
-            "type":"Ein Tier"
+            "text":"Ich zerstöre das Viertel wie tausend gigantische <BLANK>.",
+            "type":"Mehrzahl - Tiere"
          },
          "gene":[
-            "Eisbär",
-            "Sagen wir unentschieden, ich denke das klingt fair."
+            "Eisbären",
+            "10 Pizzen am Tag kann ich locker verzehren."
          ],
          "x":false,
          "id":50793
@@ -1589,8 +1589,8 @@
                "Tischler",
                "Maurer"
             ],
-            "text":"Ich erfasse neue Höhen, bin ein Meister-<BLANK>.",
-            "type":"Handwerkerberuf"
+            "text":"Ich erfasse neue Höhen als Meister-<BLANK>.",
+            "type":"Ein Handwerkerberuf"
          },
          "gene":[
             "Maler",
@@ -1674,7 +1674,7 @@
                "Essen",
                "Taschenuhr"
             ],
-            "text":"Ich zerbreche Wände, denn sie blockieren mein/e <BLANK>.",
+            "text":"Ich zerbreche Wände, denn sie blockieren mein\u2019 <BLANK>.",
             "type":"Nomen"
          },
          "gene":[
@@ -1844,7 +1844,7 @@
                "Haar",
                "Kinn"
             ],
-            "text":"Ich bin so zerissen, hab Muskeln auf meiner/m <BLANK>.",
+            "text":"Ich bin so zerissen, hab Muskeln auf mei\u2019m <BLANK>.",
             "type":"Nomen Einzahl - Teil vom Gesicht"
          },
          "gene":[
@@ -2282,16 +2282,16 @@
       {
          "a":{
             "examples":[
-               "eigene Postleitzahl",
-               "Diener",
-               "Privatjet"
+               "eine eigene Postleitzahl",
+               "ein Diener",
+               "ein Privatjet"
             ],
-            "text":"Es ist wahr, mein Ego hat sein/e/n <BLANK>.",
-            "type":"Luxusobjekt"
+            "text":"Es ist wahr, meinem Ego gehört <BLANK>.",
+            "type":"Unbestimmter Artikel + Ein Luxusobjekt"
          },
          "gene":[
-            "Villa",
-            "Bin ganz glücklich, wenn ich meine Reime triller."
+            "eine Villa",
+            "Bin ganz glücklich, wenn ich dort meine Reime triller."
          ],
          "x":false,
          "id":51377
@@ -2490,7 +2490,7 @@
                "Freund",
                "Anwalt"
             ],
-            "text":"Erfolg ist mein bester Freund, Versagen ist mein/e <BLANK>.",
+            "text":"Erfolg ist mein bester Freund, Versagen ist mein\u2019 <BLANK>.",
             "type":"Nomen - Personenbezeichnung"
          },
          "gene":[
@@ -2639,16 +2639,16 @@
       {
          "a":{
             "examples":[
-               "Ratte",
-               "Schildkröte",
-               "Katze"
+               "Ratten",
+               "Schildkröten",
+               "Katzen"
             ],
-            "text":"Mein Mund funktioniert wie ein/e Mini-<BLANK>.",
-            "type":"Ein Tier"
+            "text":"Mein Mund funktioniert wie Mini-<BLANK>.",
+            "type":"Mehrzahl - Tiere"
          },
          "gene":[
-            "Hund",
-            "Haben wir für dieses Battle eigenltich einen Grund?"
+            "Hunde",
+            "Was liegt diesem Battle eigenltich zu Grunde?"
          ],
          "x":false,
          "id":51270
@@ -2728,7 +2728,7 @@
                "Anwalt",
                "Wissenschaftler"
             ],
-            "text":"Bin nicht besonders viel von einem <BLANK>.",
+            "text":"Ich bin nicht wirklich gut als <BLANK>.",
             "type":"Ein Beruf"
          },
          "gene":[
@@ -3630,7 +3630,7 @@
                "Jäger"
             ],
             "text":"Bin kein Gangster, ich bin der originale <BLANK>.",
-            "type":"Berufsbezeichnung"
+            "type":"Ein Beruf"
          },
          "gene":[
             "Bäcker",

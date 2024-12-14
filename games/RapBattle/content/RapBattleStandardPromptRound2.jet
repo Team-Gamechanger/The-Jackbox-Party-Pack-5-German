@@ -616,16 +616,16 @@
         {
             "a": {
                 "examples": [
-                    "Nacken",
-                    "Brust",
+                    "Armen",
+                    "Bauchmuskeln",
                     "Ellebogen"
                 ],
-                "text": "Das Pendel schwingt an deiner/m <BLANK>.",
-                "type": "Ein Körperteil"
+                "text": "Mein Körper atmet dank den <BLANK>.",
+                "type": "Nomen Mehrzahl - Körperteile"
             },
             "gene": [
-                "Kinn",
-                "Soll das hypnotisch sein? Ich schau lieber nicht hin."
+                "Augenbrauen",
+                "Zumindest laut meinem Arzt. Kann ich dem trauen?"
             ],
             "x": false,
             "id": 52132
@@ -663,23 +663,6 @@
             ],
             "x": false,
             "id": 52385
-        },
-        {
-            "a": {
-                "examples": [
-                    "Gesicht",
-                    "Ohren",
-                    "Bart"
-                ],
-                "text": "Die Sonne entzündet gleich auf deiner/m <BLANK>.",
-                "type": "Ein Körperteil"
-            },
-            "gene": [
-                "Brust",
-                "Mein Popcorn ist alle, jetzt habe ich Frust."
-            ],
-            "x": false,
-            "id": 52148
         },
         {
             "a": {
@@ -739,7 +722,7 @@
                     "Actionfigur",
                     "Teddybär"
                 ],
-                "text": "Wenn ich arbeite, spielst du lieber mit deiner/m <BLANK>.",
+                "text": "Wenn ich arbeite, spielst du lieber mit\u2019m <BLANK>.",
                 "type": "Ein Spielzeug"
             },
             "gene": [
@@ -905,15 +888,15 @@
         {
             "a": {
                 "examples": [
-                    "Öl",
-                    "Motor",
-                    "Airbag"
+                    "das Öl",
+                    "der Motor",
+                    "der Airbag"
                 ],
-                "text": "Ich bin eine Maschine und du bist mein/e <BLANK>.",
-                "type": "Etwas im Auto"
+                "text": "Ich bin eine Maschine und du bist <BLANK>.",
+                "type": "Bestimmter Artikel + Etwas im Auto"
             },
             "gene": [
-                "Auspuffrohr",
+                "das Auspuffrohr",
                 "Es kommt nichts als heiße Luft hervor."
             ],
             "x": false,
@@ -1959,15 +1942,15 @@
         {
             "a": {
                 "examples": [
-                    "Maus",
-                    "Ratte",
-                    "Hamster"
+                    "eine Maus",
+                    "eine Ratte",
+                    "ein Hamster"
                 ],
-                "text": "Du wirst gleich jammern, so wie ein/e kleine/r/s <BLANK>.",
-                "type": "Ein kleines Tier"
+                "text": "Du wirst gleich jammern, so wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Ein kleines Tier"
             },
             "gene": [
-                "Meerschweinchen",
+                "ein Meerschweinchen",
                 "Die sind so süß mit ihren winzigen Beinchen!"
             ],
             "x": false,
@@ -2014,7 +1997,7 @@
                     "Erdbeben",
                     "Udo Lindenberg Konzert"
                 ],
-                "text": "Dein Flow ist eine Katastrophe, wie ein/e Stufe 5 <BLANK>.",
+                "text": "Dein Flow ist eine Katastrophe, wie \u2019n Stufe 5 <BLANK>.",
                 "type": "Einzahl Nomen - Ein Phänomen"
             },
             "gene": [
@@ -2150,7 +2133,7 @@
                     "Ohr",
                     "Fuß"
                 ],
-                "text": "Wir passen zusammen: Mein Gesicht und dein/e <BLANK>.",
+                "text": "Wir passen zusammen: Mein Gesicht und dein\u2019 <BLANK>.",
                 "type": "Ein Körperteil"
             },
             "gene": [
@@ -2490,7 +2473,7 @@
                     "Probleme",
                     "Sportwagen"
                 ],
-                "text": "Ich interessiere mich nicht für dich oder deine/n <BLANK>.",
+                "text": "Ich interessiere mich nicht für dich oder deine <BLANK>.",
                 "type": "Nomen - Mehrzahl"
             },
             "gene": [
@@ -2809,16 +2792,16 @@
         {
             "a": {
                 "examples": [
-                    "Kaugummi",
-                    "Fahrrad",
-                    "Schuh"
+                    "Kaugummis",
+                    "Fahrräder",
+                    "Schuhe"
                 ],
-                "text": "Deine Reime sind alt, so wie ein/e Gebraucht-<BLANK>.",
-                "type": "Nomen - Einzahl - Etwas, was du neulich gekauft hast"
+                "text": "Deine Reime sind alt, so wie Gebraucht-<BLANK>.",
+                "type": "Nomen - Mehrzahl - Etwas, was du neulich gekauft hast"
             },
             "gene": [
-                "Busfahrkarte",
-                "Da ist alles verpasst, egal wie lang\u2019 ich warte."
+                "Busfahrkarten",
+                "Da ist alles verpasst, egal wie lang\u2019 wir warten."
             ],
             "x": false,
             "id": 51078
@@ -2898,7 +2881,7 @@
                     "Gefängnis",
                     "Fabrik"
                 ],
-                "text": "Du gehörst hier nicht hin, geh zurück zur/zum <BLANK>.",
+                "text": "Du gehörst hier nicht hin, geh zurück richtung <BLANK>.",
                 "type": "Ein trauriger Ort"
             },
             "gene": [
@@ -3068,7 +3051,7 @@
                     "Truthahn",
                     "Hühnchen"
                 ],
-                "text": "Ich zerfleische dich, genau wie mein/e <BLANK>.",
+                "text": "Ich zerfleische dich, genau wie mein\u2019 <BLANK>.",
                 "type": "Nomen - Eine Fleischart"
             },
             "gene": [
@@ -3153,7 +3136,7 @@
                     "Sahnetorte mit Kirschen",
                     "Kekse"
                 ],
-                "text": "Leg die Gabel wieder hin, du bekommst kein/e/n <BLANK>.",
+                "text": "Leg die Gabel wieder hin, du bekommst kein\u2019 <BLANK>.",
                 "type": "Nomen - Ein Nachtisch"
             },
             "gene": [
@@ -3234,12 +3217,12 @@
         {
             "a": {
                 "examples": [
-                    "Reisepass",
-                    "10€ Schein",
+                    "Kreditkarten",
+                    "10€ Scheine",
                     "Schlüsselanhänger"
                 ],
-                "text": "Willst du in den Club, kontrollieren sie deine/n <BLANK>.",
-                "type": "Nomen + Etwas in deiner Brieftasche"
+                "text": "Willst du in den Club, kontrollieren sie deine <BLANK>.",
+                "type": "Nomen Mehrzahl - Etwas in deiner Brieftasche"
             },
             "gene": [
                 "Kopfhörer",
@@ -3340,8 +3323,8 @@
                     "Hut",
                     "Auto"
                 ],
-                "text": "Wenn ich fertig bin klaue ich dir dein/e/n <BLANK>.",
-                "type": "Nomen - Ein Besitz-Gegenstand"
+                "text": "Wenn ich fertig bin klaue ich dir \u2019n <BLANK>.",
+                "type": "Nomen Einzahl - Ein Besitz-Gegenstand"
             },
             "gene": [
                 "Popcorn",
@@ -3421,15 +3404,15 @@
         {
             "a": {
                 "examples": [
-                    "Boot",
-                    "Bahn",
-                    "Elektro-Roller"
+                    "ein Boot",
+                    "eine Bahn",
+                    "ein Elektro-Roller"
                 ],
-                "text": "Ich erreiche Lichtgeschwindigkeit, und fährst mit dem/r <BLANK>.",
-                "type": "Ein Fahrzeug"
+                "text": "Ich erreiche Lichtgeschwindigkeit, und brauchst <BLANK>.",
+                "type": "Unbestimmter Artikel + Ein Fahrzeug"
             },
             "gene": [
-                "Kutsche",
+                "eine Kutsche",
                 "Das nächste mal nehmen wir die Wasserrutsche."
             ],
             "x": false,
@@ -3476,7 +3459,7 @@
                     "Körpergewicht",
                     "Postleitzahl"
                 ],
-                "text": "Wenn ich mit dir fertig bin vergisst du dein/e/n <BLANK>.",
+                "text": "Wenn ich mit dir fertig bin erinnerst du dich nicht mehr an <BLANK>.",
                 "type": "Nomen - Eine Angabe auf deinem Ausweis"
             },
             "gene": [
@@ -3748,7 +3731,7 @@
                     "Opa",
                     "Tante"
                 ],
-                "text": "Du rennst weinend nach Hause zu deinem/r <BLANK>.",
+                "text": "Du rennst weinend nach Hause richtung <BLANK>.",
                 "type": "Nomen - Ein/e Verwandte/r"
             },
             "gene": [
@@ -4071,7 +4054,7 @@
                     "Döner",
                     "Schinkenpizza"
                 ],
-                "text": "Geh nach Hause weinen in deiner/m <BLANK>.",
+                "text": "Geh nach Hause weinen mit <BLANK>.",
                 "type": "Nomen - Das letzte, das du gegessen hast"
             },
             "gene": [
@@ -4152,15 +4135,15 @@
         {
             "a": {
                 "examples": [
-                    "Auftritt",
-                    "Konzert",
-                    "Kampf"
+                    "der Auftritt",
+                    "das Konzert",
+                    "der Kampf"
                 ],
-                "text": "Du kannst aufgeben, das war dein/e letzte/r/s <BLANK>.",
-                "type": "Nomen - Ein Ereignis"
+                "text": "Du kannst aufgeben. Grauenhaft war <BLANK>.",
+                "type": "Bestimmter Artikel  + Nomen - Ein Ereignis"
             },
             "gene": [
-                "Aktion",
+                "die Aktion",
                 "Du bist durchschaubar, dafür braucht es keinen Spion."
             ],
             "x": false,
@@ -4169,16 +4152,16 @@
         {
             "a": {
                 "examples": [
-                    "Freund",
-                    "Arzt",
-                    "Partner"
+                    "Einwohnermeldeamt",
+                    "Jobcenter",
+                    "Finanzamt"
                 ],
-                "text": "Gegen mich antreten? Da hilft dir mein/e <BLANK>.",
-                "type": "Nomen - Eine Person"
+                "text": "Gegen mich antreten? Ich kenn wen vom <BLANK>.",
+                "type": "Ein deutsches Amt"
             },
             "gene": [
-                "Kollege",
-                "Er ist so ordentlich, er sammelt sogar Kassenbelege."
+                "Gesundheitsamt",
+                "Die lassen dich sicher zu, bleib ganz entspannt."
             ],
             "x": false,
             "id": 51202
@@ -4356,16 +4339,16 @@
         {
             "a": {
                 "examples": [
-                    "iPhone",
-                    "Schreibmaschine",
-                    "Mixer"
+                    "die iPhones",
+                    "die Schreibmaschinen",
+                    "die Mixer"
                 ],
-                "text": "Du kannst nicht mal umgehen mit deiner/m <BLANK>.",
-                "type": "Nomen - Ein elektronisches Gerät"
+                "text": "Du brauchst sogar Hilfe für <BLANK>.",
+                "type": "Bestimmter Artikel + Nomen Mehrzahl - Elektronische Geräte"
             },
             "gene": [
-                "Kühlschrank",
-                "Ich hoffe damit beleidige ich nicht den Frank"
+                "die Kühlschränke",
+                "Ich bin glücklich, wenn ich an alte Zeiten zurückdenke."
             ],
             "x": false,
             "id": 51053

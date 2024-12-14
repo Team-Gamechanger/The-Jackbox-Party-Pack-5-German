@@ -5,11 +5,11 @@
             "a": {
                 "examples": [
                     "Vater",
-                    "Schwester",
+                    "Uropa",
                     "Neffen"
                 ],
-                "text": "Ich hab keine Angst, ich hab ja meine/n <BLANK>.",
-                "type": "Nomen - Ein Familienmitglied"
+                "text": "Ich hab keine Angst, ich hab ja meinen <BLANK>.",
+                "type": "Nomen - Ein männliches Familienmitglied"
             },
             "gene": [
                 "Kollegen",
@@ -89,15 +89,15 @@
         {
             "a": {
                 "examples": [
-                    "Minute",
-                    "Sekunde",
-                    "Jahrhundert"
+                    "eine Minute",
+                    "eine Sekunde",
+                    "ein Jahrhundert"
                 ],
-                "text": "Halte kurz inne und warte ein/e <BLANK>.",
-                "type": "Nomen - eine Zeiteinheit"
+                "text": "Halte kurz inne und warte <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - eine Zeiteinheit"
             },
             "gene": [
-                "Jahrtausend",
+                "ein Jahrtausend",
                 "Meine Freunde sagen ich bewege mich sausend."
             ],
             "x": false,
@@ -178,7 +178,7 @@
                     "McDonalds",
                     "Schulhof"
                 ],
-                "text": "Hey, alter, hau ab von meiner/m <BLANK>.",
+                "text": "Hey, alter, geh mal lieber richtung <BLANK>.",
                 "type": "Nomen - ein Ort"
             },
             "gene": [
@@ -566,11 +566,11 @@
             "a": {
                 "examples": [
                     "Oma",
-                    "Onkel",
-                    "Cousin"
+                    "Schwester",
+                    "Cousine"
                 ],
-                "text": "Pass auf, sonst flirte ich mit deiner/m <BLANK>.",
-                "type": "Nomen - Ein Familienmitglied"
+                "text": "Pass auf, sonst flirte ich mit deiner <BLANK>.",
+                "type": "Nomen - Ein weibliches Familienmitglied"
             },
             "gene": [
                 "älteren Tante Annegret",
@@ -905,16 +905,16 @@
         {
             "a": {
                 "examples": [
-                    "Armbanduhr",
-                    "Motorrad",
-                    "Vase"
+                    "Armbanduhren",
+                    "Fernbedienungen",
+                    "Vasen"
                 ],
-                "text": "Du bist so hässlich, kaputt ist jetzt mein/e <BLANK>.",
-                "type": "Nomen - Etwas, was kaputt gehen kann"
+                "text": "Du bist so hässlich, kaputt sind jetzt meine <BLANK>.",
+                "type": "Nomen Mehrzahl - Etwas, was kaputt gehen kann"
             },
             "gene": [
-                "Herz",
-                "Ich lade dich ein wegen meines Jubiläumskonzerts."
+                "Herzen",
+                "Bitte sei vorsichtig, ich hab große Schmerzen."
             ],
             "x": false,
             "id": 52705
@@ -956,16 +956,16 @@
         {
             "a": {
                 "examples": [
-                    "Straßenverkehrsamt",
-                    "Finanzamt",
-                    "Polizeiwache"
+                    "Wer wird Millionär",
+                    "Joko und Klaas gegen ProSieben",
+                    "Gefragt Gejagt"
                 ],
-                "text": "Vergiss die Ghostbusters. Für dich melde ich mich bei dem/der <BLANK>.",
-                "type": "Nomen - Eine Behörde"
+                "text": "Nur für dich melde ich mich an bei <BLANK>.",
+                "type": "Eine Spielshow im Fernsehen"
             },
             "gene": [
-                "Bürgeramt",
-                "Für deine Beats verlange ich Pfand."
+                "Wetten Dass",
+                "Mein Talent? Das ist richtig krass."
             ],
             "x": false,
             "id": 52479
@@ -1385,7 +1385,7 @@
                     "Auto",
                     "Privatjet"
                 ],
-                "text": "Verletz meine Gefühle und ich zerstöre dein/e/n <BLANK>.",
+                "text": "Verletz meine Gefühle und ich zerstöre dein\u2019 <BLANK>.",
                 "type": "Nomen - Ein Besitz"
             },
             "gene": [
@@ -2027,12 +2027,12 @@
         {
             "a": {
                 "examples": [
-                    "Onkel",
+                    "Tante",
                     "Nichte",
-                    "Bruder"
+                    "Ehefrau"
                 ],
-                "text": "Heute Mittag esse ich Kuchen mit deiner/m <BLANK>.",
-                "type": "Nomen - Ein Verwandter"
+                "text": "Heute Mittag esse ich Kuchen mit deiner <BLANK>.",
+                "type": "Nomen - Ein weibliches Familienmitglied"
             },
             "gene": [
                 "Schwester",
@@ -2541,7 +2541,7 @@
                     "Gehirn",
                     "Glied"
                 ],
-                "text": "Ich fasse mich kurz, wie dein/e <BLANK>.",
+                "text": "Ich fasse mich kurz, wie dein\u2019 <BLANK>.",
                 "type": "Nomen - ein Körperteil"
             },
             "gene": [
@@ -2932,8 +2932,8 @@
                     "Vorgesetzter",
                     "Meister"
                 ],
-                "text": "Wie Darth zu Luke gesagt hat Ich bin dein/e <BLANK>.",
-                "type": "Nomen - Eine Autoritätsperson"
+                "text": "Wie Darth zu Luke gesagt hat: Ich bin dein <BLANK>.",
+                "type": "Nomen - Bezeichnung für eine männliche Autoritätsperson"
             },
             "gene": [
                 "bester Freund",
@@ -3204,7 +3204,7 @@
                     "Bank",
                     "Starbucks"
                 ],
-                "text": "Ich werde international. Du gehst zum/r <BLANK>.",
+                "text": "Ich werde international. Du gehst richtung <BLANK>.",
                 "type": "Nomen - Ein Geschäft"
             },
             "gene": [
@@ -3323,7 +3323,7 @@
                     "Wurzelbehandlung",
                     "E K G"
                 ],
-                "text": "Du siehst so aus, als kommst du direkt von der/dem <BLANK>.",
+                "text": "Du siehst so aus, als wärst du gerade bei <BLANK>.",
                 "type": "Nomen - ein medizinischer Vorgang"
             },
             "gene": [
@@ -3357,7 +3357,7 @@
                     "Schädel",
                     "Birne"
                 ],
-                "text": "Ich miete mir ein Platz bei dir in dem/r <BLANK>.",
+                "text": "Ich miete mir ein Platz bei dir im <BLANK>.",
                 "type": "Nomen - Synonym für 'Kopf'"
             },
             "gene": [
@@ -4033,23 +4033,6 @@
         {
             "a": {
                 "examples": [
-                    "Stimme",
-                    "Stil",
-                    "Hintern"
-                ],
-                "text": "Die Verlierer imitieren meine/n <BLANK>.",
-                "type": "Nomen - Ein Attraktivitäts-Merkmal"
-            },
-            "gene": [
-                "Bildschirm",
-                "Meiner ist aber festgeschraubt, neben meinem Regenschirm."
-            ],
-            "x": true,
-            "id": 50940
-        },
-        {
-            "a": {
-                "examples": [
                     "kämpfen",
                     "musizieren",
                     "reimen"
@@ -4131,23 +4114,6 @@
             ],
             "x": false,
             "id": 51876
-        },
-        {
-            "a": {
-                "examples": [
-                    "Schienbein",
-                    "Knöchel",
-                    "Nabel"
-                ],
-                "text": "Redest du mit mir? Oder meiner/m <BLANK>?",
-                "type": "Nomen - Körperteil in der unteren Hälfte"
-            },
-            "gene": [
-                "Kniescheibe",
-                "Ich schaue nicht herab damit ich Kontakt mit dir vermeide."
-            ],
-            "x": true,
-            "id": 50809
         },
         {
             "a": {
