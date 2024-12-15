@@ -22,15 +22,15 @@
          "a":{
             "examples":[
                "Boss",
-               "President",
-               "C E O"
+               "Präsident",
+               "CEO"
             ],
             "text":"Dinge abklären wie ein richtiger <BLANK>.",
             "type":"Nomen - Bezeichnung für einen Chef"
          },
          "gene":[
             "Manager",
-            "trotzdem bleibt mein Portmonee weiter leer."
+            "trotzdem bleibt mein Portemonnaie weiter leer."
          ],
          "x":false,
          "id":50744
@@ -140,12 +140,12 @@
       {
          "a":{
             "examples":[
-               "Mut",
-               "gutes Aussehen",
-               "Stabilität"
+               "Luft",
+               "Gott",
+               "Strom"
             ],
-            "text":"Ich bin schnell, also spul zurück, dann seht ihr mein' <BLANK>.",
-            "type":"eine persönliche gute Eigenschaft"
+            "text":"Ich bin schnell, also spult zurück, dann seht ihr <BLANK>.",
+            "type":"etwas Unsichtbares"
          },
          "gene":[
             "Strahlen",
@@ -229,7 +229,7 @@
                "ein Ozean",
                "eine Pfütze"
             ],
-            "text":"Seht wie ich laber wie <BLANK>.",
+            "text":"Seht, ich laber wie <BLANK>.",
             "type":"Unbestimmter Artikel + Nomen (ein Gewässer)"
          },
          "gene":[
@@ -480,16 +480,16 @@
       {
          "a":{
             "examples":[
-               "Französisch",
+               "Spanisch",
                "Esperanto",
                "Swahili"
             ],
-            "text":"Wusstet ihr denn, ich sprech fließend <BLANK>?",
+            "text":"Wusstet ihr schon, ich sprech fließend <BLANK>?",
             "type":"Eine Sprache"
          },
          "gene":[
-            "Englisch",
-            "Das ist nichts für euch, denn ich mach euch fertig."
+            "Bayrisch",
+            "Ich mach den Mund auf und es stinkt nach Fisch."
          ],
          "x":false,
          "id":52153
@@ -505,8 +505,8 @@
             "type":"Nomen Mehrzahl - Harte Dinge"
          },
          "gene":[
-            "Melonen",
-            "Damit werde ich euch im Anschluss bedrohen."
+            "Kokosnüsse",
+            "Und ich versenke gnadenlos jeden meiner Schüsse."
          ],
          "x":false,
          "id":52145
@@ -574,7 +574,7 @@
          },
          "gene":[
             "Gesetz",
-            "Hört mir mal gut zu und dann kommt der Test."
+            "Also hört mir alle zu - ruhe mit dem Geschwätz."
          ],
          "x":false,
          "id":51882
@@ -587,7 +587,7 @@
                "Dirk Nowitzki"
             ],
             "text":"Ich werfe die Körbe wie <BLANK>.",
-            "type":"Basketball Star"
+            "type":"Basketball-Star"
          },
          "gene":[
             "James LeBron",
@@ -618,14 +618,14 @@
             "examples":[
                "Nesquik",
                "Lion Cereals",
-               "Kellogs"
+               "Kellogg\u2019s"
             ],
             "text":"Ich bin die Creme de la Creme, lecker wie <BLANK>.",
-            "type":"Müsli Name"
+            "type":"Müsli-Name"
          },
          "gene":[
-            "Dr. Oetker",
-            "Meine Reime sind wie Pizza ohne Ananas."
+            "Seitenbacher",
+            "Friss ruhig, im Schwimmbad wirst du zum Gezeitenmacher."
          ],
          "x":false,
          "id":52020
@@ -635,7 +635,7 @@
             "examples":[
                "Anwalt",
                "Zimmermann",
-               "Fittnesstrainer"
+               "Fitnesstrainer"
             ],
             "text":"Schaut, wie ich arbeite, ich bin ein Meister-<BLANK>.",
             "type":"Ein Beruf"
@@ -672,7 +672,7 @@
                "gut"
             ],
             "text":"Ich hab den Fokus auf den Sieg, denn ich bin <BLANK>.",
-            "type":"Positive Eigenschaft"
+            "type":"Positives Adjektiv"
          },
          "gene":[
             "einfühlsam",
@@ -693,7 +693,7 @@
          },
          "gene":[
             "Respekt",
-            "Wenn ich so weiter mache seht ihr mein\u2019 Aspekt."
+            "Gewinne ich das hier, öffne ich eine Flasche Sekt."
          ],
          "x":false,
          "id":52077
@@ -705,7 +705,7 @@
                "Häuser",
                "Träume"
             ],
-            "text":"Die Reime, die ich male kosten tausende <BLANK>.",
+            "text":"Die Reime, die ich male, kosten tausende <BLANK>.",
             "type":"Nomen Mehrzahl"
          },
          "gene":[
@@ -727,7 +727,7 @@
          },
          "gene":[
             "komisch",
-            "Soll ich dich etwa verschonen, du Wicht?"
+            "Mit meinem Rap ziehe ich dich über den Pokertisch."
          ],
          "x":false,
          "id":52019
@@ -761,7 +761,7 @@
          },
          "gene":[
             "Senf",
-            "Ignoriert mich meine Freundin fahr ich schnell nach Genf."
+            "Ignoriert mich, meine Freundin fahr ich schnell nach Genf."
          ],
          "x":false,
          "id":51901
@@ -769,15 +769,15 @@
       {
          "a":{
             "examples":[
-               "ein paar Taschentücher",
-               "mein Portmonee",
-               "meine Taschenuhr"
+               "Taschentücher",
+               "Trophäen",
+               "Geldscheine"
             ],
             "text":"Ich hab den Erfolg in der Tasche, genauso wie <BLANK>.",
-            "type":"Nomen - Ein Ding in deiner Tasche"
+            "type":"Nomen Mehrzahl - Dinge in deiner Tasche"
          },
          "gene":[
-            "einen Schlüsselanhänger",
+            "Schlüsselanhänger",
             "Ich kann mir den Arzt nicht leisten, deshalb warte ich einfach länger."
          ],
          "x":false,
@@ -812,7 +812,7 @@
          },
          "gene":[
             "fangen",
-            "Passt nur auf, oh mist, sie ist weggegangen."
+            "Passt nur auf, oh mist, sie ist grad weggegangen."
          ],
          "x":false,
          "id":51948
@@ -842,7 +842,7 @@
                "Weisheiten"
             ],
             "text":"Sido und Kollegah, sie fragen mich nach <BLANK>.",
-            "type":"Nomen - Begriff für Hilfe"
+            "type":"Nomen - etwas zum Unterstützen"
          },
          "gene":[
             "Feedback",
@@ -875,7 +875,7 @@
                "Tränen",
                "Scheine"
             ],
-            "text":"Wenn ich mich beim rasieren schneide, fließen <BLANK>.",
+            "text":"Wenn ich mich beim Rasieren schneide, fließen <BLANK>.",
             "type":"Nomen Mehrzahl"
          },
          "gene":[
@@ -906,7 +906,7 @@
          "a":{
             "examples":[
                "ALDI",
-               "McDonalds",
+               "McDonald\u2019s",
                "Kaufland"
             ],
             "text":"Auf meinem Weg nach oben halte ich bei <BLANK>.",
@@ -931,7 +931,7 @@
          },
          "gene":[
             "einkaufen",
-            "Deine Wäsche tut immer wieder einlaufen."
+            "Deine Wäsche ist immer nur am Einlaufen."
          ],
          "x":false,
          "id":51814
@@ -960,7 +960,7 @@
                "kichern",
                "wackeln"
             ],
-            "text":"Wenn die Sonne aufgeht kann ich nur <BLANK>.",
+            "text":"Wenn die Sonne aufgeht, kann ich nur <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -974,15 +974,15 @@
          "a":{
             "examples":[
                "Rewe",
-               "Game Stop",
+               "GameStop",
                "Starbucks"
             ],
-            "text":"Ich wuchs auf im harten Teil von <BLANK>.",
+            "text":"Ich wuchs auf im rauen Teil von <BLANK>.",
             "type":"Ein Geschäft"
          },
          "gene":[
-            "McDonalds",
-            "War gar nicht so schlecht, denn es gab immer Pommes!"
+            "McDonald\u2019s",
+            "War gar nicht so schlecht, es gab immer Pommes!"
          ],
          "x":false,
          "id":51807
@@ -1046,11 +1046,11 @@
                "Mundtot"
             ],
             "text":"Das Wort des Tages ist <BLANK>.",
-            "type":"Ein einschüchterndes Wort"
+            "type":"Nomen Einzahl (einschüchternd)"
          },
          "gene":[
-            "Knirpse",
-            "Bei deinen Reimen fehlt mir noch die Würze."
+            "Atompilz",
+            "Deine Reime gehen mir tierisch auf die Milz."
          ],
          "x":false,
          "id":52373
@@ -1060,7 +1060,7 @@
             "examples":[
                "Siemens",
                "Weber",
-               "McDonalds"
+               "McDonald\u2019s"
             ],
             "text":"Ich bin so heiß, ich wurde gesponsert von <BLANK>.",
             "type":"Eine Marke / Unternehmen"
@@ -1079,12 +1079,12 @@
                "Zeus",
                "Todesstern"
             ],
-            "text":"Es gibt einen Planeten mit meinem Namen <BLANK>.",
+            "text":"Ein Planet trägt meinen Namen, er heißt <BLANK>.",
             "type":"Ein beeindruckender Name"
          },
          "gene":[
-            "Terminator",
-            "Lustigerweise gibt's dort kein Tor."
+            "Gene",
+            "Die Zeile ist doch nicht so cool wie sie schien."
          ],
          "x":false,
          "id":51841
@@ -1101,7 +1101,7 @@
          },
          "gene":[
             "explodieren",
-            "Ich hoffe das wird alle imponieren."
+            "Ich hoffe, das wird allen imponieren."
          ],
          "x":true,
          "id":51817
@@ -1118,7 +1118,7 @@
          },
          "gene":[
             "umkippen",
-            "BAM! Vorher muss ich erstmal meine Ryhmes spitten."
+            "BAM! Vorher muss ich erstmal meine Rhymes spitten."
          ],
          "x":false,
          "id":51840
@@ -1134,8 +1134,8 @@
             "type":"Verb"
          },
          "gene":[
-            "kochen",
-            "Das macht mein kleiner Bruder für mich, das haut mich aus den Socken."
+            "braten",
+            "Sondern fange an zu buddeln mit meinem Klappspaten."
          ],
          "x":false,
          "id":52291
@@ -1147,12 +1147,12 @@
                "schön",
                "neugierig"
             ],
-            "text":"Meine Texte sind wahr werdene Träume, sie machen dich <BLANK>.",
+            "text":"Meine Texte sind wahrwerdene Träume, sie machen dich <BLANK>.",
             "type":"Positives Adjektiv"
          },
          "gene":[
             "neidisch",
-            "Wenn mein Freund den Bus nicht erwischt ruf ich 'komm, beeil dich!'"
+            "Wenn mein Freund den Bus nicht erwischt, ruf ich 'komm, beeil dich!'"
          ],
          "x":false,
          "id":51859
@@ -1165,11 +1165,11 @@
                "Begleitung"
             ],
             "text":"Santa hat Elfen, ich hab meine <BLANK>.",
-            "type":"Nomen für eine Gruppe von Menschen"
+            "type":"Nomen - Gruppe von Menschen"
          },
          "gene":[
-            "Jungs",
-            "Die wollen ständig was von mir, das ist echt kein Wunsch."
+            "Buben",
+            "Die sind echt teuer, brauchen 100 Zahnpastatuben."
          ],
          "x":false,
          "id":51844
@@ -1194,16 +1194,16 @@
       {
          "a":{
             "examples":[
-               "angreifen",
-               "zerstören",
-               "brüllen"
+               "Angriff",
+               "Zerstörung",
+               "Schrei"
             ],
             "text":"Meine Kampfroutine ist Zahnseide und <BLANK>.",
-            "type":"Verb - drohende Aktion"
+            "type":"Nomen - drohende Aktion"
          },
          "gene":[
-            "wiederholen",
-            "Mundhygiene ist mir wichtig, sagt auch Dieter Bohlen."
+            "Wiederholung",
+            "Mundhygiene ist mir wichtig, genau wie danach die Erholung."
          ],
          "x":false,
          "id":51849
@@ -1215,8 +1215,8 @@
                "Schatz",
                "Liebling"
             ],
-            "text":"Meine Mutter sagt immer ich bin ihr einziger <BLANK>.",
-            "type":"Begriff für Zärtlichkeit"
+            "text":"Meine Mutter sagt immer, ich bin ihr einziger <BLANK>.",
+            "type":"Kosename für Partner"
          },
          "gene":[
             "Engel",
@@ -1229,11 +1229,11 @@
          "a":{
             "examples":[
                "Lied",
-               "Schrei",
-               "Hymne"
+               "Geodreieck",
+               "Steuerberater"
             ],
-            "text":"Wah-ka-bam-zoo sag ich als Kampf-<BLANK>.",
-            "type":"Nomen Einzahl - Ein Laut"
+            "text":"Mein Kampfschrei lautet \u201c<BLANK>!\u201d",
+            "type":"Nomen"
          },
          "gene":[
             "Poesie",
@@ -1249,7 +1249,7 @@
                "eine Triangel",
                "eine Geige"
             ],
-            "text":"Mein Mund ist wie eine Trompete, mein Gehirn wie <BLANK>.",
+            "text":"Mein Mund wie eine Trompete, mein Gehirn wie <BLANK>.",
             "type":"Unbestimmter Artikel + Nomen (Musikinstrument)"
          },
          "gene":[
@@ -1271,7 +1271,7 @@
          },
          "gene":[
             "Saphir",
-            "Meine Mama sagt ich bin noch zu jung für Bier."
+            "Meine Mama sagt, ich sei noch zu jung für Bier."
          ],
          "x":false,
          "id":51858
@@ -1322,7 +1322,7 @@
          },
          "gene":[
             "Klingen",
-            "Ich will mit dir in einem Boxkampf ringen"
+            "Ich will mit dir in einem Boxkampf ringen."
          ],
          "x":false,
          "id":51769
@@ -1330,15 +1330,15 @@
       {
          "a":{
             "examples":[
-               "Mount Everest",
-               "Mount McKinley",
-               "Mount Rainier"
+               "der Mount Everest",
+               "die Zugspitze",
+               "der Eyjafjallajökull"
             ],
-            "text":"Bin auf meinem Weg nach oben, ich besteige den <BLANK>.",
-            "type":"Nomen - ein Berg"
+            "text":"Bin auf meinem Weg nach oben, bin higher als <BLANK>.",
+            "type":"Artikel + Nomen (Hoher Berg)"
          },
          "gene":[
-            "Alpen",
+            "die Alpen",
             "Ich schau mir dein Gesicht an und zähle hundert Falten."
          ],
          "x":false,
@@ -1351,12 +1351,12 @@
                "springen",
                "rennen"
             ],
-            "text":"Wenn ich reime, neigen sie zu <BLANK>.",
+            "text":"Wenn ich reime, neigt ihr zu <BLANK>.",
             "type":"Verb"
          },
          "gene":[
             "lachen",
-            "Es ist nicht leicht immer alles richtig zu machen."
+            "Es ist nicht leicht, immer alles richtig zu machen."
          ],
          "x":false,
          "id":51713
@@ -1386,7 +1386,7 @@
                "herausfinden"
             ],
             "text":"Ich bin der Größte, so kannst du es <BLANK>.",
-            "type":"Verb - Synonym für 'bemerken'"
+            "type":"Verb - Synonym für \u2019bemerken\u2019"
          },
          "gene":[
             "verstehen",
@@ -1424,7 +1424,7 @@
          },
          "gene":[
             "stolpern",
-            "Was du mit deinen Reimen machst gränzt an foltern."
+            "Mit deinen albernen Reimen willst du mich wohl foltern."
          ],
          "x":false,
          "id":51756
@@ -1436,12 +1436,12 @@
                "Hurrah",
                "Woah"
             ],
-            "text":"Hebt eure Hände in die Luft und brüllt <BLANK>.",
+            "text":"Hebt eure Hände in die Luft und brüllt \u201c<BLANK>!\u201d",
             "type":"Ein Ausruf"
          },
          "gene":[
             "Wow",
-            "Ich reime fies und zieh\u2019 dich durch den Kakao."
+            "Ich reime fies und zieh dich durch den Kakao."
          ],
          "x":false,
          "id":50918
@@ -1449,16 +1449,16 @@
       {
          "a":{
             "examples":[
-               "Berliner Fernsehturm",
-               "Land",
-               "Viertel"
+               "Köln",
+               "New York",
+               "Castrop-Rauxel"
             ],
-            "text":"Ich bin der beste MC, im ganzen <BLANK>.",
-            "type":"Ein Ort"
+            "text":"Ich bin der beste MC zwischen Berlin und <BLANK>.",
+            "type":"Eine Stadt"
          },
          "gene":[
-            "Freizeitpark",
-            "Gene ist nicht mein Name, eigentlich heiß ich Mark."
+            "Potsdam",
+            "Andere Reisen sind mir meist zu lang."
          ],
          "x":false,
          "id":50919
@@ -1470,7 +1470,7 @@
                "Elefanten",
                "Gebäude"
             ],
-            "text":"Ich kam um zu zerstampfen denn meine Worte sind <BLANK>.",
+            "text":"Ich kam zum Zerstampfen, meine Worte sind <BLANK>.",
             "type":"Nomen Mehrzahl - Etwas schweres"
          },
          "gene":[
@@ -1484,7 +1484,7 @@
          "a":{
             "examples":[
                "Burger King",
-               "DHL Filiale",
+               "Thailand",
                "Berlin"
             ],
             "text":"Sie nennen mich den Herrscher von <BLANK>.",
@@ -1492,7 +1492,7 @@
          },
          "gene":[
             "Deutschland",
-            "Ein Land, so brilliant, ganz entspannt, Schmant und Sand, Hand in Hand."
+            "Ein Land, so brilliant, ganz entspannt, Hand in Hand."
          ],
          "x":false,
          "id":50920
@@ -1504,12 +1504,12 @@
                "ein Elefant",
                "eine Villa"
             ],
-            "text":"Bin so reich in Reimen, da kaufe ich <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen (ein großes Objekt)"
+            "text":"Bin so reich an Reimen, da kaufe ich <BLANK>.",
+            "type":"Unbestimmter Artikel + Nomen (großes Objekt)"
          },
          "gene":[
             "ein Haus",
-            "Mach\u2019 mal leise, sonst fliegen wir raus!"
+            "Mach mal leise, sonst fliegen wir raus!"
          ],
          "x":false,
          "id":51576
@@ -1521,12 +1521,12 @@
                "nervig",
                "laut"
             ],
-            "text":"Bin nur hier, um zu sagen, ich bin <BLANK>.",
+            "text":"Steh nur hier, um zu sagen, ich bin <BLANK>.",
             "type":"Adjektiv - Eigenschaft einer Ziege"
          },
          "gene":[
             "gemein",
-            "Mein Wunsch-Haustier ist ein Mini-Schwein"
+            "Mein Wunsch-Haustier ist ein Mini-Schwein."
          ],
          "x":false,
          "id":50923
@@ -1535,15 +1535,15 @@
          "a":{
             "examples":[
                "China",
-               "Legoland",
-               "Köln"
+               "Peru",
+               "Belgien"
             ],
-            "text":"Du glaubst hier bin ich groß geworden, aber du sahst mich noch nie in <BLANK>.",
-            "type":"Ein Ort"
+            "text":"Bin nicht hier groß geworden, sondern in <BLANK>.",
+            "type":"Ein Land"
          },
          "gene":[
             "Island",
-            "Björn kommt von dort, der schaut mich immer fies an."
+            "Dort vermisse ich irgendwie den ganzen Sand."
          ],
          "x":false,
          "id":51541
@@ -1556,11 +1556,11 @@
                "Til Schweiger"
             ],
             "text":"Bin ein Teil einer Legende, ein normaler <BLANK>.",
-            "type":"Berühmte Person"
+            "type":"Berühmte männliche Person"
          },
          "gene":[
             "Super Mario",
-            "Bitte mach schnell, denn ich muss mal auf\u2019s Klo."
+            "Bitte mach schnell, denn ich muss mal aufs Klo."
          ],
          "x":false,
          "id":51567
