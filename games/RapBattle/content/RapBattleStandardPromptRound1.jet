@@ -60,7 +60,7 @@
                "Clever"
             ],
             "text":"Mein Flow ist meine Superkraft, nenn mich Captain <BLANK>.",
-            "type":"positives Adjektiv"
+            "type":"Positives Adjektiv"
          },
          "gene":[
             "Flexibel",
@@ -3290,7 +3290,7 @@
                "Atommüll"
             ],
             "text":"Meine Reime zerstören euch, so wie <BLANK>.",
-            "type":"Nomen - Etwas gefährliches"
+            "type":"Nomen Mehrzahl- etwas gefährliches"
          },
          "gene":[
             "ein Panzer",
@@ -3310,8 +3310,8 @@
             "type":"Eine Sportart"
          },
          "gene":[
-            "Baseball",
-            "Muss noch Wäsche waschen, verdammt nochmal!"
+            "Kegeln",
+            "Wir spielen das hier nach meinen Regeln."
          ],
          "x":false,
          "id":51878
@@ -3321,14 +3321,14 @@
             "examples":[
                "ein Helikopter",
                "ein Bugatti",
-               "ein V W Golf"
+               "ein VW Golf"
             ],
             "text":"Meine Worte sitzen so tief, du bräuchtest <BLANK>.",
             "type":"Unbestimmter Artikel + Ein Fahrzeug"
          },
          "gene":[
             "ein Boot",
-            "Deine Reime erinnern mich an Kot."
+            "Deine Reime führen dich nur in Seenot."
          ],
          "x":false,
          "id":51881
@@ -3358,7 +3358,7 @@
                "ein Ofenhandschuh"
             ],
             "text":"Zünd\u2019 die Zündung und ich explodier\u2019 wie <BLANK>.",
-            "type":"Unbestimmter Artikel + Ein Gegenstand"
+            "type":"Unbestimmter Artikel + ein Gegenstand"
          },
          "gene":[
             "eine Batterie",
@@ -3374,11 +3374,11 @@
                "\u2019Haus des Geldes\u2019",
                "\u2019Sex Education\u2019"
             ],
-            "text":"Ich lerne alles was ich weiß durch\u2019s schauen von <BLANK>.",
+            "text":"Ich lerne alles was ich weiß durchs Schauen von <BLANK>.",
             "type":"Eine Serie"
          },
          "gene":[
-            "\u2019Gute Zeiten, Schlechte Zeiten\u2019",
+            "\u2019Gute Zeiten Schlechte Zeiten\u2019",
             "Langsam habe ich genug von deinen Frechheiten."
          ],
          "x":false,
@@ -3391,12 +3391,12 @@
                "krass",
                "wild"
             ],
-            "text":"Mathe besagt ich bin zu 100% <BLANK>.",
-            "type":"positives Adjektiv"
+            "text":"Mathe besagt, ich bin zu 100% <BLANK>.",
+            "type":"Positives Adjektiv"
          },
          "gene":[
             "majestätisch",
-            "Oder auch superkalifragilistikexpialigetisch"
+            "Oder auch superkalifragilistikexpialigetisch."
          ],
          "x":false,
          "id":51406
@@ -3404,16 +3404,16 @@
       {
          "a":{
             "examples":[
-               "der Größte",
-               "der König",
-               "der Boss"
+               "eine Polizistin",
+               "eine Königin",
+               "ein Koch"
             ],
-            "text":"Nennt mich streitsüchtig, Ich bin <BLANK>.",
-            "type":"Ein Nickname"
+            "text":"Nennt mich streitsüchtig, ich bin <BLANK>.",
+            "type":"Unbestimmter Artikel + ein Beruf"
          },
          "gene":[
-            "Gene",
-            "Meine Reime wirken wie Morphin."
+            "ein Programmierer",
+            "Du bist wohl eher gelernter Hausierer."
          ],
          "x":false,
          "id":51170
@@ -3430,7 +3430,7 @@
          },
          "gene":[
             "fiepsen",
-            "Vanille Eis-Creme esse ich am Liebsten."
+            "Vanille-Eis esse ich am Liebsten."
          ],
          "x":false,
          "id":51449
@@ -3464,7 +3464,7 @@
          },
          "gene":[
             "Hunde",
-            "Alles was sie lieben, haben sie im Munde."
+            "Mein Kreis ist loyal, wir sind eine Runde."
          ],
          "x":false,
          "id":51452
@@ -3481,7 +3481,7 @@
          },
          "gene":[
             "Keramik",
-            "Mein Freund arbeitet bei Saturn und der heißt Nick."
+            "Mit jeder Line bring\u2019 ich pure Dynamik."
          ],
          "x":false,
          "id":51175
@@ -3498,7 +3498,7 @@
          },
          "gene":[
             "eine Tomate",
-            "Bin immer auf dem neusten Stand, nur durch die Dokus von Arte!"
+            "Bin immer auf dem neusten Stand, durch die Dokus von Arte!"
          ],
          "x":false,
          "id":51176
@@ -3508,14 +3508,14 @@
             "examples":[
                "Weintrauben",
                "Donuts",
-               "Pizzen"
+               "Brezeln"
             ],
             "text":"Ich wach\u2019 auf, und esse Reime wie <BLANK>.",
             "type":"Mehrzahl - Leckeres Essen"
          },
          "gene":[
-            "Brezel",
-            "Meine Oma macht sie immer mit leckeren Keksen."
+            "Risotto",
+            "Liebe an meine Oma, gutes Essen ist ihr Motto."
          ],
          "x":false,
          "id":51874
@@ -3532,7 +3532,7 @@
          },
          "gene":[
             "ein Nudelsalat",
-            "Deine Reime kommen rüber auf die billigste Art."
+            "Nach dem Rezept meiner Oma, das bleibt aber privat."
          ],
          "x":false,
          "id":51177
@@ -3566,7 +3566,7 @@
          },
          "gene":[
             "acht",
-            "Ich kann nicht zählen, und reimen erst recht nicht."
+            "In Mathe hieß es für mich immer \u2018Gute Nacht!\u2018."
          ],
          "x":false,
          "id":51074
@@ -3574,16 +3574,16 @@
       {
          "a":{
             "examples":[
-               "Schlafzimmer",
-               "Sofa",
-               "Badezimmer"
+               "schlafen",
+               "kratzen",
+               "wischen"
             ],
-            "text":"Verbeugt euch vor dem Präsidenten vom <BLANK>.",
-            "type":"Etwas im Haushalt"
+            "text":"Hier ist der Meister noch selbst am <BLANK>.",
+            "type":"Verb"
          },
          "gene":[
-            "Lagerhaus",
-            "Klingt für mich so, als wär ich gleich raus."
+            "backen",
+            "Ich bin so gut, bin morgen bei Wacken."
          ],
          "x":false,
          "id":51181
@@ -3608,7 +3608,7 @@
       {
          "a":{
             "examples":[
-               "ein Schwert ",
+               "ein Schwert",
                "ein Rasierer",
                "ein Buttermesser"
             ],
@@ -3617,7 +3617,7 @@
          },
          "gene":[
             "eine Currywurst",
-            "Jetzt hab ich Hunger. Und Durst."
+            "Ich habe Siegeshunger. Und Durst."
          ],
          "x":false,
          "id":51183
@@ -3626,7 +3626,7 @@
          "a":{
             "examples":[
                "Anwalt",
-               "Arzt für plastische Chirurgie",
+               "Arzt",
                "Jäger"
             ],
             "text":"Bin kein Gangster, ich bin der originale <BLANK>.",
@@ -3634,7 +3634,7 @@
          },
          "gene":[
             "Bäcker",
-            "Ich denke meine Brötchen sind ziemlich lecker."
+            "Ich denke, meine Brötchen sind ziemlich lecker."
          ],
          "x":false,
          "id":51185
@@ -3651,7 +3651,7 @@
          },
          "gene":[
             "Pokale",
-            "Komme ich zu dir nach Hause mache ich groß Randale."
+            "Komme ich zu dir nach Hause, mache ich groß Randale."
          ],
          "x":false,
          "id":51186
@@ -3659,11 +3659,11 @@
       {
          "a":{
             "examples":[
-               "ein Gepard",
+               "Gepard",
                "Sonic",
-               "ein Sportwagen"
+               "Sportwagen"
             ],
-            "text":"Ich rappe\u2019 so schnell, sie sehen mich als <BLANK>.",
+            "text":"Ich rappe so schnell, sie sehen mich als <BLANK>.",
             "type":"Etwas schnelles"
          },
          "gene":[
@@ -3694,7 +3694,7 @@
          "a":{
             "examples":[
                "Mathe",
-               "Betriebswirtschaftslehre",
+               "Geografie",
                "Chemie"
             ],
             "text":"Ich bin weltweit der schlauste Schüler in <BLANK>.",
@@ -3714,12 +3714,12 @@
                "rennen",
                "lächeln"
             ],
-            "text":"Wo auch immer ich geh\u2019, werden alle <BLANK>.",
+            "text":"Wohin auch immer ich geh\u2019, werden alle <BLANK>.",
             "type":"Verb"
          },
          "gene":[
-            "eskalieren",
-            "Sollte ich mir Sorgen machen oder herrscht hier Frieden?"
+            "weinen",
+            "Neben meinen Raps können sie nicht scheinen."
          ],
          "x":false,
          "id":51188
@@ -3731,12 +3731,12 @@
                "reden",
                "schlafen"
             ],
-            "text":"Mein Name ist \u2018Der Terminator\u2018, denn ich kann niemals <BLANK>.",
+            "text":"Mein Name ist \u2018Der Terminator\u2018, denn ich kann nie <BLANK>.",
             "type":"Verb - Alltägliche Handlung"
          },
          "gene":[
             "waschen",
-            "Meine Freunde machen sich schon sorgen um meine Flaschen."
+            "Meine Freunde machen sich schon Sorgen um meine Flaschen."
          ],
          "x":false,
          "id":51190
@@ -3749,11 +3749,11 @@
                "ein Stadion"
             ],
             "text":"Meine Reime sind so stark, sie bauen <BLANK>.",
-            "type":"Unbestimmter Artikel + Ein Gebäude"
+            "type":"Unbestimmter Artikel + ein Gebäude"
          },
          "gene":[
             "einen Pavillon",
-            "Denn man kann darunter liegen wie in einem Schlafwaggon"
+            "Denn man kann darunter liegen wie in einem Schlafwaggon."
          ],
          "x":false,
          "id":51007
@@ -3783,11 +3783,11 @@
                "ein Elefant"
             ],
             "text":"Mein Auftritt ist massiv, wie <BLANK>.",
-            "type":"Unbestimmter Artikel + Ein Tier"
+            "type":"Unbestimmter Artikel + ein Tier"
          },
          "gene":[
             "ein Hai",
-            "Ich bin eigentlich harmlos, nur so nebenbei"
+            "Ich bin eigentlich harmlos, nur so nebenbei."
          ],
          "x":false,
          "id":51034
