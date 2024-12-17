@@ -3068,7 +3068,7 @@
                "Frankenstein",
                "Bigfoot"
             ],
-            "text":"Bin so gut, es macht Angst, nenn\u2019 mich M C <BLANK>.",
+            "text":"Bin furchteinflößend gut, nenn\u2019 mich M C <BLANK>.",
             "type":"Ein Monster"
          },
          "gene":[
@@ -3090,7 +3090,7 @@
          },
          "gene":[
             "Schrei laut",
-            "In meinem Garten ist schon wieder Unkraut."
+            "Dann weiß jeder sofort, was ihm graut."
          ],
          "x":false,
          "id":51163
@@ -3102,7 +3102,7 @@
                "eine Maus",
                "ein Alligator"
             ],
-            "text":"Bin gigantisch, doch ganz sanft, schaden würde ich nicht mal <BLANK>.",
+            "text":"Bin groß und doch sanft, schaden würde ich nicht mal <BLANK>.",
             "type":"Unbestimmter Artikel + Ein Tier"
          },
          "gene":[
@@ -3117,7 +3117,7 @@
             "examples":[
                "Meister Proper",
                "der Michelin-Mann",
-               "die lila Milka Kuh"
+               "die lila Milka-Kuh"
             ],
             "text":"Versammelt euch um mich, ich werde immer mehr wie <BLANK>.",
             "type":"Eine Werbefigur"
@@ -3141,7 +3141,7 @@
          },
          "gene":[
             "Krass",
-            "Viele Leute kennen keinen Unterschied zwischen \u2018das\u2019 und \u2018dass\u2019."
+            "Viele kennen keinen Unterschied zwischen \u2018das\u2019 und \u2018dass\u2019."
          ],
          "x":false,
          "id":51460
@@ -3149,16 +3149,16 @@
       {
          "a":{
             "examples":[
-               "Pilz",
-               "Huhn",
-               "Regentropfen"
+               "ein Pilz",
+               "ein Huhn",
+               "eine Rose"
             ],
-            "text":"Bin ganz natürlich, meine Reime kommen von einem <BLANK>.",
-            "type":"Etwas in der Natur"
+            "text":"Ich bin natürlicher als <BLANK>.",
+            "type":"Unbestimmer Artikel + eine Lebewesen"
          },
          "gene":[
-            "Baum",
-            "Ob meine Reime gut sind kümmert mich kaum."
+            "ein Baum",
+            "Also bretthart und grün-braun, du darfst ruhig stau\u2019n."
          ],
          "x":false,
          "id":51489
@@ -3175,7 +3175,7 @@
          },
          "gene":[
             "perfekt",
-            "Du fragst dich sicher wer hinter \u2018Gene\u2019 steckt."
+            "Du fragst dich sicher, wer hinter \u2018Gene\u2019 steckt."
          ],
          "x":false,
          "id":51165
@@ -3187,8 +3187,8 @@
                "Mittagessen",
                "Steuererklärungen"
             ],
-            "text":"Ich verlasse mich nicht auf Chancen, Ich mache <BLANK>.",
-            "type":"Nomen - Etwas, was du selber machst"
+            "text":"Ich verlasse mich nicht auf Glück, ich mache <BLANK>.",
+            "type":"Nomen Mehrzahl - Etwas, was du selber machst"
          },
          "gene":[
             "Ausreden",
@@ -3205,11 +3205,11 @@
                "eine Ratte"
             ],
             "text":"Bin ganz zäh, wie <BLANK>.",
-            "type":"Unbestimmter Artikel + Ein Tier"
+            "type":"Unbestimmter Artikel + ein Tier"
          },
          "gene":[
             "ein Lemur",
-            "Kein Mensch landet jemals auf Merkur."
+            "Dir allerdings fehlt es wohl an Struktur."
          ],
          "x":false,
          "id":51167
@@ -3217,15 +3217,15 @@
       {
          "a":{
             "examples":[
-               "in der Luft",
-               "auf dem Land",
-               "im Weltraum"
+               "Mond",
+               "Venus",
+               "Sonne"
             ],
-            "text":"Meine Reime fliegen wie explodierende Raketen <BLANK>.",
-            "type":"Wo verstecken sich Aliens?"
+            "text":"Meine Reime fliegen wie Raketen in Richtung <BLANK>.",
+            "type":"Ein Himmelskörper"
          },
          "gene":[
-            "auf der Erde",
+            "Erde",
             "Die attraktivsten Tiere sind eindeutig Pferde."
          ],
          "x":false,
@@ -3243,7 +3243,7 @@
          },
          "gene":[
             "ein Schuh",
-            "Bevor meine Reime dich verletzen, lasse ich dich lieber in Ruh."
+            "Bevor meine Reime dich noch verletzen, lasse ich dich in Ruh."
          ],
          "x":false,
          "id":51461
@@ -3255,12 +3255,12 @@
                "scharf",
                "irre"
             ],
-            "text":"Eil\u2019 nicht auf der Bühne, ich erscheine schon <BLANK>.",
+            "text":"Eil\u2019 nicht auf die Bühne, ich erscheine schon <BLANK>.",
             "type":"Adjektiv"
          },
          "gene":[
-            "stinkig",
-            "Normalerweise startet das erst mit siebzig."
+            "sauer",
+            "Wo ich stehe, weht der Wind gleich rauer."
          ],
          "x":false,
          "id":51451
@@ -3277,7 +3277,7 @@
          },
          "gene":[
             "funkeln",
-            "Ich kenne mich überall aus, sogar im Dunkeln."
+            "Ich kenn\u2019 mich überall aus, sogar im Dunkeln."
          ],
          "x":false,
          "id":51407
