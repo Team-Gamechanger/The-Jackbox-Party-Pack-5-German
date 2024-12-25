@@ -625,7 +625,7 @@
          },
          "gene":[
             "Seitenbacher",
-            "Friss ruhig, im Schwimmbad wirst du zum Gezeitenmacher."
+            "Guten Appetit, im Schwimmbad wirst du zum Gezeitenmacher."
          ],
          "x":false,
          "id":52020
@@ -659,7 +659,7 @@
          },
          "gene":[
             "lofi Hip-Hop",
-            "Ich brauch meine Entspannung denn ihr seid ein Flop."
+            "Ich brauch meine Entspannung, denn ihr seid ein Flop."
          ],
          "x":false,
          "id":51898
@@ -727,7 +727,7 @@
          },
          "gene":[
             "komisch",
-            "Mit meinem Rap ziehe ich dich über den Pokertisch."
+            "Meine Reime sind ihnen zu hoch, sind zu astronomisch."
          ],
          "x":false,
          "id":52019
@@ -778,7 +778,7 @@
          },
          "gene":[
             "Schlüsselanhänger",
-            "Ich kann mir den Arzt nicht leisten, deshalb warte ich einfach länger."
+            "Ich bin kein Privatpatient, deshalb warte ich einfach länger."
          ],
          "x":false,
          "id":51863
@@ -795,7 +795,7 @@
          },
          "gene":[
             "Sauerstoff",
-            "Ich kann so schlecht klettern, hilfst du mir mal hoch?"
+            "Ich bin eigentlich echt nett, wirke ich schroff?"
          ],
          "x":false,
          "id":51950
@@ -821,7 +821,7 @@
          "a":{
             "examples":[
                "Angela Merkel",
-               "Elon Musk",
+               "Jeff Bezos",
                "Obama"
             ],
             "text":"Kaufe immer Bio, denn ich bin reich wie <BLANK>.",
@@ -892,7 +892,7 @@
                "Orangen",
                "Zitronen"
             ],
-            "text":"Wohin ich auch gehe, meine Fans bewerfen mich mit <BLANK>.",
+            "text":"Überall bewerfen mich meine Fans mit <BLANK>.",
             "type":"Nomen Mehrzahl - Obst"
          },
          "gene":[
@@ -1725,12 +1725,12 @@
                "Marathon",
                "Angelwettbewerb"
             ],
-            "text":"Bin so aufgepumpt, gehe stylisch zum <BLANK>.",
+            "text":"Bin so aufgepumpt, gehe stylisch in Richtung <BLANK>.",
             "type":"Ein Ereignis"
          },
          "gene":[
-            "E 3",
-            "Ich glaub ich kauf\u2019 mir von dem Preisgeld Haferbrei."
+            "Gamescom",
+            "Meine Reim-Software wurde entwickelt in Meck-Pomm."
          ],
          "x":false,
          "id":51630
@@ -1746,8 +1746,8 @@
             "type":"Eine Stadt"
          },
          "gene":[
-            "Ottawa",
-            "Bin grad am überlegen, ich weiß nicht ob da noch was war..."
+            "Frankfurt am Main",
+            "Viele Fans bauen für mich einen eigenen Schrein."
          ],
          "x":false,
          "id":51613
@@ -1759,7 +1759,7 @@
                "attraktiv",
                "inspirierend"
             ],
-            "text":"In der Schule fand man mich mega <BLANK>",
+            "text":"In der Schule fand man mich mega <BLANK>.",
             "type":"Positive Eigenschaft"
          },
          "gene":[
@@ -1776,12 +1776,12 @@
                "spät",
                "alt"
             ],
-            "text":"Meine Reime werden hart ausgedrückt, dadurch werden sie nie <BLANK>.",
+            "text":"Mein Flow kennt keine Grenzen, er wird nie <BLANK>.",
             "type":"Negatives Adjektiv"
          },
          "gene":[
-            "schlecht",
-            "Auf meinen job bin ich stolz, doch im reimen bin ich schlecht."
+            "geschwächt",
+            "Selbst Kritiker sagen da \u2018Nicht schlecht, Herr Specht!\u2019."
          ],
          "x":false,
          "id":51643
@@ -1798,7 +1798,7 @@
          },
          "gene":[
             "Sonntag",
-            "Hab mir nen Sonnenbrand geholt, als ich in der Sonne lag."
+            "Hab mir \u2019nen Sonnenbrand geholt, als ich in der Sonne lag."
          ],
          "x":false,
          "id":51520
@@ -1815,7 +1815,7 @@
          },
          "gene":[
             "Antimaterie",
-            "\u2018Lindenstraße\u2019 ist meine Lieblingsserie"
+            "\u2018Lindenstraße\u2019 war meine Lieblingsserie."
          ],
          "x":true,
          "id":51614
@@ -1824,15 +1824,15 @@
          "a":{
             "examples":[
                "Angela Merkel",
-               "Elon Musk",
+               "Mark Zuckerberg",
                "Jeff Bezos"
             ],
             "text":"Droppe nur \u2019ne Single und bin reich wie <BLANK>.",
             "type":"Eine reiche Person"
          },
          "gene":[
-            "Die Queen",
-            "Mit meinen krassen Reimen gehört mir ganz Berlin."
+            "ein Kaiser",
+            "Kannst du das wiederholen, du rappst ja immer leiser."
          ],
          "x":false,
          "id":51633
@@ -1845,11 +1845,11 @@
                "Kinn"
             ],
             "text":"Ich bin so zerissen, hab Muskeln auf mei\u2019m <BLANK>.",
-            "type":"Nomen Einzahl - Teil vom Gesicht"
+            "type":"Nomen Einzahl - Teil vom Kopf"
          },
          "gene":[
             "Mund",
-            "Esse täglich Kuchen und bin dennoch kern-gesund."
+            "Esse täglich Kuchen und bin dennoch kerngesund."
          ],
          "x":false,
          "id":51526
@@ -1866,7 +1866,7 @@
          },
          "gene":[
             "angeln",
-            "Wenn ich mit der fertig bin wird es dir an Atem mangeln."
+            "Wenn ich mit dir fertig bin, wird es dir an Atem mangeln."
          ],
          "x":false,
          "id":51631
@@ -1883,7 +1883,7 @@
          },
          "gene":[
             "Fieber",
-            "Alle trinken Alkohol doch Cola ist mir lieber."
+            "Alle trinken Alkohol, doch Spezi ist mir lieber."
          ],
          "x":true,
          "id":51601
@@ -1900,7 +1900,7 @@
          },
          "gene":[
             "Lord Voldemort",
-            "Fette Reime raushauen ist mein Lieblingssport"
+            "Fette Reime raushauen ist mein Lieblingssport."
          ],
          "x":false,
          "id":50932
@@ -1912,12 +1912,12 @@
                "eine Bäckerei",
                "eine Bank"
             ],
-            "text":"Bestehle den Kampf, wie ein Überfall auf <BLANK>.",
+            "text":"Klaue den Sieg, wie ein Überfall auf <BLANK>.",
             "type":"Unbestimmter Artikel + ein Geschäft"
          },
          "gene":[
             "eine Tankstelle",
-            "Meine Freundin mag es wenn ich wie ein Hund belle."
+            "Ich bin Boss aller großen Rap-Kartelle."
          ],
          "x":false,
          "id":51503
@@ -1925,12 +1925,12 @@
       {
          "a":{
             "examples":[
-               "Eight",
+               "Banane",
                "Blaster",
-               "America"
+               "Raufasertapete"
             ],
-            "text":"Die Avengers rufen mich, Captain <BLANK>.",
-            "type":"Ein cooler Name"
+            "text":"Die Avengers rufen mich, Super-<BLANK>.",
+            "type":"Nomen Einzahl"
          },
          "gene":[
             "Explosion",
@@ -1951,7 +1951,7 @@
          },
          "gene":[
             "Spiegel",
-            "Wenn ich gleich zu Hause bin, gönn\u2019 ich mir nen Schokoriegel."
+            "Wenn ich gleich zu Hause bin, gönn\u2019 ich mir einen Schokoriegel."
          ],
          "x":false,
          "id":51539
@@ -1961,14 +1961,14 @@
             "examples":[
                "Til Schweiger",
                "Donald Trump",
-               "Armin Laschet"
+               "Jeff Bezos"
             ],
             "text":"Schau mir zu, lebe das Leben so wie <BLANK>.",
             "type":"Eine häufig kritisierte Person"
          },
          "gene":[
-            "Jeff Bezos",
-            "Kieselsteine sind als Währung wertlos."
+            "Mark Zuckerberg",
+            "Ich tue so, als wären Facebook und Instagram mein Werk."
          ],
          "x":false,
          "id":51387
@@ -1997,7 +1997,7 @@
                "Bäume",
                "Kakteen"
             ],
-            "text":"Ich pflanze Samen im Namen des Rhythmus und daraus werden <BLANK>",
+            "text":"Pflanze Samen im Namen der Musik und daraus werden <BLANK>.",
             "type":"Nomen Mehrzahl - Pflanzen"
          },
          "gene":[
@@ -2019,7 +2019,7 @@
          },
          "gene":[
             "der Bus",
-            "Hollywood macht nur noch remakes, ich frag\u2019 mich ob das sein muss."
+            "Hollywood macht nur noch Remakes, was für ein Stuss!"
          ],
          "x":false,
          "id":51603
@@ -2036,7 +2036,7 @@
          },
          "gene":[
             "Dänemark",
-            "Ich bin cool, weil ich teure Sneaker trag."
+            "Ich bin cool, weil ich immer seitwärts einpark\u2019."
          ],
          "x":false,
          "id":50935
@@ -2048,12 +2048,12 @@
                "ein Ballon",
                "eine Rakete"
             ],
-            "text":"Ich flieg\u2019 weit hoch wie <BLANK>",
+            "text":"Ich flieg\u2019 so hoch wie <BLANK>",
             "type":"Unbestimmter Artikel + Nomen (Etwas fliegendes)"
          },
          "gene":[
-            "Zeppelin",
-            "Wenn ich rappe reim\u2019 ich gerne auf Berlin."
+            "ein Zeppelin",
+            "Wenn ich rappe, reim\u2019 ich gerne auf Berlin."
          ],
          "x":false,
          "id":51665
@@ -2070,7 +2070,7 @@
          },
          "gene":[
             "spielen",
-            "Wenn\u2019s um detsche Rapper geht bin ich einer von ganz vielen."
+            "Gehts um deutsche Rapper, bin ich einer von vielen."
          ],
          "x":false,
          "id":51231
@@ -2083,11 +2083,11 @@
                "eine Handtasche"
             ],
             "text":"Meine Zukunft ist hell wie <BLANK>.",
-            "type":"Das letzte, was du gekauft hast"
+            "type":"Unbestimmter Artikel + Dein letzter Kauf"
          },
          "gene":[
             "ein Bobbycar",
-            "Til Schweiger war der beste Tatort-Kommissar"
+            "Til Schweiger war der beste Tatort-Kommissar."
          ],
          "x":false,
          "id":51389
@@ -2099,7 +2099,7 @@
                "Sport",
                "Biologie"
             ],
-            "text":"Ich lüftete die antiken Geheimnisse in der Schule während <BLANK>.",
+            "text":"Als Kind lüftete ich antike Geheimnisse während <BLANK>.",
             "type":"Ein Schulfach"
          },
          "gene":[
@@ -2116,7 +2116,7 @@
                "freundlich",
                "selbstständig"
             ],
-            "text":"Man sagt ich falle auf, man sagt ich bin <BLANK>.",
+            "text":"Man sagt, ich falle auf, man sagt, ich bin <BLANK>.",
             "type":"positives Adjektiv"
          },
          "gene":[
@@ -2133,7 +2133,7 @@
                "Hintern",
                "Rotzer"
             ],
-            "text":"Deine Fans nennen sich Die <BLANK>.",
+            "text":"Deine Fans nennen sich \u2018Die <BLANK>\u2019.",
             "type":"Negativer Spitzname - Mehrzahl"
          },
          "gene":[
@@ -2172,7 +2172,7 @@
          },
          "gene":[
             "Vanilleeis",
-            "Ich bin neu hier, ignorier meinen Angstschweiß..."
+            "Bist du neu hier oder warum der Angstschweiß?"
          ],
          "x":false,
          "id":51344
@@ -2197,7 +2197,7 @@
       {
          "a":{
             "examples":[
-               "Elon Musk",
+               "Mark Zuckerberg",
                "Mario Barth",
                "Thomas Gottschalk"
             ],
@@ -2218,7 +2218,7 @@
                "Peter Pan",
                "David Copperfield"
             ],
-            "text":"Meine Worte sind magisch, nenn mich <BLANK>.",
+            "text":"Meine Worte sind magisch, nennt mich <BLANK>.",
             "type":"Ein magische Person"
          },
          "gene":[
@@ -2236,7 +2236,7 @@
                "schreien"
             ],
             "text":"Alle meine Fans, sie bitten mich zu <BLANK>.",
-            "type":"Verb - kindische Aktion"
+            "type":"Verb - Kindische Aktion"
          },
          "gene":[
             "weinen",
@@ -2257,7 +2257,7 @@
          },
          "gene":[
             "Jesus Christus",
-            "Mit einem rosa Gummibot überquere ich nen Fluss."
+         "Mit einem rosa Gummibot überquere ich \u2019nen Fluss."
          ],
          "x":true,
          "id":51331
@@ -2270,7 +2270,7 @@
                "Herzen"
             ],
             "text":"Ich bin derjenige, mit den goldenen <BLANK>.",
-            "type":"Nomen Mehrzahl - Teil eines Körpers"
+            "type":"Nomen Mehrzahl - Teil des Körpers"
          },
          "gene":[
             "Händen",
@@ -2303,12 +2303,12 @@
                "der Weihnachtsmann",
                "Godzilla"
             ],
-            "text":"Meine Worte sind Geschenke und teile sie aus wie <BLANK>.",
+            "text":"Meine Worte sind Geschenke und ich verteile sie wie <BLANK>.",
             "type":"Fiktionaler Charakter"
          },
          "gene":[
-            "Luke Skywalker",
-            "Braucht mein bester Freund mal Hilfe, sage ich \u2018Na klar\u2019!"
+            "Deadpool",
+            "Die Kinder nennen mich \u2018Genepool\u2019, sie finden mich cool."
          ],
          "x":false,
          "id":51326
@@ -2320,12 +2320,12 @@
                "ein Rechner",
                "ein Genie"
             ],
-            "text":"Ich hab große Pläne, Ich bin <BLANK>.",
+            "text":"Ich hab große Pläne, ich bin <BLANK>.",
             "type":"Unbestimmter Artikel + Begriff für etwas schlaues"
          },
          "gene":[
             "ein Computer",
-            "Rappt der Gene denn immer noch? Ja, das tut er."
+            "\u2018Rappt der Gene denn immer noch?\u2019 Ja, das tut er."
          ],
          "x":false,
          "id":50941
@@ -2359,7 +2359,7 @@
          },
          "gene":[
             "Goldketten",
-            "Meine Eltern haben ein Haus mit dreizehn Betten."
+            "Meine Eltern haben ein Haus mit 13 Betten."
          ],
          "x":false,
          "id":51340
@@ -2376,7 +2376,7 @@
          },
          "gene":[
             "eine Glasscherbe",
-            "Hab überlegt ob ich mich für nen anderen Job bewerbe."
+            "Hab überlegt ob ich mich für \u2019nen anderen Job bewerbe."
          ],
          "x":false,
          "id":50942
@@ -2384,16 +2384,16 @@
       {
          "a":{
             "examples":[
-               "Messer",
-               "Glas",
-               "Mixer"
+               "das Messer",
+               "die Waage",
+               "der Mixer"
             ],
-            "text":"Ich rühre meine Beats auf mit einem <BLANK>.",
-            "type":"Ein Küchengerät"
+            "text":"Du bist der Topf und ich bin <BLANK>.",
+            "type":"Artikel + Ein Küchengerät"
          },
          "gene":[
-            "Topf",
-            "Meine Reime sind explosiver Sprengstoff."
+            "die Gabel",
+            "Ich esse nicht, ich brauche nur mein Kabel."
          ],
          "x":true,
          "id":51325
@@ -2444,7 +2444,7 @@
          },
          "gene":[
             "Schreibtische",
-            "Kann kaum warten dein Gesicht zu sehen, wenn ich mit dir den Boden wische."
+            "Du darfst gleich erleben, wie ich mit dir den Boden wische!"
          ],
          "x":false,
          "id":51305
@@ -2471,14 +2471,14 @@
             "examples":[
                "REWE",
                "Kaufland",
-               "Burger King"
+               "DM"
             ],
             "text":"Hier komme ich, zügig von <BLANK>.",
             "type":"Eine Supermarktkette"
          },
          "gene":[
-            "Media Markt",
-            "Zeilen und Reime, die dich zerstören? Abgehakt."
+            "Burger King",
+            "Ein Whopper mit Pommes, voll mein Ding!"
          ],
          "x":false,
          "id":50944
@@ -2495,7 +2495,7 @@
          },
          "gene":[
             "Idiot",
-            "Morgen kauf ich mir ein Kastenbrot."
+            "Morgen kauf\u2019 ich mir ein depressives Kastenbrot."
          ],
          "x":false,
          "id":51225
@@ -2511,7 +2511,7 @@
             "type":"Dein Rappername"
          },
          "gene":[
-            "MC Comupter",
+            "MC Computer",
             "Wenn meine Reime nicht gut ankommen, check mal deinen Router."
          ],
          "x":false,
@@ -2575,7 +2575,7 @@
                "erfahren",
                "hartnäckig"
             ],
-            "text":"Ich mag nicht charmant sein, aber ich bin <BLANK>.",
+            "text":"Ich mag nicht charmant sein, doch bin ich <BLANK>.",
             "type":"positives Adjektiv"
          },
          "gene":[
@@ -2614,7 +2614,7 @@
          },
          "gene":[
             "Kanada",
-            "Bei meinem letzten Konzert war leider keiner da..."
+            "Bei deinem letzten Konzert war leider keiner da..."
          ],
          "x":false,
          "id":51265
@@ -2631,7 +2631,7 @@
          },
          "gene":[
             "Bim-Bam-Bo",
-            "Das schrei\u2019 ich wenn ich laufe durch den Zoo."
+            "Das schrei\u2019 ich beim Laufen durch den Zoo."
          ],
          "x":false,
          "id":51271
@@ -2648,7 +2648,7 @@
          },
          "gene":[
             "Hunde",
-            "Was liegt diesem Battle eigenltich zu Grunde?"
+            "Was liegt diesem Battle eigentlich zu Grunde?"
          ],
          "x":false,
          "id":51270
@@ -2665,7 +2665,7 @@
          },
          "gene":[
             "dick",
-            "Mein liebster Adam Sandler Film ist \u2018Klick!\u2019."
+            "Mein liebster Adam-Sandler-Film ist \u2018Klick!\u2019."
          ],
          "x":false,
          "id":51268
@@ -2681,8 +2681,8 @@
             "type":"Nomen Mehrzahl - Etwas teures"
          },
          "gene":[
-            "Supreme Klamotten",
-            "Ich liebe es alte Technik zu verschrotten."
+            "Platin",
+            "Ich habe eine Penthouse-Suit in Berlin."
          ],
          "x":false,
          "id":51267
@@ -2716,7 +2716,7 @@
          },
          "gene":[
             "fantastisch",
-            "Ich weiß genau, mein Atem ist immer frisch."
+            "Als Computer berechne ich alles stochastisch."
          ],
          "x":false,
          "id":51259
@@ -2733,7 +2733,7 @@
          },
          "gene":[
             "Verkäufer",
-            "Hab mehr Ausdauer als ein Marathon-Läufer."
+            "Hab mehr Ausdauer als Marathon-Läufer."
          ],
          "x":false,
          "id":50945
@@ -2762,7 +2762,7 @@
                "Hühnersuppe",
                "Kekse und Soße"
             ],
-            "text":"Ich liefer es immer heiß, so wie <BLANK>.",
+            "text":"Ich liefer\u2019 es immer heiß, so wie <BLANK>.",
             "type":"Ein Gericht"
          },
          "gene":[
@@ -2784,7 +2784,7 @@
          },
          "gene":[
             "ein Tornado",
-            "Der Hulk sieht aus wie eine riesen Avocado."
+            "Der Hulk sieht aus wie eine Riesen-Avocado."
          ],
          "x":false,
          "id":51146
@@ -2801,7 +2801,7 @@
          },
          "gene":[
             "Herbert Grönemeyer",
-            "Ohne ihn ist es keine Feier."
+            "Ohne ihn ist es einfach keine Feier."
          ],
          "x":false,
          "id":50948
@@ -2835,7 +2835,7 @@
          },
          "gene":[
             "Sport",
-            "Ich brauche Milch und Kekse und zwar sofort!."
+            "Ich brauche Milch und Kekse und zwar sofort!"
          ],
          "x":false,
          "id":50950
@@ -2903,7 +2903,7 @@
          },
          "gene":[
             "Kuchen",
-            "Hilfst du mir dabei meine Schlüssel zu suchen?"
+            "Noch kannst du dir ein Zugticket nach Hause buchen."
          ],
          "x":false,
          "id":50782
@@ -2937,7 +2937,7 @@
          },
          "gene":[
             "Karotten",
-            "Ich ess sie schnell, bevor sie noch verrotten."
+            "Ich ess\u2019 sie schnell, bevor sie noch verrotten."
          ],
          "x":false,
          "id":50833
@@ -2970,7 +2970,7 @@
             "type":"Unbestimmter Artikel +  Etwas fliegendes"
          },
          "gene":[
-            "eine Drone",
+            "eine Drohne",
             "Sag bitte keinem, dass ich noch bei Mama wohne..."
          ],
          "x":false,
@@ -2984,11 +2984,11 @@
                "Sushi"
             ],
             "text":"Leute mögen mich mehr als <BLANK>.",
-            "type":"Etwas beliebtes"
+            "type":"Mehrzahl - Etwas beliebtes"
          },
          "gene":[
             "Hunde",
-            "Meine morgentliche Runde ist zirka eine Stunde."
+            "Meine morgendliche Runde geht zirka eine Stunde."
          ],
          "x":false,
          "id":50985
@@ -3005,7 +3005,7 @@
          },
          "gene":[
             "Saufen",
-            "Ich sollte mal meine alten Sachen verkaufen."
+            "Ich sollte anfangen, meine Platten zu verkaufen."
          ],
          "x":true,
          "id":51159
@@ -3039,7 +3039,7 @@
          },
          "gene":[
             "ein Roller",
-            "Ich find\u2019 zwei Räder einfach toller."
+            "Ich find\u2019 Zweiräder einfach toller."
          ],
          "x":false,
          "id":51161
