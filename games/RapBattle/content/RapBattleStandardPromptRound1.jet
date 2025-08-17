@@ -227,10 +227,10 @@
             "examples":[
                "ein Fluss",
                "ein Ozean",
-               "eine Pfütze"
+               "der Rhein"
             ],
-            "text":"Seht, ich laber wie <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen (ein Gewässer)"
+            "text":"Seht, ich flow wie <BLANK>.",
+            "type":"Artikel + Nomen (ein Gewässer)"
          },
          "gene":[
             "ein Tümpel",
