@@ -23,59 +23,59 @@
         {"title":"BESONDERER DANK AN", "lines":["Akira896","Jackbox Games","Unsere Ko-Fi-Unterstützer"]}
     ],
     [
-        {"title":"LEITUNG & LEITENDER REDAKTEUR", "lines":[ "Warren Arnold" ]},
-        {"title":"LEITENDER INGENIEUR", "lines":[ "Pascal Pochol" ]},
-        {"title":"KÜNSTLERISCHE LEITUNG & DESIGN-LEITUNG", "lines":[ "Dave Innis" ]},
+        {"title":"SPIELLEITUNG & LEITENDE REDAKTION", "lines":[ "Warren Arnold" ]},
+        {"title":"LEITENDE PROGRAMMIERUNG", "lines":[ "Pascal Pochol" ]},
+        {"title":"KÜNSTLERISCHE LEITUNG & LEITENDES DESIGN", "lines":[ "Dave Innis" ]},
         {"title":"AUDIO-LEITUNG", "lines":[ "Andy Poland" ]}
     ],
     [
-        {"title":"PRODUKTIONSLEITER", "lines":["Luke Cody"]},
-        {"title":"MODERATOREN", "lines":["Alex Frenkel as Lena", "Phil Ridarelli as Toby"]}
+        {"title":"PRODUKTIONSMANAGEMENT", "lines":["Luke Cody"]},
+        {"title":"MODERATION", "lines":["Alex Frenkel as Lena", "Phil Ridarelli as Toby"]}
     ],
 	[
 		{"title":"URSPRÜNGLICHES SPIELDESIGN", "lines":["Dave Innis"]},
-		{"title":"DESIGN-TEAM", "lines":["Dave Innis","Warren Arnold","Pascal Pochol","Andy Poland","Arnie Niekamp"]}
+		{"title":"DESIGNTEAM", "lines":["Dave Innis","Warren Arnold","Pascal Pochol","Andy Poland","Arnie Niekamp"]}
 	],
     [
-        {"title":"JACKBOX.TV INGENIEUR","lines":["Alex Swan"]},
-        {"title":"SERVER-INGENIEURE","lines":["Kyle Leach", "Jordan Orelli"]}
+        {"title":"JACKBOX.TV-PROGRAMMIERUNG","lines":["Alex Swan"]},
+        {"title":"SERVER-PROGRAMMIERUNG","lines":["Kyle Leach", "Jordan Orelli"]}
     ],
     [
-        {"title":"ZUSÄTZLICHE KUNST","lines":["Hector M Padilla"]},
+        {"title":"ZUSÄTZLICHE GRAFIK","lines":["Hector M Padilla"]},
         {"title":"ZUSÄTZLICHES SOUNDDESIGN","lines":["Kate Kelly"]},
-        {"title":"ZUSÄTZLICHE ENTWICKLUNG","lines":["Ben Jacobs","Mike Zuba"]}
+        {"title":"ZUSÄTZLICHE PROGRAMMIERUNG","lines":["Ben Jacobs","Mike Zuba"]}
     ],
-        {"title":"AUTOREN","lines":["Warren Arnold","Brooke Breit","Claire McFadden", "CJ Tuor", "Arnie Niekamp"]},
+        {"title":"AUTORENTEAM","lines":["Warren Arnold","Brooke Breit","Claire McFadden", "CJ Tuor", "Arnie Niekamp"]},
     [
-        {"title":"LEITUNG DER QUALITÄTSSICHERUNG","lines":["Steve Pakal"]},
+        {"title":"TEAMLEITUNG QUALITÄTSSICHERUNG","lines":["Steve Pakal"]},
         {"title":"QUALITÄTSSICHERUNG","lines":["Jacob Mooney","Jessica Glass","Tyler “Ty” Houston", "Mike Parilla"]}
     ],
-        {"title":"TECHNISCHE PRAKTIKANTEN","lines":["Jack Reynolds","Myka Martinez","Laura Adams","Michael Siciliano"]},
+        {"title":"PRAKTIKUM PROGRAMMIERUNG","lines":["Jack Reynolds","Myka Martinez","Laura Adams","Michael Siciliano"]},
     [
 		{"title":"ZUSÄTZLICHE STIMMEN","lines":["Warren Arnold", "Brooke Breit", "Spencer Ham","Kate Kelly","Edward Moses","CJ Tuor"]},
-		{"title":"SÄNGER","lines":["Mike Finney"]}
+		{"title":"GESANG","lines":["Mike Finney"]}
 	],
     [
         {"title":"PRODUKTIONSASSISTENZ","lines":["Clara Hanford"]},
-        {"title":"BENUTZERFORSCHUNG","lines":["Jacob Mooney"]}
+        {"title":"NUTZERFORSCHUNG","lines":["Jacob Mooney"]}
     ],
     [
-        {"title":"GESCHÄFTSFÜHRER","lines":["Mike Bilder"]},
-        {"title":"INHALTLICHER DIREKTOR","lines":["Allard Laban"]},
-        {"title":"TECHNISCHER DIREKTOR","lines":["Evan Jacover"]},
-        {"title":"VIZEPRÄSIDENT FÜR AUDIO UND BEARBEITUNG", "lines":["Andy Poland"]}
+        {"title":"GESCHÄFTSFÜHRUNG (CEO)","lines":["Mike Bilder"]},
+        {"title":"KREATIVLEITUNG (CCO)","lines":["Allard Laban"]},
+        {"title":"TECHNISCHE GESCHÄFTSLEITUNG (CTO)","lines":["Evan Jacover"]},
+        {"title":"VIZEPRÄSIDENT FÜR AUDIO & REDAKTION", "lines":["Andy Poland"]}
     ],
     [
-        {"title":"VIZEPRÄSIDENT VON JACKBOX FÜR BUSINESS","lines":["Rob Johnson"]},
+        {"title":"VIZEPRÄSIDENT FÜR JACKBOX FOR BUSINESS","lines":["Rob Johnson"]},
         {"title":"REDAKTIONSLEITUNG","lines":["Arnie Niekamp"]},
-        {"title":"MARKETINGLEITUNG","lines":["Brooke Eanet"]}
+        {"title":"MARKETINGMANAGEMENT","lines":["Brooke Eanet"]}
     ],
     [
-        {"title":"PERSONAL- UND BÜROLEITER","lines":["Rob Alletto"]},
-        {"title":"RECHTSBEISTAND","lines":["Kurt Hirsch"]},
-        {"title":"RECHNUNGSPRÜFER","lines":["Anna Wodynski"]}
+        {"title":"PERSONAL- & BÜROMANAGEMENT","lines":["Rob Alletto"]},
+        {"title":"RECHTSBERATUNG","lines":["Kurt Hirsch"]},
+        {"title":"LEITUNG RECHNUNGSWESEN","lines":["Anna Wodynski"]}
     ],
-        {"title":"BESONDERER DANK","lines":["Brian Chard","Adam Charney","Nolan J. Downs","Ryan Digiorgi","Kyle Fleischer","Tom Gottlieb","Greg Gretsch","Spencer Ham","Mark Turowetz","Owen Watson"]},
+        {"title":"BESONDERER DANK AN","lines":["Brian Chard","Adam Charney","Nolan J. Downs","Ryan Digiorgi","Kyle Fleischer","Tom Gottlieb","Greg Gretsch","Spencer Ham","Mark Turowetz","Owen Watson"]},
         {"title":"GRÜNDER VON JACKBOX GAMES","lines":["Harry Gottlieb"]}
     ]
 }
